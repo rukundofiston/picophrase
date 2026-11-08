@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "zebra_endpage_en.svg",
+        "dest" : "zebra_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "zebra_endpage_fr.svg",
+        "dest" : "zebra_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "zebra-break-background.svg",
+"dest" : "zebra-break-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "zebra-break-main.svg",
+"dest" : "zebra-break-main.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "zebra-break.svg",
+"dest" : "zebra-break.png",
+"width" : 25.651041666666668,
+"height" : 9.5703125
+},
+{
+"src" : "zebra-buy-background.svg",
+"dest" : "zebra-buy-background.png",
+"width" : 100.26041666666667,
+"height" : 100.0
+},
+{
+"src" : "zebra-buy-main.svg",
+"dest" : "zebra-buy-main.png",
+"width" : 91.92708333333334,
+"height" : 45.21484375
+},
+{
+"src" : "zebra-buy.svg",
+"dest" : "zebra-buy.png",
+"width" : 27.473958333333332,
+"height" : 16.69921875
+},
+{
+"src" : "zebra-chair.svg",
+"dest" : "zebra-chair.png",
+"width" : 15.494791666666666,
+"height" : 17.3828125
+},
+{
+"src" : "zebra-cut-background.svg",
+"dest" : "zebra-cut-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "zebra-cut-main.svg",
+"dest" : "zebra-cut-main.png",
+"width" : 100.26041666666667,
+"height" : 78.90625
+},
+{
+"src" : "zebra-cut.svg",
+"dest" : "zebra-cut.png",
+"width" : 22.65625,
+"height" : 14.6484375
+},
+{
+"src" : "zebra-draw-background.svg",
+"dest" : "zebra-draw-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "zebra-draw-main.svg",
+"dest" : "zebra-draw-main.png",
+"width" : 55.208333333333336,
+"height" : 32.12890625
+},
+{
+"src" : "zebra-draw.svg",
+"dest" : "zebra-draw.png",
+"width" : 21.875,
+"height" : 16.40625
+},
+{
+"src" : "zebra-grape.svg",
+"dest" : "zebra-grape.png",
+"width" : 23.828125,
+"height" : 14.2578125
+},
+{
+"src" : "zebra-grass.svg",
+"dest" : "zebra-grass.png",
+"width" : 26.5625,
+"height" : 7.03125
+},
+{
+"src" : "zebra-house.svg",
+"dest" : "zebra-house.png",
+"width" : 24.479166666666664,
+"height" : 12.59765625
+},
+{
+"src" : "zebra-listen-background.svg",
+"dest" : "zebra-listen-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "zebra-listen-main.svg",
+"dest" : "zebra-listen-main.png",
+"width" : 56.640625,
+"height" : 34.375
+},
+{
+"src" : "zebra-listen.svg",
+"dest" : "zebra-listen.png",
+"width" : 19.921875,
+"height" : 17.67578125
+},
+{
+"src" : "zebra-mow-background.svg",
+"dest" : "zebra-mow-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "zebra-mow-main.svg",
+"dest" : "zebra-mow-main.png",
+"width" : 80.33854166666666,
+"height" : 38.76953125
+},
+{
+"src" : "zebra-mow.svg",
+"dest" : "zebra-mow.png",
+"width" : 20.442708333333336,
+"height" : 18.26171875
+},
+{
+"src" : "zebra-music.svg",
+"dest" : "zebra-music.png",
+"width" : 26.432291666666668,
+"height" : 12.890625
+},
+{
+"src" : "zebra-pizza.svg",
+"dest" : "zebra-pizza.png",
+"width" : 23.307291666666664,
+"height" : 17.48046875
+},
+{
+"src" : "zebra-playpage-ui.svg",
+"dest" : "zebra-playpage-ui.png",
+"width" : 102,
+"height" : 100
+},
+{
+"src" : "zebra-shirt.svg",
+"dest" : "zebra-shirt.png",
+"width" : 25.651041666666668,
+"height" : 17.3828125
+},
+{
+"src" : "zebra-strawberry.svg",
+"dest" : "zebra-strawberry.png",
+"width" : 22.005208333333336,
+"height" : 13.28125
+},
+{
+"src" : "zebra-wash-background.svg",
+"dest" : "zebra-wash-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "zebra-wash-main.svg",
+"dest" : "zebra-wash-main.png",
+"width" : 61.458333333333336,
+"height" : 34.375
+},
+{
+"src" : "zebra-wash.svg",
+"dest" : "zebra-wash.png",
+"width" : 22.65625,
+"height" : 14.94140625
+},
+{
+"src" : "zebra-water-background.svg",
+"dest" : "zebra-water-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "zebra-water-main.svg",
+"dest" : "zebra-water-main.png",
+"width" : 65.75520833333334,
+"height" : 36.42578125
+},
+{
+"src" : "zebra-water.svg",
+"dest" : "zebra-water.png",
+"width" : 15.755208333333334,
+"height" : 17.96875
+},
+{
+"src" : "zebra.svg",
+"dest" : "zebra.png",
+"width" : 21.354166666666664,
+"height" : 16.2109375
+},
+{
+"src" : "zebra_playpage_en.svg",
+"dest" : "zebra_playpage_en.png",
+"width" : 102,
+"height" : 100
+}
+]

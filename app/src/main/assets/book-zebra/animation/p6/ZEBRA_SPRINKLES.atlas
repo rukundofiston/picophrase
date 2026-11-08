@@ -1,0 +1,307 @@
+
+ZEBRA_SPRINKLES.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/LEAF
+  rotate: false
+  xy: 873, 215
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+PNG/SBERRY_BACK
+  rotate: false
+  xy: 922, 218
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+PNG/SBERRY_FRONT
+  rotate: false
+  xy: 740, 90
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+PNG/SBERRY_POT
+  rotate: true
+  xy: 910, 365
+  size: 290, 80
+  orig: 290, 80
+  offset: 0, 0
+  index: -1
+PNG/VINE_1
+  rotate: true
+  xy: 625, 211
+  size: 49, 156
+  orig: 49, 156
+  offset: 0, 0
+  index: -1
+PNG/VINE_2
+  rotate: true
+  xy: 518, 160
+  size: 49, 146
+  orig: 49, 146
+  offset: 0, 0
+  index: -1
+PNG/VINE_3
+  rotate: true
+  xy: 666, 151
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+PNG/VINE_4
+  rotate: false
+  xy: 907, 275
+  size: 117, 88
+  orig: 117, 88
+  offset: 0, 0
+  index: -1
+PNG/VINE_5
+  rotate: false
+  xy: 247, 10
+  size: 131, 68
+  orig: 131, 68
+  offset: 0, 0
+  index: -1
+PNG/WATERING_CAN
+  rotate: false
+  xy: 625, 262
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+PNG/WATER_1
+  rotate: false
+  xy: 996, 894
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+PNG/WATER_2
+  rotate: true
+  xy: 996, 914
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+PNG/WATER_3
+  rotate: false
+  xy: 968, 232
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+PNG/WATER_4
+  rotate: true
+  xy: 610, 75
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+PNG/WATER_5A
+  rotate: true
+  xy: 518, 75
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+PNG/WATER_5B
+  rotate: true
+  xy: 783, 191
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_WATERS_BG_1
+  rotate: false
+  xy: 0, 80
+  size: 384, 323
+  orig: 384, 323
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_WATERS_BG_2@2x
+  rotate: false
+  xy: 0, 405
+  size: 769, 619
+  orig: 769, 619
+  offset: 0, 0
+  index: -1
+PNG/Z_ARM
+  rotate: false
+  xy: 0, 9
+  size: 245, 69
+  orig: 245, 69
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_1
+  rotate: false
+  xy: 740, 79
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+PNG/Z_EAR
+  rotate: false
+  xy: 996, 969
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE
+  rotate: false
+  xy: 996, 796
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_1
+  rotate: false
+  xy: 996, 763
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_2
+  rotate: false
+  xy: 996, 730
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_3
+  rotate: false
+  xy: 996, 861
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_4
+  rotate: false
+  xy: 996, 828
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE_CLOSED
+  rotate: true
+  xy: 996, 690
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_HAND
+  rotate: true
+  xy: 873, 172
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+PNG/Z_HEAD
+  rotate: true
+  xy: 769, 278
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+PNG/Z_IRIS
+  rotate: false
+  xy: 759, 166
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+PNG/Z_LEG
+  rotate: false
+  xy: 771, 367
+  size: 137, 288
+  orig: 137, 288
+  offset: 0, 0
+  index: -1
+PNG/Z_MANE
+  rotate: false
+  xy: 386, 211
+  size: 237, 192
+  orig: 237, 192
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_GASP
+  rotate: false
+  xy: 380, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_LAUGH
+  rotate: false
+  xy: 444, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_CLOSED
+  rotate: false
+  xy: 676, 77
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_OPEN
+  rotate: false
+  xy: 636, 1
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_TEETH
+  rotate: false
+  xy: 508, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UHOH
+  rotate: false
+  xy: 572, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UMM
+  rotate: false
+  xy: 700, 3
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_PUPIL
+  rotate: false
+  xy: 769, 264
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+PNG/Z_TAIL
+  rotate: false
+  xy: 386, 81
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+PNG/Z_TONGUE
+  rotate: false
+  xy: 759, 188
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PNG/Z_TORSO
+  rotate: false
+  xy: 771, 657
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1

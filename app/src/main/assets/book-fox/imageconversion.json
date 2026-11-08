@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "fox_endpage_fr.svg",
+        "dest" : "fox_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+    "src" : "fox_endpage_en.svg",
+    "dest" : "fox_endpage_en.png",
+    "width" : 102,
+    "height" : 102
+},
+{
+"src" : "fox-curtains.svg",
+"dest" : "fox-curtains.png",
+"width" : 24.479166666666664,
+"height" : 16.796875
+},
+{
+"src" : "fox-deer.svg",
+"dest" : "fox-deer.png",
+"width" : 19.270833333333336,
+"height" : 19.7265625
+},
+{
+"src" : "fox-dream-background.svg",
+"dest" : "fox-dream-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fox-dream-main.svg",
+"dest" : "fox-dream-main.png",
+"width" : 56.901041666666664,
+"height" : 30.37109375
+},
+{
+"src" : "fox-dream.svg",
+"dest" : "fox-dream.png",
+"width" : 23.828125,
+"height" : 18.1640625
+},
+{
+"src" : "fox-eat-background.svg",
+"dest" : "fox-eat-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fox-eat-main.svg",
+"dest" : "fox-eat-main.png",
+"width" : 100.26041666666667,
+"height" : 66.89453125
+},
+{
+"src" : "fox-eat.svg",
+"dest" : "fox-eat.png",
+"width" : 21.875,
+"height" : 16.30859375
+},
+{
+"src" : "fox-grape.svg",
+"dest" : "fox-grape.png",
+"width" : 22.265625,
+"height" : 14.74609375
+},
+{
+"src" : "fox-look-background.svg",
+"dest" : "fox-look-background.png",
+"width" : 100.390625,
+"height" : 100.1953125
+},
+{
+"src" : "fox-look-main.svg",
+"dest" : "fox-look-main.png",
+"width" : 67.83854166666666,
+"height" : 29.58984375
+},
+{
+"src" : "fox-look.svg",
+"dest" : "fox-look.png",
+"width" : 18.098958333333336,
+"height" : 18.9453125
+},
+{
+"src" : "fox-open-background.svg",
+"dest" : "fox-open-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fox-open-main.svg",
+"dest" : "fox-open-main.png",
+"width" : 56.770833333333336,
+"height" : 33.88671875
+},
+{
+"src" : "fox-open.svg",
+"dest" : "fox-open.png",
+"width" : 20.703125,
+"height" : 17.28515625
+},
+{
+"src" : "fox-paddle-background.svg",
+"dest" : "fox-paddle-background.png",
+"width" : 100.26041666666667,
+"height" : 100.0
+},
+{
+"src" : "fox-paddle-main.svg",
+"dest" : "fox-paddle-main.png",
+"width" : 100.26041666666667,
+"height" : 72.36328125
+},
+{
+"src" : "fox-paddle.svg",
+"dest" : "fox-paddle.png",
+"width" : 26.692708333333332,
+"height" : 20.41015625
+},
+{
+"src" : "fox-pick-background.svg",
+"dest" : "fox-pick-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fox-pick-main.svg",
+"dest" : "fox-pick-main.png",
+"width" : 74.609375,
+"height" : 35.7421875
+},
+{
+"src" : "fox-pick.svg",
+"dest" : "fox-pick.png",
+"width" : 17.96875,
+"height" : 17.96875
+},
+{
+"src" : "fox-playpage-ui.svg",
+"dest" : "fox-playpage-ui.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+},
+{
+"src" : "fox-raccoon.svg",
+"dest" : "fox-raccoon.png",
+"width" : 21.744791666666664,
+"height" : 18.65234375
+},
+{
+"src" : "fox-rake.svg",
+"dest" : "fox-rake.png",
+"width" : 21.875,
+"height" : 19.62890625
+},
+{
+"src" : "fox-repair-background.svg",
+"dest" : "fox-repair-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fox-repair-main.svg",
+"dest" : "fox-repair-main.png",
+"width" : 47.39583333333333,
+"height" : 26.7578125
+},
+{
+"src" : "fox-repair.svg",
+"dest" : "fox-repair.png",
+"width" : 22.395833333333336,
+"height" : 16.2109375
+},
+{
+"src" : "fox-rice.svg",
+"dest" : "fox-rice.png",
+"width" : 22.916666666666664,
+"height" : 8.69140625
+},
+{
+"src" : "fox-robot.svg",
+"dest" : "fox-robot.png",
+"width" : 24.088541666666664,
+"height" : 15.91796875
+},
+{
+"src" : "fox-shark.svg",
+"dest" : "fox-shark.png",
+"width" : 25.130208333333332,
+"height" : 11.1328125
+},
+{
+"src" : "fox-walk-background.svg",
+"dest" : "fox-walk-background.png",
+"width" : 100.390625,
+"height" : 100.1953125
+},
+{
+"src" : "fox-walk-main.svg",
+"dest" : "fox-walk-main.png",
+"width" : 57.291666666666664,
+"height" : 54.98046875
+},
+{
+"src" : "fox-walk.svg",
+"dest" : "fox-walk.png",
+"width" : 22.526041666666664,
+"height" : 18.1640625
+},
+{
+"src" : "fox.svg",
+"dest" : "fox.png",
+"width" : 20.963541666666664,
+"height" : 17.28515625
+},
+{
+"src" : "fox_playpage_en.svg",
+"dest" : "fox_playpage_en.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+}
+]

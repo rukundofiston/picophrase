@@ -1,0 +1,5 @@
+{
+    "shinyDingDelay" : 0.2,
+    "autoChangePageDelay" : 1.0,
+    "pinFailedHideTime" : 1.0
+}

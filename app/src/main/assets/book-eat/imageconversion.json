@@ -1,0 +1,225 @@
+[
+    {
+        "src" : "eat_endpage_en.svg",
+        "dest" : "eat_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "eat_endpage_fr.svg",
+        "dest" : "eat_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "eat-bird.svg",
+"dest" : "eat-bird.png",
+"width" : 24.869791666666664,
+"height" : 18.84765625
+},
+{
+"src" : "eat-mouse.svg",
+"dest" : "eat-mouse.png",
+"width" : 24.348958333333336,
+"height" : 14.94140625
+},
+{
+"src" : "eat-apple.svg",
+"dest" : "eat-apple.png",
+"width" : 17.317708333333336,
+"height" : 13.37890625
+},
+{
+"src" : "eat-banana.svg",
+"dest" : "eat-banana.png",
+"width" : 20.3125,
+"height" : 16.015625
+},
+{
+"src" : "eat-bird-background.svg",
+"dest" : "eat-bird-background.png",
+"width" : 100.13020833333333,
+"height" : 100.0
+},
+{
+"src" : "eat-bird-main.svg",
+"dest" : "eat-bird-main.png",
+"width" : 55.729166666666664,
+"height" : 20.80078125
+},
+{
+"src" : "eat-boy-background.svg",
+"dest" : "eat-boy-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "eat-boy-main.svg",
+"dest" : "eat-boy-main.png",
+"width" : 23.046875,
+"height" : 35.9375
+},
+{
+"src" : "eat-boy.svg",
+"dest" : "eat-boy.png",
+"width" : 13.28125,
+"height" : 17.08984375
+},
+{
+"src" : "eat-carrot.svg",
+"dest" : "eat-carrot.png",
+"width" : 24.088541666666664,
+"height" : 15.72265625
+},
+{
+"src" : "eat-cat-background.svg",
+"dest" : "eat-cat-background.png",
+"width" : 100.0,
+"height" : 100.0
+},
+{
+"src" : "eat-cat-main.svg",
+"dest" : "eat-cat-main.png",
+"width" : 39.97395833333333,
+"height" : 21.97265625
+},
+{
+"src" : "eat-cat.svg",
+"dest" : "eat-cat.png",
+"width" : 18.880208333333336,
+"height" : 19.3359375
+},
+{
+"src" : "eat-cheese.svg",
+"dest" : "eat-cheese.png",
+"width" : 20.3125,
+"height" : 12.890625
+},
+{
+"src" : "eat-fish.svg",
+"dest" : "eat-fish.png",
+"width" : 26.692708333333332,
+"height" : 12.109375
+},
+{
+"src" : "eat-fly.svg",
+"dest" : "eat-fly.png",
+"width" : 21.223958333333336,
+"height" : 15.0390625
+},
+{
+"src" : "eat-frog-background.svg",
+"dest" : "eat-frog-background.png",
+"width" : 100.13020833333333,
+"height" : 100.1953125
+},
+{
+"src" : "eat-frog-main.svg",
+"dest" : "eat-frog-main.png",
+"width" : 54.6875,
+"height" : 21.875
+},
+{
+"src" : "eat-frog.svg",
+"dest" : "eat-frog.png",
+"width" : 23.828125,
+"height" : 13.0859375
+},
+{
+"src" : "eat-horse-background.svg",
+"dest" : "eat-horse-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "eat-horse-main.svg",
+"dest" : "eat-horse-main.png",
+"width" : 59.505208333333336,
+"height" : 30.56640625
+},
+{
+"src" : "eat-horse.svg",
+"dest" : "eat-horse.png",
+"width" : 23.307291666666664,
+"height" : 19.7265625
+},
+{
+"src" : "eat-ice.svg",
+"dest" : "eat-ice.png",
+"width" : 13.020833333333334,
+"height" : 17.28515625
+},
+{
+"src" : "eat-monkey-background.svg",
+"dest" : "eat-monkey-background.png",
+"width" : 100.0,
+"height" : 100.0
+},
+{
+"src" : "eat-monkey-main.svg",
+"dest" : "eat-monkey-main.png",
+"width" : 70.96354166666666,
+"height" : 35.3515625
+},
+{
+"src" : "eat-monkey.svg",
+"dest" : "eat-monkey.png",
+"width" : 16.40625,
+"height" : 19.23828125
+},
+{
+"src" : "eat-mouse-background.svg",
+"dest" : "eat-mouse-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "eat-mouse-main.svg",
+"dest" : "eat-mouse-main.png",
+"width" : 35.67708333333333,
+"height" : 24.70703125
+},
+{
+"src" : "eat-playpage-ui.svg",
+"dest" : "eat-playpage-ui.png",
+"width" : 102.21354166666666,
+"height" : 100.1953125
+},
+{
+"src" : "eat-rabbit-background.svg",
+"dest" : "eat-rabbit-background.png",
+"width" : 100.0,
+"height" : 100.0
+},
+{
+"src" : "eat-rabbit-main.svg",
+"dest" : "eat-rabbit-main.png",
+"width" : 44.921875,
+"height" : 24.4140625
+},
+{
+"src" : "eat-rabbit.svg",
+"dest" : "eat-rabbit.png",
+"width" : 19.53125,
+"height" : 17.87109375
+},
+{
+"src" : "eat-worm.svg",
+"dest" : "eat-worm.png",
+"width" : 19.140625,
+"height" : 14.16015625
+},
+{
+"src" : "eat.svg",
+"dest" : "eat.png",
+"width" : 27.083333333333332,
+"height" : 19.921875
+}
+,
+{
+"src" : "eat_playpage_en.svg",
+"dest" : "eat_playpage_en.png",
+"width" : 102.21354166666666,
+"height" : 100.1953125
+}
+]

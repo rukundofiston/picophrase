@@ -1,0 +1,194 @@
+[
+	{
+        "src" : "whale_endpage_en.svg",
+        "dest" : "whale_endpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_endpage_fr.svg",
+        "dest" : "whale_endpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p1_picto_a.svg",
+        "dest" : "whale_p1_picto_a.png",
+        "width" : 24.6,
+        "height" : 10.2
+    },
+	{
+        "src" : "whale_p1_picto_b.svg",
+        "dest" : "whale_p1_picto_b.png",
+        "width" : 22.6,
+        "height" : 16.7
+    },
+	{
+        "src" : "whale_p1_picto_c.svg",
+        "dest" : "whale_p1_picto_c.png",
+        "width" : 21.2,
+        "height" : 7.7
+    },
+	{
+        "src" : "whale_p1_background.svg",
+        "dest" : "whale_p1_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p2_picto_b.svg",
+        "dest" : "whale_p2_picto_b.png",
+        "width" : 23.1,
+        "height" : 9.8
+    },
+	{
+        "src" : "whale_p2_picto_c.svg",
+        "dest" : "whale_p2_picto_c.png",
+        "width" : 20,
+        "height" : 14.3
+    },
+	{
+        "src" : "whale_p2_background.svg",
+        "dest" : "whale_p2_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p3_picto_b.svg",
+        "dest" : "whale_p3_picto_b.png",
+        "width" : 22.5,
+        "height" : 16.5
+    },
+	{
+        "src" : "whale_p3_picto_c.svg",
+        "dest" : "whale_p3_picto_c.png",
+        "width" : 23.1,
+        "height" : 12.2
+    },
+	{
+        "src" : "whale_p3_background.svg",
+        "dest" : "whale_p3_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p4_picto_b.svg",
+        "dest" : "whale_p4_picto_b.png",
+        "width" : 23,
+        "height" : 15.1
+    },
+	{
+        "src" : "whale_p4_picto_c.svg",
+        "dest" : "whale_p4_picto_c.png",
+        "width" : 22.8,
+        "height" : 14.5
+    },
+	{
+        "src" : "whale_p4_background.svg",
+        "dest" : "whale_p4_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p5_picto_b.svg",
+        "dest" : "whale_p5_picto_b.png",
+        "width" : 22.9,
+        "height" : 14.7
+    },
+	{
+        "src" : "whale_p5_picto_c.svg",
+        "dest" : "whale_p5_picto_c.png",
+        "width" : 20.6,
+        "height" : 9.5
+    },
+	{
+        "src" : "whale_p5_background.svg",
+        "dest" : "whale_p5_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p6_picto_b.svg",
+        "dest" : "whale_p6_picto_b.png",
+        "width" : 20.8,
+        "height" : 18.3
+    },
+	{
+        "src" : "whale_p6_picto_c.svg",
+        "dest" : "whale_p6_picto_c.png",
+        "width" : 17.6,
+        "height" : 13.2
+    },
+	{
+        "src" : "whale_p6_background.svg",
+        "dest" : "whale_p6_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p7_picto_b.svg",
+        "dest" : "whale_p7_picto_b.png",
+        "width" : 19.6,
+        "height" : 16
+    },
+	{
+        "src" : "whale_p7_picto_c.svg",
+        "dest" : "whale_p7_picto_c.png",
+        "width" : 9.6,
+        "height" : 16.4
+    },
+	{
+        "src" : "whale_p7_background.svg",
+        "dest" : "whale_p7_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p8_picto_b.svg",
+        "dest" : "whale_p8_picto_b.png",
+        "width" : 16.3,
+        "height" : 18.2
+    },
+	{
+        "src" : "whale_p8_picto_c.svg",
+        "dest" : "whale_p8_picto_c.png",
+        "width" : 22.1,
+        "height" : 18
+    },
+	{
+        "src" : "whale_p8_background.svg",
+        "dest" : "whale_p8_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_p9_picto_b.svg",
+        "dest" : "whale_p9_picto_b.png",
+        "width" : 18.3,
+        "height" : 18
+    },
+	{
+        "src" : "whale_p9_picto_c.svg",
+        "dest" : "whale_p9_picto_c.png",
+        "width" : 14.5,
+        "height" : 10.9
+    },
+	{
+        "src" : "whale_p9_background.svg",
+        "dest" : "whale_p9_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_playpage_en.svg",
+        "dest" : "whale_playpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "whale_playpage_fr.svg",
+        "dest" : "whale_playpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    }
+]

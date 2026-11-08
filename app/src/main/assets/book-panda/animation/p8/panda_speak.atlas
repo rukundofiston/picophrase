@@ -1,0 +1,167 @@
+
+panda_speak.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM
+  rotate: false
+  xy: 771, 48
+  size: 221, 150
+  orig: 221, 150
+  offset: 0, 0
+  index: -1
+PNG/BIRD_BODY
+  rotate: false
+  xy: 994, 99
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+PNG/BIRD_HEAD
+  rotate: true
+  xy: 1634, 249
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+PNG/BIRD_LEG
+  rotate: false
+  xy: 1158, 200
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+PNG/BIRD_LOWER_BEAK
+  rotate: false
+  xy: 1894, 403
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+PNG/BIRD_L_WING
+  rotate: false
+  xy: 1838, 343
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+PNG/BIRD_PUPIL
+  rotate: false
+  xy: 1703, 311
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+PNG/BIRD_R_WING
+  rotate: false
+  xy: 1075, 108
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+PNG/BIRD_TAIL
+  rotate: true
+  xy: 1490, 253
+  size: 54, 142
+  orig: 54, 142
+  offset: 0, 0
+  index: -1
+PNG/BIRD_UPPER_BEAK
+  rotate: true
+  xy: 57, 0
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 1927, 434
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+PNG/EAR
+  rotate: false
+  xy: 1838, 432
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 1997, 475
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: false
+  xy: 1490, 309
+  size: 211, 203
+  orig: 211, 203
+  offset: 0, 0
+  index: -1
+PNG/LEG
+  rotate: false
+  xy: 1703, 331
+  size: 133, 181
+  orig: 133, 181
+  offset: 0, 0
+  index: -1
+PNG/MOUTH
+  rotate: false
+  xy: 1131, 172
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+PNG/MUZZLE
+  rotate: false
+  xy: 994, 61
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+PNG/NOSE
+  rotate: false
+  xy: 0, 0
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: true
+  xy: 1490, 226
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/TAIL
+  rotate: false
+  xy: 1927, 447
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: true
+  xy: 1158, 225
+  size: 287, 330
+  orig: 287, 330
+  offset: 0, 0
+  index: -1
+PNG/talk_
+  rotate: false
+  xy: 771, 200
+  size: 385, 312
+  orig: 385, 312
+  offset: 0, 0
+  index: -1
+PNG/talk__1@2x
+  rotate: false
+  xy: 0, 41
+  size: 769, 471
+  orig: 769, 471
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+mouse_pour.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM
+  rotate: false
+  xy: 0, 22
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+PNG/BOWL_BG
+  rotate: true
+  xy: 951, 928
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+PNG/BOWL_FG
+  rotate: false
+  xy: 129, 62
+  size: 95, 46
+  orig: 95, 46
+  offset: 0, 0
+  index: -1
+PNG/BOWL_MILK
+  rotate: true
+  xy: 758, 127
+  size: 89, 21
+  orig: 89, 21
+  offset: 0, 0
+  index: -1
+PNG/BOWL_SPLASH_1
+  rotate: false
+  xy: 281, 81
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+PNG/BOWL_SPLASH_2
+  rotate: true
+  xy: 129, 0
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+PNG/BOWL_SPLASH_3
+  rotate: true
+  xy: 793, 296
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+PNG/BOWL_SPLASH_4
+  rotate: false
+  xy: 771, 355
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+PNG/BOWL_SPLASH_5
+  rotate: false
+  xy: 836, 371
+  size: 67, 17
+  orig: 67, 17
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: true
+  xy: 244, 0
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+PNG/CEREAL_1
+  rotate: false
+  xy: 758, 107
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+PNG/CEREAL_2
+  rotate: false
+  xy: 1009, 1009
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+PNG/CEREAL_3
+  rotate: true
+  xy: 781, 198
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+PNG/CEREAL_BOX
+  rotate: false
+  xy: 667, 104
+  size: 89, 112
+  orig: 89, 112
+  offset: 0, 0
+  index: -1
+PNG/Cereal_@2x
+  rotate: false
+  xy: 0, 355
+  size: 769, 669
+  orig: 769, 669
+  offset: 0, 0
+  index: -1
+PNG/Cereal__1
+  rotate: false
+  xy: 0, 110
+  size: 385, 243
+  orig: 385, 243
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 951, 825
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+PNG/EYE_CLOSE
+  rotate: false
+  xy: 212, 0
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+PNG/HAND
+  rotate: false
+  xy: 338, 76
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: true
+  xy: 771, 767
+  size: 257, 178
+  orig: 257, 178
+  offset: 0, 0
+  index: -1
+PNG/L_EAR
+  rotate: true
+  xy: 667, 218
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+PNG/L_FOOT
+  rotate: true
+  xy: 951, 869
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+PNG/L_HAND
+  rotate: false
+  xy: 793, 213
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+PNG/MOUTH SMILE
+  rotate: false
+  xy: 0, 1
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_IDLE
+  rotate: true
+  xy: 951, 771
+  size: 52, 19
+  orig: 52, 19
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O
+  rotate: true
+  xy: 1009, 994
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SIDE
+  rotate: false
+  xy: 212, 37
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SIDE_2
+  rotate: true
+  xy: 793, 249
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 972, 795
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+PNG/R_EAR
+  rotate: false
+  xy: 771, 390
+  size: 153, 123
+  orig: 153, 123
+  offset: 0, 0
+  index: -1
+PNG/R_FOOT
+  rotate: false
+  xy: 226, 62
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+PNG/R_WHISKERS
+  rotate: false
+  xy: 166, 9
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+PNG/TAIL
+  rotate: false
+  xy: 771, 515
+  size: 168, 250
+  orig: 168, 250
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: true
+  xy: 387, 97
+  size: 256, 278
+  orig: 256, 278
+  offset: 0, 0
+  index: -1

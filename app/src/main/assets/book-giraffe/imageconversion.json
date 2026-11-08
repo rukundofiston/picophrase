@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "giraffe_endpage_en.svg",
+        "dest" : "giraffe_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "giraffe_endpage_fr.svg",
+        "dest" : "giraffe_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "giraffe-button-background.svg",
+"dest" : "giraffe-button-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "giraffe-button-main.svg",
+"dest" : "giraffe-button-main.png",
+"width" : 23.567708333333336,
+"height" : 37.890625
+},
+{
+"src" : "giraffe-button.svg",
+"dest" : "giraffe-button.png",
+"width" : 19.53125,
+"height" : 13.96484375
+},
+{
+"src" : "giraffe-cheeks.svg",
+"dest" : "giraffe-cheeks.png",
+"width" : 25.520833333333332,
+"height" : 12.5
+},
+{
+"src" : "giraffe-drink-background.svg",
+"dest" : "giraffe-drink-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "giraffe-drink-main.svg",
+"dest" : "giraffe-drink-main.png",
+"width" : 31.770833333333332,
+"height" : 33.59375
+},
+{
+"src" : "giraffe-drink.svg",
+"dest" : "giraffe-drink.png",
+"width" : 13.671875,
+"height" : 19.82421875
+},
+{
+"src" : "giraffe-eat-background.svg",
+"dest" : "giraffe-eat-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "giraffe-eat-main.svg",
+"dest" : "giraffe-eat-main.png",
+"width" : 100.26041666666667,
+"height" : 69.3359375
+},
+{
+"src" : "giraffe-eat.svg",
+"dest" : "giraffe-eat.png",
+"width" : 24.21875,
+"height" : 17.96875
+},
+{
+"src" : "giraffe-fall-background.svg",
+"dest" : "giraffe-fall-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "giraffe-fall-main.svg",
+"dest" : "giraffe-fall-main.png",
+"width" : 36.71875,
+"height" : 38.18359375
+},
+{
+"src" : "giraffe-fall.svg",
+"dest" : "giraffe-fall.png",
+"width" : 21.614583333333336,
+"height" : 16.796875
+},
+{
+"src" : "giraffe-garden.svg",
+"dest" : "giraffe-garden.png",
+"width" : 26.171875,
+"height" : 9.5703125
+},
+{
+"src" : "giraffe-ham.svg",
+"dest" : "giraffe-ham.png",
+"width" : 21.744791666666664,
+"height" : 11.9140625
+},
+{
+"src" : "giraffe-juice.svg",
+"dest" : "giraffe-juice.png",
+"width" : 13.020833333333334,
+"height" : 20.41015625
+},
+{
+"src" : "giraffe-knees.svg",
+"dest" : "giraffe-knees.png",
+"width" : 15.625,
+"height" : 18.359375
+},
+{
+"src" : "giraffe-makeup-background.svg",
+"dest" : "giraffe-makeup-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "giraffe-makeup-main.svg",
+"dest" : "giraffe-makeup-main.png",
+"width" : 76.04166666666666,
+"height" : 72.65625
+},
+{
+"src" : "giraffe-makeup.svg",
+"dest" : "giraffe-makeup.png",
+"width" : 19.53125,
+"height" : 16.69921875
+},
+{
+"src" : "giraffe-newspaper.svg",
+"dest" : "giraffe-newspaper.png",
+"width" : 22.265625,
+"height" : 15.52734375
+},
+{
+"src" : "giraffe-playpage-ui.svg",
+"dest" : "giraffe-playpage-ui.png",
+"width" : 102,
+"height" : 102
+},
+{
+"src" : "giraffe-skirt.svg",
+"dest" : "giraffe-skirt.png",
+"width" : 18.489583333333336,
+"height" : 13.671875
+},
+{
+"src" : "giraffe-store-background.svg",
+"dest" : "giraffe-store-background.png",
+"width" : 100.52083333333333,
+"height" : 100.1953125
+},
+{
+"src" : "giraffe-store-main.svg",
+"dest" : "giraffe-store-main.png",
+"width" : 89.19270833333334,
+"height" : 40.13671875
+},
+{
+"src" : "giraffe-store.svg",
+"dest" : "giraffe-store.png",
+"width" : 21.875,
+"height" : 15.625
+},
+{
+"src" : "giraffe-throw-background.svg",
+"dest" : "giraffe-throw-background.png",
+"width" : 100.390625,
+"height" : 100.09765625
+},
+{
+"src" : "giraffe-throw-main.svg",
+"dest" : "giraffe-throw-main.png",
+"width" : 66.53645833333334,
+"height" : 31.34765625
+},
+{
+"src" : "giraffe-throw.svg",
+"dest" : "giraffe-throw.png",
+"width" : 21.484375,
+"height" : 19.3359375
+},
+{
+"src" : "giraffe-toy.svg",
+"dest" : "giraffe-toy.png",
+"width" : 23.4375,
+"height" : 14.6484375
+},
+{
+"src" : "giraffe-water-background.svg",
+"dest" : "giraffe-water-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "giraffe-water-main.svg",
+"dest" : "giraffe-water-main.png",
+"width" : 47.65625,
+"height" : 36.328125
+},
+{
+"src" : "giraffe-water.svg",
+"dest" : "giraffe-water.png",
+"width" : 14.453125,
+"height" : 16.9921875
+},
+{
+"src" : "giraffe.svg",
+"dest" : "giraffe.png",
+"width" : 13.151041666666666,
+"height" : 20.1171875
+},
+{
+"src" : "giraffe_playpage_en.svg",
+"dest" : "giraffe_playpage_en.png",
+"width" : 102,
+"height" : 102
+}
+]

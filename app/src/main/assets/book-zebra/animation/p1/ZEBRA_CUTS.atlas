@@ -1,0 +1,321 @@
+
+ZEBRA_CUTS.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/CHEF_HAT
+  rotate: false
+  xy: 938, 680
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+PNG/CLOTH
+  rotate: true
+  xy: 338, 442
+  size: 180, 244
+  orig: 180, 244
+  offset: 0, 0
+  index: -1
+PNG/CUCUMBER
+  rotate: false
+  xy: 386, 624
+  size: 247, 157
+  orig: 247, 157
+  offset: 0, 0
+  index: -1
+PNG/CUTTER_1
+  rotate: false
+  xy: 584, 444
+  size: 30, 178
+  orig: 30, 178
+  offset: 0, 0
+  index: -1
+PNG/CUTTER_2
+  rotate: false
+  xy: 748, 530
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+PNG/PIZZA_CUT
+  rotate: false
+  xy: 0, 388
+  size: 336, 330
+  orig: 336, 330
+  offset: 0, 0
+  index: -1
+PNG/PIZZA_CUT_HALF
+  rotate: false
+  xy: 0, 64
+  size: 330, 322
+  orig: 330, 322
+  offset: 0, 0
+  index: -1
+PNG/PIZZA_WHOLE
+  rotate: false
+  xy: 1142, 702
+  size: 321, 319
+  orig: 321, 319
+  offset: 0, 0
+  index: -1
+PNG/PLATE
+  rotate: false
+  xy: 1465, 840
+  size: 358, 181
+  orig: 358, 181
+  offset: 0, 0
+  index: -1
+PNG/SLICE_B
+  rotate: false
+  xy: 635, 616
+  size: 155, 165
+  orig: 155, 165
+  offset: 0, 0
+  index: -1
+PNG/SLICE_BREAD
+  rotate: false
+  xy: 332, 196
+  size: 161, 173
+  orig: 161, 173
+  offset: 0, 0
+  index: -1
+PNG/SLICE_FILL
+  rotate: true
+  xy: 332, 50
+  size: 144, 156
+  orig: 144, 156
+  offset: 0, 0
+  index: -1
+PNG/SLICE_FILL_BACK
+  rotate: false
+  xy: 792, 640
+  size: 144, 156
+  orig: 144, 156
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_CUTS_BG_1
+  rotate: false
+  xy: 0, 720
+  size: 384, 301
+  orig: 384, 301
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_CUTS_BG_2
+  rotate: false
+  xy: 386, 783
+  size: 385, 238
+  orig: 385, 238
+  offset: 0, 0
+  index: -1
+PNG/Z_ARM
+  rotate: false
+  xy: 338, 371
+  size: 245, 69
+  orig: 245, 69
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_1
+  rotate: false
+  xy: 773, 787
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_2
+  rotate: false
+  xy: 2019, 958
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+PNG/Z_EAR
+  rotate: false
+  xy: 2019, 966
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE
+  rotate: false
+  xy: 495, 201
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_1
+  rotate: false
+  xy: 616, 453
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_2
+  rotate: false
+  xy: 748, 497
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_3
+  rotate: true
+  xy: 299, 36
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_4
+  rotate: false
+  xy: 938, 647
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_1
+  rotate: true
+  xy: 827, 616
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_2
+  rotate: true
+  xy: 815, 616
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_3
+  rotate: false
+  xy: 1883, 768
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_4
+  rotate: false
+  xy: 1819, 692
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE_CLOSED
+  rotate: false
+  xy: 1102, 780
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_HAND
+  rotate: false
+  xy: 338, 669
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+PNG/Z_HEAD
+  rotate: false
+  xy: 495, 233
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+PNG/Z_IRIS
+  rotate: false
+  xy: 338, 647
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+PNG/Z_LEG
+  rotate: true
+  xy: 1465, 701
+  size: 137, 288
+  orig: 137, 288
+  offset: 0, 0
+  index: -1
+PNG/Z_MANE
+  rotate: true
+  xy: 1825, 784
+  size: 237, 192
+  orig: 237, 192
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_GASP
+  rotate: false
+  xy: 1755, 765
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_LAUGH
+  rotate: true
+  xy: 0, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_CLOSED
+  rotate: true
+  xy: 225, 0
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_OPEN
+  rotate: false
+  xy: 1755, 691
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_TEETH
+  rotate: true
+  xy: 75, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UHOH
+  rotate: true
+  xy: 150, 0
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UMM
+  rotate: false
+  xy: 1819, 710
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_PUPIL
+  rotate: false
+  xy: 1102, 766
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+PNG/Z_TAIL
+  rotate: false
+  xy: 616, 486
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+PNG/Z_TONGUE
+  rotate: true
+  xy: 792, 616
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PNG/Z_TORSO
+  rotate: true
+  xy: 773, 798
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1

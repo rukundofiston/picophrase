@@ -1,0 +1,258 @@
+
+fox_walks.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ANT_1
+  rotate: false
+  xy: 307, 95
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+PNG/ANT_2
+  rotate: true
+  xy: 122, 0
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+PNG/FOX_ARM
+  rotate: false
+  xy: 1208, 390
+  size: 180, 34
+  orig: 180, 34
+  offset: 0, 0
+  index: -1
+PNG/FOX_BROW
+  rotate: false
+  xy: 1256, 226
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+PNG/FOX_EAR
+  rotate: false
+  xy: 1208, 223
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE
+  rotate: true
+  xy: 1047, 40
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE_CLOSED_1
+  rotate: false
+  xy: 1299, 271
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE_CLOSED_2
+  rotate: true
+  xy: 2025, 599
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+PNG/FOX_HEAD
+  rotate: false
+  xy: 1047, 73
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+PNG/FOX_IRIS
+  rotate: false
+  xy: 1184, 180
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+PNG/FOX_LEG
+  rotate: true
+  xy: 0, 39
+  size: 81, 163
+  orig: 81, 163
+  offset: 0, 0
+  index: -1
+PNG/FOX_L_FIST
+  rotate: false
+  xy: 1879, 464
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_SMILE
+  rotate: false
+  xy: 1821, 448
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_UHOH
+  rotate: true
+  xy: 1256, 244
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+PNG/FOX_NOSE
+  rotate: false
+  xy: 1432, 428
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+PNG/FOX_PUPIL
+  rotate: false
+  xy: 2035, 669
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+PNG/FOX_R_HAND
+  rotate: true
+  xy: 165, 39
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+PNG/FOX_TAIL
+  rotate: true
+  xy: 1715, 496
+  size: 135, 221
+  orig: 135, 221
+  offset: 0, 0
+  index: -1
+PNG/FOX_TORSO
+  rotate: false
+  xy: 1047, 209
+  size: 159, 215
+  orig: 159, 215
+  offset: 0, 0
+  index: -1
+PNG/FOX_WALK_
+  rotate: true
+  xy: 659, 39
+  size: 385, 386
+  orig: 385, 386
+  offset: 0, 0
+  index: -1
+PNG/FOX_WALK__1@2x
+  rotate: false
+  xy: 1432, 448
+  size: 281, 183
+  orig: 281, 183
+  offset: 0, 0
+  index: -1
+PNG/FOX_WALK__2@2x
+  rotate: false
+  xy: 659, 426
+  size: 771, 598
+  orig: 771, 598
+  offset: 0, 0
+  index: -1
+PNG/RACK_FORK
+  rotate: false
+  xy: 0, 5
+  size: 120, 32
+  orig: 120, 32
+  offset: 0, 0
+  index: -1
+PNG/RACK_STICK
+  rotate: false
+  xy: 2035, 688
+  size: 13, 336
+  orig: 13, 336
+  offset: 0, 0
+  index: -1
+PNG/SCARF
+  rotate: false
+  xy: 165, 68
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+PNG/SCARF_L
+  rotate: true
+  xy: 1715, 448
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+PNG/SCARF_R
+  rotate: false
+  xy: 1299, 301
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+PNG/SQ_ARM
+  rotate: false
+  xy: 1390, 396
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+PNG/SQ_EYE
+  rotate: true
+  xy: 1938, 496
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+PNG/SQ_EYE_CLOSED
+  rotate: false
+  xy: 1208, 210
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+PNG/SQ_HEAD
+  rotate: false
+  xy: 248, 65
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+PNG/SQ_PUPIL
+  rotate: false
+  xy: 148, 26
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+PNG/SQ_TAIL
+  rotate: false
+  xy: 1938, 520
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+PNG/SQ_TORSO
+  rotate: false
+  xy: 1208, 292
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+PNG/TREE_FG
+  rotate: true
+  xy: 1432, 633
+  size: 391, 601
+  orig: 391, 601
+  offset: 0, 0
+  index: -1
+PNG/TREE_LEAVES
+  rotate: false
+  xy: 0, 122
+  size: 657, 902
+  orig: 657, 902
+  offset: 0, 0
+  index: -1

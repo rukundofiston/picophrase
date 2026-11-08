@@ -1,0 +1,562 @@
+
+turtle_waters.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/CAP@2x
+  rotate: false
+  xy: 1412, 1452
+  size: 295, 194
+  orig: 295, 194
+  offset: 0, 0
+  index: -1
+PNG/DROP@2x
+  rotate: true
+  xy: 1243, 1894
+  size: 39, 69
+  orig: 40, 69
+  offset: 1, 0
+  index: -1
+PNG/DROP_SPLASH_1@2x
+  rotate: false
+  xy: 290, 1838
+  size: 161, 63
+  orig: 161, 63
+  offset: 0, 0
+  index: -1
+PNG/DROP_SPLASH_2@2x
+  rotate: false
+  xy: 529, 1823
+  size: 199, 73
+  orig: 200, 73
+  offset: 1, 0
+  index: -1
+PNG/DROP_SPLASH_3@2x
+  rotate: false
+  xy: 515, 1713
+  size: 253, 107
+  orig: 253, 107
+  offset: 0, 0
+  index: -1
+PNG/DROP_SPLASH_4@2x
+  rotate: false
+  xy: 401, 1569
+  size: 312, 142
+  orig: 312, 142
+  offset: 0, 0
+  index: -1
+PNG/GRIP
+  rotate: true
+  xy: 1876, 1880
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+PNG/HEAD@2x
+  rotate: true
+  xy: 0, 178
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HEAD_B@2x
+  rotate: true
+  xy: 1396, 91
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HEAD_UH_OH@2x
+  rotate: true
+  xy: 466, 0
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/INNER_MOUTH@2x
+  rotate: true
+  xy: 1812, 1606
+  size: 147, 166
+  orig: 147, 166
+  offset: 0, 0
+  index: -1
+PNG/LEAF_1
+  rotate: false
+  xy: 32, 1916
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+PNG/LEAF_2
+  rotate: true
+  xy: 0, 1917
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+PNG/LEAF_3
+  rotate: false
+  xy: 63, 1914
+  size: 30, 19
+  orig: 31, 19
+  offset: 1, 0
+  index: -1
+PNG/LETTUCE_LEFT
+  rotate: true
+  xy: 810, 1815
+  size: 78, 139
+  orig: 78, 139
+  offset: 0, 0
+  index: -1
+PNG/LETTUCE_MID
+  rotate: true
+  xy: 1117, 1671
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+PNG/LETTUCE_RIGHT
+  rotate: true
+  xy: 981, 1681
+  size: 120, 134
+  orig: 120, 134
+  offset: 0, 0
+  index: -1
+PNG/LETTUCE_SHADOW
+  rotate: false
+  xy: 0, 1845
+  size: 139, 61
+  orig: 139, 61
+  offset: 0, 0
+  index: -1
+PNG/L_ARM@2x
+  rotate: false
+  xy: 0, 1395
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_B@2x
+  rotate: false
+  xy: 1048, 1278
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_THUMB_FG@2x
+  rotate: false
+  xy: 0, 1221
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_BROW@2x
+  rotate: false
+  xy: 277, 1903
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+PNG/L_EYE@2x
+  rotate: true
+  xy: 1069, 1803
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_1@2x
+  rotate: false
+  xy: 95, 1908
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_2@2x
+  rotate: false
+  xy: 186, 1905
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+PNG/L_IRIS@2x
+  rotate: true
+  xy: 453, 1832
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+PNG/L_LEG@2x
+  rotate: true
+  xy: 296, 869
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS@2x
+  rotate: true
+  xy: 727, 776
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS_FG@2x
+  rotate: true
+  xy: 1158, 669
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_PUPIL@2x
+  rotate: true
+  xy: 1649, 1885
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+PNG/OVERALL_LEG@2x
+  rotate: true
+  xy: 1064, 1475
+  size: 192, 346
+  orig: 192, 346
+  offset: 0, 0
+  index: -1
+PNG/RIZAL@2x
+  rotate: false
+  xy: 0, 1591
+  size: 399, 133
+  orig: 416, 133
+  offset: 7, 0
+  index: -1
+PNG/TEETH@2x
+  rotate: false
+  xy: 141, 1839
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+PNG/TOMATO
+  rotate: false
+  xy: 1704, 1881
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+PNG/TOMATO_GREEN
+  rotate: false
+  xy: 1762, 1881
+  size: 55, 52
+  orig: 56, 52
+  offset: 1, 0
+  index: -1
+PNG/TOMATO_ORANGE
+  rotate: false
+  xy: 1819, 1881
+  size: 55, 52
+  orig: 56, 52
+  offset: 1, 0
+  index: -1
+PNG/TONGUE@2x
+  rotate: true
+  xy: 951, 1815
+  size: 78, 116
+  orig: 98, 116
+  offset: 8, 0
+  index: -1
+PNG/TONGUE_2@2x
+  rotate: false
+  xy: 730, 1822
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_B@2x
+  rotate: false
+  xy: 1949, 1869
+  size: 75, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+PNG/TREE_1
+  rotate: true
+  xy: 573, 1898
+  size: 35, 333
+  orig: 35, 333
+  offset: 0, 0
+  index: -1
+PNG/TREE_2
+  rotate: true
+  xy: 908, 1895
+  size: 38, 333
+  orig: 38, 333
+  offset: 0, 0
+  index: -1
+PNG/TREE_3
+  rotate: true
+  xy: 1314, 1890
+  size: 43, 333
+  orig: 44, 333
+  offset: 1, 0
+  index: -1
+PNG/TREE_4
+  rotate: true
+  xy: 1183, 1801
+  size: 87, 347
+  orig: 87, 347
+  offset: 0, 0
+  index: -1
+PNG/TREE_5
+  rotate: true
+  xy: 1463, 1648
+  size: 132, 347
+  orig: 132, 347
+  offset: 0, 0
+  index: -1
+PNG/TREE_6
+  rotate: true
+  xy: 715, 1535
+  size: 144, 347
+  orig: 144, 347
+  offset: 0, 0
+  index: -1
+PNG/WATER_13@2x
+  rotate: false
+  xy: 205, 1726
+  size: 308, 104
+  orig: 309, 104
+  offset: 0, 0
+  index: -1
+PNG/WATER_14@2x
+  rotate: false
+  xy: 1532, 1782
+  size: 325, 97
+  orig: 325, 97
+  offset: 0, 0
+  index: -1
+PNG/WATER_1@2x
+  rotate: false
+  xy: 770, 1701
+  size: 209, 112
+  orig: 209, 112
+  offset: 0, 0
+  index: -1
+PNG/WATER_2@2x
+  rotate: true
+  xy: 1709, 1406
+  size: 198, 283
+  orig: 198, 283
+  offset: 0, 0
+  index: -1
+PNG/WATER_3@2x
+  rotate: false
+  xy: 1100, 1049
+  size: 297, 227
+  orig: 297, 227
+  offset: 0, 0
+  index: -1
+PNG/WATER_4@2x
+  rotate: false
+  xy: 1589, 480
+  size: 380, 460
+  orig: 380, 460
+  offset: 0, 0
+  index: -1
+PNG/WORM@2x
+  rotate: false
+  xy: 1610, 1206
+  size: 302, 198
+  orig: 302, 198
+  offset: 0, 0
+  index: -1
+PNG/WORM_SHADOW@2x
+  rotate: false
+  xy: 351, 1903
+  size: 220, 30
+  orig: 220, 30
+  offset: 0, 0
+  index: -1
+PNG/WORM_WET@2x
+  rotate: false
+  xy: 562, 1142
+  size: 302, 198
+  orig: 302, 198
+  offset: 0, 0
+  index: -1
+PNG/bush
+  rotate: false
+  xy: 592, 389
+  size: 802, 278
+  orig: 803, 278
+  offset: 0, 0
+  index: -1
+PNG/carrot
+  rotate: false
+  xy: 0, 1736
+  size: 203, 101
+  orig: 204, 101
+  offset: 1, 0
+  index: -1
+PNG/fork
+  rotate: false
+  xy: 562, 1342
+  size: 484, 191
+  orig: 484, 191
+  offset: 0, 0
+  index: -1
+PNG/pumpkin
+  rotate: false
+  xy: 866, 1076
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+PNG/spiderweb
+  rotate: false
+  xy: 1859, 1755
+  size: 127, 112
+  orig: 128, 112
+  offset: 1, 0
+  index: -1
+PNG/sunflower
+  rotate: true
+  xy: 1264, 1669
+  size: 130, 197
+  orig: 130, 197
+  offset: 0, 0
+  index: -1
+PNG/tree leaves
+  rotate: false
+  xy: 0, 567
+  size: 590, 300
+  orig: 591, 300
+  offset: 1, 0
+  index: -1
+PNG/tree trunk
+  rotate: true
+  xy: 1399, 942
+  size: 262, 382
+  orig: 263, 382
+  offset: 1, 0
+  index: -1
+PNG/wheelbarrow
+  rotate: false
+  xy: 0, 980
+  size: 294, 239
+  orig: 295, 239
+  offset: 0, 0
+  index: -1
+
+turtle_waters2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/OVERALL_1@2x
+  rotate: true
+  xy: 1230, 1202
+  size: 556, 575
+  orig: 556, 575
+  offset: 0, 0
+  index: -1
+PNG/SKY
+  rotate: false
+  xy: 0, 671
+  size: 1552, 529
+  orig: 1552, 529
+  offset: 0, 0
+  index: -1
+PNG/TORSO@2x
+  rotate: true
+  xy: 0, 30
+  size: 639, 724
+  orig: 639, 724
+  offset: 0, 0
+  index: -1
+PNG/WATER_11@2x
+  rotate: true
+  xy: 726, 0
+  size: 669, 708
+  orig: 669, 708
+  offset: 0, 0
+  index: -1
+PNG/WATER_12@2x
+  rotate: true
+  xy: 0, 1320
+  size: 438, 647
+  orig: 438, 647
+  offset: 0, 0
+  index: -1
+PNG/WATER_5@2x
+  rotate: true
+  xy: 649, 1268
+  size: 490, 579
+  orig: 490, 579
+  offset: 0, 0
+  index: -1
+
+turtle_waters3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/field
+  rotate: false
+  xy: 0, 0
+  size: 1552, 1614
+  orig: 1552, 1614
+  offset: 0, 0
+  index: -1
+
+turtle_waters4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/HOSE@2x
+  rotate: false
+  xy: 0, 777
+  size: 1750, 660
+  orig: 1750, 660
+  offset: 0, 0
+  index: -1
+PNG/WATER_6@2x
+  rotate: false
+  xy: 0, 88
+  size: 886, 687
+  orig: 886, 687
+  offset: 0, 0
+  index: -1
+PNG/WATER_7@2x
+  rotate: false
+  xy: 888, 0
+  size: 1030, 775
+  orig: 1030, 775
+  offset: 0, 0
+  index: -1
+
+turtle_waters5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/WATER_10@2x
+  rotate: true
+  xy: 1050, 40
+  size: 985, 833
+  orig: 985, 833
+  offset: 0, 0
+  index: -1
+PNG/WATER_8@2x
+  rotate: false
+  xy: 0, 1027
+  size: 1049, 1010
+  orig: 1050, 1010
+  offset: 1, 0
+  index: -1
+PNG/WATER_9@2x
+  rotate: false
+  xy: 0, 0
+  size: 1048, 1025
+  orig: 1048, 1025
+  offset: 0, 0
+  index: -1

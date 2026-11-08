@@ -1,0 +1,293 @@
+
+rabbit_catches.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/DRAGONFLY_TORSO
+  rotate: false
+  xy: 754, 38
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+PNG/DRAGONFLY_WING
+  rotate: false
+  xy: 1335, 370
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PNG/LADYBUG_HEAD
+  rotate: true
+  xy: 2027, 997
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+PNG/LADYBUG_LEG
+  rotate: true
+  xy: 754, 275
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+PNG/LADYBUG_TORSO
+  rotate: false
+  xy: 884, 99
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+PNG/LIZARD_HEAD
+  rotate: false
+  xy: 1443, 399
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+PNG/LIZARD_R_ARM
+  rotate: false
+  xy: 1087, 304
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+PNG/LIZARD_TORSO
+  rotate: true
+  xy: 1542, 424
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+PNG/NET_BG
+  rotate: false
+  xy: 1542, 555
+  size: 192, 253
+  orig: 192, 253
+  offset: 0, 0
+  index: -1
+PNG/NET_FG
+  rotate: false
+  xy: 560, 36
+  size: 192, 253
+  orig: 192, 253
+  offset: 0, 0
+  index: -1
+PNG/NET_ROD
+  rotate: false
+  xy: 0, 20
+  size: 315, 13
+  orig: 315, 13
+  offset: 0, 0
+  index: -1
+PNG/RAB_BROW
+  rotate: false
+  xy: 0, 4
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+PNG/RAB_EAR
+  rotate: false
+  xy: 754, 93
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE
+  rotate: true
+  xy: 440, 5
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE_CLOSED
+  rotate: false
+  xy: 1860, 814
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/RAB_HEAD
+  rotate: true
+  xy: 771, 239
+  size: 191, 204
+  orig: 191, 204
+  offset: 0, 0
+  index: -1
+PNG/RAB_IRIS
+  rotate: false
+  xy: 502, 8
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+PNG/RAB_LEG
+  rotate: true
+  xy: 1860, 832
+  size: 192, 165
+  orig: 192, 165
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_ARM
+  rotate: false
+  xy: 1736, 591
+  size: 97, 217
+  orig: 97, 217
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_1
+  rotate: false
+  xy: 322, 0
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_2
+  rotate: false
+  xy: 1041, 274
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_3
+  rotate: true
+  xy: 382, 0
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_1
+  rotate: false
+  xy: 884, 48
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_2
+  rotate: false
+  xy: 977, 261
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_OW
+  rotate: true
+  xy: 1087, 278
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_WOW
+  rotate: true
+  xy: 1335, 328
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_UPPER_FRONT
+  rotate: true
+  xy: 1692, 455
+  size: 98, 28
+  orig: 98, 28
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_UPPER_FRONT_SAD
+  rotate: false
+  xy: 1736, 556
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+PNG/RAB_MUZZLE
+  rotate: false
+  xy: 977, 335
+  size: 208, 95
+  orig: 208, 95
+  offset: 0, 0
+  index: -1
+PNG/RAB_NOSE
+  rotate: false
+  xy: 1692, 430
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+PNG/RAB_PUPIL
+  rotate: false
+  xy: 1835, 778
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+PNG/RAB_R_PAW
+  rotate: false
+  xy: 1389, 381
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_TAIL
+  rotate: false
+  xy: 884, 148
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+PNG/RAB_TEETH
+  rotate: true
+  xy: 1133, 304
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+PNG/RAB_TONGUE
+  rotate: true
+  xy: 1480, 404
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO
+  rotate: true
+  xy: 0, 35
+  size: 254, 320
+  orig: 254, 320
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO_2
+  rotate: false
+  xy: 322, 53
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+PNG/ROCK_1
+  rotate: false
+  xy: 1542, 810
+  size: 316, 214
+  orig: 316, 214
+  offset: 0, 0
+  index: -1
+PNG/ROCK_2
+  rotate: false
+  xy: 1187, 327
+  size: 146, 103
+  orig: 146, 103
+  offset: 0, 0
+  index: -1
+PNG/catch_@2x
+  rotate: false
+  xy: 771, 432
+  size: 769, 592
+  orig: 769, 592
+  offset: 0, 0
+  index: -1
+PNG/catch__1@2x
+  rotate: false
+  xy: 0, 291
+  size: 769, 733
+  orig: 769, 733
+  offset: 0, 0
+  index: -1

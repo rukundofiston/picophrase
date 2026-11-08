@@ -1,0 +1,265 @@
+
+duck_slices.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BROW
+  rotate: true
+  xy: 364, 204
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+PNG/CARROT_1
+  rotate: false
+  xy: 1247, 913
+  size: 263, 111
+  orig: 263, 111
+  offset: 0, 0
+  index: -1
+PNG/CARROT_2
+  rotate: false
+  xy: 1512, 913
+  size: 263, 111
+  orig: 263, 111
+  offset: 0, 0
+  index: -1
+PNG/CARROT_3
+  rotate: false
+  xy: 1777, 914
+  size: 257, 110
+  orig: 257, 110
+  offset: 0, 0
+  index: -1
+PNG/CARROT_4
+  rotate: true
+  xy: 1058, 502
+  size: 248, 109
+  orig: 248, 109
+  offset: 0, 0
+  index: -1
+PNG/CARROT_5
+  rotate: false
+  xy: 1247, 804
+  size: 234, 107
+  orig: 234, 107
+  offset: 0, 0
+  index: -1
+PNG/CARROT_6
+  rotate: false
+  xy: 1483, 807
+  size: 218, 104
+  orig: 218, 104
+  offset: 0, 0
+  index: -1
+PNG/CARROT_7
+  rotate: true
+  xy: 1169, 554
+  size: 196, 98
+  orig: 196, 98
+  offset: 0, 0
+  index: -1
+PNG/CARROT_8
+  rotate: false
+  xy: 1269, 704
+  size: 176, 98
+  orig: 176, 98
+  offset: 0, 0
+  index: -1
+PNG/CARROT_9
+  rotate: false
+  xy: 1269, 604
+  size: 163, 98
+  orig: 163, 98
+  offset: 0, 0
+  index: -1
+PNG/CUTTING_BOARD
+  rotate: false
+  xy: 771, 854
+  size: 474, 170
+  orig: 474, 170
+  offset: 0, 0
+  index: -1
+PNG/DUCK_EYE
+  rotate: false
+  xy: 1269, 557
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+PNG/DUCK_EYE_CLOSED
+  rotate: false
+  xy: 1193, 794
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HAIR_SIDE
+  rotate: true
+  xy: 0, 0
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HAIR_TOP
+  rotate: false
+  xy: 817, 336
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HEAD
+  rotate: false
+  xy: 817, 377
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+PNG/DUCK_IRIS
+  rotate: false
+  xy: 1447, 771
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+PNG/DUCK_LEG
+  rotate: true
+  xy: 1043, 392
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+PNG/DUCK_LOWER_BEAK
+  rotate: true
+  xy: 1703, 801
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+PNG/DUCK_PUPIL
+  rotate: false
+  xy: 387, 214
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+PNG/DUCK_R_ARM
+  rotate: false
+  xy: 771, 529
+  size: 285, 221
+  orig: 285, 221
+  offset: 0, 0
+  index: -1
+PNG/DUCK_R_THUMB
+  rotate: false
+  xy: 0, 28
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+PNG/DUCK_SLICE_BG_1
+  rotate: false
+  xy: 0, 233
+  size: 385, 325
+  orig: 385, 325
+  offset: 0, 0
+  index: -1
+PNG/DUCK_SLICE_BG_2@2x
+  rotate: false
+  xy: 0, 560
+  size: 769, 464
+  orig: 769, 464
+  offset: 0, 0
+  index: -1
+PNG/DUCK_SLICE_BG_5@2x
+  rotate: false
+  xy: 771, 752
+  size: 420, 100
+  orig: 420, 100
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TAIL
+  rotate: false
+  xy: 1777, 812
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TONGUE
+  rotate: false
+  xy: 1873, 874
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TORSO
+  rotate: true
+  xy: 387, 278
+  size: 280, 328
+  orig: 280, 328
+  offset: 0, 0
+  index: -1
+PNG/DUCK_UPPER_BEAK
+  rotate: true
+  xy: 965, 388
+  size: 139, 76
+  orig: 139, 76
+  offset: 0, 0
+  index: -1
+PNG/FRUIT_VEGGIES
+  rotate: false
+  xy: 0, 72
+  size: 362, 159
+  orig: 362, 159
+  offset: 0, 0
+  index: -1
+PNG/JAM
+  rotate: false
+  xy: 717, 327
+  size: 98, 200
+  orig: 98, 200
+  offset: 0, 0
+  index: -1
+PNG/KNIFE
+  rotate: false
+  xy: 387, 235
+  size: 243, 41
+  orig: 243, 41
+  offset: 0, 0
+  index: -1
+PNG/SLICE_1
+  rotate: true
+  xy: 1244, 775
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+PNG/SLICE_2
+  rotate: false
+  xy: 717, 531
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+PNG/SLICE_3
+  rotate: false
+  xy: 1169, 520
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+PNG/SLICE_4
+  rotate: false
+  xy: 632, 238
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+PNG/SLICE_5
+  rotate: false
+  xy: 717, 279
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1

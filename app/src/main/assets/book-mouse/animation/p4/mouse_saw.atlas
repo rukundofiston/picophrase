@@ -1,0 +1,230 @@
+
+mouse_saw.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM
+  rotate: true
+  xy: 1471, 121
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+PNG/BAT_EYES
+  rotate: false
+  xy: 2019, 263
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+PNG/BAT_HEAD
+  rotate: true
+  xy: 1945, 237
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+PNG/BAT_TORSO
+  rotate: true
+  xy: 1843, 161
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+PNG/BAT_WING
+  rotate: false
+  xy: 1843, 234
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 1778, 296
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 138, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+PNG/HAND
+  rotate: false
+  xy: 262, 12
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+PNG/HAT
+  rotate: false
+  xy: 771, 33
+  size: 202, 179
+  orig: 202, 179
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: true
+  xy: 1778, 314
+  size: 186, 215
+  orig: 186, 215
+  offset: 0, 0
+  index: -1
+PNG/L_EAR
+  rotate: true
+  xy: 1345, 84
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+PNG/L_FOOT
+  rotate: false
+  xy: 1471, 77
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+PNG/L_HAND
+  rotate: false
+  xy: 975, 35
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+PNG/PUMPKIN
+  rotate: false
+  xy: 1574, 290
+  size: 202, 210
+  orig: 202, 210
+  offset: 0, 0
+  index: -1
+PNG/PUMPKIN_L_EYE
+  rotate: false
+  xy: 223, 9
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+PNG/PUMPKIN_MOUTH
+  rotate: true
+  xy: 1995, 367
+  size: 133, 41
+  orig: 133, 41
+  offset: 0, 0
+  index: -1
+PNG/PUMPKIN_NOSE
+  rotate: true
+  xy: 1404, 221
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+PNG/PUMPKIN_R_EYE
+  rotate: false
+  xy: 181, 8
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 301, 16
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+PNG/R_EAR
+  rotate: false
+  xy: 1574, 165
+  size: 153, 123
+  orig: 153, 123
+  offset: 0, 0
+  index: -1
+PNG/R_FOOT
+  rotate: false
+  xy: 1995, 319
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+PNG/R_HAND
+  rotate: true
+  xy: 2019, 284
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+PNG/R_WHISKERS
+  rotate: true
+  xy: 85, 0
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+PNG/SAW
+  rotate: true
+  xy: 1118, 73
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1
+PNG/SAW_CANDY_@2x
+  rotate: true
+  xy: 0, 14
+  size: 30, 83
+  orig: 30, 83
+  offset: 0, 0
+  index: -1
+PNG/SAW_CANDY__1@2x
+  rotate: false
+  xy: 1219, 81
+  size: 124, 138
+  orig: 124, 138
+  offset: 0, 0
+  index: -1
+PNG/SAW_CANDY__2@2x
+  rotate: true
+  xy: 1729, 166
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+PNG/SAW_CANDY__3@2x
+  rotate: false
+  xy: 975, 63
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+PNG/Saw_
+  rotate: false
+  xy: 771, 214
+  size: 385, 286
+  orig: 385, 286
+  offset: 0, 0
+  index: -1
+PNG/Saw__1@2x
+  rotate: false
+  xy: 0, 46
+  size: 769, 454
+  orig: 769, 454
+  offset: 0, 0
+  index: -1
+PNG/TAIL
+  rotate: false
+  xy: 1404, 250
+  size: 168, 250
+  orig: 168, 250
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: false
+  xy: 1158, 221
+  size: 244, 279
+  orig: 244, 279
+  offset: 0, 0
+  index: -1

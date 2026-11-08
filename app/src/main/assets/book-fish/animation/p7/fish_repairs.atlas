@@ -1,0 +1,216 @@
+
+fish_repairs.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BROW
+  rotate: false
+  xy: 1088, 16
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_1
+  rotate: false
+  xy: 1020, 77
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_2
+  rotate: false
+  xy: 1054, 38
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+PNG/BUCKET
+  rotate: true
+  xy: 587, 41
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+PNG/BUCKET_FG
+  rotate: false
+  xy: 1099, 48
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+PNG/BUCKET_HANGER_1
+  rotate: false
+  xy: 0, 0
+  size: 37, 5
+  orig: 37, 5
+  offset: 0, 0
+  index: -1
+PNG/BUCKET_HANGER_2
+  rotate: false
+  xy: 0, 7
+  size: 70, 5
+  orig: 70, 5
+  offset: 0, 0
+  index: -1
+PNG/CEMENT
+  rotate: false
+  xy: 901, 7
+  size: 105, 52
+  orig: 105, 52
+  offset: 0, 0
+  index: -1
+PNG/FISH_EYE
+  rotate: true
+  xy: 876, 61
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+PNG/FISH_EYE_CLOSED
+  rotate: true
+  xy: 1071, 100
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+PNG/FISH_EYE_CLOSED_2
+  rotate: true
+  xy: 1094, 151
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+PNG/FISH_IRIS
+  rotate: false
+  xy: 1008, 10
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+PNG/FISH_PUPIL
+  rotate: false
+  xy: 1054, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+PNG/FISH_REPAIR_1
+  rotate: false
+  xy: 1266, 199
+  size: 385, 513
+  orig: 385, 513
+  offset: 0, 0
+  index: -1
+PNG/FISH_REPAIR_2@2x
+  rotate: false
+  xy: 732, 48
+  size: 142, 79
+  orig: 142, 79
+  offset: 0, 0
+  index: -1
+PNG/HEAD_TORSO
+  rotate: false
+  xy: 1653, 241
+  size: 349, 471
+  orig: 349, 471
+  offset: 0, 0
+  index: -1
+PNG/HOUSE_B@2.5x
+  rotate: false
+  xy: 0, 129
+  size: 883, 895
+  orig: 883, 895
+  offset: 0, 0
+  index: -1
+PNG/LADDER_B@3x
+  rotate: true
+  xy: 1266, 714
+  size: 310, 669
+  orig: 310, 669
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_1
+  rotate: false
+  xy: 963, 69
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_2
+  rotate: false
+  xy: 976, 129
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+PNG/REAR_FIN
+  rotate: false
+  xy: 0, 14
+  size: 255, 113
+  orig: 255, 113
+  offset: 0, 0
+  index: -1
+PNG/ROOF
+  rotate: true
+  xy: 885, 182
+  size: 842, 379
+  orig: 842, 379
+  offset: 0, 0
+  index: -1
+PNG/ROOF_HOLE_1
+  rotate: true
+  xy: 1088, 0
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+PNG/ROOF_HOLE_2
+  rotate: true
+  xy: 72, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+PNG/SCOOP_1
+  rotate: false
+  xy: 587, 5
+  size: 155, 34
+  orig: 155, 34
+  offset: 0, 0
+  index: -1
+PNG/SCOOP_2
+  rotate: false
+  xy: 744, 12
+  size: 155, 34
+  orig: 155, 34
+  offset: 0, 0
+  index: -1
+PNG/SIDE_FIN
+  rotate: true
+  xy: 257, 8
+  size: 119, 163
+  orig: 119, 163
+  offset: 0, 0
+  index: -1
+PNG/SIDE_FIN_BANDAGE
+  rotate: true
+  xy: 422, 8
+  size: 119, 163
+  orig: 119, 163
+  offset: 0, 0
+  index: -1
+PNG/TEETH
+  rotate: false
+  xy: 885, 129
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+PNG/TONGUE
+  rotate: false
+  xy: 1035, 138
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1

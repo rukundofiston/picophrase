@@ -1,0 +1,325 @@
+
+turtle_writes.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/A
+  rotate: true
+  xy: 1262, 1699
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+PNG/B
+  rotate: true
+  xy: 533, 1714
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+PNG/C
+  rotate: true
+  xy: 1023, 1708
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+PNG/CAP@2x
+  rotate: false
+  xy: 0, 1369
+  size: 295, 194
+  orig: 295, 194
+  offset: 0, 0
+  index: -1
+PNG/CHALK@2x
+  rotate: true
+  xy: 311, 1715
+  size: 60, 220
+  orig: 60, 220
+  offset: 0, 0
+  index: -1
+PNG/HEAD@2x
+  rotate: true
+  xy: 431, 685
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HEAD_B@2x
+  rotate: true
+  xy: 897, 627
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HEAD_UH_OH@2x
+  rotate: true
+  xy: 1363, 558
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/INNER_MOUTH@2x
+  rotate: true
+  xy: 0, 1598
+  size: 147, 166
+  orig: 147, 166
+  offset: 0, 0
+  index: -1
+PNG/L_ARM@2x
+  rotate: false
+  xy: 318, 1535
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_B@2x
+  rotate: false
+  xy: 880, 1521
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_THUMB_FG@2x
+  rotate: false
+  xy: 297, 1361
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_WATCH@2x
+  rotate: false
+  xy: 859, 1347
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_BROW@2x
+  rotate: false
+  xy: 182, 1745
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+PNG/L_EYE@2x
+  rotate: true
+  xy: 1563, 1685
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_1@2x
+  rotate: false
+  xy: 0, 1750
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_2@2x
+  rotate: false
+  xy: 91, 1747
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+PNG/L_IRIS@2x
+  rotate: true
+  xy: 1106, 1706
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+PNG/L_LEG@2x
+  rotate: true
+  xy: 892, 1074
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_BROWN@2x
+  rotate: true
+  xy: 1323, 1016
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS@2x
+  rotate: false
+  xy: 1769, 947
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS_FG@2x
+  rotate: true
+  xy: 0, 840
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_PUPIL@2x
+  rotate: true
+  xy: 256, 1727
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+PNG/MUSTACHE@2x
+  rotate: false
+  xy: 1342, 1695
+  size: 219, 80
+  orig: 219, 80
+  offset: 0, 0
+  index: -1
+PNG/OVERALL_1@2x
+  rotate: true
+  xy: 860, 0
+  size: 556, 575
+  orig: 556, 575
+  offset: 0, 0
+  index: -1
+PNG/OVERALL_LEG@2x
+  rotate: true
+  xy: 1442, 1483
+  size: 192, 346
+  orig: 192, 346
+  offset: 0, 0
+  index: -1
+PNG/SPECTACLES@2x
+  rotate: false
+  xy: 0, 1145
+  size: 325, 214
+  orig: 325, 214
+  offset: 0, 0
+  index: -1
+PNG/TEETH@2x
+  rotate: false
+  xy: 615, 1713
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+PNG/TIE@2x
+  rotate: true
+  xy: 327, 1113
+  size: 232, 563
+  orig: 232, 563
+  offset: 0, 0
+  index: -1
+PNG/TONGUE@2x
+  rotate: true
+  xy: 1677, 1677
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_2@2x
+  rotate: false
+  xy: 1182, 1701
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_B@2x
+  rotate: false
+  xy: 764, 1711
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+PNG/TROUSER_LEGGING@2x
+  rotate: true
+  xy: 1421, 1289
+  size: 192, 346
+  orig: 192, 346
+  offset: 0, 0
+  index: -1
+PNG/blackboard
+  rotate: false
+  xy: 0, 141
+  size: 858, 542
+  orig: 858, 542
+  offset: 0, 0
+  index: -1
+PNG/blackboard_MASK
+  rotate: false
+  xy: 168, 1565
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+PNG/clock
+  rotate: false
+  xy: 1790, 1378
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+PNG/envelope
+  rotate: false
+  xy: 1795, 1634
+  size: 230, 141
+  orig: 230, 141
+  offset: 0, 0
+  index: -1
+PNG/pen
+  rotate: false
+  xy: 842, 1709
+  size: 179, 66
+  orig: 179, 66
+  offset: 0, 0
+  index: -1
+
+turtle_writes2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/TABLE
+  rotate: true
+  xy: 0, 0
+  size: 714, 813
+  orig: 714, 813
+  offset: 0, 0
+  index: -1
+PNG/TORSO@2x
+  rotate: true
+  xy: 0, 716
+  size: 639, 724
+  orig: 639, 724
+  offset: 0, 0
+  index: -1
+PNG/TORSO_TROUSER@2x
+  rotate: true
+  xy: 726, 716
+  size: 639, 724
+  orig: 639, 724
+  offset: 0, 0
+  index: -1
+
+turtle_writes3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/floor
+  rotate: false
+  xy: 0, 0
+  size: 1547, 950
+  orig: 1547, 950
+  offset: 0, 0
+  index: -1
+
+turtle_writes4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/wall
+  rotate: false
+  xy: 0, 0
+  size: 1553, 1152
+  orig: 1553, 1152
+  offset: 0, 0
+  index: -1

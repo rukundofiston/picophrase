@@ -1,0 +1,19 @@
+package com.google.android.gms.internal.play_billing;
+
+import android.os.IBinder;
+import android.os.IInterface;
+
+/* JADX INFO: loaded from: classes.dex */
+public abstract class zzd extends zzi implements zze {
+    public zzd() {
+        super("com.android.vending.billing.IInAppBillingService");
+    }
+
+    public static zze zzo(IBinder iBinder) {
+        if (iBinder == null) {
+            return null;
+        }
+        IInterface iInterfaceQueryLocalInterface = iBinder.queryLocalInterface("com.android.vending.billing.IInAppBillingService");
+        return iInterfaceQueryLocalInterface instanceof zze ? (zze) iInterfaceQueryLocalInterface : new zzc(iBinder);
+    }
+}

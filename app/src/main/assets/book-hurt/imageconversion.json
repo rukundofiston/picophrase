@@ -1,0 +1,226 @@
+[
+    {
+        "src" : "hurt_endpage_en.svg",
+        "dest" : "hurt_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "hurt_endpage_fr.svg",
+        "dest" : "hurt_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+
+    {
+        "src" : "arm.svg",
+        "dest" : "arm.png",
+        "width" : 17,
+        "height" : 16.8
+    },   
+    {
+        "src" : "baby.svg",
+        "dest" : "baby.png",
+        "width" : 19,
+        "height" : 18.1
+    },  
+    {
+        "src" : "baby-hurt-background.svg",
+        "dest" : "baby-hurt-background.png",
+        "width" : 100,
+        "height" : 100
+    },  
+    {
+        "src" : "baby-hurt-main.svg",
+        "dest" : "baby-hurt-main.png",
+        "width" : 76,
+        "height" : 35.4
+    },  
+    {
+        "src" : "back.svg",
+        "dest" : "back.png",
+        "width" : 22,
+        "height" : 17.5
+    },  
+    {
+        "src" : "boy.svg",
+        "dest" : "boy.png",
+        "width" : 14,
+        "height" : 17.8
+    },  
+    {
+        "src" : "boy-hurt-background.svg",
+        "dest" : "boy-hurt-background.png",
+        "width" : 101,
+        "height" : 100
+    },  
+    {
+        "src" : "boy-hurt-main.svg",
+        "dest" : "boy-hurt-main.png",
+        "width" : 51,
+        "height" : 31.8
+    },  
+    {
+        "src" : "dad.svg",
+        "dest" : "dad.png",
+        "width" : 10,
+        "height" : 19.7
+    },  
+    {
+        "src" : "dad-hurt-background.svg",
+        "dest" : "dad-hurt-background.png",
+        "width" : 102,
+        "height" : 101
+    },  
+    {
+        "src" : "dad-hurt-main.svg",
+        "dest" : "dad-hurt-main.png",
+        "width" : 100,
+        "height" : 100
+    }, 
+    {
+        "src" : "dog.svg",
+        "dest" : "dog.png",
+        "width" : 23 ,
+        "height": 16.6
+    }, 
+    {
+        "src" : "dog-hurt-background.svg",
+        "dest" : "dog-hurt-background.png",
+        "width" : 100 ,
+        "height" : 100
+    },
+    {
+        "src" : "dog-hurt-main.svg",
+        "dest" : "dog-hurt-main.png",
+        "width" : 40 ,
+        "height" : 28
+    },   {
+        "src" : "ear.svg",
+        "dest" : "ear.png",
+        "width" : 23,
+        "height" : 15.6 
+    },  
+    {
+        "src" : "finger.svg",
+        "dest" : "finger.png",
+        "width" : 20,
+        "height" : 18.3
+    },  
+    {
+        "src" : "foot.svg",
+        "dest" : "foot.png",
+        "width" : 10,
+        "height" : 17.3
+    },  
+    {
+        "src" : "girl.svg",
+        "dest" : "girl.png",
+        "width" : 13,
+        "height" : 17.9
+    },  
+    {
+        "src" : "girl-hurt-background.svg",
+        "dest" : "girl-hurt-background.png",
+        "width" : 100,
+        "height" : 100
+    },
+    {
+        "src" : "girl-hurt-main.svg",
+        "dest" : "girl-hurt-main.png",
+        "width" : 58,
+        "height" : 22.7
+    },
+    {
+        "src" : "grandma.svg",
+        "dest" : "grandma.png",
+        "width" : 11,
+        "height" : 18.7
+    },  
+    {
+        "src" : "grandma-hurt-background.svg",
+        "dest" : "grandma-hurt-background.png",
+        "width" : 102,
+        "height" : 100
+    },  
+    {
+        "src" : "grandma-hurt-main.svg",
+        "dest" : "grandma-hurt-main.png",
+        "width" : 62,
+        "height" : 34.2
+    },  
+    {
+        "src" : "grandpa.svg",
+        "dest" : "grandpa.png",
+        "width" : 12,
+        "height" : 19.5
+    },  
+    {
+        "src" : "grandpa-hurt-background.svg",
+        "dest" : "grandpa-hurt-background.png",
+        "width" : 100,
+        "height" : 100
+    },  
+      
+    {
+        "src" : "grandpa-hurt-main.svg",
+        "dest" : "grandpa-hurt-main.png",
+        "width" : 31,
+        "height" : 25.6
+    },  
+    {
+        "src" : "hand.svg",
+        "dest" : "hand.png",
+        "width" : 16.07,
+        "height" : 17.77
+    },  
+    {
+        "src" : "head.svg",
+        "dest" : "head.png",
+        "width" : 23,
+        "height" : 19
+    },  
+    {
+        "src" : "hurt.svg",
+        "dest" : "hurt.png",
+        "width" : 16,
+        "height" : 20.3
+    },  
+    {
+        "src" : "knee.svg",
+        "dest" : "knee.png",
+        "width" : 20,
+        "height" : 18.4
+    },  
+    {
+        "src" : "mom.svg",
+        "dest" : "mom.png",
+        "width" : 10,
+        "height" : 20
+    },  
+    {
+        "src" : "mom-hurt-background.svg",
+        "dest" : "mom-hurt-background.png",
+        "width" :102 ,
+        "height" : 100
+    },
+    {
+        "src" : "mom-hurt-main.svg",
+        "dest" : "mom-hurt-main.png",
+        "width" : 60,
+        "height" : 38.1
+    },
+	{
+		"src" : "hurt-playpage-ui.svg",
+        "dest" : "hurt-playpage-ui.png",
+        "width" : 102,
+        "height" : 101
+	},
+	{
+		"src" : "ouch_playpage_en.svg",
+        "dest" : "ouch_playpage_en.png",
+        "width" : 102,
+        "height" : 101
+	}
+  
+]

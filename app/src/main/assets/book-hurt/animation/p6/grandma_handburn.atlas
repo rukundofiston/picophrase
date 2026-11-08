@@ -1,0 +1,195 @@
+
+grandma_handburn.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_1
+  rotate: true
+  xy: 1610, 68
+  size: 292, 191
+  orig: 292, 191
+  offset: 0, 0
+  index: -1
+ARM_2
+  rotate: true
+  xy: 1803, 68
+  size: 292, 191
+  orig: 292, 191
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 772, 243
+  size: 316, 493
+  orig: 316, 493
+  offset: 0, 0
+  index: -1
+BUBBLE_1
+  rotate: false
+  xy: 1610, 53
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+BUBBLE_2
+  rotate: false
+  xy: 30, 0
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+BUBBLE_3
+  rotate: false
+  xy: 0, 0
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+BUBBLE_4
+  rotate: true
+  xy: 710, 243
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+BUBBLE_5
+  rotate: false
+  xy: 628, 170
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 2001, 992
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+EYEBROW
+  rotate: false
+  xy: 196, 143
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+Grandma_@0.5x
+  rotate: true
+  xy: 1267, 431
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1
+Grandma__1@2x
+  rotate: false
+  xy: 628, 182
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+Grandma__2@2x
+  rotate: false
+  xy: 0, 450
+  size: 770, 574
+  orig: 770, 574
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 710, 72
+  size: 169, 207
+  orig: 169, 207
+  offset: 0, 0
+  index: -1
+LEG
+  rotate: true
+  xy: 0, 14
+  size: 75, 138
+  orig: 75, 138
+  offset: 0, 0
+  index: -1
+MOUTH_1
+  rotate: false
+  xy: 1901, 632
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+MOUTH_2
+  rotate: false
+  xy: 140, 76
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+PAN
+  rotate: true
+  xy: 1901, 782
+  size: 242, 98
+  orig: 242, 98
+  offset: 0, 0
+  index: -1
+PUPIL
+  rotate: false
+  xy: 711, 422
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+RED_LIGHTNING
+  rotate: false
+  xy: 1267, 400
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+RIBBON
+  rotate: false
+  xy: 628, 270
+  size: 81, 178
+  orig: 81, 178
+  offset: 0, 0
+  index: -1
+SHOULDER
+  rotate: false
+  xy: 1901, 652
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+SOUP
+  rotate: false
+  xy: 0, 91
+  size: 194, 65
+  orig: 194, 65
+  offset: 0, 0
+  index: -1
+TABLE
+  rotate: false
+  xy: 772, 561
+  size: 662, 463
+  orig: 662, 463
+  offset: 0, 0
+  index: -1
+TABLE_FG
+  rotate: true
+  xy: 1436, 362
+  size: 662, 463
+  orig: 662, 463
+  offset: 0, 0
+  index: -1
+grandma__@2x
+  rotate: true
+  xy: 0, 158
+  size: 290, 626
+  orig: 290, 626
+  offset: 0, 0
+  index: -1
+grandma___1@4x
+  rotate: false
+  xy: 1267, 51
+  size: 341, 309
+  orig: 341, 309
+  offset: 0, 0
+  index: -1

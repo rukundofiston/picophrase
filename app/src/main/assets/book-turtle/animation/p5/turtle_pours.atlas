@@ -1,0 +1,326 @@
+
+turtle_pours.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/APRON
+  rotate: false
+  xy: 1669, 950
+  size: 378, 428
+  orig: 378, 428
+  offset: 0, 0
+  index: -1
+PNG/APRON_TIES
+  rotate: true
+  xy: 149, 1749
+  size: 98, 209
+  orig: 98, 209
+  offset: 0, 0
+  index: -1
+PNG/CUP_1
+  rotate: false
+  xy: 360, 1716
+  size: 165, 112
+  orig: 165, 112
+  offset: 0, 0
+  index: -1
+PNG/CUP_2
+  rotate: false
+  xy: 527, 1715
+  size: 165, 112
+  orig: 165, 112
+  offset: 0, 0
+  index: -1
+PNG/CUP_4
+  rotate: false
+  xy: 694, 1713
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1
+PNG/CUP_5
+  rotate: false
+  xy: 862, 1706
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1
+PNG/CUP_FG
+  rotate: false
+  xy: 1030, 1701
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1
+PNG/CUP_ONLY_EMPTY
+  rotate: false
+  xy: 1617, 1791
+  size: 147, 92
+  orig: 147, 92
+  offset: 0, 0
+  index: -1
+PNG/CUP_ONLY_FLIP
+  rotate: false
+  xy: 1766, 1791
+  size: 147, 92
+  orig: 147, 92
+  offset: 0, 0
+  index: -1
+PNG/CUP_ONLY_FULL
+  rotate: false
+  xy: 0, 1764
+  size: 147, 92
+  orig: 147, 92
+  offset: 0, 0
+  index: -1
+PNG/CUP_PLATE
+  rotate: false
+  xy: 716, 1828
+  size: 163, 55
+  orig: 163, 55
+  offset: 0, 0
+  index: -1
+PNG/GRIP
+  rotate: true
+  xy: 489, 1830
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+PNG/HEAD@2x
+  rotate: true
+  xy: 0, 865
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HEAD_B@2x
+  rotate: true
+  xy: 466, 806
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/INNER_MOUTH@2x
+  rotate: true
+  xy: 1654, 1642
+  size: 147, 166
+  orig: 147, 166
+  offset: 0, 0
+  index: -1
+PNG/L_ARM@2x
+  rotate: false
+  xy: 0, 1541
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_B@2x
+  rotate: false
+  xy: 562, 1527
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_THUMB_FG@2x
+  rotate: false
+  xy: 1124, 1468
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_BROW@2x
+  rotate: false
+  xy: 259, 1853
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+PNG/L_EYE@2x
+  rotate: true
+  xy: 1503, 1793
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_1@2x
+  rotate: false
+  xy: 77, 1858
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_2@2x
+  rotate: false
+  xy: 168, 1855
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+PNG/L_IRIS@2x
+  rotate: true
+  xy: 1347, 1814
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+PNG/L_LEG@2x
+  rotate: true
+  xy: 0, 1268
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS@2x
+  rotate: true
+  xy: 431, 1254
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS_FG@2x
+  rotate: true
+  xy: 862, 1195
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_PUPIL@2x
+  rotate: true
+  xy: 434, 1835
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+PNG/POURS
+  rotate: true
+  xy: 333, 1849
+  size: 34, 99
+  orig: 34, 99
+  offset: 0, 0
+  index: -1
+PNG/TEAPOT
+  rotate: false
+  xy: 1686, 1380
+  size: 345, 260
+  orig: 345, 260
+  offset: 0, 0
+  index: -1
+PNG/TEA_LABEL
+  rotate: true
+  xy: 0, 1861
+  size: 22, 75
+  orig: 22, 75
+  offset: 0, 0
+  index: -1
+PNG/TEDDY@2x
+  rotate: true
+  xy: 932, 641
+  size: 499, 577
+  orig: 499, 577
+  offset: 0, 0
+  index: -1
+PNG/TEDDY_HAT@2x
+  rotate: true
+  xy: 1462, 1662
+  size: 127, 190
+  orig: 127, 190
+  offset: 0, 0
+  index: -1
+PNG/TEETH@2x
+  rotate: false
+  xy: 881, 1821
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+PNG/TONGUE@2x
+  rotate: true
+  xy: 1915, 1785
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_2@2x
+  rotate: false
+  xy: 1423, 1809
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+PNG/TORSO@2x
+  rotate: true
+  xy: 587, 0
+  size: 639, 724
+  orig: 639, 724
+  offset: 0, 0
+  index: -1
+PNG/bear chair@2x
+  rotate: false
+  xy: 1293, 1142
+  size: 374, 324
+  orig: 374, 324
+  offset: 0, 0
+  index: -1
+PNG/kitchen set@2x
+  rotate: true
+  xy: 0, 256
+  size: 548, 585
+  orig: 548, 585
+  offset: 0, 0
+  index: -1
+PNG/napkins@2x
+  rotate: false
+  xy: 1198, 1689
+  size: 262, 118
+  orig: 262, 118
+  offset: 0, 0
+  index: -1
+PNG/spatula@2x
+  rotate: false
+  xy: 1030, 1816
+  size: 315, 67
+  orig: 315, 67
+  offset: 0, 0
+  index: -1
+PNG/teabag@2x
+  rotate: false
+  xy: 562, 1829
+  size: 152, 54
+  orig: 152, 54
+  offset: 0, 0
+  index: -1
+
+turtle_pours2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/floor@2x
+  rotate: false
+  xy: 0, 1061
+  size: 1560, 471
+  orig: 1560, 471
+  offset: 0, 0
+  index: -1
+PNG/wall@2x
+  rotate: false
+  xy: 0, 0
+  size: 1560, 1059
+  orig: 1560, 1059
+  offset: 0, 0
+  index: -1
+
+turtle_pours3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/table@2x
+  rotate: false
+  xy: 0, 0
+  size: 1560, 1155
+  orig: 1560, 1155
+  offset: 0, 0
+  index: -1

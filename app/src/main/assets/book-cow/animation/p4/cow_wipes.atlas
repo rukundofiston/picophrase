@@ -1,0 +1,349 @@
+
+cow_wipes.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BUBBLES_1
+  rotate: false
+  xy: 203, 20
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+PNG/BUBBLES_2
+  rotate: false
+  xy: 603, 232
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+PNG/COW_BROW
+  rotate: false
+  xy: 667, 620
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+PNG/COW_EYE
+  rotate: true
+  xy: 271, 36
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_1
+  rotate: true
+  xy: 1509, 759
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_2
+  rotate: true
+  xy: 1378, 696
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_3
+  rotate: false
+  xy: 1283, 679
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_4
+  rotate: false
+  xy: 1331, 679
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+PNG/COW_EYE_CLOSED
+  rotate: true
+  xy: 280, 260
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+PNG/COW_HEAD
+  rotate: true
+  xy: 1775, 868
+  size: 147, 191
+  orig: 147, 191
+  offset: 0, 0
+  index: -1
+PNG/COW_IRIS
+  rotate: false
+  xy: 1701, 841
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+PNG/COW_LIP_NOSE
+  rotate: false
+  xy: 1701, 867
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+PNG/COW_LOWER_LIP
+  rotate: true
+  xy: 1158, 462
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+PNG/COW_L_ARM
+  rotate: false
+  xy: 1968, 735
+  size: 80, 280
+  orig: 80, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_L_ARM_2
+  rotate: false
+  xy: 712, 765
+  size: 450, 150
+  orig: 450, 150
+  offset: 0, 0
+  index: -1
+PNG/COW_L_ARM_2_FG
+  rotate: false
+  xy: 697, 613
+  size: 450, 150
+  orig: 450, 150
+  offset: 0, 0
+  index: -1
+PNG/COW_L_EAR
+  rotate: true
+  xy: 1283, 634
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+PNG/COW_L_EAR_B
+  rotate: false
+  xy: 603, 279
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+PNG/COW_MOUTH
+  rotate: false
+  xy: 1448, 765
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_MOUTH_2
+  rotate: false
+  xy: 603, 189
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+PNG/COW_PUPIL
+  rotate: false
+  xy: 1149, 748
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+PNG/COW_R_ARM_2
+  rotate: false
+  xy: 667, 461
+  size: 450, 150
+  orig: 450, 150
+  offset: 0, 0
+  index: -1
+PNG/COW_TONGUE
+  rotate: false
+  xy: 280, 293
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+PNG/COW_TORSO
+  rotate: true
+  xy: 0, 66
+  size: 192, 306
+  orig: 192, 306
+  offset: 0, 0
+  index: -1
+PNG/COW_TORSO_3
+  rotate: false
+  xy: 301, 770
+  size: 409, 245
+  orig: 409, 245
+  offset: 0, 0
+  index: -1
+PNG/COW_TORSO_4B
+  rotate: false
+  xy: 0, 647
+  size: 299, 368
+  orig: 299, 368
+  offset: 0, 0
+  index: -1
+PNG/COW_WIPE_BG_1
+  rotate: true
+  xy: 0, 260
+  size: 385, 278
+  orig: 385, 278
+  offset: 0, 0
+  index: -1
+PNG/COW_WIPE_BG_2
+  rotate: false
+  xy: 280, 424
+  size: 385, 207
+  orig: 385, 207
+  offset: 0, 0
+  index: -1
+PNG/DISH_PLACE_BG
+  rotate: false
+  xy: 301, 633
+  size: 394, 135
+  orig: 394, 135
+  offset: 0, 0
+  index: -1
+PNG/DISH_PLACE_FG
+  rotate: false
+  xy: 280, 339
+  size: 332, 83
+  orig: 332, 83
+  offset: 0, 0
+  index: -1
+PNG/DRUG
+  rotate: false
+  xy: 1229, 643
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+PNG/FAUCET
+  rotate: true
+  xy: 962, 310
+  size: 149, 191
+  orig: 149, 191
+  offset: 0, 0
+  index: -1
+PNG/FORK_DRY
+  rotate: false
+  xy: 1119, 461
+  size: 37, 150
+  orig: 37, 150
+  offset: 0, 0
+  index: -1
+PNG/FORK_WET
+  rotate: true
+  xy: 1448, 802
+  size: 37, 150
+  orig: 37, 150
+  offset: 0, 0
+  index: -1
+PNG/GLASS
+  rotate: false
+  xy: 1149, 622
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+PNG/KNIFE_DRY
+  rotate: true
+  xy: 0, 0
+  size: 24, 165
+  orig: 24, 165
+  offset: 0, 0
+  index: -1
+PNG/KNIFE_WET
+  rotate: true
+  xy: 1275, 739
+  size: 24, 165
+  orig: 24, 165
+  offset: 0, 0
+  index: -1
+PNG/PLATE_CLEAN
+  rotate: false
+  xy: 1275, 841
+  size: 211, 75
+  orig: 211, 75
+  offset: 0, 0
+  index: -1
+PNG/PLATE_DRY
+  rotate: false
+  xy: 1488, 841
+  size: 211, 75
+  orig: 211, 75
+  offset: 0, 0
+  index: -1
+PNG/POOL
+  rotate: false
+  xy: 0, 26
+  size: 201, 38
+  orig: 201, 38
+  offset: 0, 0
+  index: -1
+PNG/SINK
+  rotate: false
+  xy: 667, 367
+  size: 293, 92
+  orig: 293, 92
+  offset: 0, 0
+  index: -1
+PNG/SINK_FG
+  rotate: false
+  xy: 308, 65
+  size: 293, 272
+  orig: 293, 272
+  offset: 0, 0
+  index: -1
+PNG/SOAP
+  rotate: true
+  xy: 1275, 765
+  size: 74, 171
+  orig: 74, 171
+  offset: 0, 0
+  index: -1
+PNG/SOAP_1
+  rotate: false
+  xy: 1158, 523
+  size: 53, 97
+  orig: 53, 97
+  offset: 0, 0
+  index: -1
+PNG/TABLE_SIDE
+  rotate: false
+  xy: 712, 917
+  size: 529, 98
+  orig: 529, 98
+  offset: 0, 0
+  index: -1
+PNG/TABLE_TOP
+  rotate: false
+  xy: 1243, 918
+  size: 530, 97
+  orig: 530, 97
+  offset: 0, 0
+  index: -1
+PNG/TAP_WATER
+  rotate: true
+  xy: 1600, 796
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+PNG/TOWEL
+  rotate: false
+  xy: 1164, 733
+  size: 109, 182
+  orig: 109, 182
+  offset: 0, 0
+  index: -1
+PNG/WATER_BURST
+  rotate: false
+  xy: 614, 338
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1

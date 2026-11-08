@@ -1,0 +1,229 @@
+
+dolphin_disguises.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-1
+  rotate: true
+  xy: 589, 896
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+1-2
+  rotate: true
+  xy: 161, 924
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+1-3
+  rotate: true
+  xy: 84, 950
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+1-4
+  rotate: false
+  xy: 0, 960
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ArmBack
+  rotate: true
+  xy: 901, 892
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+ArmFront
+  rotate: true
+  xy: 0, 846
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+Bandage
+  rotate: false
+  xy: 128, 815
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+Belly
+  rotate: true
+  xy: 0, 464
+  size: 183, 241
+  orig: 183, 241
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: true
+  xy: 0, 198
+  size: 259, 368
+  orig: 259, 368
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 108, 940
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+COMPUTER-50-PCNT
+  rotate: false
+  xy: 667, 0
+  size: 321, 321
+  orig: 321, 321
+  offset: 0, 0
+  index: -1
+ChatBubble
+  rotate: true
+  xy: 502, 902
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 502, 902
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+Coat
+  rotate: true
+  xy: 227, 649
+  size: 148, 261
+  orig: 148, 261
+  offset: 0, 0
+  index: -1
+FLOOR
+  rotate: false
+  xy: 370, 26
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+Fin
+  rotate: false
+  xy: 340, 908
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+Glasses
+  rotate: false
+  xy: 273, 913
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+HAT-50-pcnt
+  rotate: false
+  xy: 249, 799
+  size: 243, 106
+  orig: 243, 106
+  offset: 0, 0
+  index: -1
+HappyEye
+  rotate: false
+  xy: 13, 953
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 488, 323
+  size: 332, 248
+  orig: 332, 248
+  offset: 0, 0
+  index: -1
+Medicare
+  rotate: false
+  xy: 652, 573
+  size: 190, 176
+  orig: 190, 176
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: true
+  xy: 214, 921
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: false
+  xy: 494, 751
+  size: 373, 142
+  orig: 373, 142
+  offset: 0, 0
+  index: -1
+Stethoscope
+  rotate: true
+  xy: 674, 895
+  size: 76, 225
+  orig: 76, 225
+  offset: 0, 0
+  index: -1
+WINDOW-50-PCNT
+  rotate: false
+  xy: 243, 459
+  size: 243, 188
+  orig: 243, 188
+  offset: 0, 0
+  index: -1
+Wand
+  rotate: false
+  xy: 0, 670
+  size: 225, 143
+  orig: 225, 143
+  offset: 0, 0
+  index: -1
+dogface
+  rotate: false
+  xy: 490, 589
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 436, 907
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+dolphin_disguises2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 0, 0
+  size: 547, 395
+  orig: 547, 395
+  offset: 0, 0
+  index: -1
+WALL L
+  rotate: false
+  xy: 549, 345
+  size: 267, 674
+  orig: 267, 674
+  offset: 0, 0
+  index: -1
+WALL R
+  rotate: false
+  xy: 0, 397
+  size: 547, 622
+  orig: 547, 622
+  offset: 0, 0
+  index: -1

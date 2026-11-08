@@ -1,0 +1,237 @@
+
+boy_eat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BODY_LEG
+  rotate: false
+  xy: 774, 131
+  size: 249, 376
+  orig: 249, 376
+  offset: 0, 0
+  index: -1
+PNG/BOY_BG_1
+  rotate: false
+  xy: 387, 227
+  size: 385, 280
+  orig: 385, 280
+  offset: 0, 0
+  index: -1
+PNG/BOY_BG_2
+  rotate: false
+  xy: 0, 97
+  size: 385, 410
+  orig: 385, 410
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 981, 116
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_1
+  rotate: true
+  xy: 0, 0
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_2
+  rotate: true
+  xy: 269, 52
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_3
+  rotate: true
+  xy: 137, 1
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_4
+  rotate: true
+  xy: 718, 94
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_5
+  rotate: true
+  xy: 739, 135
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_5_1
+  rotate: false
+  xy: 850, 98
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+PNG/CONE_CHOC_5_2
+  rotate: false
+  xy: 637, 81
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+PNG/CONE_VAN_1
+  rotate: false
+  xy: 627, 103
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+PNG/CONE_VAN_2
+  rotate: true
+  xy: 72, 0
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+PNG/CONE_VAN_3
+  rotate: false
+  xy: 334, 43
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+PNG/CONE_VAN_4
+  rotate: true
+  xy: 761, 90
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+PNG/DROP_1
+  rotate: true
+  xy: 1010, 110
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+PNG/DROP_2
+  rotate: false
+  xy: 950, 113
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+PNG/DROP_3
+  rotate: true
+  xy: 754, 175
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 886, 102
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: true
+  xy: 387, 60
+  size: 165, 173
+  orig: 165, 173
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_1
+  rotate: true
+  xy: 0, 45
+  size: 50, 190
+  orig: 50, 190
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_2
+  rotate: true
+  xy: 562, 175
+  size: 50, 190
+  orig: 50, 190
+  offset: 0, 0
+  index: -1
+PNG/MOUTH
+  rotate: false
+  xy: 562, 65
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_GRINS
+  rotate: false
+  xy: 804, 105
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_LARGE
+  rotate: false
+  xy: 672, 104
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SMALL
+  rotate: false
+  xy: 637, 66
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SMILE
+  rotate: false
+  xy: 804, 93
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 661, 90
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+PNG/SHOULDER
+  rotate: false
+  xy: 562, 93
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+PNG/SPLAT_1
+  rotate: false
+  xy: 672, 135
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+PNG/SPLAT_2
+  rotate: false
+  xy: 192, 46
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_1
+  rotate: true
+  xy: 613, 67
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_2
+  rotate: false
+  xy: 918, 110
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

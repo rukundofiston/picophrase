@@ -1,0 +1,297 @@
+
+whale_attaches.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BEE_ABDOMEN
+  rotate: false
+  xy: 878, 1843
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+PNG/BEE_ARM
+  rotate: true
+  xy: 18, 1867
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+PNG/BEE_HEAD
+  rotate: true
+  xy: 932, 1839
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+PNG/BEE_LEG
+  rotate: true
+  xy: 0, 1868
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+PNG/BEE_WING
+  rotate: false
+  xy: 681, 1851
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+PNG/BIRDHOUSE
+  rotate: true
+  xy: 372, 1559
+  size: 191, 232
+  orig: 191, 232
+  offset: 0, 0
+  index: -1
+PNG/BOOT_BG@2x
+  rotate: false
+  xy: 1546, 1135
+  size: 329, 513
+  orig: 329, 513
+  offset: 0, 0
+  index: -1
+PNG/BOOT_FG@2x
+  rotate: true
+  xy: 0, 926
+  size: 329, 513
+  orig: 329, 513
+  offset: 0, 0
+  index: -1
+PNG/BUSH
+  rotate: true
+  xy: 1190, 1353
+  size: 306, 354
+  orig: 306, 354
+  offset: 0, 0
+  index: -1
+PNG/DRAGONFLY_R_WING
+  rotate: false
+  xy: 829, 1845
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+PNG/DRAGONFLY_TORSO
+  rotate: false
+  xy: 724, 1848
+  size: 103, 34
+  orig: 103, 34
+  offset: 0, 0
+  index: -1
+PNG/DRAGON_L_WING
+  rotate: false
+  xy: 618, 1852
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+PNG/LEAVES
+  rotate: false
+  xy: 515, 877
+  size: 836, 295
+  orig: 836, 295
+  offset: 0, 0
+  index: -1
+PNG/L_TIE@2x
+  rotate: true
+  xy: 1112, 1804
+  size: 78, 195
+  orig: 78, 195
+  offset: 0, 0
+  index: -1
+PNG/ROPE
+  rotate: true
+  xy: 43, 1854
+  size: 28, 573
+  orig: 28, 573
+  offset: 0, 0
+  index: -1
+PNG/R_TIE@2x
+  rotate: true
+  xy: 1453, 1800
+  size: 82, 244
+  orig: 82, 244
+  offset: 0, 0
+  index: -1
+PNG/SWING
+  rotate: false
+  xy: 101, 1757
+  size: 400, 95
+  orig: 400, 95
+  offset: 0, 0
+  index: -1
+PNG/TIE@2x
+  rotate: false
+  xy: 1699, 1650
+  size: 209, 143
+  orig: 209, 143
+  offset: 0, 0
+  index: -1
+PNG/TREE
+  rotate: true
+  xy: 0, 0
+  size: 875, 1211
+  orig: 875, 1211
+  offset: 0, 0
+  index: -1
+PNG/WHALE_ARM_1@2x
+  rotate: true
+  xy: 0, 1257
+  size: 300, 580
+  orig: 300, 580
+  offset: 0, 0
+  index: -1
+PNG/WHALE_ARM_1_FG@2x
+  rotate: true
+  xy: 582, 1174
+  size: 300, 580
+  orig: 300, 580
+  offset: 0, 0
+  index: -1
+PNG/WHALE_BROW@2x
+  rotate: false
+  xy: 1309, 1801
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE@2x
+  rotate: true
+  xy: 606, 1528
+  size: 202, 210
+  orig: 202, 210
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYELID@2x
+  rotate: false
+  xy: 1493, 1661
+  size: 204, 137
+  orig: 204, 137
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE_CLOSED@2x
+  rotate: false
+  xy: 1783, 1795
+  size: 216, 87
+  orig: 216, 87
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE_OUCH@2x
+  rotate: false
+  xy: 1699, 1800
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+PNG/WHALE_FOOT_FG@2x
+  rotate: true
+  xy: 0, 1565
+  size: 190, 370
+  orig: 190, 370
+  offset: 0, 0
+  index: -1
+PNG/WHALE_FOOT_TROUSER@2x
+  rotate: true
+  xy: 818, 1476
+  size: 190, 370
+  orig: 190, 370
+  offset: 0, 0
+  index: -1
+PNG/WHALE_IRIS@2x
+  rotate: true
+  xy: 1350, 1663
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+PNG/WHALE_LOWER_TEETH@2x
+  rotate: false
+  xy: 503, 1752
+  size: 195, 97
+  orig: 195, 97
+  offset: 0, 0
+  index: -1
+PNG/WHALE_MOUTH_1@2x
+  rotate: false
+  xy: 940, 1672
+  size: 203, 130
+  orig: 203, 130
+  offset: 0, 0
+  index: -1
+PNG/WHALE_MOUTH_1_B@2x
+  rotate: false
+  xy: 1145, 1668
+  size: 203, 131
+  orig: 203, 131
+  offset: 0, 0
+  index: -1
+PNG/WHALE_PUPIL@2x
+  rotate: true
+  xy: 0, 1765
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+PNG/WHALE_TONGUE@2x
+  rotate: true
+  xy: 985, 1805
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+PNG/WHALE_UPPER_TEETH@2x
+  rotate: false
+  xy: 700, 1732
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1
+
+whale_attaches2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/SKY
+  rotate: false
+  xy: 0, 0
+  size: 1560, 1623
+  orig: 1560, 1623
+  offset: 0, 0
+  index: -1
+
+whale_attaches3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/GRASS
+  rotate: false
+  xy: 0, 0
+  size: 1560, 1540
+  orig: 1560, 1540
+  offset: 0, 0
+  index: -1
+
+whale_attaches4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/WHALE_TORSO_BLUE_TROUSER@2x
+  rotate: false
+  xy: 0, 0
+  size: 1000, 1400
+  orig: 1000, 1400
+  offset: 0, 0
+  index: -1
+PNG/WHALE_TORSO_WHITE@2x
+  rotate: false
+  xy: 1002, 0
+  size: 1000, 1400
+  orig: 1000, 1400
+  offset: 0, 0
+  index: -1

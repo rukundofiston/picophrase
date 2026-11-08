@@ -1,0 +1,12 @@
+# Fichiers et dossiers générés par Android / Gradle
+.gradle/
+.idea/
+build/
+app/build/
+*.apk
+*.aab
+*.dex
+*.class
+local.properties
+.DS_Store
+Thumbs.db

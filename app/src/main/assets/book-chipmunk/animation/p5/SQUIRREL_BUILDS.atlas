@@ -1,0 +1,307 @@
+
+SQUIRREL_BUILDS.png
+size: 3713,2099
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM HAIR@2x
+  rotate: false
+  xy: 3645, 327
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+PNG/ARM@2x
+  rotate: true
+  xy: 2311, 228
+  size: 750, 220
+  orig: 750, 220
+  offset: 0, 0
+  index: -1
+PNG/ARM_UNDER@2x
+  rotate: true
+  xy: 2532, 228
+  size: 750, 220
+  orig: 750, 220
+  offset: 0, 0
+  index: -1
+PNG/BG
+  rotate: false
+  xy: 1, 35
+  size: 1549, 2063
+  orig: 1549, 2063
+  offset: 0, 0
+  index: -1
+PNG/BRICK_FINAL
+  rotate: true
+  xy: 3537, 850
+  size: 220, 153
+  orig: 220, 153
+  offset: 0, 0
+  index: -1
+PNG/BROW@2x
+  rotate: true
+  xy: 3617, 1594
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+PNG/EAR@2x
+  rotate: false
+  xy: 3317, 768
+  size: 219, 286
+  orig: 219, 286
+  offset: 0, 0
+  index: -1
+PNG/EYE_1@2x
+  rotate: true
+  xy: 3439, 318
+  size: 208, 205
+  orig: 208, 205
+  offset: 0, 0
+  index: -1
+PNG/EYE_2@2x
+  rotate: false
+  xy: 2735, 11
+  size: 209, 206
+  orig: 209, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_3@2x
+  rotate: false
+  xy: 3439, 111
+  size: 208, 206
+  orig: 208, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_4@2x
+  rotate: false
+  xy: 2311, 21
+  size: 211, 206
+  orig: 211, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_5@2x
+  rotate: false
+  xy: 2523, 21
+  size: 211, 206
+  orig: 211, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_6@2x
+  rotate: false
+  xy: 2945, 10
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+PNG/EYE_WHITE@2x
+  rotate: false
+  xy: 3526, 1071
+  size: 175, 193
+  orig: 175, 193
+  offset: 0, 0
+  index: -1
+PNG/FRINGE@2x
+  rotate: true
+  xy: 3548, 656
+  size: 193, 163
+  orig: 193, 163
+  offset: 0, 0
+  index: -1
+PNG/HAND_PALM_2@2x
+  rotate: true
+  xy: 3526, 1265
+  size: 148, 186
+  orig: 148, 186
+  offset: 0, 0
+  index: -1
+PNG/HEAD_SIDE@2x
+  rotate: false
+  xy: 2352, 1460
+  size: 691, 638
+  orig: 691, 638
+  offset: 0, 0
+  index: -1
+PNG/IRIS@2x
+  rotate: true
+  xy: 3548, 538
+  size: 117, 144
+  orig: 117, 144
+  offset: 0, 0
+  index: -1
+PNG/LEG@2x
+  rotate: true
+  xy: 2352, 979
+  size: 480, 580
+  orig: 480, 580
+  offset: 0, 0
+  index: -1
+PNG/MOUTH NORMAL SIDE@2x
+  rotate: false
+  xy: 2753, 218
+  size: 225, 240
+  orig: 225, 240
+  offset: 0, 0
+  index: -1
+PNG/MOUTH OPEN 2@2x
+  rotate: false
+  xy: 2979, 240
+  size: 229, 246
+  orig: 229, 246
+  offset: 0, 0
+  index: -1
+PNG/MOUTH OPEN SIDE@2x
+  rotate: false
+  xy: 3209, 241
+  size: 229, 245
+  orig: 229, 245
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_TONGUE_SIDE@2x
+  rotate: false
+  xy: 3317, 527
+  size: 230, 240
+  orig: 230, 240
+  offset: 0, 0
+  index: -1
+PNG/NOSE SIDE@2x
+  rotate: false
+  xy: 3153, 21
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+PNG/PUPIL@2x
+  rotate: true
+  xy: 3617, 2021
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+PNG/ROCK_1
+  rotate: true
+  xy: 3617, 1766
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+PNG/ROCK_2
+  rotate: false
+  xy: 2933, 1436
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+PNG/ROCK_3
+  rotate: true
+  xy: 3302, 663
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+PNG/ROPE
+  rotate: false
+  xy: 1551, 60
+  size: 361, 83
+  orig: 361, 83
+  offset: 0, 0
+  index: -1
+PNG/TAIL@2x
+  rotate: true
+  xy: 3044, 1414
+  size: 684, 572
+  orig: 684, 572
+  offset: 0, 0
+  index: -1
+PNG/THUMB@2x
+  rotate: false
+  xy: 3617, 1676
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+PNG/TIRE_BG
+  rotate: false
+  xy: 3153, 119
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+PNG/TIRE_MG
+  rotate: false
+  xy: 2196, 33
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+PNG/TORSO@2x
+  rotate: false
+  xy: 1551, 998
+  size: 800, 1100
+  orig: 800, 1100
+  offset: 0, 0
+  index: -1
+PNG/TROWEL_1
+  rotate: false
+  xy: 3617, 1871
+  size: 66, 149
+  orig: 66, 149
+  offset: 0, 0
+  index: -1
+PNG/TROWEL_2
+  rotate: false
+  xy: 3645, 389
+  size: 67, 148
+  orig: 67, 148
+  offset: 0, 0
+  index: -1
+PNG/UNUSED BRICK
+  rotate: true
+  xy: 1913, 1
+  size: 142, 102
+  orig: 142, 102
+  offset: 0, 0
+  index: -1
+PNG/USED_BRICK
+  rotate: false
+  xy: 2016, 24
+  size: 179, 119
+  orig: 179, 119
+  offset: 0, 0
+  index: -1
+PNG/WELL_1
+  rotate: false
+  xy: 2971, 487
+  size: 330, 197
+  orig: 330, 197
+  offset: 0, 0
+  index: -1
+PNG/WELL_2
+  rotate: false
+  xy: 1551, 144
+  size: 759, 853
+  orig: 759, 853
+  offset: 0, 0
+  index: -1
+PNG/WHEELBARROW_BG
+  rotate: false
+  xy: 2971, 685
+  size: 345, 369
+  orig: 345, 369
+  offset: 0, 0
+  index: -1
+PNG/WHEELBARROW_FG
+  rotate: true
+  xy: 2753, 459
+  size: 519, 217
+  orig: 519, 217
+  offset: 0, 0
+  index: -1
+PNG/WHEELBARROW_MG
+  rotate: false
+  xy: 2933, 1055
+  size: 592, 358
+  orig: 592, 358
+  offset: 0, 0
+  index: -1

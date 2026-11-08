@@ -1,0 +1,225 @@
+[
+    {
+        "src" : "cat_endpage_en.svg",
+        "dest" : "cat_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+        },
+    {
+        "src" : "cat_endpage_fr.svg",
+        "dest" : "cat_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+        },
+    {
+"src" : "cat-blow-background.svg",
+"dest" : "cat-blow-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-blow-main.svg",
+"dest" : "cat-blow-main.png",
+"width" : 100.26041666666667,
+"height" : 66.69921875
+},
+{
+"src" : "cat-blow.svg",
+"dest" : "cat-blow.png",
+"width" : 22.135416666666664,
+"height" : 15.13671875
+},
+{
+"src" : "cat-brush-background.svg",
+"dest" : "cat-brush-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-brush-main.svg",
+"dest" : "cat-brush-main.png",
+"width" : 74.86979166666666,
+"height" : 34.9609375
+},
+{
+"src" : "cat-brush.svg",
+"dest" : "cat-brush.png",
+"width" : 18.489583333333336,
+"height" : 17.3828125
+},
+{
+"src" : "cat-candle.svg",
+"dest" : "cat-candle.png",
+"width" : 3.90625,
+"height" : 18.359375
+},
+{
+"src" : "cat-castle.svg",
+"dest" : "cat-castle.png",
+"width" : 21.223958333333336,
+"height" : 15.625
+},
+{
+"src" : "cat-caterpillar.svg",
+"dest" : "cat-caterpillar.png",
+"width" : 21.223958333333336,
+"height" : 9.9609375
+},
+{
+"src" : "cat-chair.svg",
+"dest" : "cat-chair.png",
+"width" : 22.526041666666664,
+"height" : 13.76953125
+},
+{
+"src" : "cat-chocolate.svg",
+"dest" : "cat-chocolate.png",
+"width" : 18.229166666666664,
+"height" : 17.87109375
+},
+{
+"src" : "cat-dog.svg",
+"dest" : "cat-dog.png",
+"width" : 20.442708333333336,
+"height" : 16.89453125
+},
+{
+"src" : "cat-eat-background.svg",
+"dest" : "cat-eat-background.png",
+"width" : 100.78125,
+"height" : 100.1953125
+},
+{
+"src" : "cat-eat-main.svg",
+"dest" : "cat-eat-main.png",
+"width" : 85.15625,
+"height" : 62.5
+},
+{
+"src" : "cat-eat.svg",
+"dest" : "cat-eat.png",
+"width" : 24.348958333333336,
+"height" : 17.96875
+},
+{
+"src" : "cat-hair.svg",
+"dest" : "cat-hair.png",
+"width" : 24.088541666666664,
+"height" : 17.08984375
+},
+{
+"src" : "cat-horse.svg",
+"dest" : "cat-horse.png",
+"width" : 20.963541666666664,
+"height" : 17.7734375
+},
+{
+"src" : "cat-observe-background.svg",
+"dest" : "cat-observe-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-observe-main.svg",
+"dest" : "cat-observe-main.png",
+"width" : 62.890625,
+"height" : 43.06640625
+},
+{
+"src" : "cat-observe.svg",
+"dest" : "cat-observe.png",
+"width" : 16.666666666666664,
+"height" : 17.48046875
+},
+{
+"src" : "cat-paint-background.svg",
+"dest" : "cat-paint-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-paint-main.svg",
+"dest" : "cat-paint-main.png",
+"width" : 49.34895833333333,
+"height" : 26.7578125
+},
+{
+"src" : "cat-paint.svg",
+"dest" : "cat-paint.png",
+"width" : 21.09375,
+"height" : 14.2578125
+},
+{
+"src" : "cat-playpage-ui.svg",
+"dest" : "cat-playpage-ui.png",
+"width" : 101,
+"height" : 101
+},
+{
+"src" : "cat-sleep-background.svg",
+"dest" : "cat-sleep-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-sleep-main.svg",
+"dest" : "cat-sleep-main.png",
+"width" : 29.947916666666668,
+"height" : 10.7421875
+},
+{
+"src" : "cat-sleep.svg",
+"dest" : "cat-sleep.png",
+"width" : 20.3125,
+"height" : 15.52734375
+},
+{
+"src" : "cat-tickle-background.svg",
+"dest" : "cat-tickle-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-tickle-main.svg",
+"dest" : "cat-tickle-main.png",
+"width" : 52.083333333333336,
+"height" : 33.984375
+},
+{
+"src" : "cat-tickle.svg",
+"dest" : "cat-tickle.png",
+"width" : 20.3125,
+"height" : 16.11328125
+},
+{
+"src" : "cat-wash-background.svg",
+"dest" : "cat-wash-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cat-wash-main.svg",
+"dest" : "cat-wash-main.png",
+"width" : 68.359375,
+"height" : 45.21484375
+},
+{
+"src" : "cat-wash.svg",
+"dest" : "cat-wash.png",
+"width" : 20.703125,
+"height" : 13.57421875
+},
+{
+"src" : "cat.svg",
+"dest" : "cat.png",
+"width" : 23.958333333333336,
+"height" : 14.55078125
+}
+,
+		{
+        "src" : "cat_playpage_en.svg",
+        "dest" : "cat_playpage_en.png",
+        "width" : 102,
+        "height" : 101
+    }
+]

@@ -1,0 +1,225 @@
+[
+    {
+        "src" : "gorilla_endpage_en.svg",
+        "dest" : "gorilla_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "gorilla_endpage_fr.svg",
+        "dest" : "gorilla_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+
+{
+"src" : "gorilla-boy.svg",
+"dest" : "gorilla-boy.png",
+"width" : 13.671875,
+"height" : 17.67578125
+},
+{
+"src" : "gorilla-buy-background.svg",
+"dest" : "gorilla-buy-background.png",
+"width" : 100.390625,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-buy-main.svg",
+"dest" : "gorilla-buy-main.png",
+"width" : 52.994791666666664,
+"height" : 32.51953125
+},
+{
+"src" : "gorilla-buy.svg",
+"dest" : "gorilla-buy.png",
+"width" : 24.479166666666664,
+"height" : 14.94140625
+},
+{
+"src" : "gorilla-cake.svg",
+"dest" : "gorilla-cake.png",
+"width" : 20.833333333333336,
+"height" : 12.890625
+},
+{
+"src" : "gorilla-cave.svg",
+"dest" : "gorilla-cave.png",
+"width" : 22.135416666666664,
+"height" : 13.8671875
+},
+{
+"src" : "gorilla-eat-background.svg",
+"dest" : "gorilla-eat-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-eat-main.svg",
+"dest" : "gorilla-eat-main.png",
+"width" : 100.26041666666667,
+"height" : 71.38671875
+},
+{
+"src" : "gorilla-eat.svg",
+"dest" : "gorilla-eat.png",
+"width" : 25.260416666666668,
+"height" : 18.84765625
+},
+{
+"src" : "gorilla-grass.svg",
+"dest" : "gorilla-grass.png",
+"width" : 23.828125,
+"height" : 9.375
+},
+{
+"src" : "gorilla-grill-background.svg",
+"dest" : "gorilla-grill-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-grill-main.svg",
+"dest" : "gorilla-grill-main.png",
+"width" : 71.61458333333334,
+"height" : 29.39453125
+},
+{
+"src" : "gorilla-grill.svg",
+"dest" : "gorilla-grill.png",
+"width" : 22.135416666666664,
+"height" : 17.87109375
+},
+{
+"src" : "gorilla-guitar.svg",
+"dest" : "gorilla-guitar.png",
+"width" : 18.880208333333336,
+"height" : 18.359375
+},
+{
+"src" : "gorilla-ice.svg",
+"dest" : "gorilla-ice.png",
+"width" : 18.880208333333336,
+"height" : 13.96484375
+},
+{
+"src" : "gorilla-laugh-background.svg",
+"dest" : "gorilla-laugh-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-laugh-main.svg",
+"dest" : "gorilla-laugh-main.png",
+"width" : 63.932291666666664,
+"height" : 34.5703125
+},
+{
+"src" : "gorilla-laugh.svg",
+"dest" : "gorilla-laugh.png",
+"width" : 10.9375,
+"height" : 17.96875
+},
+{
+"src" : "gorilla-look-background.svg",
+"dest" : "gorilla-look-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-look-main.svg",
+"dest" : "gorilla-look-main.png",
+"width" : 100.26041666666667,
+"height" : 76.46484375
+},
+{
+"src" : "gorilla-look.svg",
+"dest" : "gorilla-look.png",
+"width" : 16.40625,
+"height" : 16.9921875
+},
+{
+"src" : "gorilla-marshmallow.svg",
+"dest" : "gorilla-marshmallow.png",
+"width" : 18.619791666666664,
+"height" : 12.5
+},
+{
+"src" : "gorilla-mow-background.svg",
+"dest" : "gorilla-mow-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-mow-main.svg",
+"dest" : "gorilla-mow-main.png",
+"width" : 42.578125,
+"height" : 30.17578125
+},
+{
+"src" : "gorilla-mow.svg",
+"dest" : "gorilla-mow.png",
+"width" : 19.791666666666664,
+"height" : 17.7734375
+},
+{
+"src" : "gorilla-playpage-ui.svg",
+"dest" : "gorilla-playpage-ui.png",
+"width" : 102.08333333333333,
+"height" : 100.1953125
+},
+{
+"src" : "gorilla-slide-background.svg",
+"dest" : "gorilla-slide-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "gorilla-slide-main.svg",
+"dest" : "gorilla-slide-main.png",
+"width" : 56.25,
+"height" : 25.9765625
+},
+{
+"src" : "gorilla-slide.svg",
+"dest" : "gorilla-slide.png",
+"width" : 22.395833333333336,
+"height" : 16.11328125
+},
+{
+"src" : "gorilla-taste-background.svg",
+"dest" : "gorilla-taste-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "gorilla-taste-main.svg",
+"dest" : "gorilla-taste-main.png",
+"width" : 35.67708333333333,
+"height" : 29.98046875
+},
+{
+"src" : "gorilla-taste.svg",
+"dest" : "gorilla-taste.png",
+"width" : 20.833333333333336,
+"height" : 15.13671875
+},
+{
+"src" : "gorilla-waffle.svg",
+"dest" : "gorilla-waffle.png",
+"width" : 24.088541666666664,
+"height" : 9.66796875
+},
+{
+"src" : "gorilla.svg",
+"dest" : "gorilla.png",
+"width" : 14.713541666666666,
+"height" : 18.26171875
+},
+{
+"src" : "gorilla_playpage_en.svg",
+"dest" : "gorilla_playpage_en.png",
+"width" : 102.08333333333333,
+"height" : 100.1953125
+}
+]

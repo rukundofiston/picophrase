@@ -1,0 +1,335 @@
+
+cat_eats.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BAT_EYES
+  rotate: true
+  xy: 1816, 378
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+BAT_HEAD
+  rotate: false
+  xy: 1868, 335
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+BAT_TORSO
+  rotate: true
+  xy: 1460, 31
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+BAT_WING
+  rotate: false
+  xy: 318, 36
+  size: 100, 78
+  orig: 100, 78
+  offset: 0, 0
+  index: -1
+CAT_EAT_BG_1@2x
+  rotate: false
+  xy: 0, 116
+  size: 424, 908
+  orig: 424, 908
+  offset: 0, 0
+  index: -1
+CAT_EAT_BG_2@2x
+  rotate: true
+  xy: 426, 149
+  size: 390, 696
+  orig: 390, 696
+  offset: 0, 0
+  index: -1
+CAT_EAT_BG_3@2x
+  rotate: false
+  xy: 426, 541
+  size: 773, 483
+  orig: 773, 483
+  offset: 0, 0
+  index: -1
+CAT_EAT_BG_4
+  rotate: true
+  xy: 1752, 638
+  size: 386, 269
+  orig: 386, 269
+  offset: 0, 0
+  index: -1
+CHOC_1
+  rotate: true
+  xy: 791, 2
+  size: 145, 188
+  orig: 145, 188
+  offset: 0, 0
+  index: -1
+CHOC_2
+  rotate: true
+  xy: 601, 1
+  size: 146, 188
+  orig: 146, 188
+  offset: 0, 0
+  index: -1
+CHOC_3
+  rotate: true
+  xy: 981, 2
+  size: 145, 188
+  orig: 145, 188
+  offset: 0, 0
+  index: -1
+CHOC_4
+  rotate: true
+  xy: 1171, 23
+  size: 137, 184
+  orig: 137, 184
+  offset: 0, 0
+  index: -1
+CHOC_5
+  rotate: true
+  xy: 1580, 99
+  size: 126, 145
+  orig: 126, 145
+  offset: 0, 0
+  index: -1
+CHOC_6
+  rotate: false
+  xy: 201, 24
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+CHOC_7
+  rotate: false
+  xy: 1357, 42
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+CHOC_8
+  rotate: false
+  xy: 0, 6
+  size: 82, 46
+  orig: 82, 46
+  offset: 0, 0
+  index: -1
+COFFEE
+  rotate: false
+  xy: 1868, 264
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+COFFE_STEAM
+  rotate: true
+  xy: 1751, 243
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+C_ARM
+  rotate: true
+  xy: 1788, 409
+  size: 51, 205
+  orig: 51, 205
+  offset: 0, 0
+  index: -1
+C_ARM_FIST
+  rotate: false
+  xy: 318, 0
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+C_ARM_GRAB
+  rotate: false
+  xy: 1304, 556
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+C_ARM_HOLD
+  rotate: false
+  xy: 84, 9
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+C_ARM_POINT
+  rotate: false
+  xy: 1580, 59
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+C_BROW
+  rotate: false
+  xy: 1580, 43
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+C_EYE
+  rotate: true
+  xy: 1541, 0
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+C_EYE_CLOSED
+  rotate: false
+  xy: 1124, 149
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+C_HEAD_FRONTAL
+  rotate: true
+  xy: 1592, 227
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+C_IRIS
+  rotate: true
+  xy: 381, 6
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+C_L_LEG_SIT
+  rotate: false
+  xy: 1377, 104
+  size: 201, 174
+  orig: 201, 174
+  offset: 0, 0
+  index: -1
+C_MOUTH_IDLE
+  rotate: true
+  xy: 1727, 187
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+C_MOUTH_O_1
+  rotate: false
+  xy: 1752, 602
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+C_MOUTH_O_2
+  rotate: false
+  xy: 1257, 549
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+C_MOUTH_SMILE_1
+  rotate: false
+  xy: 1945, 372
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+C_MOUTH_SMILE_2
+  rotate: true
+  xy: 1541, 43
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+C_MUZZLE_FRONTAL
+  rotate: true
+  xy: 1995, 344
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+C_NOSE
+  rotate: true
+  xy: 353, 0
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+C_PUPIL
+  rotate: false
+  xy: 1996, 614
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+C_R_EAR
+  rotate: true
+  xy: 1201, 541
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+C_R_LEG_SIT
+  rotate: false
+  xy: 1788, 462
+  size: 206, 174
+  orig: 206, 174
+  offset: 0, 0
+  index: -1
+C_SLEEVE_GREEN
+  rotate: true
+  xy: 0, 54
+  size: 60, 199
+  orig: 60, 199
+  offset: 0, 0
+  index: -1
+C_SUIT_GREEN
+  rotate: true
+  xy: 426, 0
+  size: 147, 173
+  orig: 147, 173
+  offset: 0, 0
+  index: -1
+C_TAIL
+  rotate: false
+  xy: 1592, 378
+  size: 194, 210
+  orig: 194, 210
+  offset: 0, 0
+  index: -1
+C_TONGUE
+  rotate: false
+  xy: 1788, 378
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+C_TORSO
+  rotate: false
+  xy: 1377, 280
+  size: 213, 308
+  orig: 213, 308
+  offset: 0, 0
+  index: -1
+C_WHISKERS
+  rotate: true
+  xy: 2023, 998
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+ROCK_CHAIR_1
+  rotate: true
+  xy: 1201, 590
+  size: 434, 549
+  orig: 434, 549
+  offset: 0, 0
+  index: -1
+ROCK_CHAIR_2
+  rotate: true
+  xy: 1124, 162
+  size: 377, 251
+  orig: 377, 251
+  offset: 0, 0
+  index: -1

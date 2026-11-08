@@ -1,0 +1,221 @@
+
+whale_kicks.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BIKE_SHADOW
+  rotate: false
+  xy: 0, 1817
+  size: 378, 36
+  orig: 378, 36
+  offset: 0, 0
+  index: -1
+PNG/BUMP@2x
+  rotate: false
+  xy: 1709, 1734
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+PNG/HEADBAND@2x
+  rotate: false
+  xy: 0, 907
+  size: 643, 354
+  orig: 643, 354
+  offset: 0, 0
+  index: -1
+PNG/WHALE_ARM_1@2x
+  rotate: true
+  xy: 829, 1242
+  size: 300, 580
+  orig: 300, 580
+  offset: 0, 0
+  index: -1
+PNG/WHALE_ARM_1_FG@2x
+  rotate: true
+  xy: 1411, 1176
+  size: 300, 580
+  orig: 300, 580
+  offset: 0, 0
+  index: -1
+PNG/WHALE_BROW@2x
+  rotate: false
+  xy: 621, 1772
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE@2x
+  rotate: true
+  xy: 1311, 1544
+  size: 202, 210
+  orig: 202, 210
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE_CLOSED@2x
+  rotate: false
+  xy: 849, 1766
+  size: 216, 87
+  orig: 216, 87
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE_OUCH@2x
+  rotate: false
+  xy: 765, 1771
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+PNG/WHALE_FOOT@2x
+  rotate: true
+  xy: 939, 1564
+  size: 190, 370
+  orig: 190, 370
+  offset: 0, 0
+  index: -1
+PNG/WHALE_IRIS@2x
+  rotate: true
+  xy: 205, 1680
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+PNG/WHALE_LOWER_TEETH@2x
+  rotate: false
+  xy: 1272, 1756
+  size: 195, 97
+  orig: 195, 97
+  offset: 0, 0
+  index: -1
+PNG/WHALE_MOUTH_1@2x
+  rotate: false
+  xy: 1830, 1723
+  size: 203, 130
+  orig: 203, 130
+  offset: 0, 0
+  index: -1
+PNG/WHALE_MOUTH_1_B@2x
+  rotate: false
+  xy: 0, 1684
+  size: 203, 131
+  orig: 203, 131
+  offset: 0, 0
+  index: -1
+PNG/WHALE_PUPIL@2x
+  rotate: true
+  xy: 1067, 1766
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+PNG/WHALE_TONGUE@2x
+  rotate: true
+  xy: 494, 1776
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+PNG/WHALE_UPPER_TEETH@2x
+  rotate: false
+  xy: 1469, 1748
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1
+PNG/basket ball
+  rotate: true
+  xy: 1168, 1759
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+PNG/bench
+  rotate: false
+  xy: 0, 1359
+  size: 397, 283
+  orig: 397, 283
+  offset: 0, 0
+  index: -1
+PNG/bicycle
+  rotate: false
+  xy: 1523, 1478
+  size: 401, 243
+  orig: 401, 243
+  offset: 0, 0
+  index: -1
+PNG/bottle
+  rotate: true
+  xy: 380, 1801
+  size: 52, 112
+  orig: 52, 112
+  offset: 0, 0
+  index: -1
+PNG/goal
+  rotate: false
+  xy: 399, 1263
+  size: 428, 350
+  orig: 428, 350
+  offset: 0, 0
+  index: -1
+PNG/shadow2
+  rotate: false
+  xy: 348, 1644
+  size: 437, 125
+  orig: 437, 125
+  offset: 0, 0
+  index: -1
+PNG/sky
+  rotate: false
+  xy: 0, 0
+  size: 1557, 519
+  orig: 1557, 519
+  offset: 0, 0
+  index: -1
+PNG/soccer ball
+  rotate: true
+  xy: 787, 1615
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+PNG/white line
+  rotate: false
+  xy: 0, 521
+  size: 1560, 384
+  orig: 1560, 384
+  offset: 0, 0
+  index: -1
+
+whale_kicks2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/grass
+  rotate: false
+  xy: 0, 0
+  size: 1557, 1609
+  orig: 1557, 1609
+  offset: 0, 0
+  index: -1
+
+whale_kicks3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/WHALE_TORSO_BLUE@2x
+  rotate: false
+  xy: 0, 0
+  size: 1000, 1400
+  orig: 1000, 1400
+  offset: 0, 0
+  index: -1
+PNG/WHALE_TORSO_WHITE@2x
+  rotate: false
+  xy: 1002, 0
+  size: 1000, 1400
+  orig: 1000, 1400
+  offset: 0, 0
+  index: -1

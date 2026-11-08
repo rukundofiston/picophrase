@@ -1,0 +1,32 @@
+[
+    {
+        "src" : "home_icon.svg",
+        "dest" : "home_icon.png",
+        "width" : 10,
+        "height" : 10
+    },
+    {
+        "src" : "parent_info_en.svg",
+        "dest" : "parent_info_en.png",
+        "width" : 20,
+        "height" : 20
+    },
+    {
+        "src" : "parent_info_fr.svg",
+        "dest" : "parent_info_fr.png",
+        "width" : 20,
+        "height" : 20
+    },
+    {
+        "src" : "options_button.svg",
+        "dest" : "options_button.png",
+        "width" : 40,
+        "height" : 14
+    },
+    {
+        "src" : "play_green.svg",
+        "dest" : "play_green.png",
+        "width" : 40,
+        "height" : 14
+    }
+]

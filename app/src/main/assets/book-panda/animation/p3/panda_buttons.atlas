@@ -1,0 +1,174 @@
+
+panda_buttons.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM_PAJAMA
+  rotate: false
+  xy: 742, 118
+  size: 158, 186
+  orig: 158, 186
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: true
+  xy: 419, 290
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+PNG/BUTTON
+  rotate: false
+  xy: 902, 283
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+PNG/EAR
+  rotate: false
+  xy: 490, 16
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 913, 698
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+PNG/EYELID_1
+  rotate: true
+  xy: 665, 13
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+PNG/EYELID_2
+  rotate: false
+  xy: 979, 975
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+PNG/EYELID_3
+  rotate: false
+  xy: 979, 926
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+PNG/EYELID_4
+  rotate: false
+  xy: 913, 741
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+PNG/FOOT
+  rotate: true
+  xy: 913, 898
+  size: 124, 64
+  orig: 124, 64
+  offset: 0, 0
+  index: -1
+PNG/HAND
+  rotate: false
+  xy: 579, 15
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: false
+  xy: 490, 98
+  size: 250, 220
+  orig: 250, 220
+  offset: 0, 0
+  index: -1
+PNG/L_PAJAMA
+  rotate: false
+  xy: 571, 320
+  size: 178, 307
+  orig: 178, 307
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O
+  rotate: true
+  xy: 742, 101
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+PNG/MUZZLE
+  rotate: true
+  xy: 913, 790
+  size: 106, 38
+  orig: 106, 38
+  offset: 0, 0
+  index: -1
+PNG/NOSE
+  rotate: false
+  xy: 665, 56
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: true
+  xy: 387, 293
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+PNG/R_PAJAMA
+  rotate: false
+  xy: 751, 306
+  size: 178, 307
+  orig: 178, 307
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: true
+  xy: 0, 1
+  size: 287, 330
+  orig: 287, 330
+  offset: 0, 0
+  index: -1
+PNG/TROUSER
+  rotate: true
+  xy: 332, 0
+  size: 288, 156
+  orig: 288, 156
+  offset: 0, 0
+  index: -1
+PNG/button_
+  rotate: false
+  xy: 0, 290
+  size: 385, 337
+  orig: 385, 337
+  offset: 0, 0
+  index: -1
+PNG/button__1@2x
+  rotate: false
+  xy: 771, 615
+  size: 140, 407
+  orig: 140, 407
+  offset: 0, 0
+  index: -1
+PNG/button__2@2x
+  rotate: false
+  xy: 387, 321
+  size: 182, 306
+  orig: 182, 306
+  offset: 0, 0
+  index: -1
+PNG/button__3@2x
+  rotate: false
+  xy: 0, 629
+  size: 769, 393
+  orig: 769, 393
+  offset: 0, 0
+  index: -1

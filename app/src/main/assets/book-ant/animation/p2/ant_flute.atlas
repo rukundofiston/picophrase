@@ -1,0 +1,314 @@
+
+ant_flute.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABDOMEN
+  rotate: false
+  xy: 1617, 365
+  size: 177, 147
+  orig: 177, 147
+  offset: 0, 0
+  index: -1
+ANTENNAE_LEFT
+  rotate: false
+  xy: 1347, 76
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+ARM_LEFT
+  rotate: false
+  xy: 130, 23
+  size: 212, 22
+  orig: 212, 22
+  offset: 0, 0
+  index: -1
+A_FLUTE_BG_1
+  rotate: false
+  xy: 772, 50
+  size: 385, 462
+  orig: 385, 462
+  offset: 0, 0
+  index: -1
+A_FLUTE_BG_2@2x
+  rotate: false
+  xy: 0, 47
+  size: 770, 465
+  orig: 770, 465
+  offset: 0, 0
+  index: -1
+A_FLUTE_BG_3
+  rotate: false
+  xy: 1950, 372
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+CHEST
+  rotate: false
+  xy: 1480, 78
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+ELEPHANT_EAR_L
+  rotate: false
+  xy: 1264, 0
+  size: 81, 125
+  orig: 81, 125
+  offset: 0, 0
+  index: -1
+ELEPHANT_EAR_R
+  rotate: true
+  xy: 1347, 21
+  size: 53, 106
+  orig: 53, 106
+  offset: 0, 0
+  index: -1
+ELEPHANT_EYE
+  rotate: true
+  xy: 1080, 20
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ELEPHANT_L_LEG
+  rotate: false
+  xy: 1950, 389
+  size: 76, 123
+  orig: 76, 123
+  offset: 0, 0
+  index: -1
+ELEPHANT_L_LEG_1
+  rotate: true
+  xy: 772, 0
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+ELEPHANT_L_PAW
+  rotate: false
+  xy: 1796, 273
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+ELEPHANT_R_PAW
+  rotate: false
+  xy: 1865, 272
+  size: 63, 93
+  orig: 63, 93
+  offset: 0, 0
+  index: -1
+ELEPHANT_TAIL
+  rotate: false
+  xy: 1769, 250
+  size: 25, 113
+  orig: 25, 113
+  offset: 0, 0
+  index: -1
+ELEPHANT_TORSO
+  rotate: false
+  xy: 1345, 270
+  size: 270, 242
+  orig: 270, 242
+  offset: 0, 0
+  index: -1
+EYEBROW_LEFT
+  rotate: false
+  xy: 1617, 198
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+EYE_CLOSED
+  rotate: true
+  xy: 2028, 478
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+EYE_LEFT
+  rotate: true
+  xy: 840, 8
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+FLUTE
+  rotate: false
+  xy: 0, 0
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+GIRAFFE_BODY
+  rotate: false
+  xy: 1159, 127
+  size: 184, 385
+  orig: 184, 385
+  offset: 0, 0
+  index: -1
+GIRAFFE_EYE
+  rotate: true
+  xy: 459, 22
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+GIRAFFE_EYE_CLOSED
+  rotate: false
+  xy: 1930, 356
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+GIRAFFE_PUPIL
+  rotate: false
+  xy: 1071, 0
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+GIRAFFE_TAIL
+  rotate: false
+  xy: 1592, 195
+  size: 23, 73
+  orig: 23, 73
+  offset: 0, 0
+  index: -1
+HAND_FLUTE
+  rotate: false
+  xy: 1040, 0
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+HAND_HOLDING
+  rotate: false
+  xy: 1040, 19
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+HAND_HOLDING_2
+  rotate: true
+  xy: 1769, 219
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+HAND_LEFT_1
+  rotate: false
+  xy: 996, 15
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+HAT_CLOWN
+  rotate: false
+  xy: 1159, 0
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+HEAD_FRONT
+  rotate: true
+  xy: 1796, 367
+  size: 145, 152
+  orig: 145, 152
+  offset: 0, 0
+  index: -1
+HEAD_SIDE
+  rotate: true
+  xy: 1617, 214
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+LEG_LEFT
+  rotate: true
+  xy: 1345, 192
+  size: 76, 245
+  orig: 76, 245
+  offset: 0, 0
+  index: -1
+MOUTH_EATS
+  rotate: true
+  xy: 1455, 23
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+MOUTH_O
+  rotate: true
+  xy: 942, 0
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_1
+  rotate: false
+  xy: 422, 21
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_2
+  rotate: false
+  xy: 1347, 3
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_3
+  rotate: false
+  xy: 942, 15
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_SIDE
+  rotate: true
+  xy: 130, 0
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+MOUTH_TONGUE
+  rotate: false
+  xy: 376, 20
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: true
+  xy: 142, 0
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+NOTE_1
+  rotate: false
+  xy: 344, 0
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+NOTE_2
+  rotate: true
+  xy: 893, 7
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+PUPIL_LEFT
+  rotate: true
+  xy: 1117, 21
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1

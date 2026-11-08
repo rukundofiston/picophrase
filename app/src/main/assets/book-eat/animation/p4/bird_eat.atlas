@@ -1,0 +1,97 @@
+
+bird_eat.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BIRD_BG_1
+  rotate: true
+  xy: 971, 123
+  size: 384, 512
+  orig: 384, 512
+  offset: 0, 0
+  index: -1
+PNG/BRANCH
+  rotate: false
+  xy: 0, 32
+  size: 969, 475
+  orig: 969, 475
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 1485, 132
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 1580, 156
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+PNG/LEAF
+  rotate: false
+  xy: 1365, 5
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+PNG/LOWER_BEAK
+  rotate: true
+  xy: 1979, 427
+  size: 80, 23
+  orig: 80, 23
+  offset: 0, 0
+  index: -1
+PNG/L_FOOT
+  rotate: false
+  xy: 0, 0
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+PNG/L_WING
+  rotate: true
+  xy: 971, 4
+  size: 117, 195
+  orig: 117, 195
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 1878, 197
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+PNG/R_WING
+  rotate: true
+  xy: 1168, 4
+  size: 117, 195
+  orig: 117, 195
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: false
+  xy: 1485, 196
+  size: 391, 311
+  orig: 391, 311
+  offset: 0, 0
+  index: -1
+PNG/UPPER_BEAK
+  rotate: false
+  xy: 1485, 155
+  size: 93, 39
+  orig: 93, 39
+  offset: 0, 0
+  index: -1
+PNG/WORM
+  rotate: true
+  xy: 1878, 212
+  size: 295, 99
+  orig: 295, 99
+  offset: 0, 0
+  index: -1

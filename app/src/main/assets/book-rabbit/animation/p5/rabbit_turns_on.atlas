@@ -1,0 +1,342 @@
+
+rabbit_turns_on.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BALL
+  rotate: false
+  xy: 966, 288
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+PNG/BED
+  rotate: false
+  xy: 1159, 722
+  size: 340, 302
+  orig: 340, 302
+  offset: 0, 0
+  index: -1
+PNG/BLANKET
+  rotate: false
+  xy: 0, 85
+  size: 541, 328
+  orig: 541, 328
+  offset: 0, 0
+  index: -1
+PNG/ELEPHANT
+  rotate: true
+  xy: 1098, 123
+  size: 163, 150
+  orig: 163, 150
+  offset: 0, 0
+  index: -1
+PNG/FILTER_1
+  rotate: false
+  xy: 543, 138
+  size: 200, 275
+  orig: 200, 275
+  offset: 0, 0
+  index: -1
+PNG/FILTER_2
+  rotate: true
+  xy: 1739, 822
+  size: 202, 268
+  orig: 202, 268
+  offset: 0, 0
+  index: -1
+PNG/HORSE
+  rotate: true
+  xy: 1501, 565
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
+PNG/LAMP_COVER
+  rotate: true
+  xy: 926, 10
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: -1
+PNG/LAMP_LIGHT
+  rotate: false
+  xy: 745, 133
+  size: 184, 157
+  orig: 184, 157
+  offset: 0, 0
+  index: -1
+PNG/LAMP_STAND
+  rotate: true
+  xy: 138, 35
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+PNG/LEGO
+  rotate: false
+  xy: 0, 18
+  size: 136, 65
+  orig: 136, 65
+  offset: 0, 0
+  index: -1
+PNG/RAB_BROW
+  rotate: true
+  xy: 1079, 0
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+PNG/RAB_EAR
+  rotate: true
+  xy: 706, 3
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE
+  rotate: true
+  xy: 324, 37
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYELID_1
+  rotate: true
+  xy: 386, 37
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYELID_2
+  rotate: true
+  xy: 446, 37
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYELID_3
+  rotate: true
+  xy: 1662, 522
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYELID_4
+  rotate: true
+  xy: 1839, 779
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE_CLOSED
+  rotate: true
+  xy: 1483, 682
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/RAB_HEAD
+  rotate: false
+  xy: 1193, 516
+  size: 191, 204
+  orig: 191, 204
+  offset: 0, 0
+  index: -1
+PNG/RAB_IRIS
+  rotate: false
+  xy: 2009, 981
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+PNG/RAB_LEG
+  rotate: false
+  xy: 772, 292
+  size: 192, 165
+  orig: 192, 165
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_ARM
+  rotate: false
+  xy: 1094, 496
+  size: 97, 217
+  orig: 97, 217
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_1
+  rotate: false
+  xy: 1483, 512
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_2
+  rotate: true
+  xy: 1601, 519
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_3
+  rotate: true
+  xy: 1543, 512
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_1
+  rotate: false
+  xy: 1953, 771
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_2
+  rotate: false
+  xy: 1189, 49
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_OW
+  rotate: false
+  xy: 745, 371
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_WOW
+  rotate: true
+  xy: 1193, 474
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_UPPER_FRONT
+  rotate: false
+  xy: 1739, 792
+  size: 98, 28
+  orig: 98, 28
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_UPPER_FRONT_SAD
+  rotate: false
+  xy: 138, 0
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+PNG/RAB_MUZZLE
+  rotate: true
+  xy: 1386, 512
+  size: 208, 95
+  orig: 208, 95
+  offset: 0, 0
+  index: -1
+PNG/RAB_NOSE
+  rotate: true
+  xy: 745, 341
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+PNG/RAB_PUPIL
+  rotate: false
+  xy: 1054, 0
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+PNG/RAB_R_PAW
+  rotate: false
+  xy: 1899, 771
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_TAIL
+  rotate: false
+  xy: 1098, 32
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+PNG/RAB_TEETH
+  rotate: false
+  xy: 506, 50
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+PNG/RAB_TONGUE
+  rotate: false
+  xy: 2009, 947
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO
+  rotate: true
+  xy: 772, 459
+  size: 254, 320
+  orig: 254, 320
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO_2
+  rotate: false
+  xy: 1501, 788
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+PNG/SANDALS
+  rotate: true
+  xy: 852, 3
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: -1
+PNG/SWITCH_OFF
+  rotate: false
+  xy: 1054, 32
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+PNG/SWITCH_ON
+  rotate: true
+  xy: 230, 41
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+PNG/turnson_
+  rotate: false
+  xy: 772, 715
+  size: 385, 309
+  orig: 385, 309
+  offset: 0, 0
+  index: -1
+PNG/turnson__1@2x
+  rotate: true
+  xy: 931, 126
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+PNG/turnson__2@2x
+  rotate: false
+  xy: 543, 24
+  size: 161, 112
+  orig: 161, 112
+  offset: 0, 0
+  index: -1
+PNG/turnson__3@2x
+  rotate: false
+  xy: 0, 415
+  size: 770, 609
+  orig: 770, 609
+  offset: 0, 0
+  index: -1

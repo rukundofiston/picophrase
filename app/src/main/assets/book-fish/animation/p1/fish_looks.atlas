@@ -1,0 +1,167 @@
+
+fish_looks.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BIPOD
+  rotate: false
+  xy: 571, 332
+  size: 183, 206
+  orig: 183, 206
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 0, 0
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_1
+  rotate: false
+  xy: 639, 280
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_2
+  rotate: false
+  xy: 1749, 921
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+PNG/FISH_EYE
+  rotate: false
+  xy: 571, 245
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+PNG/FISH_EYE_CLOSED
+  rotate: false
+  xy: 257, 49
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+PNG/FISH_EYE_CLOSED_2
+  rotate: false
+  xy: 314, 113
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+PNG/FISH_IRIS
+  rotate: false
+  xy: 571, 186
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+PNG/FISH_LOOK_1@2x
+  rotate: false
+  xy: 0, 540
+  size: 770, 480
+  orig: 770, 480
+  offset: 0, 0
+  index: -1
+PNG/FISH_LOOK_2@2x
+  rotate: true
+  xy: 0, 137
+  size: 401, 569
+  orig: 401, 569
+  offset: 0, 0
+  index: -1
+PNG/FISH_LOOK_3
+  rotate: false
+  xy: 1123, 690
+  size: 385, 330
+  orig: 385, 330
+  offset: 0, 0
+  index: -1
+PNG/FISH_PUPIL
+  rotate: false
+  xy: 1812, 984
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+PNG/HEAD_TORSO
+  rotate: false
+  xy: 772, 549
+  size: 349, 471
+  orig: 349, 471
+  offset: 0, 0
+  index: -1
+PNG/MONOCULAR
+  rotate: false
+  xy: 1510, 875
+  size: 237, 145
+  orig: 237, 145
+  offset: 0, 0
+  index: -1
+PNG/MONOCULAR_VIEWFINDER
+  rotate: true
+  xy: 1601, 840
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_1
+  rotate: false
+  xy: 257, 77
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_2
+  rotate: false
+  xy: 1288, 637
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+PNG/PLANET
+  rotate: false
+  xy: 756, 530
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+PNG/REAR_FIN
+  rotate: false
+  xy: 0, 22
+  size: 255, 113
+  orig: 255, 113
+  offset: 0, 0
+  index: -1
+PNG/SIDE_FIN
+  rotate: true
+  xy: 1123, 569
+  size: 119, 163
+  orig: 119, 163
+  offset: 0, 0
+  index: -1
+PNG/STAR
+  rotate: false
+  xy: 1749, 960
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+PNG/TEETH
+  rotate: false
+  xy: 1510, 822
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+PNG/TONGUE
+  rotate: false
+  xy: 1510, 778
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1

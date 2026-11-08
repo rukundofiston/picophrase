@@ -1,0 +1,209 @@
+
+panda_push.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM
+  rotate: false
+  xy: 934, 311
+  size: 221, 150
+  orig: 221, 150
+  offset: 0, 0
+  index: -1
+PNG/BELT
+  rotate: false
+  xy: 1954, 757
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 84, 21
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+PNG/DOLL_BODY
+  rotate: false
+  xy: 1831, 727
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+PNG/DOLL_HEAD
+  rotate: false
+  xy: 0, 0
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+PNG/DOLL_LEG
+  rotate: false
+  xy: 1157, 337
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+PNG/DOLL_L_ARM
+  rotate: false
+  xy: 84, 34
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+PNG/DOLL_R_ARM
+  rotate: true
+  xy: 1831, 694
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+PNG/EAR
+  rotate: false
+  xy: 934, 229
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 857, 26
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+PNG/HAND
+  rotate: false
+  xy: 1157, 380
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: false
+  xy: 1831, 821
+  size: 211, 203
+  orig: 211, 203
+  offset: 0, 0
+  index: -1
+PNG/LEG
+  rotate: true
+  xy: 674, 0
+  size: 133, 181
+  orig: 133, 181
+  offset: 0, 0
+  index: -1
+PNG/MOUTH
+  rotate: false
+  xy: 348, 88
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O
+  rotate: true
+  xy: 913, 446
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+PNG/MUZZLE
+  rotate: false
+  xy: 841, 425
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+PNG/NOSE
+  rotate: false
+  xy: 1243, 422
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+PNG/NOTE_1
+  rotate: false
+  xy: 857, 65
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+PNG/NOTE_2
+  rotate: false
+  xy: 934, 165
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 841, 396
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/STROLLER
+  rotate: false
+  xy: 1542, 458
+  size: 300, 234
+  orig: 300, 234
+  offset: 0, 0
+  index: -1
+PNG/TAIL
+  rotate: false
+  xy: 771, 396
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: false
+  xy: 1542, 694
+  size: 287, 330
+  orig: 287, 330
+  offset: 0, 0
+  index: -1
+PNG/UMBRELLA_BG
+  rotate: false
+  xy: 348, 116
+  size: 324, 278
+  orig: 324, 278
+  offset: 0, 0
+  index: -1
+PNG/UMBRELLA_FG
+  rotate: false
+  xy: 0, 84
+  size: 346, 310
+  orig: 346, 310
+  offset: 0, 0
+  index: -1
+PNG/UMBRELLA_STICK
+  rotate: false
+  xy: 674, 135
+  size: 258, 259
+  orig: 258, 259
+  offset: 0, 0
+  index: -1
+PNG/WHEEL
+  rotate: false
+  xy: 1023, 260
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+PNG/push_@2x
+  rotate: false
+  xy: 771, 463
+  size: 769, 561
+  orig: 769, 561
+  offset: 0, 0
+  index: -1
+PNG/push__1@2x
+  rotate: false
+  xy: 0, 396
+  size: 769, 628
+  orig: 769, 628
+  offset: 0, 0
+  index: -1

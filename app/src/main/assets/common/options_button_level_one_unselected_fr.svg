@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 257 185.2">
+<defs>
+<linearGradient id="linear-gradient" x1="126.63" y1="230.84" x2="130.86" y2="-107.76" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0021d6"/>
+<stop offset="0.14" stop-color="#002ed6"/>
+<stop offset="0.47" stop-color="#0047d5"/>
+<stop offset="0.76" stop-color="#0057d4"/>
+<stop offset="1" stop-color="#005cd4"/>
+</linearGradient>
+<radialGradient id="radial-gradient" cx="-936.27" cy="660.56" r="258" gradientTransform="translate(954.95 -489.33) scale(0.88 0.88)" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#3dedff"/>
+<stop offset="1" stop-color="#0058ff"/>
+</radialGradient>
+<linearGradient id="linear-gradient-2" x1="127.03" y1="198.18" x2="130.27" y2="-60.48" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#31b7e8" stop-opacity="0"/>
+<stop offset="1" stop-color="#c5cbff"/>
+</linearGradient></defs>
+<title>options_button_level_one_unselected_fr</title>
+<g style="isolation:isolate">
+<g id="Calque_2" data-name="Calque 2">
+<g id="Capa_1" data-name="Capa 1">
+<rect x="0.02" width="256.67" height="185.02" rx="40.66" ry="40.66" style="fill:url(#linear-gradient)"/>
+<rect x="7.09" y="7.07" width="242.53" height="170.87" rx="33.59" ry="33.59" style="fill:url(#radial-gradient)"/>
+<rect x="22.12" y="22.1" width="212.47" height="140.82" rx="18.56" ry="18.56" style="mix-blend-mode:screen;fill:url(#linear-gradient-2)"/>
+<path d="M121.71,75.36,109.2,78.22l-3.92-15.9L127,56.17H142V130.9H121.71Z" style="fill:#092063"/>
+<rect y="0.2" width="257" height="185" rx="40.66" ry="40.66" style="fill:#03001a;opacity:0.5"/>
+</g>
+</g>
+</g>
+</svg>

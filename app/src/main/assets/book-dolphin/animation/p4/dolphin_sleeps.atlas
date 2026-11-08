@@ -1,0 +1,146 @@
+
+dolphin_sleeps.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 0, 484
+  size: 404, 538
+  orig: 404, 538
+  offset: 0, 0
+  index: -1
+Belly
+  rotate: true
+  xy: 894, 448
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+Blanket
+  rotate: false
+  xy: 0, 21
+  size: 326, 183
+  orig: 326, 183
+  offset: 0, 0
+  index: -1
+BodyBack
+  rotate: false
+  xy: 328, 22
+  size: 315, 182
+  orig: 315, 182
+  offset: 0, 0
+  index: -1
+Curtain
+  rotate: true
+  xy: 406, 519
+  size: 126, 340
+  orig: 126, 340
+  offset: 0, 0
+  index: -1
+Doll1
+  rotate: false
+  xy: 689, 674
+  size: 158, 166
+  orig: 158, 166
+  offset: 0, 0
+  index: -1
+Doll2
+  rotate: false
+  xy: 689, 855
+  size: 145, 167
+  orig: 145, 167
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 406, 492
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: true
+  xy: 0, 0
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 894, 377
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+FinBack
+  rotate: true
+  xy: 836, 944
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+FinFront
+  rotate: true
+  xy: 913, 552
+  size: 129, 64
+  orig: 129, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 849, 683
+  size: 133, 157
+  orig: 133, 157
+  offset: 0, 0
+  index: -1
+LawnMower
+  rotate: true
+  xy: 645, 14
+  size: 228, 251
+  orig: 228, 251
+  offset: 0, 0
+  index: -1
+Painting
+  rotate: false
+  xy: 894, 842
+  size: 114, 180
+  orig: 114, 180
+  offset: 0, 0
+  index: -1
+Panda
+  rotate: true
+  xy: 748, 536
+  size: 136, 163
+  orig: 136, 163
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: false
+  xy: 836, 885
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+Sofa
+  rotate: false
+  xy: 0, 206
+  size: 510, 276
+  orig: 510, 276
+  offset: 0, 0
+  index: -1
+WindowDoor
+  rotate: false
+  xy: 406, 647
+  size: 281, 375
+  orig: 281, 375
+  offset: 0, 0
+  index: -1
+WindowPane
+  rotate: true
+  xy: 512, 244
+  size: 273, 380
+  orig: 273, 380
+  offset: 0, 0
+  index: -1

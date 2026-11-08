@@ -1,0 +1,263 @@
+{
+    "android": {
+        "iap": {
+            "items": {
+                "book-duck": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.canard"
+                },
+                "book-ant": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.forumi"
+                },
+                "book-cat": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.cat"
+                },
+                "book-cow": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.cow"
+                },
+                "book-fish": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.fish"
+                },
+                "book-fox": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.fox"
+                },
+                "book-giraffe": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.giraffe"
+                },
+                "book-hurt": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.hurt"
+                },
+                "book-lion": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.lion"
+                },
+                "book-mouse": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.mouse"
+                },
+                "book-rabbit": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.rabbit"
+                },
+                "book-zebra": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.zebra"
+                },
+                "book-gorilla": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.gorilla"
+                },
+                "book-eat+panda": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.m_p"
+                },
+                "book-panda": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.pingouin"
+                },
+                "bundle1": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.m_p_c_f"
+                },
+                "bundle2": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.c_r_g_f_g"
+                },
+                "bundle3": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.l_c_z_f_m"
+                },
+                "bundle4": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.everything"
+                },
+                "book-eat": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.mmm"
+                },
+                "book-elf": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.elf"
+                },
+                "book-chipmunk": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.chipmunk"
+                },
+                "book-dolphin": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.dolphin"
+                },
+                "book-sheep": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.sheep"
+                },
+                "book-spider": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.spider"
+                },
+                "book-teddy": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.teddy"
+                },
+                "book-turtle": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.turtle"
+                },
+                "book-whale": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.whale"
+                },
+                "bundle5": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.d_w_e_t"
+                },
+                "bundle6": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.s_c_b_s"
+                },
+                "bundle7": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.all22"
+                }
+            },
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7eIGu7dRcBRBSC05cYvxjBMd7cqq9w6++1er+cqO2tyWPtWB4vuTkliq4k/Fkylx5UMfptdOYOW8ENgQyVucs/NyuOAGmve4j5JFhLPcLa6LjO2HUSY6zk04DRR9Zw7YPET4WAezZTz8jYMGhPG08HYltVj8cmSpSFWd1nI0pGOJoLQIMkIkXplgnPQRbMpuOu70vnQQBS1RFcoFT7OjaV8U0cfJzMoS1TMkGqaJKks2T+qOBNTtkXzge92EnvYIkhpCfN98dj6aQmETNp5yj5Fa+jcbAVF8dy5xymJwioL89XQKfKkGR+P6ESMoBEPfIZYIlMU8EUwmC+UKGLujQIDAQAB"
+        }
+    },
+    "ios": {
+        "iap": {
+            "items": {
+                "book-duck": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.canard"
+                },
+                "book-ant": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.forumi"
+                },
+                "book-cat": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.cat"
+                },
+                "book-cow": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.cow"
+                },
+                "book-fish": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.fish"
+                },
+                "book-fox": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.fox"
+                },
+                "book-giraffe": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.giraffe"
+                },
+                "book-hurt": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.hurt"
+                },
+                "book-lion": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.lion"
+                },
+                "book-mouse": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.mouse"
+                },
+                "book-rabbit": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.rabbit"
+                },
+                "book-zebra": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.zebra"
+                },
+                "book-gorilla": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.gorilla"
+                },
+                "book-eat+panda": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.m_p"
+                },
+                "book-panda": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.pingouin"
+                },
+                "bundle1": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.m_p_c_f"
+                },
+                "bundle2": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.c_r_g_f_g"
+                },
+                "bundle3": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.l_c_z_f_m"
+                },
+                "bundle4": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.everything"
+                },
+                "book-eat": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.mmm"
+                },
+                "book-elf": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.elf"
+                },
+                "book-chipmunk": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.chipmunk"
+                },
+                "book-dolphin": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.dolphin"
+                },
+                "book-sheep": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.sheep"
+                },
+                "book-spider": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.spider"
+                },
+                "book-teddy": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.teddy"
+                },
+                "book-turtle": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.turtle"
+                },
+                "book-whale": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.whale"
+                },
+                "bundle5": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.d_w_e_t"
+                },
+                "bundle6": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.s_c_b_s"
+                },
+                "bundle7": {
+                    "type": "non_consumable",
+                    "id": "com.symbolicone.ouille.all22"
+                }
+            }
+        }
+    }
+}

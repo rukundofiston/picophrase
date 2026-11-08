@@ -1,0 +1,216 @@
+
+cow_pushes.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BIKE
+  rotate: false
+  xy: 771, 440
+  size: 374, 260
+  orig: 374, 260
+  offset: 0, 0
+  index: -1
+PNG/COW_BROW
+  rotate: false
+  xy: 1390, 797
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+PNG/COW_EYE
+  rotate: false
+  xy: 908, 271
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_HEAD_HELMET
+  rotate: false
+  xy: 1672, 872
+  size: 165, 152
+  orig: 165, 152
+  offset: 0, 0
+  index: -1
+PNG/COW_IRIS
+  rotate: false
+  xy: 545, 83
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+PNG/COW_LIP_NOSE
+  rotate: false
+  xy: 475, 58
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+PNG/COW_LOWER_LIP
+  rotate: false
+  xy: 1390, 810
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+PNG/COW_L_ARM
+  rotate: true
+  xy: 1390, 944
+  size: 80, 280
+  orig: 80, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_L_EAR
+  rotate: true
+  xy: 0, 2
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+PNG/COW_L_LEG
+  rotate: true
+  xy: 771, 308
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_MOUTH
+  rotate: false
+  xy: 1839, 989
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_PUPIL
+  rotate: false
+  xy: 1451, 845
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+PNG/COW_PUSH_BG_1
+  rotate: false
+  xy: 771, 702
+  size: 385, 322
+  orig: 385, 322
+  offset: 0, 0
+  index: -1
+PNG/COW_PUSH_BG_2@2x
+  rotate: false
+  xy: 0, 241
+  size: 769, 783
+  orig: 769, 783
+  offset: 0, 0
+  index: -1
+PNG/COW_R_ARM
+  rotate: true
+  xy: 1390, 862
+  size: 80, 280
+  orig: 80, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_R_LEG
+  rotate: true
+  xy: 308, 109
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_TAIL
+  rotate: true
+  xy: 1158, 703
+  size: 89, 119
+  orig: 89, 119
+  offset: 0, 0
+  index: -1
+PNG/COW_TAIL_HAIR
+  rotate: false
+  xy: 1279, 749
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+PNG/COW_TONGUE
+  rotate: false
+  xy: 702, 195
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+PNG/COW_TORSO
+  rotate: true
+  xy: 0, 47
+  size: 192, 306
+  orig: 192, 306
+  offset: 0, 0
+  index: -1
+PNG/DEER_EAR
+  rotate: false
+  xy: 475, 37
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+PNG/DEER_EYE
+  rotate: false
+  xy: 1672, 863
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+PNG/DEER_HEAD
+  rotate: false
+  xy: 590, 110
+  size: 110, 129
+  orig: 110, 129
+  offset: 0, 0
+  index: -1
+PNG/DEER_IRIS
+  rotate: false
+  xy: 59, 31
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+PNG/DEER_LEG
+  rotate: true
+  xy: 771, 245
+  size: 61, 135
+  orig: 61, 135
+  offset: 0, 0
+  index: -1
+PNG/DEER_PAW
+  rotate: false
+  xy: 1053, 319
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+PNG/DEER_TORSO
+  rotate: false
+  xy: 308, 0
+  size: 165, 107
+  orig: 165, 107
+  offset: 0, 0
+  index: -1
+PNG/PEDAL_A
+  rotate: true
+  xy: 1119, 395
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+PNG/PEDAL_B
+  rotate: false
+  xy: 1147, 637
+  size: 7, 63
+  orig: 7, 63
+  offset: 0, 0
+  index: -1
+PNG/TIRE
+  rotate: false
+  xy: 1158, 794
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1

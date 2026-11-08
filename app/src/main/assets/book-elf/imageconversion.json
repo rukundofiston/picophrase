@@ -1,0 +1,176 @@
+[
+	{
+        "src" : "elf_endpage_en.svg",
+        "dest" : "elf_endpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "elf_endpage_fr.svg",
+        "dest" : "elf_endpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p1_picto_a.svg",
+        "dest" : "lutin_p1_picto_a.png",
+        "width" : 22.7,
+        "height" : 19.4
+    },
+	{
+        "src" : "lutin_p1_picto_b.svg",
+        "dest" : "lutin_p1_picto_b.png",
+        "width" : 20.5,
+        "height" : 17.8
+    },
+	{
+        "src" : "lutin_p1_picto_c.svg",
+        "dest" : "lutin_p1_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p1_background.svg",
+        "dest" : "lutin_p1_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p2_picto_b.svg",
+        "dest" : "lutin_p2_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p2_picto_c.svg",
+        "dest" : "lutin_p2_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p2_background.svg",
+        "dest" : "lutin_p2_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p3_picto_b.svg",
+        "dest" : "lutin_p3_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p3_picto_c.svg",
+        "dest" : "lutin_p3_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p3_background.svg",
+        "dest" : "lutin_p3_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p4_picto_b.svg",
+        "dest" : "lutin_p4_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p4_picto_c.svg",
+        "dest" : "lutin_p4_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p4_background.svg",
+        "dest" : "lutin_p4_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p5_picto_b.svg",
+        "dest" : "lutin_p5_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p5_picto_c.svg",
+        "dest" : "lutin_p5_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p5_background.svg",
+        "dest" : "lutin_p5_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p6_picto_b.svg",
+        "dest" : "lutin_p6_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p6_picto_c.svg",
+        "dest" : "lutin_p6_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p6_background.svg",
+        "dest" : "lutin_p6_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p7_picto_b.svg",
+        "dest" : "lutin_p7_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p7_picto_c.svg",
+        "dest" : "lutin_p7_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p7_background.svg",
+        "dest" : "lutin_p7_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "lutin_p8_picto_b.svg",
+        "dest" : "lutin_p8_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p8_picto_c.svg",
+        "dest" : "lutin_p8_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "lutin_p8_background.svg",
+        "dest" : "lutin_p8_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "elf_playpage_en.svg",
+        "dest" : "elf_playpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "elf_playpage_fr.svg",
+        "dest" : "elf_playpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "lion_endpage_en.svg",
+        "dest" : "lion_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "lion_endpage_fr.svg",
+        "dest" : "lion_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "lion-basket.svg",
+"dest" : "lion-basket.png",
+"width" : 22.265625,
+"height" : 7.2265625
+},
+{
+"src" : "lion-butterfly.svg",
+"dest" : "lion-butterfly.png",
+"width" : 20.3125,
+"height" : 16.40625
+},
+{
+"src" : "lion-catch-background.svg",
+"dest" : "lion-catch-background.png",
+"width" : 100.65104166666667,
+"height" : 101.1953125
+},
+{
+"src" : "lion-catch-main.svg",
+"dest" : "lion-catch-main.png",
+"width" : 84.24479166666666,
+"height" : 36.1328125
+},
+{
+"src" : "lion-catch.svg",
+"dest" : "lion-catch.png",
+"width" : 18.359375,
+"height" : 18.84765625
+},
+{
+"src" : "lion-drive-background.svg",
+"dest" : "lion-drive-background.png",
+"width" : 100.52083333333333,
+"height" : 100.1953125
+},
+{
+"src" : "lion-drive-main.svg",
+"dest" : "lion-drive-main.png",
+"width" : 100.52083333333333,
+"height" : 60.25390625
+},
+{
+"src" : "lion-drive.svg",
+"dest" : "lion-drive.png",
+"width" : 21.09375,
+"height" : 17.28515625
+},
+{
+"src" : "lion-eat-background.svg",
+"dest" : "lion-eat-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "lion-eat-main.svg",
+"dest" : "lion-eat-main.png",
+"width" : 100.13020833333333,
+"height" : 73.2421875
+},
+{
+"src" : "lion-eat.svg",
+"dest" : "lion-eat.png",
+"width" : 24.21875,
+"height" : 18.06640625
+},
+{
+"src" : "lion-feet.svg",
+"dest" : "lion-feet.png",
+"width" : 13,
+"height" : 17.9
+},
+{
+"src" : "lion-fireman.svg",
+"dest" : "lion-fireman.png",
+"width" : 9.895833333333332,
+"height" : 20.21484375
+},
+{
+"src" : "lion-honey.svg",
+"dest" : "lion-honey.png",
+"width" : 14.713541666666666,
+"height" : 17.28515625
+},
+{
+"src" : "lion-light.svg",
+"dest" : "lion-light.png",
+"width" : 10.807291666666668,
+"height" : 16.40625
+},
+{
+"src" : "lion-plane.svg",
+"dest" : "lion-plane.png",
+"width" : 22.005208333333336,
+"height" : 9.66796875
+},
+{
+"src" : "lion-playpage-ui.svg",
+"dest" : "lion-playpage-ui.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+},
+{
+"src" : "lion-pour-background.svg",
+"dest" : "lion-pour-background.png",
+"width" : 100.26041666666667,
+"height" : 100.29296875
+},
+{
+"src" : "lion-pour-main.svg",
+"dest" : "lion-pour-main.png",
+"width" : 82.68229166666666,
+"height" : 28.80859375
+},
+{
+"src" : "lion-pour.svg",
+"dest" : "lion-pour.png",
+"width" : 21.875,
+"height" : 13.8671875
+},
+{
+"src" : "lion-sleep-background.svg",
+"dest" : "lion-sleep-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "lion-sleep-main.svg",
+"dest" : "lion-sleep-main.png",
+"width" : 40.10416666666667,
+"height" : 19.04296875
+},
+{
+"src" : "lion-sleep.svg",
+"dest" : "lion-sleep.png",
+"width" : 22.135416666666664,
+"height" : 16.9921875
+},
+{
+"src" : "lion-spray-background.svg",
+"dest" : "lion-spray-background.png",
+"width" : 100.52083333333333,
+"height" : 100.1953125
+},
+{
+"src" : "lion-spray-main.svg",
+"dest" : "lion-spray-main.png",
+"width" : 93.88020833333334,
+"height" : 36.42578125
+},
+{
+"src" : "lion-spray.svg",
+"dest" : "lion-spray.png",
+"width" : 28.90625,
+"height" : 18.84765625
+},
+{
+"src" : "lion-tickle-background.svg",
+"dest" : "lion-tickle-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "lion-tickle-main.svg",
+"dest" : "lion-tickle-main.png",
+"width" : 61.458333333333336,
+"height" : 21.875
+},
+{
+"src" : "lion-tickle.svg",
+"dest" : "lion-tickle.png",
+"width" : 20.833333333333336,
+"height" : 16.50390625
+},
+{
+"src" : "lion-turnon-main.svg",
+"dest" : "lion-turnon-main.png",
+"width" : 100.65104166666667,
+"height" : 100.1953125
+},
+{
+"src" : "lion-turnon.svg",
+"dest" : "lion-turnon.png",
+"width" : 15.625,
+"height" : 15.8203125
+},
+{
+"src" : "lion-turnon-background.svg",
+"dest" : "lion-turnon-background.png",
+"width" : 100.65104166666667,
+"height" : 100.1953125
+},
+{
+"src" : "lion-yogurt.svg",
+"dest" : "lion-yogurt.png",
+"width" : 16.145833333333336,
+"height" : 11.1328125
+},
+{
+"src" : "lion.svg",
+"dest" : "lion.png",
+"width" : 21.484375,
+"height" : 16.50390625
+},
+{
+"src" : "lion_playpage_en.svg",
+"dest" : "lion_playpage_en.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+}
+]

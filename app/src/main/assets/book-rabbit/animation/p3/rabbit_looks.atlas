@@ -1,0 +1,370 @@
+
+rabbit_looks.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BELT_PART
+  rotate: false
+  xy: 1593, 1693
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+PNG/COMET
+  rotate: false
+  xy: 1062, 1209
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+PNG/COMET_TAIL
+  rotate: true
+  xy: 769, 849
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+PNG/HELI
+  rotate: false
+  xy: 1062, 1223
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+PNG/KEY
+  rotate: true
+  xy: 567, 93
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+PNG/KEY_CHAIN
+  rotate: false
+  xy: 1206, 1294
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+PNG/MONOCULAR
+  rotate: false
+  xy: 1244, 1374
+  size: 64, 226
+  orig: 64, 226
+  offset: 0, 0
+  index: -1
+PNG/MOON
+  rotate: true
+  xy: 639, 93
+  size: 124, 165
+  orig: 124, 165
+  offset: 0, 0
+  index: -1
+PNG/PLANET
+  rotate: false
+  xy: 1339, 1606
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+PNG/RAB_BROW
+  rotate: false
+  xy: 0, 7
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+PNG/RAB_EAR
+  rotate: true
+  xy: 770, 1208
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+PNG/RAB_EAR_BACK
+  rotate: true
+  xy: 916, 1208
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+PNG/RAB_EAR_BACK_STRAIGHT
+  rotate: true
+  xy: 1823, 1643
+  size: 159, 192
+  orig: 159, 192
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE
+  rotate: true
+  xy: 444, 86
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE_CLOSED
+  rotate: true
+  xy: 806, 373
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/RAB_HEAD
+  rotate: false
+  xy: 632, 413
+  size: 191, 204
+  orig: 191, 204
+  offset: 0, 0
+  index: -1
+PNG/RAB_HEAD_BACK
+  rotate: false
+  xy: 444, 134
+  size: 193, 209
+  orig: 193, 209
+  offset: 0, 0
+  index: -1
+PNG/RAB_IRIS
+  rotate: false
+  xy: 1244, 1329
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+PNG/RAB_LEG
+  rotate: true
+  xy: 639, 219
+  size: 192, 165
+  orig: 192, 165
+  offset: 0, 0
+  index: -1
+PNG/RAB_LEG_BACK
+  rotate: false
+  xy: 769, 1097
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_ARM
+  rotate: true
+  xy: 1339, 1615
+  size: 97, 217
+  orig: 97, 217
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_1
+  rotate: false
+  xy: 769, 722
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_2
+  rotate: true
+  xy: 506, 88
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_3
+  rotate: false
+  xy: 769, 664
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_1
+  rotate: true
+  xy: 769, 619
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_2
+  rotate: false
+  xy: 769, 775
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_OW
+  rotate: false
+  xy: 2017, 1760
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_INT_WOW
+  rotate: true
+  xy: 957, 1114
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_UPPER_FRONT
+  rotate: false
+  xy: 256, 0
+  size: 98, 28
+  orig: 98, 28
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_UPPER_FRONT_SAD
+  rotate: true
+  xy: 1558, 1620
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+PNG/RAB_MUZZLE
+  rotate: false
+  xy: 1613, 1715
+  size: 208, 95
+  orig: 208, 95
+  offset: 0, 0
+  index: -1
+PNG/RAB_NOSE
+  rotate: true
+  xy: 356, 0
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+PNG/RAB_PUPIL
+  rotate: false
+  xy: 1310, 1438
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+PNG/RAB_R_PAW
+  rotate: false
+  xy: 389, 34
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_TAIL
+  rotate: false
+  xy: 866, 1117
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+PNG/RAB_TEETH
+  rotate: false
+  xy: 1003, 1121
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+PNG/RAB_TONGUE
+  rotate: false
+  xy: 837, 1063
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO
+  rotate: false
+  xy: 0, 23
+  size: 254, 320
+  orig: 254, 320
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO_2
+  rotate: false
+  xy: 1613, 1812
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO_3
+  rotate: false
+  xy: 256, 85
+  size: 186, 258
+  orig: 186, 258
+  offset: 0, 0
+  index: -1
+PNG/ROTOR
+  rotate: true
+  xy: 1310, 1470
+  size: 130, 23
+  orig: 130, 23
+  offset: 0, 0
+  index: -1
+PNG/SCARF_1
+  rotate: true
+  xy: 769, 965
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+PNG/SCARF_2
+  rotate: true
+  xy: 256, 30
+  size: 53, 131
+  orig: 53, 131
+  offset: 0, 0
+  index: -1
+PNG/SCARF_3
+  rotate: true
+  xy: 957, 1156
+  size: 50, 99
+  orig: 50, 99
+  offset: 0, 0
+  index: -1
+PNG/STAR
+  rotate: false
+  xy: 866, 1097
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+PNG/TRIPOD
+  rotate: false
+  xy: 1851, 1804
+  size: 197, 244
+  orig: 197, 244
+  offset: 0, 0
+  index: -1
+PNG/look_@2x
+  rotate: false
+  xy: 0, 1280
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+PNG/look__1@2x
+  rotate: false
+  xy: 0, 619
+  size: 767, 659
+  orig: 767, 659
+  offset: 0, 0
+  index: -1
+PNG/look__2@2x
+  rotate: true
+  xy: 770, 1338
+  size: 262, 472
+  orig: 262, 472
+  offset: 0, 0
+  index: -1
+PNG/look__3@2x
+  rotate: false
+  xy: 770, 1602
+  size: 567, 446
+  orig: 567, 446
+  offset: 0, 0
+  index: -1
+PNG/look__4@2x
+  rotate: false
+  xy: 1339, 1714
+  size: 272, 334
+  orig: 272, 334
+  offset: 0, 0
+  index: -1
+PNG/look__5@2x
+  rotate: true
+  xy: 0, 345
+  size: 272, 630
+  orig: 272, 630
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,307 @@
+
+dolphin_dances.png
+size: 5534,1575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BG
+  rotate: true
+  xy: 1, 33
+  size: 1541, 2058
+  orig: 1541, 2058
+  offset: 0, 0
+  index: -1
+PNG/BUBBLES
+  rotate: false
+  xy: 5301, 217
+  size: 112, 157
+  orig: 112, 157
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_2
+  rotate: false
+  xy: 4273, 69
+  size: 139, 108
+  orig: 139, 108
+  offset: 0, 0
+  index: -1
+PNG/CANDLE_FLAME
+  rotate: false
+  xy: 5414, 341
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+PNG/CLOTH
+  rotate: false
+  xy: 5301, 74
+  size: 106, 142
+  orig: 106, 142
+  offset: 0, 0
+  index: -1
+PNG/CURTAIN
+  rotate: false
+  xy: 4539, 830
+  size: 731, 744
+  orig: 731, 744
+  offset: 0, 0
+  index: -1
+PNG/DROPLET
+  rotate: false
+  xy: 2060, 50
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+PNG/EYE@2x
+  rotate: false
+  xy: 5301, 375
+  size: 135, 168
+  orig: 135, 168
+  offset: 0, 0
+  index: -1
+PNG/EYEBROW@2x
+  rotate: true
+  xy: 4831, 531
+  size: 98, 61
+  orig: 98, 61
+  offset: 0, 0
+  index: -1
+PNG/EYE_CLOSED@2x
+  rotate: true
+  xy: 5478, 801
+  size: 118, 52
+  orig: 118, 52
+  offset: 0, 0
+  index: -1
+PNG/FG BEVEL
+  rotate: false
+  xy: 3085, 373
+  size: 905, 200
+  orig: 905, 200
+  offset: 0, 0
+  index: -1
+PNG/FIN@2x
+  rotate: true
+  xy: 5271, 1178
+  size: 396, 260
+  orig: 396, 260
+  offset: 0, 0
+  index: -1
+PNG/HANGER
+  rotate: false
+  xy: 4539, 630
+  size: 366, 199
+  orig: 366, 199
+  offset: 0, 0
+  index: -1
+PNG/IRIS@2x
+  rotate: false
+  xy: 5437, 429
+  size: 96, 114
+  orig: 96, 114
+  offset: 0, 0
+  index: -1
+PNG/L_ARM@2x
+  rotate: false
+  xy: 3085, 36
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_FG@2x
+  rotate: false
+  xy: 3422, 36
+  size: 336, 336
+  orig: 336, 336
+  offset: 0, 0
+  index: -1
+PNG/NOTES 1
+  rotate: false
+  xy: 4413, 107
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+PNG/NOTES 2
+  rotate: false
+  xy: 3927, 49
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+PNG/NOTES 3
+  rotate: true
+  xy: 5437, 374
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+PNG/PUPIL@2x
+  rotate: true
+  xy: 5301, 10
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+PNG/RADIO
+  rotate: false
+  xy: 5284, 708
+  size: 193, 211
+  orig: 193, 211
+  offset: 0, 0
+  index: -1
+PNG/SHOWER
+  rotate: false
+  xy: 5284, 544
+  size: 201, 163
+  orig: 201, 163
+  offset: 0, 0
+  index: -1
+PNG/SHOWER CAP
+  rotate: true
+  xy: 5164, 570
+  size: 259, 119
+  orig: 259, 119
+  offset: 0, 0
+  index: -1
+PNG/SHOWER GEL
+  rotate: true
+  xy: 3759, 44
+  size: 70, 167
+  orig: 70, 167
+  offset: 0, 0
+  index: -1
+PNG/SPARKS
+  rotate: false
+  xy: 4239, 402
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00000
+  rotate: false
+  xy: 5271, 920
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00001
+  rotate: false
+  xy: 3759, 115
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00002
+  rotate: true
+  xy: 4906, 573
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00003
+  rotate: false
+  xy: 4016, 127
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00004
+  rotate: false
+  xy: 4273, 178
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00005
+  rotate: false
+  xy: 4530, 259
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00006
+  rotate: false
+  xy: 4530, 1
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00007
+  rotate: false
+  xy: 4787, 259
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00008
+  rotate: false
+  xy: 4787, 1
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00009
+  rotate: false
+  xy: 5044, 286
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/SPHERE BALL_00010
+  rotate: false
+  xy: 5044, 28
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+PNG/STRING
+  rotate: true
+  xy: 1, 26
+  size: 6, 621
+  orig: 6, 621
+  offset: 0, 0
+  index: -1
+PNG/TABLE
+  rotate: false
+  xy: 3991, 385
+  size: 247, 188
+  orig: 247, 188
+  offset: 0, 0
+  index: -1
+PNG/TEETH_LOWER@2x
+  rotate: false
+  xy: 4239, 436
+  size: 280, 137
+  orig: 280, 137
+  offset: 0, 0
+  index: -1
+PNG/TEETH_UPPER@2x
+  rotate: false
+  xy: 4539, 517
+  size: 291, 112
+  orig: 291, 112
+  offset: 0, 0
+  index: -1
+PNG/TORSO_GREY@2x
+  rotate: false
+  xy: 2060, 78
+  size: 1024, 1496
+  orig: 1024, 1496
+  offset: 0, 0
+  index: -1
+PNG/TORSO_WHITE@2x
+  rotate: false
+  xy: 3085, 574
+  size: 726, 1000
+  orig: 726, 1000
+  offset: 0, 0
+  index: -1
+PNG/TORSO_WHITE_FG@2x
+  rotate: false
+  xy: 3812, 574
+  size: 726, 1000
+  orig: 726, 1000
+  offset: 0, 0
+  index: -1

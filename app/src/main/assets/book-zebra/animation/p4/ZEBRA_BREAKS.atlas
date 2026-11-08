@@ -1,0 +1,468 @@
+
+ZEBRA_BREAKS.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BACK
+  rotate: false
+  xy: 1619, 392
+  size: 146, 106
+  orig: 146, 106
+  offset: 0, 0
+  index: -1
+PNG/BACK_STAND
+  rotate: true
+  xy: 124, 24
+  size: 29, 95
+  orig: 29, 95
+  offset: 0, 0
+  index: -1
+PNG/BACK_STAND_B
+  rotate: false
+  xy: 221, 0
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+PNG/BACK_STAND_C
+  rotate: false
+  xy: 1619, 591
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+PNG/CARTOON
+  rotate: false
+  xy: 291, 154
+  size: 232, 246
+  orig: 232, 246
+  offset: 0, 0
+  index: -1
+PNG/CHAIR_SEATER
+  rotate: false
+  xy: 291, 44
+  size: 225, 108
+  orig: 225, 108
+  offset: 0, 0
+  index: -1
+PNG/EL_HEAD
+  rotate: false
+  xy: 1416, 356
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+PNG/EL_L_EAR
+  rotate: false
+  xy: 1528, 371
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+PNG/EL_L_LEGS
+  rotate: true
+  xy: 0, 0
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+PNG/EL_R_EAR
+  rotate: false
+  xy: 1573, 371
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+PNG/EL_R_LEGS
+  rotate: true
+  xy: 803, 250
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+PNG/EL_TIG_EYE
+  rotate: false
+  xy: 741, 164
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+PNG/EL_TIG_EYE_CLOSED
+  rotate: false
+  xy: 851, 343
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+PNG/EL_TIG_TONGUE
+  rotate: true
+  xy: 288, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+PNG/EL_TORSO
+  rotate: false
+  xy: 851, 354
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+PNG/EL_TRUNK
+  rotate: true
+  xy: 1866, 517
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+PNG/LEG
+  rotate: true
+  xy: 0, 24
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+PNG/LEG_A
+  rotate: true
+  xy: 288, 13
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+PNG/LEG_B
+  rotate: false
+  xy: 741, 304
+  size: 28, 96
+  orig: 28, 96
+  offset: 0, 0
+  index: -1
+PNG/SCREEN
+  rotate: true
+  xy: 1650, 571
+  size: 205, 248
+  orig: 205, 248
+  offset: 0, 0
+  index: -1
+PNG/SCREEN_BG
+  rotate: false
+  xy: 525, 157
+  size: 214, 243
+  orig: 214, 243
+  offset: 0, 0
+  index: -1
+PNG/SCREEN_FG
+  rotate: false
+  xy: 1650, 778
+  size: 232, 246
+  orig: 232, 246
+  offset: 0, 0
+  index: -1
+PNG/SEATER_A
+  rotate: true
+  xy: 1767, 392
+  size: 106, 76
+  orig: 106, 76
+  offset: 0, 0
+  index: -1
+PNG/SEATER_B
+  rotate: false
+  xy: 1900, 554
+  size: 126, 67
+  orig: 126, 67
+  offset: 0, 0
+  index: -1
+PNG/SEATER_C
+  rotate: false
+  xy: 945, 342
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+PNG/SEATER_D
+  rotate: false
+  xy: 1900, 623
+  size: 126, 68
+  orig: 126, 68
+  offset: 0, 0
+  index: -1
+PNG/TIG_HEAD
+  rotate: false
+  xy: 771, 337
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+PNG/TIG_LEG
+  rotate: false
+  xy: 2032, 754
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+PNG/TIG_MUZZLE
+  rotate: true
+  xy: 1884, 778
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+PNG/TIG_TIGER
+  rotate: true
+  xy: 338, 11
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+PNG/TIG_TORSO
+  rotate: true
+  xy: 252, 1
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+PNG/TV_GLOSS
+  rotate: true
+  xy: 1884, 823
+  size: 201, 161
+  orig: 201, 161
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_BREAKS_BG_1
+  rotate: true
+  xy: 771, 404
+  size: 161, 271
+  orig: 161, 271
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_BREAKS_BG_2@2x
+  rotate: true
+  xy: 771, 567
+  size: 457, 652
+  orig: 457, 652
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_BREAKS_BG_3@2x
+  rotate: false
+  xy: 0, 402
+  size: 769, 622
+  orig: 769, 622
+  offset: 0, 0
+  index: -1
+PNG/ZEBRA_BREAKS_BG_4@2x
+  rotate: false
+  xy: 0, 55
+  size: 289, 345
+  orig: 289, 345
+  offset: 0, 0
+  index: -1
+PNG/Z_ARM
+  rotate: false
+  xy: 1619, 500
+  size: 245, 69
+  orig: 245, 69
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_1
+  rotate: false
+  xy: 2032, 716
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_2
+  rotate: true
+  xy: 85, 0
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+PNG/Z_EAR
+  rotate: false
+  xy: 741, 247
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE
+  rotate: true
+  xy: 771, 247
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_1
+  rotate: false
+  xy: 436, 11
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_2
+  rotate: false
+  xy: 461, 11
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_3
+  rotate: false
+  xy: 380, 11
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_4
+  rotate: false
+  xy: 408, 11
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_1
+  rotate: true
+  xy: 76, 0
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_2
+  rotate: true
+  xy: 64, 0
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_3
+  rotate: true
+  xy: 1884, 796
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_4
+  rotate: true
+  xy: 2032, 727
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE_CLOSED
+  rotate: true
+  xy: 2032, 783
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_HAND
+  rotate: false
+  xy: 1485, 367
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+PNG/Z_HEAD
+  rotate: false
+  xy: 1334, 429
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+PNG/Z_IRIS
+  rotate: false
+  xy: 1845, 478
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+PNG/Z_LEG
+  rotate: true
+  xy: 1044, 428
+  size: 137, 288
+  orig: 137, 288
+  offset: 0, 0
+  index: -1
+PNG/Z_MANE
+  rotate: true
+  xy: 1425, 418
+  size: 237, 192
+  orig: 237, 192
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_GASP
+  rotate: true
+  xy: 771, 273
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_LAUGH
+  rotate: false
+  xy: 741, 172
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_CLOSED
+  rotate: true
+  xy: 1194, 364
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_OPEN
+  rotate: true
+  xy: 1268, 364
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_TEETH
+  rotate: true
+  xy: 1044, 364
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UHOH
+  rotate: true
+  xy: 1119, 364
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UMM
+  rotate: true
+  xy: 1342, 365
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_PUPIL
+  rotate: false
+  xy: 1619, 577
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+PNG/Z_TAIL
+  rotate: false
+  xy: 1900, 693
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+PNG/Z_TONGUE
+  rotate: true
+  xy: 41, 0
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PNG/Z_TORSO
+  rotate: false
+  xy: 1425, 657
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,328 @@
+
+gorilla_looks.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/CAVE_ROCK
+  rotate: true
+  xy: 887, 43
+  size: 189, 137
+  orig: 189, 137
+  offset: 0, 0
+  index: -1
+PNG/DARKNESS
+  rotate: true
+  xy: 451, 581
+  size: 739, 573
+  orig: 739, 573
+  offset: 0, 0
+  index: -1
+PNG/FLASHLIGHT
+  rotate: true
+  xy: 361, 122
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+PNG/GOR_BROW
+  rotate: false
+  xy: 0, 0
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+PNG/GOR_EYE
+  rotate: true
+  xy: 188, 0
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+PNG/GOR_EYE_CLOSED
+  rotate: false
+  xy: 993, 1923
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+PNG/GOR_HEAD
+  rotate: true
+  xy: 690, 87
+  size: 145, 195
+  orig: 145, 195
+  offset: 0, 0
+  index: -1
+PNG/GOR_IRIS
+  rotate: false
+  xy: 1000, 524
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_LAUGH
+  rotate: false
+  xy: 157, 24
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_O
+  rotate: true
+  xy: 998, 250
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_OWNO
+  rotate: true
+  xy: 993, 1999
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_OWW
+  rotate: true
+  xy: 772, 1322
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_SMILE
+  rotate: true
+  xy: 652, 7
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_TEETH
+  rotate: true
+  xy: 993, 1944
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+PNG/GOR_NOSE
+  rotate: false
+  xy: 157, 0
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+PNG/GOR_PUPIL
+  rotate: false
+  xy: 677, 144
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_ARM_B
+  rotate: true
+  xy: 733, 234
+  size: 107, 209
+  orig: 107, 209
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_FINGERS
+  rotate: true
+  xy: 304, 16
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_FIST_A
+  rotate: true
+  xy: 944, 270
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_FIST_B
+  rotate: false
+  xy: 361, 63
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_OPEN
+  rotate: false
+  xy: 577, 58
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_LEG
+  rotate: true
+  xy: 451, 159
+  size: 162, 237
+  orig: 162, 237
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_PALM
+  rotate: true
+  xy: 83, 14
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_THUMB
+  rotate: false
+  xy: 982, 1629
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PNG/GOR_TORSO
+  rotate: false
+  xy: 772, 1351
+  size: 208, 310
+  orig: 208, 310
+  offset: 0, 0
+  index: -1
+PNG/G_LOOK_
+  rotate: true
+  xy: 772, 1663
+  size: 385, 219
+  orig: 385, 219
+  offset: 0, 0
+  index: -1
+PNG/G_LOOK__1@2x
+  rotate: false
+  xy: 0, 1322
+  size: 770, 726
+  orig: 770, 726
+  offset: 0, 0
+  index: -1
+PNG/G_LOOK__2@2x
+  rotate: true
+  xy: 0, 432
+  size: 888, 449
+  orig: 888, 449
+  offset: 0, 0
+  index: -1
+PNG/KANG_ARM
+  rotate: false
+  xy: 0, 10
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+PNG/KANG_BODY
+  rotate: true
+  xy: 451, 323
+  size: 256, 280
+  orig: 256, 280
+  offset: 0, 0
+  index: -1
+PNG/KANG_BROW
+  rotate: false
+  xy: 414, 52
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+PNG/KANG_L_EAR
+  rotate: true
+  xy: 577, 11
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+PNG/KANG_MOUTH
+  rotate: false
+  xy: 805, 1330
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+PNG/KANG_R_EAR
+  rotate: true
+  xy: 231, 26
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+PNG/KANG_SNOUT
+  rotate: false
+  xy: 353, 18
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+PNG/LIGHTBEAM
+  rotate: false
+  xy: 0, 76
+  size: 359, 354
+  orig: 359, 354
+  offset: 0, 0
+  index: -1
+PNG/TIGER_BODY
+  rotate: true
+  xy: 733, 343
+  size: 236, 265
+  orig: 236, 265
+  offset: 0, 0
+  index: -1
+PNG/TIGER_EYE
+  rotate: false
+  xy: 998, 308
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+PNG/TIGER_EYE_CLOSED
+  rotate: false
+  xy: 998, 273
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+PNG/TIGER_HEAD
+  rotate: true
+  xy: 432, 22
+  size: 135, 143
+  orig: 135, 143
+  offset: 0, 0
+  index: -1
+PNG/TIGER_IRIS
+  rotate: true
+  xy: 690, 234
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+PNG/TIGER_MOUTH
+  rotate: false
+  xy: 944, 239
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+PNG/TIGER_NOSE
+  rotate: true
+  xy: 1000, 547
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+PNG/TIGER_PUPIL
+  rotate: true
+  xy: 83, 0
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+PNG/TIGER_SNOUT
+  rotate: true
+  xy: 690, 254
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1
+PNG/TIGER_TAIL
+  rotate: false
+  xy: 361, 233
+  size: 88, 197
+  orig: 88, 197
+  offset: 0, 0
+  index: -1

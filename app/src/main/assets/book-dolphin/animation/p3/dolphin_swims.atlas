@@ -1,0 +1,279 @@
+
+dolphin_swims.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-GRASS-25-PCNT
+  rotate: true
+  xy: 399, 162
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+BackBody
+  rotate: true
+  xy: 825, 668
+  size: 356, 172
+  orig: 356, 172
+  offset: 0, 0
+  index: -1
+Ball
+  rotate: true
+  xy: 794, 330
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+Belly
+  rotate: true
+  xy: 825, 438
+  size: 228, 134
+  orig: 228, 134
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: false
+  xy: 772, 39
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+Droplet
+  rotate: false
+  xy: 750, 6
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 264, 493
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 547, 173
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+FENCE
+  rotate: false
+  xy: 961, 577
+  size: 25, 89
+  orig: 25, 89
+  offset: 0, 0
+  index: -1
+FinBack
+  rotate: true
+  xy: 125, 467
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+FinFront
+  rotate: true
+  xy: 0, 450
+  size: 162, 123
+  orig: 162, 123
+  offset: 0, 0
+  index: -1
+Goggles
+  rotate: true
+  xy: 384, 45
+  size: 103, 220
+  orig: 103, 220
+  offset: 0, 0
+  index: -1
+HangingClothes/ClothesPin
+  rotate: true
+  xy: 961, 558
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+HangingClothes/Grass1
+  rotate: false
+  xy: 660, 0
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+HangingClothes/Grass2
+  rotate: false
+  xy: 590, 273
+  size: 88, 53
+  orig: 88, 53
+  offset: 0, 0
+  index: -1
+HangingClothes/GreenCloth
+  rotate: true
+  xy: 614, 150
+  size: 121, 176
+  orig: 121, 176
+  offset: 0, 0
+  index: -1
+HangingClothes/Line
+  rotate: false
+  xy: 0, 187
+  size: 295, 48
+  orig: 295, 48
+  offset: 0, 0
+  index: -1
+HangingClothes/Poles-Right
+  rotate: false
+  xy: 961, 150
+  size: 47, 398
+  orig: 47, 398
+  offset: 0, 0
+  index: -1
+HangingClothes/PurpleClothBack
+  rotate: true
+  xy: 792, 190
+  size: 136, 160
+  orig: 136, 160
+  offset: 0, 0
+  index: -1
+HangingClothes/PurpleClothFront
+  rotate: true
+  xy: 0, 2
+  size: 146, 173
+  orig: 146, 173
+  offset: 0, 0
+  index: -1
+HangingClothes/RedSwimsuit
+  rotate: true
+  xy: 175, 28
+  size: 120, 207
+  orig: 120, 207
+  offset: 0, 0
+  index: -1
+LifeVest
+  rotate: false
+  xy: 0, 237
+  size: 288, 199
+  orig: 288, 199
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 264, 544
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+Plants1
+  rotate: false
+  xy: 590, 328
+  size: 202, 108
+  orig: 202, 108
+  offset: 0, 0
+  index: -1
+Plants2
+  rotate: false
+  xy: 606, 76
+  size: 203, 72
+  orig: 203, 72
+  offset: 0, 0
+  index: -1
+Pool-50p
+  rotate: false
+  xy: 0, 614
+  size: 823, 410
+  orig: 823, 410
+  offset: 0, 0
+  index: -1
+SKY-25-PCNT
+  rotate: true
+  xy: 0, 151
+  size: 34, 151
+  orig: 34, 151
+  offset: 0, 0
+  index: -1
+Slide
+  rotate: true
+  xy: 290, 247
+  size: 189, 298
+  orig: 189, 298
+  offset: 0, 0
+  index: -1
+Slippers
+  rotate: false
+  xy: 811, 22
+  size: 189, 126
+  orig: 189, 126
+  offset: 0, 0
+  index: -1
+Splash1
+  rotate: false
+  xy: 297, 179
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Splash2
+  rotate: false
+  xy: 680, 274
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+Splash3
+  rotate: true
+  xy: 479, 150
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+Wave1
+  rotate: false
+  xy: 328, 3
+  size: 151, 23
+  orig: 151, 23
+  offset: 0, 0
+  index: -1
+Wave2
+  rotate: true
+  xy: 999, 788
+  size: 236, 23
+  orig: 236, 23
+  offset: 0, 0
+  index: -1
+Wave3
+  rotate: true
+  xy: 999, 550
+  size: 236, 23
+  orig: 236, 23
+  offset: 0, 0
+  index: -1
+Wave4
+  rotate: false
+  xy: 175, 1
+  size: 151, 25
+  orig: 151, 25
+  offset: 0, 0
+  index: -1
+Wave5
+  rotate: false
+  xy: 606, 54
+  size: 164, 20
+  orig: 164, 20
+  offset: 0, 0
+  index: -1
+Wave6
+  rotate: false
+  xy: 481, 12
+  size: 177, 31
+  orig: 177, 31
+  offset: 0, 0
+  index: -1
+Worm
+  rotate: true
+  xy: 898, 345
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1

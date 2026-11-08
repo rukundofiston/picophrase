@@ -1,0 +1,349 @@
+
+TEDDY_BLOWS_NOSE.png
+size: 4116,2124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM@2x
+  rotate: true
+  xy: 2099, 541
+  size: 240, 600
+  orig: 240, 600
+  offset: 0, 0
+  index: -1
+PNG/ARM_FG@2x
+  rotate: true
+  xy: 2099, 300
+  size: 240, 600
+  orig: 240, 600
+  offset: 0, 0
+  index: -1
+PNG/BROW@2x
+  rotate: true
+  xy: 3853, 139
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+PNG/CABINET
+  rotate: true
+  xy: 3692, 510
+  size: 425, 272
+  orig: 425, 272
+  offset: 0, 0
+  index: -1
+PNG/CANDIES
+  rotate: false
+  xy: 3850, 229
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+PNG/CLOTH@2x
+  rotate: false
+  xy: 3578, 936
+  size: 386, 486
+  orig: 386, 486
+  offset: 0, 0
+  index: -1
+PNG/CLOTH_B@2x
+  rotate: false
+  xy: 3021, 380
+  size: 373, 461
+  orig: 373, 461
+  offset: 0, 0
+  index: -1
+PNG/DOLL
+  rotate: true
+  xy: 3516, 6
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+PNG/EAR@2x
+  rotate: false
+  xy: 2710, 63
+  size: 246, 237
+  orig: 246, 237
+  offset: 0, 0
+  index: -1
+PNG/EYE@2x
+  rotate: true
+  xy: 3578, 853
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+PNG/FLOOR
+  rotate: false
+  xy: 1, 910
+  size: 1550, 1213
+  orig: 1550, 1213
+  offset: 0, 0
+  index: -1
+PNG/FRINGE@2x
+  rotate: false
+  xy: 3339, 192
+  size: 178, 170
+  orig: 178, 170
+  offset: 0, 0
+  index: -1
+PNG/HEAD_FRONT_3Q@2x
+  rotate: false
+  xy: 2954, 842
+  size: 623, 580
+  orig: 623, 580
+  offset: 0, 0
+  index: -1
+PNG/HEAD_SIDE@2x
+  rotate: false
+  xy: 1549, 229
+  size: 549, 552
+  orig: 549, 552
+  offset: 0, 0
+  index: -1
+PNG/KEYBOARD
+  rotate: false
+  xy: 1549, 17
+  size: 401, 211
+  orig: 401, 211
+  offset: 0, 0
+  index: -1
+PNG/LAPTOP
+  rotate: true
+  xy: 2524, 19
+  size: 280, 185
+  orig: 280, 185
+  offset: 0, 0
+  index: -1
+PNG/LEG_B@2x
+  rotate: false
+  xy: 2700, 301
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+PNG/L_FUR@2x
+  rotate: false
+  xy: 3304, 35
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_CLOSED@2x
+  rotate: false
+  xy: 3673, 210
+  size: 176, 106
+  orig: 176, 106
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_FROWN@2x
+  rotate: false
+  xy: 3339, 71
+  size: 176, 120
+  orig: 176, 120
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O@2x
+  rotate: true
+  xy: 3965, 537
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_OPEN@2x
+  rotate: true
+  xy: 3965, 966
+  size: 225, 131
+  orig: 225, 131
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SMILE_2@2x
+  rotate: false
+  xy: 3158, 1
+  size: 145, 113
+  orig: 145, 113
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SMILE_SIDE@2x
+  rotate: false
+  xy: 2957, 16
+  size: 174, 83
+  orig: 174, 83
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_TONGUE@2x
+  rotate: false
+  xy: 3518, 101
+  size: 136, 117
+  orig: 136, 117
+  offset: 0, 0
+  index: -1
+PNG/NOSE@2x
+  rotate: true
+  xy: 1951, 19
+  size: 209, 135
+  orig: 209, 135
+  offset: 0, 0
+  index: -1
+PNG/OOZE@2x
+  rotate: true
+  xy: 3021, 311
+  size: 68, 282
+  orig: 68, 282
+  offset: 0, 0
+  index: -1
+PNG/PHONE
+  rotate: true
+  xy: 3965, 780
+  size: 185, 141
+  orig: 185, 141
+  offset: 0, 0
+  index: -1
+PNG/RHINO
+  rotate: true
+  xy: 3965, 603
+  size: 176, 146
+  orig: 176, 146
+  offset: 0, 0
+  index: -1
+PNG/R_FUR@2x
+  rotate: true
+  xy: 2884, 25
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+PNG/SAUROPOD
+  rotate: true
+  xy: 3158, 115
+  size: 195, 180
+  orig: 195, 180
+  offset: 0, 0
+  index: -1
+PNG/SNEEZE_1@2x
+  rotate: false
+  xy: 3655, 89
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+PNG/SNEEZE_2@2x
+  rotate: false
+  xy: 3518, 219
+  size: 154, 143
+  orig: 154, 143
+  offset: 0, 0
+  index: -1
+PNG/SNEEZE_3@2x
+  rotate: true
+  xy: 3928, 337
+  size: 172, 187
+  orig: 172, 187
+  offset: 0, 0
+  index: -1
+PNG/SNEEZE_4@2x
+  rotate: true
+  xy: 3692, 317
+  size: 192, 235
+  orig: 192, 235
+  offset: 0, 0
+  index: -1
+PNG/SNEEZE_5@2x
+  rotate: true
+  xy: 2710, 17
+  size: 45, 173
+  orig: 45, 173
+  offset: 0, 0
+  index: -1
+PNG/SNEEZE_6@2x
+  rotate: false
+  xy: 3811, 88
+  size: 41, 121
+  orig: 41, 121
+  offset: 0, 0
+  index: -1
+PNG/SNOUT@2x
+  rotate: false
+  xy: 2099, 46
+  size: 424, 253
+  orig: 424, 253
+  offset: 0, 0
+  index: -1
+PNG/TABLE
+  rotate: true
+  xy: 3395, 363
+  size: 478, 296
+  orig: 478, 296
+  offset: 0, 0
+  index: -1
+PNG/TAIL@2x
+  rotate: false
+  xy: 2957, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PNG/TISSUE BOX
+  rotate: false
+  xy: 3928, 211
+  size: 175, 125
+  orig: 175, 125
+  offset: 0, 0
+  index: -1
+PNG/TORSO_3Q@2x
+  rotate: false
+  xy: 1552, 1423
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_3Q_FG@2x
+  rotate: false
+  xy: 2193, 1423
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_FRONT@2x
+  rotate: false
+  xy: 2834, 1423
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_FRONT_FG@2x
+  rotate: false
+  xy: 3475, 1423
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_SIDE@2x
+  rotate: true
+  xy: 1552, 782
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_SIDE_FG@2x
+  rotate: true
+  xy: 2253, 782
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TRACTOOR
+  rotate: true
+  xy: 3965, 1192
+  size: 230, 136
+  orig: 230, 136
+  offset: 0, 0
+  index: -1
+PNG/WALL
+  rotate: false
+  xy: 1, 30
+  size: 1547, 879
+  orig: 1547, 879
+  offset: 0, 0
+  index: -1

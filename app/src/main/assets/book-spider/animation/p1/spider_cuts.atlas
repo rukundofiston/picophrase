@@ -1,0 +1,307 @@
+
+SPIDER_CUTS.png
+size: 4058,2314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BG
+  rotate: false
+  xy: 2, 243
+  size: 1554, 2069
+  orig: 1554, 2069
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE 1
+  rotate: false
+  xy: 2, 6
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE 2
+  rotate: false
+  xy: 836, 46
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE 3
+  rotate: false
+  xy: 3716, 136
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+PNG/CUTTING BOARD
+  rotate: false
+  xy: 1558, 148
+  size: 620, 163
+  orig: 620, 163
+  offset: 0, 0
+  index: -1
+PNG/DROPS
+  rotate: false
+  xy: 4011, 219
+  size: 43, 182
+  orig: 43, 182
+  offset: 0, 0
+  index: -1
+PNG/EYE_LID_1@2x
+  rotate: true
+  xy: 2180, 21
+  size: 290, 359
+  orig: 290, 359
+  offset: 0, 0
+  index: -1
+PNG/EYE_LID_2@2x
+  rotate: true
+  xy: 2541, 10
+  size: 290, 359
+  orig: 290, 359
+  offset: 0, 0
+  index: -1
+PNG/EYE_LID_3@2x
+  rotate: false
+  xy: 3465, 403
+  size: 293, 359
+  orig: 293, 359
+  offset: 0, 0
+  index: -1
+PNG/EYE_LID_4@2x
+  rotate: true
+  xy: 2902, 10
+  size: 290, 359
+  orig: 290, 359
+  offset: 0, 0
+  index: -1
+PNG/EYE_LID_SAD@2x
+  rotate: false
+  xy: 3435, 34
+  size: 279, 149
+  orig: 279, 149
+  offset: 0, 0
+  index: -1
+PNG/FLAME
+  rotate: false
+  xy: 629, 21
+  size: 205, 58
+  orig: 205, 58
+  offset: 0, 0
+  index: -1
+PNG/HAT
+  rotate: false
+  xy: 3465, 764
+  size: 432, 368
+  orig: 432, 368
+  offset: 0, 0
+  index: -1
+PNG/HEAD FRECKLES@2x
+  rotate: false
+  xy: 3766, 118
+  size: 222, 79
+  orig: 222, 79
+  offset: 0, 0
+  index: -1
+PNG/HEAD@2x
+  rotate: false
+  xy: 2632, 302
+  size: 831, 830
+  orig: 831, 830
+  offset: 0, 0
+  index: -1
+PNG/KETTLE
+  rotate: false
+  xy: 3465, 185
+  size: 299, 216
+  orig: 299, 216
+  offset: 0, 0
+  index: -1
+PNG/KNIFE
+  rotate: false
+  xy: 629, 81
+  size: 282, 58
+  orig: 282, 58
+  offset: 0, 0
+  index: -1
+PNG/LEG_ARM@2x
+  rotate: true
+  xy: 2, 141
+  size: 100, 1030
+  orig: 100, 1030
+  offset: 0, 0
+  index: -1
+PNG/LEG_ARM_FG@2x
+  rotate: true
+  xy: 1558, 313
+  size: 100, 1030
+  orig: 100, 1030
+  offset: 0, 0
+  index: -1
+PNG/MOUTH CHEEKY@2x
+  rotate: false
+  xy: 2, 27
+  size: 304, 112
+  orig: 304, 112
+  offset: 0, 0
+  index: -1
+PNG/MOUTH CHEW@2x
+  rotate: false
+  xy: 3716, 17
+  size: 201, 99
+  orig: 201, 99
+  offset: 0, 0
+  index: -1
+PNG/MOUTH CONFLICTED@2x
+  rotate: false
+  xy: 308, 14
+  size: 235, 50
+  orig: 235, 50
+  offset: 0, 0
+  index: -1
+PNG/MOUTH SMILE CLOSED@2x
+  rotate: false
+  xy: 308, 66
+  size: 319, 73
+  orig: 319, 73
+  offset: 0, 0
+  index: -1
+PNG/MOUTH SMILE@2x
+  rotate: false
+  xy: 1034, 72
+  size: 305, 169
+  orig: 305, 169
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O@2x
+  rotate: false
+  xy: 3919, 8
+  size: 94, 108
+  orig: 94, 108
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_OPEN 2@2x
+  rotate: true
+  xy: 3899, 841
+  size: 291, 157
+  orig: 291, 157
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_OPEN@2x
+  rotate: true
+  xy: 3263, 2
+  size: 298, 170
+  orig: 298, 170
+  offset: 0, 0
+  index: -1
+PNG/NOSE@2x
+  rotate: false
+  xy: 1479, 76
+  size: 117, 47
+  orig: 117, 47
+  offset: 0, 0
+  index: -1
+PNG/ONION
+  rotate: false
+  xy: 1598, 37
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+PNG/ONION SLICE 2
+  rotate: false
+  xy: 1742, 47
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+PNG/R_BROW@2x
+  rotate: false
+  xy: 1341, 2
+  size: 189, 72
+  orig: 189, 72
+  offset: 0, 0
+  index: -1
+PNG/R_EYE@2x
+  rotate: false
+  xy: 3760, 403
+  size: 290, 359
+  orig: 290, 359
+  offset: 0, 0
+  index: -1
+PNG/R_IRIS@2x
+  rotate: true
+  xy: 3766, 199
+  size: 202, 243
+  orig: 202, 243
+  offset: 0, 0
+  index: -1
+PNG/R_PUPIL@2x
+  rotate: false
+  xy: 1341, 76
+  size: 136, 165
+  orig: 136, 165
+  offset: 0, 0
+  index: -1
+PNG/TABLE
+  rotate: false
+  xy: 1558, 415
+  size: 1072, 761
+  orig: 1072, 761
+  offset: 0, 0
+  index: -1
+PNG/TEAR
+  rotate: false
+  xy: 2590, 357
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+PNG/TORSO 3Q@2x
+  rotate: false
+  xy: 2835, 1134
+  size: 1215, 1178
+  orig: 1215, 1178
+  offset: 0, 0
+  index: -1
+PNG/TORSO FRONT@2x
+  rotate: false
+  xy: 1558, 1178
+  size: 1275, 1134
+  orig: 1275, 1134
+  offset: 0, 0
+  index: -1
+PNG/WATERY_1
+  rotate: true
+  xy: 3435, 230
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+PNG/WATERY_2
+  rotate: false
+  xy: 2632, 1139
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+PNG/WATERY_3
+  rotate: false
+  xy: 913, 81
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+PNG/WATERY_4
+  rotate: true
+  xy: 1479, 125
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+PNG/WATERY_5
+  rotate: false
+  xy: 3899, 769
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1

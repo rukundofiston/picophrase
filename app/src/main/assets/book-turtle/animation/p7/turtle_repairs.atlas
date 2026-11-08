@@ -1,0 +1,403 @@
+
+turtle_repairs.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/GLASSES_BAND@2x
+  rotate: false
+  xy: 1452, 6
+  size: 135, 67
+  orig: 135, 67
+  offset: 0, 0
+  index: -1
+PNG/HEAD@2x
+  rotate: false
+  xy: 1563, 627
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HEAD_B@2x
+  rotate: true
+  xy: 1452, 75
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HELMET@2x
+  rotate: true
+  xy: 1563, 1093
+  size: 435, 427
+  orig: 435, 427
+  offset: 0, 0
+  index: -1
+PNG/HELMET_BG@2x
+  rotate: true
+  xy: 1563, 1530
+  size: 429, 428
+  orig: 429, 428
+  offset: 0, 0
+  index: -1
+PNG/INNER_MOUTH@2x
+  rotate: true
+  xy: 1679, 478
+  size: 147, 166
+  orig: 147, 166
+  offset: 0, 0
+  index: -1
+PNG/LAWN_WHEEL
+  rotate: false
+  xy: 1918, 331
+  size: 120, 131
+  orig: 120, 131
+  offset: 0, 0
+  index: -1
+PNG/L_BROW@2x
+  rotate: true
+  xy: 1992, 1294
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+PNG/L_EYE@2x
+  rotate: false
+  xy: 1952, 979
+  size: 90, 112
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_1@2x
+  rotate: true
+  xy: 2022, 1163
+  size: 89, 25
+  orig: 89, 25
+  offset: 0, 0
+  index: -1
+PNG/L_EYE_CLOSED_2@2x
+  rotate: true
+  xy: 1992, 1163
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+PNG/L_IRIS@2x
+  rotate: false
+  xy: 1918, 71
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+PNG/L_PUPIL@2x
+  rotate: false
+  xy: 1992, 1475
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+PNG/SCREWDRIVER@2x
+  rotate: false
+  xy: 1952, 464
+  size: 72, 433
+  orig: 72, 433
+  offset: 0, 0
+  index: -1
+PNG/SKU_EAR@2x
+  rotate: false
+  xy: 1816, 0
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+PNG/SKU_MOUTH_O@2x
+  rotate: false
+  xy: 1992, 1368
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+PNG/SKU_MOUTH_SMILE@2x
+  rotate: true
+  xy: 1992, 1407
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+PNG/SKU_MOUTH_SMILE_1@2x
+  rotate: true
+  xy: 1992, 1095
+  size: 66, 12
+  orig: 66, 12
+  offset: 0, 0
+  index: -1
+PNG/SKU_NOSE@2x
+  rotate: true
+  xy: 1992, 1254
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+PNG/SKU_PAW@2x
+  rotate: false
+  xy: 1918, 147
+  size: 111, 182
+  orig: 111, 182
+  offset: 0, 0
+  index: -1
+PNG/SKU_PUPIL@2x
+  rotate: false
+  xy: 2006, 1128
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+PNG/TEETH@2x
+  rotate: false
+  xy: 1667, 11
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+PNG/TONGUE@2x
+  rotate: false
+  xy: 1847, 509
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_2@2x
+  rotate: true
+  xy: 1952, 899
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_B@2x
+  rotate: false
+  xy: 1589, 9
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+PNG/TORSO@2x
+  rotate: true
+  xy: 0, 34
+  size: 639, 724
+  orig: 639, 724
+  offset: 0, 0
+  index: -1
+PNG/TORSO_TROUSER@2x
+  rotate: true
+  xy: 726, 34
+  size: 639, 724
+  orig: 639, 724
+  offset: 0, 0
+  index: -1
+PNG/grass@2x
+  rotate: false
+  xy: 0, 675
+  size: 1561, 1284
+  orig: 1561, 1284
+  offset: 0, 0
+  index: -1
+PNG/toolbox@2x
+  rotate: false
+  xy: 1452, 468
+  size: 225, 157
+  orig: 225, 157
+  offset: 0, 0
+  index: -1
+
+turtle_repairs2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BOOT@2x
+  rotate: true
+  xy: 1293, 750
+  size: 287, 456
+  orig: 287, 456
+  offset: 0, 0
+  index: -1
+PNG/EMPTY SHELL@2x
+  rotate: true
+  xy: 0, 0
+  size: 557, 641
+  orig: 557, 641
+  offset: 0, 0
+  index: -1
+PNG/GLASSES@2x
+  rotate: false
+  xy: 1686, 1506
+  size: 281, 183
+  orig: 281, 183
+  offset: 0, 0
+  index: -1
+PNG/GLOVE@2x
+  rotate: false
+  xy: 440, 1112
+  size: 341, 218
+  orig: 341, 218
+  offset: 0, 0
+  index: -1
+PNG/HEAD_UH_OH@2x
+  rotate: false
+  xy: 1634, 257
+  size: 387, 464
+  orig: 387, 464
+  offset: 0, 0
+  index: -1
+PNG/HELMET_FG@2x
+  rotate: false
+  xy: 1258, 394
+  size: 374, 354
+  orig: 374, 354
+  offset: 0, 0
+  index: -1
+PNG/LAWNMOWER
+  rotate: false
+  xy: 776, 472
+  size: 480, 315
+  orig: 480, 315
+  offset: 0, 0
+  index: -1
+PNG/LAWN_STICK_A
+  rotate: true
+  xy: 827, 1331
+  size: 184, 327
+  orig: 184, 327
+  offset: 0, 0
+  index: -1
+PNG/LAWN_STICK_B
+  rotate: true
+  xy: 1751, 723
+  size: 314, 290
+  orig: 314, 290
+  offset: 0, 0
+  index: -1
+PNG/L_ARM@2x
+  rotate: false
+  xy: 0, 1517
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_B@2x
+  rotate: false
+  xy: 562, 1517
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_THUMB_FG@2x
+  rotate: false
+  xy: 1124, 1517
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_ARM_WATCH@2x
+  rotate: false
+  xy: 0, 1343
+  size: 560, 172
+  orig: 560, 172
+  offset: 0, 0
+  index: -1
+PNG/L_LEG@2x
+  rotate: true
+  xy: 1459, 1039
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_BROWN@2x
+  rotate: true
+  xy: 0, 865
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS@2x
+  rotate: true
+  xy: 431, 829
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/L_LEG_SOCKS_FG@2x
+  rotate: true
+  xy: 862, 789
+  size: 271, 429
+  orig: 271, 429
+  offset: 0, 0
+  index: -1
+PNG/OVERALL_LEG@2x
+  rotate: true
+  xy: 1156, 1323
+  size: 192, 346
+  orig: 192, 346
+  offset: 0, 0
+  index: -1
+PNG/SKU_HEAD@2x
+  rotate: false
+  xy: 783, 1102
+  size: 228, 227
+  orig: 228, 227
+  offset: 0, 0
+  index: -1
+PNG/SKU_LEG@2x
+  rotate: true
+  xy: 562, 1332
+  size: 183, 263
+  orig: 183, 263
+  offset: 0, 0
+  index: -1
+PNG/SKU_TAIL@2x
+  rotate: true
+  xy: 0, 1138
+  size: 203, 438
+  orig: 203, 438
+  offset: 0, 0
+  index: -1
+PNG/SKU_TORSO@2x
+  rotate: false
+  xy: 1013, 1062
+  size: 444, 259
+  orig: 444, 259
+  offset: 0, 0
+  index: -1
+PNG/TROUSER_LEGGING@2x
+  rotate: true
+  xy: 1504, 1312
+  size: 192, 346
+  orig: 192, 346
+  offset: 0, 0
+  index: -1
+PNG/fence@2x
+  rotate: false
+  xy: 0, 559
+  size: 774, 268
+  orig: 774, 268
+  offset: 0, 0
+  index: -1
+
+turtle_repairs3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/shed@2x
+  rotate: false
+  xy: 0, 0
+  size: 884, 872
+  orig: 884, 872
+  offset: 0, 0
+  index: -1
+PNG/sky@2x
+  rotate: false
+  xy: 0, 874
+  size: 1561, 828
+  orig: 1561, 828
+  offset: 0, 0
+  index: -1

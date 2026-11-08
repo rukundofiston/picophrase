@@ -1,0 +1,356 @@
+
+cat_washes.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAT_WASH_BG_1
+  rotate: false
+  xy: 637, 202
+  size: 385, 382
+  orig: 385, 382
+  offset: 0, 0
+  index: -1
+CAT_WASH_BG_2
+  rotate: true
+  xy: 771, 586
+  size: 125, 386
+  orig: 125, 386
+  offset: 0, 0
+  index: -1
+CAT_WASH_BG_3@2x
+  rotate: false
+  xy: 0, 623
+  size: 769, 401
+  orig: 769, 401
+  offset: 0, 0
+  index: -1
+CAT_WASH_BG_4@2x
+  rotate: false
+  xy: 1024, 242
+  size: 190, 342
+  orig: 190, 342
+  offset: 0, 0
+  index: -1
+CAT_WASH_BG_5
+  rotate: false
+  xy: 1352, 668
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+CURTAIN
+  rotate: true
+  xy: 0, 73
+  size: 263, 557
+  orig: 263, 557
+  offset: 0, 0
+  index: -1
+C_ARM
+  rotate: true
+  xy: 1408, 763
+  size: 51, 205
+  orig: 51, 205
+  offset: 0, 0
+  index: -1
+C_ARM_FIST
+  rotate: false
+  xy: 1999, 794
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+C_ARM_GRAB
+  rotate: false
+  xy: 599, 248
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+C_ARM_HOLD
+  rotate: true
+  xy: 637, 586
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+C_ARM_POINT
+  rotate: false
+  xy: 165, 33
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+C_BROW
+  rotate: true
+  xy: 1402, 683
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+C_EYE
+  rotate: false
+  xy: 1956, 806
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+C_EYE_CLOSED
+  rotate: true
+  xy: 1195, 219
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+C_HEAD_FRONTAL
+  rotate: false
+  xy: 1216, 207
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+C_IRIS
+  rotate: false
+  xy: 719, 586
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+C_MOUTH_IDLE
+  rotate: true
+  xy: 1720, 776
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+C_MOUTH_O_1
+  rotate: false
+  xy: 1956, 731
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+C_MOUTH_O_2
+  rotate: false
+  xy: 118, 32
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+C_MOUTH_SMILE_1
+  rotate: false
+  xy: 682, 586
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+C_MOUTH_SMILE_2
+  rotate: false
+  xy: 1615, 777
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+C_MUZZLE_FRONTAL
+  rotate: false
+  xy: 0, 18
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+C_NOSE
+  rotate: true
+  xy: 608, 302
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+C_PUPIL
+  rotate: false
+  xy: 1002, 178
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+C_R_EAR
+  rotate: false
+  xy: 559, 282
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+C_TAIL
+  rotate: true
+  xy: 790, 6
+  size: 194, 210
+  orig: 194, 210
+  offset: 0, 0
+  index: -1
+C_TONGUE
+  rotate: false
+  xy: 559, 203
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+C_TORSO
+  rotate: false
+  xy: 1741, 716
+  size: 213, 308
+  orig: 213, 308
+  offset: 0, 0
+  index: -1
+C_TORSO_FRONTAL
+  rotate: true
+  xy: 1408, 816
+  size: 208, 331
+  orig: 208, 331
+  offset: 0, 0
+  index: -1
+C_WHISKERS
+  rotate: true
+  xy: 1591, 735
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+FOAM_1
+  rotate: false
+  xy: 1676, 777
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+FOAM_2
+  rotate: false
+  xy: 1999, 830
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+FOAM_3
+  rotate: false
+  xy: 1956, 767
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+KID_BROW
+  rotate: true
+  xy: 587, 208
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+KID_EYE
+  rotate: false
+  xy: 559, 234
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+KID_EYE_CLOSED
+  rotate: false
+  xy: 1195, 93
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+KID_HAIR_1
+  rotate: true
+  xy: 1956, 861
+  size: 163, 91
+  orig: 163, 91
+  offset: 0, 0
+  index: -1
+KID_HAIR_2
+  rotate: false
+  xy: 1418, 654
+  size: 171, 107
+  orig: 171, 107
+  offset: 0, 0
+  index: -1
+KID_HAIR_3
+  rotate: false
+  xy: 1159, 597
+  size: 191, 114
+  orig: 191, 114
+  offset: 0, 0
+  index: -1
+KID_HEAD
+  rotate: false
+  xy: 1024, 92
+  size: 169, 148
+  orig: 169, 148
+  offset: 0, 0
+  index: -1
+KID_IRIS
+  rotate: true
+  xy: 165, 0
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+KID_MOUTH_OPEN
+  rotate: false
+  xy: 1352, 643
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+KID_MOUTH_SMILE
+  rotate: false
+  xy: 599, 224
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+KID_PUPIL
+  rotate: false
+  xy: 1352, 615
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+KID_TORSO
+  rotate: false
+  xy: 1195, 106
+  size: 160, 99
+  orig: 160, 99
+  offset: 0, 0
+  index: -1
+ROD
+  rotate: false
+  xy: 771, 713
+  size: 645, 40
+  orig: 645, 40
+  offset: 0, 0
+  index: -1
+SHOWER_1
+  rotate: false
+  xy: 1216, 366
+  size: 142, 229
+  orig: 142, 229
+  offset: 0, 0
+  index: -1
+SHOWER_2
+  rotate: true
+  xy: 559, 58
+  size: 142, 229
+  orig: 142, 229
+  offset: 0, 0
+  index: -1
+TUB_FG
+  rotate: false
+  xy: 771, 755
+  size: 635, 269
+  orig: 635, 269
+  offset: 0, 0
+  index: -1
+TUB_MG
+  rotate: false
+  xy: 0, 338
+  size: 635, 283
+  orig: 635, 283
+  offset: 0, 0
+  index: -1

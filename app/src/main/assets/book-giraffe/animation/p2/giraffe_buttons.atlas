@@ -1,0 +1,272 @@
+
+giraffe_buttons.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BUTTON
+  rotate: false
+  xy: 40, 0
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+PNG/EYE_CLOSED_1
+  rotate: false
+  xy: 1960, 934
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+PNG/EYE_CLOSED_2
+  rotate: false
+  xy: 1910, 849
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+PNG/G_BROW
+  rotate: false
+  xy: 458, 0
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+PNG/G_BUTTON_@2x
+  rotate: false
+  xy: 0, 450
+  size: 769, 574
+  orig: 769, 574
+  offset: 0, 0
+  index: -1
+PNG/G_BUTTON__1@2x
+  rotate: false
+  xy: 771, 476
+  size: 769, 548
+  orig: 769, 548
+  offset: 0, 0
+  index: -1
+PNG/G_BUTTON__2@2x
+  rotate: false
+  xy: 0, 84
+  size: 542, 364
+  orig: 542, 364
+  offset: 0, 0
+  index: -1
+PNG/G_EAR
+  rotate: false
+  xy: 1910, 867
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+PNG/G_EYE
+  rotate: true
+  xy: 544, 89
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+PNG/G_HEAD
+  rotate: false
+  xy: 1783, 774
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+PNG/G_IRIS
+  rotate: true
+  xy: 1542, 482
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+PNG/G_L_ARM
+  rotate: false
+  xy: 1542, 502
+  size: 52, 220
+  orig: 52, 220
+  offset: 0, 0
+  index: -1
+PNG/G_L_HORN
+  rotate: false
+  xy: 489, 50
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+PNG/G_L_LEG_B
+  rotate: true
+  xy: 0, 13
+  size: 69, 227
+  orig: 69, 227
+  offset: 0, 0
+  index: -1
+PNG/G_L_LEG_B_RED
+  rotate: true
+  xy: 229, 13
+  size: 69, 227
+  orig: 69, 227
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_GRINS
+  rotate: false
+  xy: 625, 146
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_LIPS
+  rotate: false
+  xy: 1606, 744
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_O
+  rotate: false
+  xy: 56, 0
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_OWW
+  rotate: false
+  xy: 477, 0
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SAD
+  rotate: false
+  xy: 0, 2
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE
+  rotate: false
+  xy: 771, 451
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE_2
+  rotate: true
+  xy: 745, 403
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE_3
+  rotate: false
+  xy: 458, 14
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE_BIG
+  rotate: false
+  xy: 1659, 744
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+PNG/G_NECK
+  rotate: false
+  xy: 1542, 724
+  size: 62, 300
+  orig: 62, 300
+  offset: 0, 0
+  index: -1
+PNG/G_PUPIL
+  rotate: false
+  xy: 586, 102
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+PNG/G_SWEAT
+  rotate: false
+  xy: 1993, 969
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+PNG/G_TAIL
+  rotate: true
+  xy: 1960, 992
+  size: 32, 88
+  orig: 32, 88
+  offset: 0, 0
+  index: -1
+PNG/G_TAIL_END
+  rotate: false
+  xy: 458, 37
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+PNG/G_TONGUE
+  rotate: false
+  xy: 1960, 951
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+PNG/G_TORSO
+  rotate: false
+  xy: 544, 301
+  size: 199, 147
+  orig: 199, 147
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_OPEN_LARGE
+  rotate: false
+  xy: 544, 120
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+PNG/PIN_1
+  rotate: true
+  xy: 1606, 729
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+PNG/PIN_2
+  rotate: true
+  xy: 721, 269
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+PNG/SKIRT_1
+  rotate: false
+  xy: 1606, 899
+  size: 175, 125
+  orig: 175, 125
+  offset: 0, 0
+  index: -1
+PNG/SKIRT_2
+  rotate: false
+  xy: 544, 174
+  size: 175, 125
+  orig: 175, 125
+  offset: 0, 0
+  index: -1
+PNG/SKIRT_3
+  rotate: false
+  xy: 1606, 772
+  size: 175, 125
+  orig: 175, 125
+  offset: 0, 0
+  index: -1
+PNG/SKIRT_INSIDE
+  rotate: false
+  xy: 1783, 899
+  size: 175, 125
+  orig: 175, 125
+  offset: 0, 0
+  index: -1

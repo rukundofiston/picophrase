@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "rabbit_endpage_en.svg",
+        "dest" : "rabbit_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "rabbit_endpage_fr.svg",
+        "dest" : "rabbit_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "rabbit-book.svg",
+"dest" : "rabbit-book.png",
+"width" : 21.744791666666664,
+"height" : 12.109375
+},
+{
+"src" : "rabbit-catch-background.svg",
+"dest" : "rabbit-catch-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-catch-main.svg",
+"dest" : "rabbit-catch-main.png",
+"width" : 72.39583333333334,
+"height" : 34.1796875
+},
+{
+"src" : "rabbit-catch.svg",
+"dest" : "rabbit-catch.png",
+"width" : 18.359375,
+"height" : 18.84765625
+},
+{
+"src" : "rabbit-drink-background.svg",
+"dest" : "rabbit-drink-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "rabbit-drink-main.svg",
+"dest" : "rabbit-drink-main.png",
+"width" : 62.369791666666664,
+"height" : 40.4296875
+},
+{
+"src" : "rabbit-drink.svg",
+"dest" : "rabbit-drink.png",
+"width" : 13.020833333333334,
+"height" : 18.9453125
+},
+{
+"src" : "rabbit-glasses.svg",
+"dest" : "rabbit-glasses.png",
+"width" : 25.390625,
+"height" : 9.1796875
+},
+{
+"src" : "rabbit-lemonade.svg",
+"dest" : "rabbit-lemonade.png",
+"width" : 16.145833333333336,
+"height" : 16.015625
+},
+{
+"src" : "rabbit-light.svg",
+"dest" : "rabbit-light.png",
+"width" : 13.411458333333334,
+"height" : 16.40625
+},
+{
+"src" : "rabbit-lion.svg",
+"dest" : "rabbit-lion.png",
+"width" : 21.354166666666664,
+"height" : 16.50390625
+},
+{
+"src" : "rabbit-lizard.svg",
+"dest" : "rabbit-lizard.png",
+"width" : 17.1875,
+"height" : 16.2109375
+},
+{
+"src" : "rabbit-look-background.svg",
+"dest" : "rabbit-look-background.png",
+"width" : 100.0,
+"height" : 100.0
+},
+{
+"src" : "rabbit-look-main.svg",
+"dest" : "rabbit-look-main.png",
+"width" : 97.00520833333334,
+"height" : 71.09375
+},
+{
+"src" : "rabbit-look.svg",
+"dest" : "rabbit-look.png",
+"width" : 16.796875,
+"height" : 17.3828125
+},
+{
+"src" : "rabbit-milk.svg",
+"dest" : "rabbit-milk.png",
+"width" : 11.458333333333332,
+"height" : 17.7734375
+},
+{
+"src" : "rabbit-moon.svg",
+"dest" : "rabbit-moon.png",
+"width" : 16.927083333333336,
+"height" : 15.625
+},
+{
+"src" : "rabbit-playpage-ui.svg",
+"dest" : "rabbit-playpage-ui.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-pour-background.svg",
+"dest" : "rabbit-pour-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-pour-main.svg",
+"dest" : "rabbit-pour-main.png",
+"width" : 100.26041666666667,
+"height" : 71.2890625
+},
+{
+"src" : "rabbit-pour.svg",
+"dest" : "rabbit-pour.png",
+"width" : 21.875,
+"height" : 12.5
+},
+{
+"src" : "rabbit-read-background.svg",
+"dest" : "rabbit-read-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-read-main.svg",
+"dest" : "rabbit-read-main.png",
+"width" : 18.489583333333336,
+"height" : 22.75390625
+},
+{
+"src" : "rabbit-read.svg",
+"dest" : "rabbit-read.png",
+"width" : 11.328125,
+"height" : 18.26171875
+},
+{
+"src" : "rabbit-run-background.svg",
+"dest" : "rabbit-run-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-run-main.svg",
+"dest" : "rabbit-run-main.png",
+"width" : 87.5,
+"height" : 42.7734375
+},
+{
+"src" : "rabbit-run.svg",
+"dest" : "rabbit-run.png",
+"width" : 19.791666666666664,
+"height" : 18.45703125
+},
+{
+"src" : "rabbit-turnon-background.svg",
+"dest" : "rabbit-turnon-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-turnon-main.svg",
+"dest" : "rabbit-turnon-main.png",
+"width" : 79.55729166666666,
+"height" : 38.8671875
+},
+{
+"src" : "rabbit-turnon.svg",
+"dest" : "rabbit-turnon.png",
+"width" : 16.276041666666664,
+"height" : 16.40625
+},
+{
+"src" : "rabbit-wash-background.svg",
+"dest" : "rabbit-wash-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "rabbit-wash-main.svg",
+"dest" : "rabbit-wash-main.png",
+"width" : 47.13541666666667,
+"height" : 35.15625
+},
+{
+"src" : "rabbit-wash.svg",
+"dest" : "rabbit-wash.png",
+"width" : 21.744791666666664,
+"height" : 14.35546875
+},
+{
+"src" : "rabbit.svg",
+"dest" : "rabbit.png",
+"width" : 13.671875,
+"height" : 17.87109375
+},
+{
+"src" : "rabbit_playpage_en.svg",
+"dest" : "rabbit_playpage_en.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+}
+]

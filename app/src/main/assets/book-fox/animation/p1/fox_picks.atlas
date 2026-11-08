@@ -1,0 +1,279 @@
+
+fox_picks.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BUCKET_BG
+  rotate: false
+  xy: 1198, 479
+  size: 113, 33
+  orig: 113, 33
+  offset: 0, 0
+  index: -1
+PNG/BUCKET_FG
+  rotate: false
+  xy: 570, 124
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+PNG/BUCKET_GRIP_A
+  rotate: false
+  xy: 721, 237
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+PNG/BUCKET_GRIP_B
+  rotate: true
+  xy: 360, 0
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+PNG/FOX_ARM
+  rotate: true
+  xy: 1146, 314
+  size: 180, 34
+  orig: 180, 34
+  offset: 0, 0
+  index: -1
+PNG/FOX_BROW
+  rotate: true
+  xy: 1230, 365
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+PNG/FOX_EAR
+  rotate: false
+  xy: 1182, 317
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE
+  rotate: false
+  xy: 1146, 273
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE_CLOSED_1
+  rotate: false
+  xy: 1314, 449
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE_CLOSED_2
+  rotate: true
+  xy: 0, 0
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+PNG/FOX_HEAD
+  rotate: true
+  xy: 360, 58
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+PNG/FOX_IRIS
+  rotate: true
+  xy: 708, 0
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+PNG/FOX_LEG
+  rotate: true
+  xy: 556, 226
+  size: 81, 163
+  orig: 81, 163
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_GASP
+  rotate: true
+  xy: 454, 0
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_SMILE
+  rotate: false
+  xy: 770, 229
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_UHOH
+  rotate: false
+  xy: 886, 234
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+PNG/FOX_NOSE
+  rotate: false
+  xy: 25, 14
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+PNG/FOX_PAW
+  rotate: false
+  xy: 1313, 479
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+PNG/FOX_PICKS_
+  rotate: false
+  xy: 387, 309
+  size: 385, 203
+  orig: 385, 203
+  offset: 0, 0
+  index: -1
+PNG/FOX_PICK_BG_1
+  rotate: false
+  xy: 0, 195
+  size: 385, 317
+  orig: 385, 317
+  offset: 0, 0
+  index: -1
+PNG/FOX_PICK_BG_2@2x
+  rotate: false
+  xy: 570, 16
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+PNG/FOX_PUPIL
+  rotate: false
+  xy: 496, 58
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+PNG/FOX_TAIL
+  rotate: false
+  xy: 1009, 273
+  size: 135, 221
+  orig: 135, 221
+  offset: 0, 0
+  index: -1
+PNG/FOX_TORSO
+  rotate: true
+  xy: 0, 34
+  size: 159, 215
+  orig: 159, 215
+  offset: 0, 0
+  index: -1
+PNG/FOX_WATCH
+  rotate: true
+  xy: 678, 0
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_GREEN_1
+  rotate: false
+  xy: 1182, 386
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_GREEN_2
+  rotate: false
+  xy: 685, 121
+  size: 74, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_RED_1
+  rotate: false
+  xy: 1248, 387
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_RED_2
+  rotate: false
+  xy: 678, 23
+  size: 77, 96
+  orig: 77, 96
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_RED_3
+  rotate: false
+  xy: 496, 77
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+PNG/LEAF_1
+  rotate: false
+  xy: 828, 225
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+PNG/LEAF_2
+  rotate: false
+  xy: 934, 239
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+PNG/ROD
+  rotate: true
+  xy: 774, 496
+  size: 16, 422
+  orig: 16, 422
+  offset: 0, 0
+  index: -1
+PNG/SPIDER_1
+  rotate: false
+  xy: 977, 250
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+PNG/SPIDER_2
+  rotate: false
+  xy: 1362, 485
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+PNG/SPRAY
+  rotate: false
+  xy: 217, 51
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+PNG/STRAWBERRIES
+  rotate: true
+  xy: 774, 277
+  size: 217, 233
+  orig: 217, 233
+  offset: 0, 0
+  index: -1
+PNG/WEB
+  rotate: true
+  xy: 387, 199
+  size: 108, 167
+  orig: 108, 167
+  offset: 0, 0
+  index: -1
+PNG/WEB_STRING
+  rotate: true
+  xy: 217, 45
+  size: 4, 27
+  orig: 4, 27
+  offset: 0, 0
+  index: -1

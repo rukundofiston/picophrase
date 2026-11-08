@@ -1,0 +1,153 @@
+
+cat_eat.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BODY_TAIL
+  rotate: false
+  xy: 884, 247
+  size: 471, 265
+  orig: 471, 265
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 1566, 415
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+PNG/CAT_BG_1@2x
+  rotate: false
+  xy: 386, 262
+  size: 496, 250
+  orig: 496, 250
+  offset: 0, 0
+  index: -1
+PNG/CAT_BG_2
+  rotate: false
+  xy: 0, 0
+  size: 384, 512
+  orig: 384, 512
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 1483, 331
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+PNG/FANGS
+  rotate: false
+  xy: 1658, 492
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+PNG/FISH
+  rotate: false
+  xy: 1483, 431
+  size: 173, 81
+  orig: 173, 81
+  offset: 0, 0
+  index: -1
+PNG/FISH_BONE
+  rotate: false
+  xy: 681, 182
+  size: 173, 78
+  orig: 173, 78
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: false
+  xy: 512, 126
+  size: 167, 134
+  orig: 167, 134
+  offset: 0, 0
+  index: -1
+PNG/LOWER_MOUTH
+  rotate: false
+  xy: 1357, 273
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+PNG/L_ARM
+  rotate: false
+  xy: 386, 54
+  size: 124, 206
+  orig: 124, 206
+  offset: 0, 0
+  index: -1
+PNG/L_EAR
+  rotate: false
+  xy: 681, 126
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+PNG/L_LEG
+  rotate: true
+  xy: 512, 0
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+PNG/L_WHISKERS
+  rotate: false
+  xy: 386, 17
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+PNG/NOSE
+  rotate: true
+  xy: 856, 231
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 1412, 292
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+PNG/R_ARM
+  rotate: false
+  xy: 1357, 306
+  size: 124, 206
+  orig: 124, 206
+  offset: 0, 0
+  index: -1
+PNG/R_LEG
+  rotate: true
+  xy: 657, 0
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+PNG/R_WHISKERS
+  rotate: false
+  xy: 741, 152
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+PNG/TONGUE_2
+  rotate: false
+  xy: 1357, 252
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+PNG/UPPER_MOUTH
+  rotate: false
+  xy: 1483, 366
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

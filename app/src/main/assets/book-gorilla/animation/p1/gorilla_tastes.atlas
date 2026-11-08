@@ -1,0 +1,335 @@
+
+gorilla_tastes.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/CAKE_BOT
+  rotate: false
+  xy: 446, 39
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+PNG/CAKE_PLATE
+  rotate: false
+  xy: 387, 119
+  size: 185, 53
+  orig: 185, 53
+  offset: 0, 0
+  index: -1
+PNG/CAKE_TOP
+  rotate: false
+  xy: 842, 308
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+PNG/CAKE_TOP_A
+  rotate: true
+  xy: 773, 137
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+PNG/CAKE_TOP_B
+  rotate: false
+  xy: 842, 242
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+PNG/CAKE_TOP_C
+  rotate: false
+  xy: 839, 176
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+PNG/CANDLE
+  rotate: false
+  xy: 596, 70
+  size: 12, 47
+  orig: 12, 47
+  offset: 0, 0
+  index: -1
+PNG/CANDLE_FLAME
+  rotate: false
+  xy: 982, 427
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+PNG/CHERRY
+  rotate: false
+  xy: 982, 454
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+PNG/DIP_1
+  rotate: true
+  xy: 265, 0
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/DIP_2
+  rotate: true
+  xy: 294, 0
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/DIP_3
+  rotate: true
+  xy: 323, 0
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/DIP_4
+  rotate: true
+  xy: 962, 483
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/GOR_BROW
+  rotate: false
+  xy: 1007, 473
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+PNG/GOR_EYE
+  rotate: false
+  xy: 981, 772
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+PNG/GOR_EYE_CLOSED
+  rotate: true
+  xy: 1005, 777
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+PNG/GOR_HEAD
+  rotate: false
+  xy: 626, 141
+  size: 145, 195
+  orig: 145, 195
+  offset: 0, 0
+  index: -1
+PNG/GOR_IRIS
+  rotate: false
+  xy: 981, 749
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_LAUGH
+  rotate: false
+  xy: 952, 189
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_O
+  rotate: true
+  xy: 540, 16
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_OWNO
+  rotate: true
+  xy: 981, 869
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_OWW
+  rotate: false
+  xy: 981, 802
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_SMILE
+  rotate: true
+  xy: 981, 975
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_SMILE_2
+  rotate: false
+  xy: 446, 11
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_TEETH
+  rotate: true
+  xy: 981, 920
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+PNG/GOR_NOSE
+  rotate: false
+  xy: 509, 15
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+PNG/GOR_PUPIL
+  rotate: false
+  xy: 352, 12
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_ARM_B
+  rotate: true
+  xy: 771, 374
+  size: 107, 209
+  orig: 107, 209
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_FINGERS
+  rotate: true
+  xy: 912, 116
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_FIST_A
+  rotate: false
+  xy: 839, 122
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_FIST_B
+  rotate: false
+  xy: 955, 315
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_OPEN
+  rotate: false
+  xy: 265, 27
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_TASTE_1
+  rotate: false
+  xy: 773, 250
+  size: 67, 122
+  orig: 67, 122
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_TASTE_2
+  rotate: false
+  xy: 962, 510
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_LEG
+  rotate: true
+  xy: 387, 174
+  size: 162, 237
+  orig: 162, 237
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_PALM
+  rotate: false
+  xy: 955, 241
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_PALM_OPEN
+  rotate: true
+  xy: 962, 599
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_THUMB
+  rotate: false
+  xy: 981, 835
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_THUMB_2
+  rotate: true
+  xy: 574, 119
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+PNG/GOR_TONGUE
+  rotate: true
+  xy: 991, 483
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+PNG/GOR_TORSO
+  rotate: false
+  xy: 771, 714
+  size: 208, 310
+  orig: 208, 310
+  offset: 0, 0
+  index: -1
+PNG/G_TASTE_
+  rotate: false
+  xy: 0, 128
+  size: 385, 208
+  orig: 385, 208
+  offset: 0, 0
+  index: -1
+PNG/G_TASTE__1@2x
+  rotate: false
+  xy: 0, 338
+  size: 769, 686
+  orig: 769, 686
+  offset: 0, 0
+  index: -1
+PNG/G_TASTE__2@2x
+  rotate: false
+  xy: 0, 0
+  size: 263, 126
+  orig: 263, 126
+  offset: 0, 0
+  index: -1
+PNG/ICE_CREAM_1
+  rotate: true
+  xy: 365, 0
+  size: 117, 79
+  orig: 117, 79
+  offset: 0, 0
+  index: -1
+PNG/SPLAT_1
+  rotate: true
+  xy: 885, 483
+  size: 229, 75
+  orig: 229, 75
+  offset: 0, 0
+  index: -1
+PNG/SPLAT_2
+  rotate: true
+  xy: 771, 483
+  size: 229, 112
+  orig: 229, 112
+  offset: 0, 0
+  index: -1

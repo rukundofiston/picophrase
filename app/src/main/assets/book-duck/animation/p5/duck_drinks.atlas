@@ -1,0 +1,230 @@
+
+duck_drinks.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BLOW_1
+  rotate: false
+  xy: 913, 394
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+PNG/BLOW_2
+  rotate: false
+  xy: 919, 504
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 669, 89
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+PNG/COFFEE_MAKER
+  rotate: false
+  xy: 771, 697
+  size: 244, 327
+  orig: 244, 327
+  offset: 0, 0
+  index: -1
+PNG/COFFEE_SHADOW@4x
+  rotate: true
+  xy: 892, 280
+  size: 263, 19
+  orig: 263, 19
+  offset: 0, 0
+  index: -1
+PNG/CUP_1
+  rotate: true
+  xy: 566, 89
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+PNG/CUP_2
+  rotate: false
+  xy: 669, 112
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+PNG/CUP_3
+  rotate: false
+  xy: 446, 2
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1
+PNG/CUP_4
+  rotate: false
+  xy: 707, 9
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1
+PNG/CUP_5
+  rotate: false
+  xy: 446, 105
+  size: 118, 103
+  orig: 118, 103
+  offset: 0, 0
+  index: -1
+PNG/CUP_HOLDER
+  rotate: false
+  xy: 827, 43
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+PNG/DUCK_DRINKS_BG_1
+  rotate: false
+  xy: 0, 199
+  size: 385, 339
+  orig: 385, 339
+  offset: 0, 0
+  index: -1
+PNG/DUCK_DRINKS_BG_2@2x
+  rotate: false
+  xy: 0, 540
+  size: 769, 484
+  orig: 769, 484
+  offset: 0, 0
+  index: -1
+PNG/DUCK_EYE
+  rotate: true
+  xy: 841, 215
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+PNG/DUCK_EYE_CLOSED
+  rotate: false
+  xy: 913, 444
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HAIR_SIDE
+  rotate: false
+  xy: 827, 21
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HAIR_TOP
+  rotate: false
+  xy: 913, 353
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HEAD
+  rotate: false
+  xy: 771, 545
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+PNG/DUCK_IRIS
+  rotate: true
+  xy: 112, 3
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+PNG/DUCK_LEG
+  rotate: false
+  xy: 336, 68
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+PNG/DUCK_LOWER_BEAK
+  rotate: false
+  xy: 0, 0
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+PNG/DUCK_PUPIL
+  rotate: false
+  xy: 827, 0
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+PNG/DUCK_R_ARM
+  rotate: true
+  xy: 669, 253
+  size: 285, 221
+  orig: 285, 221
+  offset: 0, 0
+  index: -1
+PNG/DUCK_R_THUMB
+  rotate: false
+  xy: 112, 30
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TAIL
+  rotate: false
+  xy: 790, 113
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TONGUE
+  rotate: false
+  xy: 913, 313
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TORSO
+  rotate: false
+  xy: 387, 210
+  size: 280, 328
+  orig: 280, 328
+  offset: 0, 0
+  index: -1
+PNG/DUCK_UPPER_BEAK
+  rotate: false
+  xy: 566, 11
+  size: 139, 76
+  orig: 139, 76
+  offset: 0, 0
+  index: -1
+PNG/JAM
+  rotate: false
+  xy: 919, 566
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1
+PNG/JAM_SHADOW@4x
+  rotate: false
+  xy: 213, 43
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+PNG/PLATE@4x
+  rotate: false
+  xy: 0, 74
+  size: 334, 123
+  orig: 334, 123
+  offset: 0, 0
+  index: -1
+PNG/SPOON@4x
+  rotate: false
+  xy: 669, 215
+  size: 170, 36
+  orig: 170, 36
+  offset: 0, 0
+  index: -1

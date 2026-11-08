@@ -1,0 +1,176 @@
+[
+	{
+        "src" : "squirrel_endpage_en.svg",
+        "dest" : "squirrel_endpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "squirrel_endpage_fr.svg",
+        "dest" : "squirrel_endpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p1_picto_a.svg",
+        "dest" : "Squirrel_p1_picto_a.png",
+        "width" : 24.7,
+        "height" : 13.2
+    },
+	{
+        "src" : "Squirrel_p1_picto_b.svg",
+        "dest" : "Squirrel_p1_picto_b.png",
+        "width" : 23.4,
+        "height" : 15
+    },
+	{
+        "src" : "Squirrel_p1_picto_c.svg",
+        "dest" : "Squirrel_p1_picto_c.png",
+        "width" : 24,
+        "height" : 12
+    },
+	{
+        "src" : "squirrel_p1_background.svg",
+        "dest" : "squirrel_p1_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p2_picto_b.svg",
+        "dest" : "Squirrel_p2_picto_b.png",
+        "width" : 20,
+        "height" : 15
+    },
+	{
+        "src" : "Squirrel_p2_picto_c.svg",
+        "dest" : "Squirrel_p2_picto_c.png",
+        "width" : 21,
+        "height" : 16
+    },
+	{
+        "src" : "squirrel_p2_background.svg",
+        "dest" : "squirrel_p2_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p3_picto_b.svg",
+        "dest" : "Squirrel_p3_picto_b.png",
+        "width" : 24,
+        "height" : 14.5
+    },
+	{
+        "src" : "Squirrel_p3_picto_c.svg",
+        "dest" : "Squirrel_p3_picto_c.png",
+        "width" : 22,
+        "height" : 16.5
+    },
+	{
+        "src" : "squirrel_p3_background.svg",
+        "dest" : "squirrel_p3_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p4_picto_b.svg",
+        "dest" : "Squirrel_p4_picto_b.png",
+        "width" : 21,
+        "height" : 18.5
+    },
+	{
+        "src" : "Squirrel_p4_picto_c.svg",
+        "dest" : "Squirrel_p4_picto_c.png",
+        "width" : 23,
+        "height" : 12.2
+    },
+	{
+        "src" : "squirrel_p4_background.svg",
+        "dest" : "squirrel_p4_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p5_picto_b.svg",
+        "dest" : "Squirrel_p5_picto_b.png",
+        "width" : 20,
+        "height" : 15.3
+    },
+	{
+        "src" : "Squirrel_p5_picto_c.svg",
+        "dest" : "Squirrel_p5_picto_c.png",
+        "width" : 22,
+        "height" : 16.6
+    },
+	{
+        "src" : "squirrel_p5_background.svg",
+        "dest" : "squirrel_p5_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p6_picto_b.svg",
+        "dest" : "Squirrel_p6_picto_b.png",
+        "width" : 25,
+        "height" : 18.7
+    },
+	{
+        "src" : "Squirrel_p6_picto_c.svg",
+        "dest" : "Squirrel_p6_picto_c.png",
+        "width" : 22.5,
+        "height" : 15.2
+    },
+	{
+        "src" : "squirrel_p6_background.svg",
+        "dest" : "squirrel_p6_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p7_picto_b.svg",
+        "dest" : "Squirrel_p7_picto_b.png",
+        "width" : 22,
+        "height" : 16
+    },
+	{
+        "src" : "Squirrel_p7_picto_c.svg",
+        "dest" : "Squirrel_p7_picto_c.png",
+        "width" : 20,
+        "height" : 14.3
+    },
+	{
+        "src" : "squirrel_p7_background.svg",
+        "dest" : "squirrel_p7_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "Squirrel_p8_picto_b.svg",
+        "dest" : "Squirrel_p8_picto_b.png",
+        "width" : 24.7,
+        "height" : 13.8
+    },
+	{
+        "src" : "Squirrel_p8_picto_c.svg",
+        "dest" : "Squirrel_p8_picto_c.png",
+        "width" : 18,
+        "height" : 19
+    },
+	{
+        "src" : "squirrel_p8_background.svg",
+        "dest" : "squirrel_p8_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "squirrel_playpage_en.svg",
+        "dest" : "squirrel_playpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "squirrel_playpage_fr.svg",
+        "dest" : "squirrel_playpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    }
+]

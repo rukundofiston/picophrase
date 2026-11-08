@@ -1,0 +1,146 @@
+
+grandpa_backpain.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM
+  rotate: false
+  xy: 771, 463
+  size: 88, 160
+  orig: 88, 160
+  offset: 0, 0
+  index: -1
+BROW
+  rotate: false
+  xy: 178, 57
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 1010, 960
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+EYEGLASSES
+  rotate: true
+  xy: 861, 532
+  size: 91, 36
+  orig: 91, 36
+  offset: 0, 0
+  index: -1
+Grandpa_@2x
+  rotate: false
+  xy: 0, 340
+  size: 769, 682
+  orig: 769, 682
+  offset: 0, 0
+  index: -1
+Grandpa__1
+  rotate: false
+  xy: 0, 80
+  size: 385, 258
+  orig: 385, 258
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 771, 351
+  size: 90, 110
+  orig: 90, 110
+  offset: 0, 0
+  index: -1
+LEG
+  rotate: false
+  xy: 771, 792
+  size: 127, 230
+  orig: 127, 230
+  offset: 0, 0
+  index: -1
+L_HAND
+  rotate: false
+  xy: 0, 0
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+MOUTH_1
+  rotate: false
+  xy: 771, 341
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+MOUTH_2
+  rotate: false
+  xy: 861, 523
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 990, 955
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+RED_LIGHTNING
+  rotate: false
+  xy: 900, 829
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+R_HAND
+  rotate: true
+  xy: 990, 970
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+STICK_BG
+  rotate: true
+  xy: 0, 57
+  size: 21, 176
+  orig: 21, 176
+  offset: 0, 0
+  index: -1
+STICK_FG
+  rotate: false
+  xy: 695, 209
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+TORSO_BG
+  rotate: false
+  xy: 900, 860
+  size: 88, 162
+  orig: 88, 162
+  offset: 0, 0
+  index: -1
+TORSO_FG
+  rotate: false
+  xy: 771, 625
+  size: 126, 165
+  orig: 126, 165
+  offset: 0, 0
+  index: -1
+grandpa__@2x
+  rotate: false
+  xy: 387, 80
+  size: 306, 258
+  orig: 306, 258
+  offset: 0, 0
+  index: -1
+grandpa___1@2x
+  rotate: true
+  xy: 695, 242
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1

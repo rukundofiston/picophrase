@@ -1,0 +1,176 @@
+[
+	{
+		"src" : "turtle_playpage_en.svg",
+        "dest" : "turtle_playpage_en.png",
+        "width" : 100,
+        "height" : 100
+	},
+	{
+		"src" : "turtle_endpage_en.svg",
+        "dest" : "turtle_endpage_en.png",
+        "width" : 101,
+        "height" : 101
+	},
+	{
+        "src" : "turtle_p1_picto_a.svg",
+        "dest" : "turtle_p1_picto_a.png",
+        "width" : 16.7,
+        "height" : 18.6
+    },
+	{
+        "src" : "turtle_p1_picto_b.svg",
+        "dest" : "turtle_p1_picto_b.png",
+        "width" : 22.3,
+        "height" : 13
+    },
+	{
+        "src" : "turtle_p1_picto_c.svg",
+        "dest" : "turtle_p1_picto_c.png",
+        "width" : 16.7,
+        "height" : 15
+    },
+	{
+        "src" : "turtle_p1_background.svg",
+        "dest" : "turtle_p1_background.png",
+        "width" : 101,
+        "height" : 101
+    },
+	{
+        "src" : "turtle_p2_picto_b.svg",
+        "dest" : "turtle_p2_picto_b.png",
+        "width" : 20,
+        "height" : 17
+    },
+	{
+        "src" : "turtle_p2_picto_c.svg",
+        "dest" : "turtle_p2_picto_c.png",
+        "width" : 20,
+        "height" : 14.5
+    },
+	{
+        "src" : "turtle_p2_background.svg",
+        "dest" : "turtle_p2_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "turtle_p3_picto_b.svg",
+        "dest" : "turtle_p3_picto_b.png",
+        "width" : 21,
+        "height" : 17.5
+    },
+	{
+        "src" : "turtle_p3_picto_c.svg",
+        "dest" : "turtle_p3_picto_c.png",
+        "width" : 22.4,
+        "height" : 10.6
+    },
+	{
+        "src" : "turtle_p3_background.svg",
+        "dest" : "turtle_p3_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "turtle_p4_picto_b.svg",
+        "dest" : "turtle_p4_picto_b.png",
+        "width" : 26.8,
+        "height" : 17.4
+    },
+	{
+        "src" : "turtle_p4_picto_c.svg",
+        "dest" : "turtle_p4_picto_c.png",
+        "width" : 18.2,
+        "height" : 19.3
+    },
+	{
+        "src" : "turtle_p4_background.svg",
+        "dest" : "turtle_p4_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "turtle_p5_picto_b.svg",
+        "dest" : "turtle_p5_picto_b.png",
+        "width" : 27.6,
+        "height" : 11.7
+    },
+	{
+        "src" : "turtle_p5_picto_c.svg",
+        "dest" : "turtle_p5_picto_c.png",
+        "width" : 22,
+        "height" : 13.5
+    },
+	{
+        "src" : "turtle_p5_background.svg",
+        "dest" : "turtle_p5_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "turtle_p6_picto_b.svg",
+        "dest" : "turtle_p6_picto_b.png",
+        "width" : 22.4,
+        "height" : 17.1
+    },
+	{
+        "src" : "turtle_p6_picto_c.svg",
+        "dest" : "turtle_p6_picto_c.png",
+        "width" : 25.3,
+        "height" : 10
+    },
+	{
+        "src" : "turtle_p6_background.svg",
+        "dest" : "turtle_p6_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "turtle_p7_picto_b.svg",
+        "dest" : "turtle_p7_picto_b.png",
+        "width" : 23,
+        "height" : 16.6
+    },
+	{
+        "src" : "turtle_p7_picto_c.svg",
+        "dest" : "turtle_p7_picto_c.png",
+        "width" : 22.6,
+        "height" : 16.1
+    },
+	{
+        "src" : "turtle_p7_background.svg",
+        "dest" : "turtle_p7_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "turtle_p8_picto_b.svg",
+        "dest" : "turtle_p8_picto_b.png",
+        "width" : 18.6,
+        "height" : 17
+    },
+	{
+        "src" : "turtle_p8_picto_c.svg",
+        "dest" : "turtle_p8_picto_c.png",
+        "width" : 24,
+        "height" : 5.3
+    },
+	{
+        "src" : "turtle_p8_background.svg",
+        "dest" : "turtle_p8_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+		"src" : "turtle_playpage_fr.svg",
+        "dest" : "turtle_playpage_fr.png",
+        "width" : 100,
+        "height" : 100
+	},
+	{
+		"src" : "turtle_endpage_fr.svg",
+        "dest" : "turtle_endpage_fr.png",
+        "width" : 100,
+        "height" : 100
+	}
+]

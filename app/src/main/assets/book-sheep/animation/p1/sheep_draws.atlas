@@ -1,0 +1,699 @@
+
+sheep_draws.png
+size: 7194,1578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAT_EYE_CLOSED
+  rotate: false
+  xy: 1301, 2
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+CAT_HEAD
+  rotate: true
+  xy: 6352, 1
+  size: 86, 90
+  orig: 86, 90
+  offset: 0, 0
+  index: -1
+CAT_L_BROW
+  rotate: false
+  xy: 1327, 4
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+CAT_L_EAR
+  rotate: false
+  xy: 2572, 415
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+CAT_L_EYE
+  rotate: true
+  xy: 1671, 3
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+CAT_L_LEG
+  rotate: true
+  xy: 4246, 450
+  size: 75, 146
+  orig: 75, 146
+  offset: 0, 0
+  index: -1
+CAT_L_PAW
+  rotate: true
+  xy: 4900, 484
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+CAT_L_PUPIL
+  rotate: false
+  xy: 1783, 9
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+CAT_MOUTH_CLOSED
+  rotate: true
+  xy: 2539, 380
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+CAT_MOUTH_OPEN
+  rotate: true
+  xy: 2502, 379
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+CAT_NOSE
+  rotate: false
+  xy: 1799, 10
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+CAT_TAIL
+  rotate: false
+  xy: 7100, 321
+  size: 87, 112
+  orig: 87, 112
+  offset: 0, 0
+  index: -1
+CAT_TORSO
+  rotate: false
+  xy: 6523, 658
+  size: 202, 191
+  orig: 202, 191
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR
+  rotate: true
+  xy: 1505, 29
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_1
+  rotate: true
+  xy: 1688, 29
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_2
+  rotate: true
+  xy: 1871, 29
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_3
+  rotate: true
+  xy: 2054, 29
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_4
+  rotate: true
+  xy: 2237, 29
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_5
+  rotate: true
+  xy: 2420, 29
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_6
+  rotate: true
+  xy: 5003, 529
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_7
+  rotate: true
+  xy: 5186, 529
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_COLOR_8
+  rotate: true
+  xy: 5369, 529
+  size: 347, 182
+  orig: 347, 182
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_1
+  rotate: true
+  xy: 5985, 1275
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_10
+  rotate: false
+  xy: 6790, 1417
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_11
+  rotate: false
+  xy: 6790, 1256
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_12
+  rotate: false
+  xy: 6741, 1095
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_13
+  rotate: false
+  xy: 6741, 934
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_14
+  rotate: true
+  xy: 6362, 650
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_15
+  rotate: false
+  xy: 6741, 773
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_16
+  rotate: false
+  xy: 6726, 612
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_17
+  rotate: true
+  xy: 7029, 434
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_18
+  rotate: true
+  xy: 6523, 355
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_19
+  rotate: true
+  xy: 6362, 347
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_2
+  rotate: false
+  xy: 6135, 1114
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_20
+  rotate: false
+  xy: 6684, 451
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_3
+  rotate: true
+  xy: 6146, 1275
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_4
+  rotate: true
+  xy: 6307, 1275
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_5
+  rotate: true
+  xy: 6201, 625
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_6
+  rotate: false
+  xy: 6225, 953
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_7
+  rotate: false
+  xy: 6438, 1114
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_8
+  rotate: true
+  xy: 6468, 1275
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+DRAWING_LINE_9
+  rotate: true
+  xy: 6629, 1275
+  size: 302, 160
+  orig: 302, 160
+  offset: 0, 0
+  index: -1
+FIREPLACE
+  rotate: false
+  xy: 3497, 480
+  size: 466, 1097
+  orig: 466, 1097
+  offset: 0, 0
+  index: -1
+FLAME
+  rotate: false
+  xy: 6528, 850
+  size: 212, 263
+  orig: 212, 263
+  offset: 0, 0
+  index: -1
+GRILL
+  rotate: false
+  xy: 6684, 290
+  size: 287, 160
+  orig: 287, 160
+  offset: 0, 0
+  index: -1
+PAPER
+  rotate: true
+  xy: 5449, 36
+  size: 492, 238
+  orig: 492, 238
+  offset: 0, 0
+  index: -1
+SHEEP_ARM_GRIP@2x
+  rotate: false
+  xy: 5003, 877
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_CHEEK@2x
+  rotate: false
+  xy: 6972, 303
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_1@2x
+  rotate: false
+  xy: 5641, 904
+  size: 149, 183
+  orig: 149, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_2@2x
+  rotate: false
+  xy: 5941, 904
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_3@2x
+  rotate: false
+  xy: 5791, 904
+  size: 149, 183
+  orig: 149, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_4@2x
+  rotate: false
+  xy: 5985, 1092
+  size: 149, 182
+  orig: 149, 182
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_DROWSE@2x
+  rotate: false
+  xy: 7044, 894
+  size: 142, 107
+  orig: 142, 107
+  offset: 0, 0
+  index: -1
+SHEEP_HAIR@2x
+  rotate: false
+  xy: 5760, 569
+  size: 440, 334
+  orig: 440, 334
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD@2x
+  rotate: true
+  xy: 2603, 2
+  size: 446, 713
+  orig: 446, 713
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_BLOWS@2x
+  rotate: true
+  xy: 3317, 3
+  size: 445, 714
+  orig: 445, 714
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_BLOWS_2@2x
+  rotate: true
+  xy: 4032, 3
+  size: 445, 706
+  orig: 445, 706
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_SIDE@2x
+  rotate: true
+  xy: 4739, 16
+  size: 449, 709
+  orig: 449, 709
+  offset: 0, 0
+  index: -1
+SHEEP_L_IRIS@2x
+  rotate: false
+  xy: 7093, 1357
+  size: 99, 124
+  orig: 99, 124
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_HOLD_BREATH@2x
+  rotate: true
+  xy: 6683, 8
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_O@2x
+  rotate: true
+  xy: 4485, 463
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE@2x
+  rotate: false
+  xy: 3964, 449
+  size: 281, 76
+  orig: 281, 76
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE_1@2x
+  rotate: true
+  xy: 6352, 88
+  size: 258, 157
+  orig: 258, 157
+  offset: 0, 0
+  index: -1
+SHEEP_NECK@2x
+  rotate: false
+  xy: 6775, 34
+  size: 119, 255
+  orig: 119, 255
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE@2x
+  rotate: false
+  xy: 7044, 1002
+  size: 146, 104
+  orig: 146, 104
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE_SIDE@2x
+  rotate: false
+  xy: 4778, 482
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+SHEEP_R_ARM@2x
+  rotate: false
+  xy: 5189, 877
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_R_BROW@2x
+  rotate: false
+  xy: 4996, 489
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+SHEEP_R_EAR@2x
+  rotate: true
+  xy: 1301, 14
+  size: 362, 203
+  orig: 362, 203
+  offset: 0, 0
+  index: -1
+SHEEP_R_EYE@2x
+  rotate: true
+  xy: 6510, 71
+  size: 124, 152
+  orig: 124, 152
+  offset: 0, 0
+  index: -1
+SHEEP_R_LEG@2x
+  rotate: false
+  xy: 5375, 897
+  size: 180, 680
+  orig: 180, 680
+  offset: 0, 0
+  index: -1
+SHEEP_R_PUPIL@2x
+  rotate: true
+  xy: 4393, 450
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+SHEEP_TONGUE_1@2x
+  rotate: false
+  xy: 7093, 1482
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO@2x
+  rotate: false
+  xy: 1301, 377
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO_CYANVEST@4x
+  rotate: false
+  xy: 2502, 449
+  size: 994, 1128
+  orig: 994, 1128
+  offset: 0, 0
+  index: -1
+SOFA
+  rotate: false
+  xy: 5688, 7
+  size: 663, 543
+  orig: 663, 543
+  offset: 0, 0
+  index: -1
+WOMAN_HAIR
+  rotate: false
+  xy: 6090, 928
+  size: 134, 163
+  orig: 134, 163
+  offset: 0, 0
+  index: -1
+WOMAN_HEAD
+  rotate: false
+  xy: 7044, 737
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+WOMAN_L_ARM
+  rotate: false
+  xy: 7093, 1107
+  size: 95, 249
+  orig: 95, 249
+  offset: 0, 0
+  index: -1
+WOMAN_L_ARM_FG
+  rotate: false
+  xy: 6895, 40
+  size: 95, 249
+  orig: 95, 249
+  offset: 0, 0
+  index: -1
+WOMAN_L_BRACELET
+  rotate: false
+  xy: 1634, 2
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+WOMAN_L_BROW
+  rotate: true
+  xy: 1703, 3
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+WOMAN_L_EYE
+  rotate: true
+  xy: 4862, 482
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+WOMAN_L_EYE_CLOSED
+  rotate: false
+  xy: 1857, 10
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+WOMAN_L_IRIS
+  rotate: true
+  xy: 1505, 1
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+WOMAN_L_LEG
+  rotate: false
+  xy: 5556, 902
+  size: 84, 185
+  orig: 84, 185
+  offset: 0, 0
+  index: -1
+WOMAN_L_PUPIL
+  rotate: false
+  xy: 1764, 9
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+WOMAN_MOUTH_LAUGH
+  rotate: false
+  xy: 1717, 6
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+WOMAN_MOUTH_O
+  rotate: false
+  xy: 1747, 6
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+WOMAN_MOUTH_SMILE
+  rotate: false
+  xy: 1899, 12
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+WOMAN_TORSO
+  rotate: false
+  xy: 5552, 551
+  size: 207, 345
+  orig: 207, 345
+  offset: 0, 0
+  index: -1
+crayon blue
+  rotate: false
+  xy: 1536, 2
+  size: 97, 26
+  orig: 97, 26
+  offset: 0, 0
+  index: -1
+crayon red
+  rotate: false
+  xy: 4689, 466
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+crayon yellow
+  rotate: false
+  xy: 5093, 492
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+floor
+  rotate: true
+  xy: 1, 10
+  size: 1567, 1299
+  orig: 1567, 1299
+  offset: 0, 0
+  index: -1
+fruits
+  rotate: true
+  xy: 6523, 196
+  size: 158, 159
+  orig: 158, 159
+  offset: 0, 0
+  index: -1
+paintings
+  rotate: false
+  xy: 5556, 1088
+  size: 428, 489
+  orig: 428, 489
+  offset: 0, 0
+  index: -1
+pencil
+  rotate: true
+  xy: 4582, 465
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+wall
+  rotate: true
+  xy: 3964, 526
+  size: 1051, 1038
+  orig: 1051, 1038
+  offset: 0, 0
+  index: -1

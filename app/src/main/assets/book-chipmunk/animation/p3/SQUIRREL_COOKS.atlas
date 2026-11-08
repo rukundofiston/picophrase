@@ -1,0 +1,293 @@
+
+SQUIRREL_COOKS.png
+size: 4945,1563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM HAIR@2x
+  rotate: true
+  xy: 3119, 8
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+PNG/ARM@2x
+  rotate: true
+  xy: 2862, 812
+  size: 750, 220
+  orig: 750, 220
+  offset: 0, 0
+  index: -1
+PNG/ARM_UNDER@2x
+  rotate: true
+  xy: 3083, 812
+  size: 750, 220
+  orig: 750, 220
+  offset: 0, 0
+  index: -1
+PNG/BG
+  rotate: true
+  xy: 1, 14
+  size: 1548, 2059
+  orig: 1548, 2059
+  offset: 0, 0
+  index: -1
+PNG/BROW@2x
+  rotate: false
+  xy: 3181, 26
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1
+PNG/CHEF HAT
+  rotate: true
+  xy: 3117, 515
+  size: 296, 244
+  orig: 296, 244
+  offset: 0, 0
+  index: -1
+PNG/CLOTH
+  rotate: false
+  xy: 4735, 58
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+PNG/COOKIE_1
+  rotate: false
+  xy: 2862, 465
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+PNG/COOKIE_2
+  rotate: false
+  xy: 2930, 465
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+PNG/EAR@2x
+  rotate: false
+  xy: 3362, 563
+  size: 219, 286
+  orig: 219, 286
+  offset: 0, 0
+  index: -1
+PNG/EYE_1@2x
+  rotate: false
+  xy: 4735, 943
+  size: 208, 205
+  orig: 208, 205
+  offset: 0, 0
+  index: -1
+PNG/EYE_2@2x
+  rotate: false
+  xy: 4735, 1356
+  size: 209, 206
+  orig: 209, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_3@2x
+  rotate: false
+  xy: 4735, 1149
+  size: 208, 206
+  orig: 208, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_4@2x
+  rotate: true
+  xy: 4735, 523
+  size: 211, 206
+  orig: 211, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_5@2x
+  rotate: true
+  xy: 4735, 311
+  size: 211, 206
+  orig: 211, 206
+  offset: 0, 0
+  index: -1
+PNG/EYE_6@2x
+  rotate: false
+  xy: 4735, 735
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+PNG/EYE_WHITE@2x
+  rotate: false
+  xy: 3119, 268
+  size: 175, 193
+  orig: 175, 193
+  offset: 0, 0
+  index: -1
+PNG/FRINGE@2x
+  rotate: true
+  xy: 3119, 74
+  size: 193, 163
+  orig: 193, 163
+  offset: 0, 0
+  index: -1
+PNG/HAND_PALM_2@2x
+  rotate: true
+  xy: 4735, 162
+  size: 148, 186
+  orig: 148, 186
+  offset: 0, 0
+  index: -1
+PNG/HEAD_SIDE@2x
+  rotate: true
+  xy: 3838, 871
+  size: 691, 638
+  orig: 691, 638
+  offset: 0, 0
+  index: -1
+PNG/HOLDER
+  rotate: true
+  xy: 3582, 571
+  size: 278, 69
+  orig: 278, 69
+  offset: 0, 0
+  index: -1
+PNG/IRIS@2x
+  rotate: true
+  xy: 4415, 753
+  size: 117, 144
+  orig: 117, 144
+  offset: 0, 0
+  index: -1
+PNG/LEG@2x
+  rotate: true
+  xy: 3469, 82
+  size: 480, 580
+  orig: 480, 580
+  offset: 0, 0
+  index: -1
+PNG/MOUTH NORMAL SIDE@2x
+  rotate: true
+  xy: 4477, 1106
+  size: 225, 240
+  orig: 225, 240
+  offset: 0, 0
+  index: -1
+PNG/MOUTH OPEN 2@2x
+  rotate: false
+  xy: 3857, 624
+  size: 229, 246
+  orig: 229, 246
+  offset: 0, 0
+  index: -1
+PNG/MOUTH OPEN SIDE@2x
+  rotate: false
+  xy: 4087, 625
+  size: 229, 245
+  orig: 229, 245
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_TONGUE_SIDE@2x
+  rotate: true
+  xy: 4477, 1332
+  size: 230, 240
+  orig: 230, 240
+  offset: 0, 0
+  index: -1
+PNG/NOSE SIDE@2x
+  rotate: true
+  xy: 4317, 752
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+PNG/OVEN BG
+  rotate: true
+  xy: 2862, 505
+  size: 306, 254
+  orig: 306, 254
+  offset: 0, 0
+  index: -1
+PNG/OVEN LID
+  rotate: true
+  xy: 3652, 574
+  size: 275, 204
+  orig: 275, 204
+  offset: 0, 0
+  index: -1
+PNG/OVEN TOP
+  rotate: true
+  xy: 3304, 850
+  size: 712, 533
+  orig: 712, 533
+  offset: 0, 0
+  index: -1
+PNG/OVEN_FG
+  rotate: false
+  xy: 2061, 1
+  size: 390, 460
+  orig: 390, 460
+  offset: 0, 0
+  index: -1
+PNG/OVEN_MG
+  rotate: false
+  xy: 2452, 1
+  size: 390, 460
+  orig: 390, 460
+  offset: 0, 0
+  index: -1
+PNG/PUPIL@2x
+  rotate: true
+  xy: 3469, 4
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+PNG/SIDE OVEN
+  rotate: false
+  xy: 3298, 30
+  size: 170, 484
+  orig: 170, 484
+  offset: 0, 0
+  index: -1
+PNG/TABLE
+  rotate: true
+  xy: 2843, 14
+  size: 447, 275
+  orig: 447, 275
+  offset: 0, 0
+  index: -1
+PNG/TABLESPOON
+  rotate: true
+  xy: 3117, 462
+  size: 52, 180
+  orig: 52, 180
+  offset: 0, 0
+  index: -1
+PNG/TAIL@2x
+  rotate: false
+  xy: 4050, 51
+  size: 684, 572
+  orig: 684, 572
+  offset: 0, 0
+  index: -1
+PNG/THUMB@2x
+  rotate: true
+  xy: 3565, 8
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+PNG/TORSO@2x
+  rotate: false
+  xy: 2061, 462
+  size: 800, 1100
+  orig: 800, 1100
+  offset: 0, 0
+  index: -1
+PNG/TRAY
+  rotate: false
+  xy: 4317, 627
+  size: 383, 107
+  orig: 383, 107
+  offset: 0, 0
+  index: -1

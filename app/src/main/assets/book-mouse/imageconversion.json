@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "mouse_endpage_en.svg",
+        "dest" : "mouse_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "mouse_endpage_fr.svg",
+        "dest" : "mouse_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "mouse-blow-background.svg",
+"dest" : "mouse-blow-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-blow-main.svg",
+"dest" : "mouse-blow-main.png",
+"width" : 100.26041666666667,
+"height" : 67.28515625
+},
+{
+"src" : "mouse-blow.svg",
+"dest" : "mouse-blow.png",
+"width" : 22.786458333333336,
+"height" : 17.3828125
+},
+{
+"src" : "mouse-cereals.svg",
+"dest" : "mouse-cereals.png",
+"width" : 13.802083333333334,
+"height" : 19.3359375
+},
+{
+"src" : "mouse-draw-background.svg",
+"dest" : "mouse-draw-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-draw-main.svg",
+"dest" : "mouse-draw-main.png",
+"width" : 100.26041666666667,
+"height" : 64.16015625
+},
+{
+"src" : "mouse-draw.svg",
+"dest" : "mouse-draw.png",
+"width" : 21.744791666666664,
+"height" : 16.30859375
+},
+{
+"src" : "mouse-eat-background.svg",
+"dest" : "mouse-eat-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-eat-main.svg",
+"dest" : "mouse-eat-main.png",
+"width" : 100.26041666666667,
+"height" : 68.1640625
+},
+{
+"src" : "mouse-eat.svg",
+"dest" : "mouse-eat.png",
+"width" : 25.78125,
+"height" : 19.04296875
+},
+{
+"src" : "mouse-monkey.svg",
+"dest" : "mouse-monkey.png",
+"width" : 14.583333333333334,
+"height" : 16.9921875
+},
+{
+"src" : "mouse-playpage-ui.svg",
+"dest" : "mouse-playpage-ui.png",
+"width" : 102,
+"height" : 102
+},
+{
+"src" : "mouse-pour-background.svg",
+"dest" : "mouse-pour-background.png",
+"width" : 100.26041666666667,
+"height" : 101.1953125
+},
+{
+"src" : "mouse-pour-main.svg",
+"dest" : "mouse-pour-main.png",
+"width" : 51.041666666666664,
+"height" : 35.15625
+},
+{
+"src" : "mouse-pour.svg",
+"dest" : "mouse-pour.png",
+"width" : 24.869791666666664,
+"height" : 15.52734375
+},
+{
+"src" : "mouse-pumpkin.svg",
+"dest" : "mouse-pumpkin.png",
+"width" : 20.3125,
+"height" : 16.015625
+},
+{
+"src" : "mouse-push-background.svg",
+"dest" : "mouse-push-background.png",
+"width" : 100.390625,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-push-main.svg",
+"dest" : "mouse-push-main.png",
+"width" : 55.989583333333336,
+"height" : 38.18359375
+},
+{
+"src" : "mouse-push.svg",
+"dest" : "mouse-push.png",
+"width" : 23.697916666666664,
+"height" : 14.84375
+},
+{
+"src" : "mouse-saw-background.svg",
+"dest" : "mouse-saw-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-saw-main.svg",
+"dest" : "mouse-saw-main.png",
+"width" : 41.27604166666667,
+"height" : 34.66796875
+},
+{
+"src" : "mouse-saw.svg",
+"dest" : "mouse-saw.png",
+"width" : 22.395833333333336,
+"height" : 16.40625
+},
+{
+"src" : "mouse-smell-background.svg",
+"dest" : "mouse-smell-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-smell-main.svg",
+"dest" : "mouse-smell-main.png",
+"width" : 37.36979166666667,
+"height" : 29.98046875
+},
+{
+"src" : "mouse-smell.svg",
+"dest" : "mouse-smell.png",
+"width" : 20.833333333333336,
+"height" : 18.5546875
+},
+{
+"src" : "mouse-soap.svg",
+"dest" : "mouse-soap.png",
+"width" : 21.09375,
+"height" : 16.11328125
+},
+{
+"src" : "mouse-soup.svg",
+"dest" : "mouse-soup.png",
+"width" : 22.786458333333336,
+"height" : 16.015625
+},
+{
+"src" : "mouse-spaghetti.svg",
+"dest" : "mouse-spaghetti.png",
+"width" : 26.692708333333332,
+"height" : 8.59375
+},
+{
+"src" : "mouse-sun.svg",
+"dest" : "mouse-sun.png",
+"width" : 23.567708333333336,
+"height" : 18.1640625
+},
+{
+"src" : "mouse-tie-background.svg",
+"dest" : "mouse-tie-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "mouse-tie-main.svg",
+"dest" : "mouse-tie-main.png",
+"width" : 41.27604166666667,
+"height" : 34.5703125
+},
+{
+"src" : "mouse.svg",
+"dest" : "mouse.png",
+"width" : 18.359375,
+"height" : 16.89453125
+},
+{
+"src" : "mouse-sandal.svg",
+"dest" : "mouse-sandal.png",
+"width" : 23.046875,
+"height" : 16.40625
+},
+{
+"src" : "mouse-tie.svg",
+"dest" : "mouse-tie.png",
+"width" : 24.348958333333336,
+"height" : 10.3515625
+},
+{
+"src" : "mouse_playpage_en.svg",
+"dest" : "mouse_playpage_en.png",
+"width" : 102,
+"height" : 102
+}
+]

@@ -1,0 +1,300 @@
+
+rabbit_washes.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BUBBLES_1
+  rotate: false
+  xy: 291, 37
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+PNG/BUBBLES_2
+  rotate: false
+  xy: 920, 151
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_1
+  rotate: false
+  xy: 868, 147
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_2
+  rotate: false
+  xy: 382, 52
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+PNG/BUBBLE_3
+  rotate: false
+  xy: 1068, 195
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+PNG/EYEGLASS
+  rotate: true
+  xy: 711, 200
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+PNG/EYEGLASS_ARM
+  rotate: true
+  xy: 359, 46
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+PNG/EYEGLASS_DIRTY
+  rotate: false
+  xy: 1525, 219
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+PNG/GLITTER
+  rotate: false
+  xy: 418, 55
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+PNG/NAPKIN
+  rotate: true
+  xy: 291, 0
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+PNG/POOL
+  rotate: false
+  xy: 1525, 274
+  size: 201, 38
+  orig: 201, 38
+  offset: 0, 0
+  index: -1
+PNG/RAB_BROW
+  rotate: true
+  xy: 560, 108
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+PNG/RAB_EAR
+  rotate: false
+  xy: 581, 161
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE
+  rotate: true
+  xy: 711, 152
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+PNG/RAB_EYE_CLOSED
+  rotate: true
+  xy: 1728, 274
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/RAB_HEAD
+  rotate: true
+  xy: 1748, 317
+  size: 191, 204
+  orig: 191, 204
+  offset: 0, 0
+  index: -1
+PNG/RAB_IRIS
+  rotate: false
+  xy: 833, 155
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+PNG/RAB_LEG
+  rotate: false
+  xy: 387, 140
+  size: 192, 165
+  orig: 192, 165
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_ARM
+  rotate: true
+  xy: 1096, 215
+  size: 97, 217
+  orig: 97, 217
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_1
+  rotate: false
+  xy: 773, 147
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_2
+  rotate: true
+  xy: 581, 115
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+PNG/RAB_L_PAW_3
+  rotate: true
+  xy: 642, 108
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_OH
+  rotate: false
+  xy: 1632, 215
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_SMILE_1
+  rotate: false
+  xy: 766, 200
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_SMILE_2
+  rotate: false
+  xy: 968, 204
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_SMILE_3
+  rotate: false
+  xy: 382, 88
+  size: 108, 50
+  orig: 108, 50
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_SMILE_4
+  rotate: false
+  xy: 869, 198
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+PNG/RAB_MOUTH_SMILE_5
+  rotate: false
+  xy: 1954, 323
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+PNG/RAB_MUZZLE
+  rotate: false
+  xy: 1315, 217
+  size: 208, 95
+  orig: 208, 95
+  offset: 0, 0
+  index: -1
+PNG/RAB_NOSE
+  rotate: true
+  xy: 344, 7
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+PNG/RAB_PUPIL
+  rotate: false
+  xy: 452, 56
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+PNG/RAB_R_PAW
+  rotate: false
+  xy: 700, 101
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+PNG/RAB_TAIL
+  rotate: false
+  xy: 291, 83
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+PNG/RAB_TONGUE
+  rotate: false
+  xy: 1068, 220
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+PNG/RAB_TORSO
+  rotate: true
+  xy: 774, 254
+  size: 254, 320
+  orig: 254, 320
+  offset: 0, 0
+  index: -1
+PNG/TAP_WATER
+  rotate: true
+  xy: 492, 95
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+PNG/WASHTABLE_BG
+  rotate: false
+  xy: 1096, 314
+  size: 324, 194
+  orig: 324, 194
+  offset: 0, 0
+  index: -1
+PNG/WASHTABLE_FG
+  rotate: false
+  xy: 1422, 314
+  size: 324, 194
+  orig: 324, 194
+  offset: 0, 0
+  index: -1
+PNG/wash_
+  rotate: false
+  xy: 0, 174
+  size: 385, 334
+  orig: 385, 334
+  offset: 0, 0
+  index: -1
+PNG/wash__1@2x
+  rotate: true
+  xy: 0, 10
+  size: 162, 289
+  orig: 162, 289
+  offset: 0, 0
+  index: -1
+PNG/wash__2
+  rotate: false
+  xy: 387, 307
+  size: 385, 201
+  orig: 385, 201
+  offset: 0, 0
+  index: -1
+PNG/wash__3@2x
+  rotate: false
+  xy: 1954, 390
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+panda_catch.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM
+  rotate: false
+  xy: 0, 13
+  size: 221, 150
+  orig: 221, 150
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: false
+  xy: 0, 0
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+PNG/BUTTERFLY
+  rotate: true
+  xy: 771, 535
+  size: 35, 115
+  orig: 35, 115
+  offset: 0, 0
+  index: -1
+PNG/EAR
+  rotate: false
+  xy: 1369, 625
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 305, 59
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+PNG/HAT
+  rotate: false
+  xy: 1874, 919
+  size: 174, 103
+  orig: 174, 103
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: false
+  xy: 1156, 502
+  size: 211, 203
+  orig: 211, 203
+  offset: 0, 0
+  index: -1
+PNG/LEG
+  rotate: false
+  xy: 1874, 736
+  size: 133, 181
+  orig: 133, 181
+  offset: 0, 0
+  index: -1
+PNG/L_HAND
+  rotate: false
+  xy: 1369, 571
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+PNG/MOUTH
+  rotate: false
+  xy: 1542, 707
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O
+  rotate: false
+  xy: 750, 513
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_SMILE
+  rotate: true
+  xy: 2009, 799
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+PNG/MUZZLE
+  rotate: false
+  xy: 1458, 669
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+PNG/NET
+  rotate: false
+  xy: 771, 572
+  size: 383, 450
+  orig: 383, 450
+  offset: 0, 0
+  index: -1
+PNG/NOSE
+  rotate: true
+  xy: 2009, 862
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 888, 543
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/TAIL
+  rotate: false
+  xy: 305, 98
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: true
+  xy: 1542, 735
+  size: 287, 330
+  orig: 287, 330
+  offset: 0, 0
+  index: -1
+PNG/WING
+  rotate: false
+  xy: 223, 31
+  size: 80, 132
+  orig: 80, 132
+  offset: 0, 0
+  index: -1
+PNG/catch_
+  rotate: false
+  xy: 1156, 707
+  size: 384, 315
+  orig: 384, 315
+  offset: 0, 0
+  index: -1
+PNG/catch__1@2x
+  rotate: false
+  xy: 0, 165
+  size: 748, 367
+  orig: 748, 367
+  offset: 0, 0
+  index: -1
+PNG/catch__2@2x
+  rotate: false
+  xy: 0, 534
+  size: 769, 488
+  orig: 769, 488
+  offset: 0, 0
+  index: -1

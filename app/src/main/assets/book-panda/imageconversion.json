@@ -1,0 +1,230 @@
+[
+    {
+        "src" : "panda_endpage_fr.svg",
+        "dest" : "panda_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},    
+    {
+        "src" : "panda_background_en.svg",
+        "dest" : "panda_background_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "panda_endpage_en.svg",
+        "dest" : "panda_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "panda-apple.svg",
+"dest" : "panda-apple.png",
+"width" : 18.489583333333336,
+"height" : 14.453125
+},
+{
+"src" : "panda-butterfly.svg",
+"dest" : "panda-butterfly.png",
+"width" : 19.270833333333336,
+"height" : 15.52734375
+},
+{
+"src" : "panda-button-background.svg",
+"dest" : "panda-button-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-button-main.svg",
+"dest" : "panda-button-main.png",
+"width" : 29.427083333333332,
+"height" : 36.23046875
+},
+{
+"src" : "panda-button.svg",
+"dest" : "panda-button.png",
+"width" : 23.177083333333336,
+"height" : 16.69921875
+},
+{
+"src" : "panda-catch-background.svg",
+"dest" : "panda-catch-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-catch-main.svg",
+"dest" : "panda-catch-main.png",
+"width" : 45.05208333333333,
+"height" : 31.15234375
+},
+{
+"src" : "panda-catch.svg",
+"dest" : "panda-catch.png",
+"width" : 17.838541666666664,
+"height" : 18.26171875
+},
+{
+"src" : "panda-dive-background.svg",
+"dest" : "panda-dive-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-dive-main.svg",
+"dest" : "panda-dive-main.png",
+"width" : 97.13541666666666,
+"height" : 47.265625
+},
+{
+"src" : "panda-dive.svg",
+"dest" : "panda-dive.png",
+"width" : 23.046875,
+"height" : 11.9140625
+},
+{
+"src" : "panda-door.svg",
+"dest" : "panda-door.png",
+"width" : 14.973958333333334,
+"height" : 17.87109375
+},
+{
+"src" : "panda-fish.svg",
+"dest" : "panda-fish.png",
+"width" : 23.046875,
+"height" : 8.203125
+},
+{
+"src" : "panda-fishing-background.svg",
+"dest" : "panda-fishing-background.png",
+"width" : 100.26041666666667,
+"height" : 100.29296875
+},
+{
+"src" : "panda-fishing-main.svg",
+"dest" : "panda-fishing-main.png",
+"width" : 48.828125,
+"height" : 33.49609375
+},
+{
+"src" : "panda-fishing.svg",
+"dest" : "panda-fishing.png",
+"width" : 22.916666666666664,
+"height" : 18.1640625
+},
+{
+"src" : "panda-paint-background.svg",
+"dest" : "panda-paint-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-paint-main.svg",
+"dest" : "panda-paint-main.png",
+"width" : 60.9375,
+"height" : 41.50390625
+},
+{
+"src" : "panda-paint.svg",
+"dest" : "panda-paint.png",
+"width" : 22.135416666666664,
+"height" : 16.015625
+},
+{
+"src" : "panda-pajamas.svg",
+"dest" : "panda-pajamas.png",
+"width" : 20.182291666666664,
+"height" : 19.04296875
+},
+{
+"src" : "panda-parrot.svg",
+"dest" : "panda-parrot.png",
+"width" : 14.0625,
+"height" : 20.8984375
+},
+{
+"src" : "panda-pick-background.svg",
+"dest" : "panda-pick-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-pick-main.svg",
+"dest" : "panda-pick-main.png",
+"width" : 65.88541666666666,
+"height" : 31.8359375
+},
+{
+"src" : "panda-pick.svg",
+"dest" : "panda-pick.png",
+"width" : 20.442708333333336,
+"height" : 20.41015625
+},
+{
+"src" : "panda-playpage-ui.svg",
+"dest" : "panda-playpage-ui.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+},
+{
+"src" : "panda-pool.svg",
+"dest" : "panda-pool.png",
+"width" : 25.520833333333332,
+"height" : 11.9140625
+},
+{
+"src" : "panda-push-background.svg",
+"dest" : "panda-push-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-push-main.svg",
+"dest" : "panda-push-main.png",
+"width" : 63.28125,
+"height" : 41.9921875
+},
+{
+"src" : "panda-push.svg",
+"dest" : "panda-push.png",
+"width" : 25.0,
+"height" : 15.4296875
+},
+{
+"src" : "panda-stroller.svg",
+"dest" : "panda-stroller.png",
+"width" : 25.390625,
+"height" : 16.40625
+},
+{
+"src" : "panda-talk-background.svg",
+"dest" : "panda-talk-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "panda-talk-main.svg",
+"dest" : "panda-talk-main.png",
+"width" : 35.80729166666667,
+"height" : 33.10546875
+},
+{
+"src" : "panda-talk.svg",
+"dest" : "panda-talk.png",
+"width" : 23.828125,
+"height" : 13.76953125
+},
+{
+"src" : "panda.svg",
+"dest" : "panda.png",
+"width" : 25.520833333333332,
+"height" : 19.43359375
+},
+{
+    "src" : "panda_playpage_en.svg",
+    "dest" : "panda_playpage_en.png",
+    "width" : 102,
+    "height" : 102
+    }
+]

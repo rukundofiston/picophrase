@@ -1,0 +1,224 @@
+[
+    {
+        "src" : "fish_endpage_en.svg",
+        "dest" : "fish_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "fish_endpage_fr.svg",
+        "dest" : "fish_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+"src" : "fish-aquarium.svg",
+"dest" : "fish-aquarium.png",
+"width" : 20.442708333333336,
+"height" : 13.0859375
+},
+{
+"src" : "fish-bird.svg",
+"dest" : "fish-bird.png",
+"width" : 18.880208333333336,
+"height" : 15.72265625
+},
+{
+"src" : "fish-cut-background.svg",
+"dest" : "fish-cut-background.png",
+"width" : 100.26041666666667,
+"height" : 100.0
+},
+{
+"src" : "fish-cut-main.svg",
+"dest" : "fish-cut-main.png",
+"width" : 100.26041666666667,
+"height" : 76.171875
+},
+{
+"src" : "fish-cut.svg",
+"dest" : "fish-cut.png",
+"width" : 22.786458333333336,
+"height" : 14.74609375
+},
+{
+"src" : "fish-drawer.svg",
+"dest" : "fish-drawer.png",
+"width" : 22.526041666666664,
+"height" : 10.44921875
+},
+{
+"src" : "fish-drink-background.svg",
+"dest" : "fish-drink-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fish-drink-main.svg",
+"dest" : "fish-drink-main.png",
+"width" : 42.96875,
+"height" : 34.86328125
+},
+{
+"src" : "fish-drink.svg",
+"dest" : "fish-drink.png",
+"width" : 11.71875,
+"height" : 16.796875
+},
+{
+"src" : "fish-look-background.svg",
+"dest" : "fish-look-background.png",
+"width" : 100.52083333333333,
+"height" : 100.1953125
+},
+{
+"src" : "fish-look-main.svg",
+"dest" : "fish-look-main.png",
+"width" : 89.84375,
+"height" : 42.48046875
+},
+{
+"src" : "fish-look.svg",
+"dest" : "fish-look.png",
+"width" : 16.40625,
+"height" : 17.08984375
+},
+{
+"src" : "fish-mirror.svg",
+"dest" : "fish-mirror.png",
+"width" : 19.661458333333336,
+"height" : 12.5
+},
+{
+"src" : "fish-pear.svg",
+"dest" : "fish-pear.png",
+"width" : 12.109375,
+"height" : 14.55078125
+},
+{
+"src" : "fish-penguin.svg",
+"dest" : "fish-penguin.png",
+"width" : 14.322916666666666,
+"height" : 16.9921875
+},
+{
+"src" : "fish-playpage-ui.svg",
+"dest" : "fish-playpage-ui.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+},
+{
+"src" : "fish-pull-background.svg",
+"dest" : "fish-pull-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "fish-pull-main.svg",
+"dest" : "fish-pull-main.png",
+"width" : 44.27083333333333,
+"height" : 30.2734375
+},
+{
+"src" : "fish-pull.svg",
+"dest" : "fish-pull.png",
+"width" : 20.963541666666664,
+"height" : 16.9921875
+},
+{
+"src" : "fish-repair-background.svg",
+"dest" : "fish-repair-background.png",
+"width" : 112.890625,
+"height" : 100.1953125
+},
+{
+"src" : "fish-repair-main.svg",
+"dest" : "fish-repair-main.png",
+"width" : 72.13541666666666,
+"height" : 36.62109375
+},
+{
+"src" : "fish-repair.svg",
+"dest" : "fish-repair.png",
+"width" : 24.088541666666664,
+"height" : 17.48046875
+},
+{
+"src" : "fish-roof.svg",
+"dest" : "fish-roof.png",
+"width" : 20.3125,
+"height" : 15.13671875
+},
+{
+"src" : "fish-star.svg",
+"dest" : "fish-star.png",
+"width" : 18.359375,
+"height" : 15.0390625
+},
+{
+"src" : "fish-walk-background.svg",
+"dest" : "fish-walk-background.png",
+"width" : 100.65104166666667,
+"height" : 100.1953125
+},
+{
+"src" : "fish-walk-main.svg",
+"dest" : "fish-walk-main.png",
+"width" : 89.97395833333334,
+"height" : 44.7265625
+},
+{
+"src" : "fish-walk.svg",
+"dest" : "fish-walk.png",
+"width" : 23.046875,
+"height" : 18.5546875
+},
+{
+"src" : "fish-wash-background.svg",
+"dest" : "fish-wash-background.png",
+"width" : 100.390625,
+"height" : 100.29296875
+},
+{
+"src" : "fish-wash-main.svg",
+"dest" : "fish-wash-main.png",
+"width" : 60.546875,
+"height" : 75.390625
+},
+{
+"src" : "fish-wash.svg",
+"dest" : "fish-wash.png",
+"width" : 22.786458333333336,
+"height" : 15.0390625
+},
+{
+"src" : "fish-water-background.svg",
+"dest" : "fish-water-background.png",
+"width" : 100.390625,
+"height" : 100.29296875
+},
+{
+"src" : "fish-water-main.svg",
+"dest" : "fish-water-main.png",
+"width" : 89.97395833333334,
+"height" : 32.91015625
+},
+{
+"src" : "fish-water.svg",
+"dest" : "fish-water.png",
+"width" : 26.953125,
+"height" : 17.578125
+},
+{
+"src" : "fish.svg",
+"dest" : "fish.png",
+"width" : 22.395833333333336,
+"height" : 9.5703125
+},
+{
+"src" : "fish_playpage_en.svg",
+"dest" : "fish_playpage_en.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+}
+]

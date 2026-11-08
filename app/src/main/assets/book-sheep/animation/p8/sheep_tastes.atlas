@@ -1,0 +1,545 @@
+
+sheep_tastes.png
+size: 3343,4184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GRANNY_ARM_L
+  rotate: false
+  xy: 2630, 591
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1
+GRANNY_ARM_R_1
+  rotate: true
+  xy: 3045, 715
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1
+GRANNY_ARM_R_2
+  rotate: false
+  xy: 2587, 330
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1
+GRANNY_BROW_L
+  rotate: false
+  xy: 3306, 920
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+GRANNY_EYE_L
+  rotate: false
+  xy: 2229, 1
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+GRANNY_HEAD
+  rotate: true
+  xy: 1202, 76
+  size: 238, 298
+  orig: 238, 298
+  offset: 0, 0
+  index: -1
+GRANNY_IRIS
+  rotate: false
+  xy: 1460, 32
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+GRANNY_MOUTH_O
+  rotate: false
+  xy: 3212, 1777
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+GRANNY_MOUTH_SMILE
+  rotate: false
+  xy: 3306, 907
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+GRANNY_PUPIL
+  rotate: false
+  xy: 2377, 1051
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+GRANNY_TORSO
+  rotate: false
+  xy: 1202, 756
+  size: 340, 649
+  orig: 340, 649
+  offset: 0, 0
+  index: -1
+HONEY_
+  rotate: true
+  xy: 2238, 206
+  size: 148, 197
+  orig: 148, 197
+  offset: 0, 0
+  index: -1
+HONEY_CAP
+  rotate: true
+  xy: 2587, 591
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+HONEY_SPILL
+  rotate: true
+  xy: 3306, 941
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+HONEY__1
+  rotate: true
+  xy: 2991, 566
+  size: 148, 197
+  orig: 148, 197
+  offset: 0, 0
+  index: -1
+HONEY__2
+  rotate: false
+  xy: 2968, 190
+  size: 148, 197
+  orig: 148, 197
+  offset: 0, 0
+  index: -1
+HONEY__3
+  rotate: false
+  xy: 3189, 517
+  size: 148, 197
+  orig: 148, 197
+  offset: 0, 0
+  index: -1
+HONEY__4
+  rotate: true
+  xy: 2229, 56
+  size: 149, 197
+  orig: 149, 197
+  offset: 0, 0
+  index: -1
+HONEY__5
+  rotate: false
+  xy: 2436, 171
+  size: 149, 197
+  orig: 149, 197
+  offset: 0, 0
+  index: -1
+HONEY__6
+  rotate: true
+  xy: 2586, 180
+  size: 149, 197
+  orig: 149, 197
+  offset: 0, 0
+  index: -1
+MILK
+  rotate: true
+  xy: 3266, 3782
+  size: 119, 72
+  orig: 119, 72
+  offset: 0, 0
+  index: -1
+PALM@2x
+  rotate: false
+  xy: 3117, 279
+  size: 78, 108
+  orig: 78, 108
+  offset: 0, 0
+  index: -1
+SHEEP_ARM_POINT_A@2x
+  rotate: false
+  xy: 2377, 1081
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_ARM_POINT_B@2x
+  rotate: true
+  xy: 364, 19
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_CHEEK@2x
+  rotate: true
+  xy: 3212, 2364
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_1@2x
+  rotate: true
+  xy: 2784, 180
+  size: 149, 183
+  orig: 149, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_2@2x
+  rotate: true
+  xy: 2427, 22
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_3@2x
+  rotate: true
+  xy: 2611, 30
+  size: 149, 183
+  orig: 149, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_4@2x
+  rotate: true
+  xy: 2795, 30
+  size: 149, 182
+  orig: 149, 182
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_DROWSE@2x
+  rotate: true
+  xy: 3212, 1817
+  size: 142, 107
+  orig: 142, 107
+  offset: 0, 0
+  index: -1
+SHEEP_HAIR@2x
+  rotate: true
+  xy: 1202, 315
+  size: 440, 334
+  orig: 440, 334
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD@2x
+  rotate: false
+  xy: 2766, 2492
+  size: 446, 713
+  orig: 446, 713
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_BLOWS@2x
+  rotate: false
+  xy: 2766, 1777
+  size: 445, 714
+  orig: 445, 714
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_BLOWS_2@2x
+  rotate: true
+  xy: 1543, 590
+  size: 445, 706
+  orig: 445, 706
+  offset: 0, 0
+  index: -1
+SHEEP_L_ARM_DIRTY@2x
+  rotate: false
+  xy: 2563, 1081
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_L_ARM_SLEEVE_A@2x
+  rotate: false
+  xy: 2749, 1076
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_L_ARM_SLEEVE_B@2x
+  rotate: false
+  xy: 2935, 1076
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_L_IRIS@2x
+  rotate: false
+  xy: 3130, 392
+  size: 99, 124
+  orig: 99, 124
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_FROWN@2x
+  rotate: false
+  xy: 1272, 16
+  size: 103, 59
+  orig: 103, 59
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_FROWN_1@2x
+  rotate: false
+  xy: 3212, 2260
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_GRIN@2x
+  rotate: true
+  xy: 3213, 2700
+  size: 223, 98
+  orig: 223, 98
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_HOLD_BREATH@2x
+  rotate: true
+  xy: 3213, 2924
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_O@2x
+  rotate: false
+  xy: 1760, 1
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE@2x
+  rotate: true
+  xy: 3266, 3902
+  size: 281, 76
+  orig: 281, 76
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE_1@2x
+  rotate: false
+  xy: 1501, 60
+  size: 258, 157
+  orig: 258, 157
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE_FRONT@2x
+  rotate: true
+  xy: 3213, 2524
+  size: 175, 94
+  orig: 175, 94
+  offset: 0, 0
+  index: -1
+SHEEP_NECK@2x
+  rotate: true
+  xy: 1760, 98
+  size: 119, 255
+  orig: 119, 255
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE@2x
+  rotate: true
+  xy: 3212, 1960
+  size: 146, 104
+  orig: 146, 104
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE_SICK@2x
+  rotate: false
+  xy: 2978, 23
+  size: 147, 166
+  orig: 147, 166
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE_SIDE@2x
+  rotate: false
+  xy: 1376, 32
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+SHEEP_R_ARM@2x
+  rotate: false
+  xy: 3121, 1076
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_R_ARM_DIRTY@2x
+  rotate: true
+  xy: 1537, 404
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_R_ARM_YOGA@2x
+  rotate: true
+  xy: 1537, 218
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_R_BROW@2x
+  rotate: true
+  xy: 3306, 979
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+SHEEP_R_EAR@2x
+  rotate: false
+  xy: 1, 1
+  size: 362, 203
+  orig: 362, 203
+  offset: 0, 0
+  index: -1
+SHEEP_R_EYE@2x
+  rotate: false
+  xy: 3212, 2107
+  size: 124, 152
+  orig: 124, 152
+  offset: 0, 0
+  index: -1
+SHEEP_R_LEG@2x
+  rotate: false
+  xy: 2250, 355
+  size: 180, 680
+  orig: 180, 680
+  offset: 0, 0
+  index: -1
+SHEEP_R_PUPIL@2x
+  rotate: false
+  xy: 3266, 3690
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+SHEEP_TONGUE_1@2x
+  rotate: false
+  xy: 1823, 2
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+SHEEP_TONGUE_HONEY@2x
+  rotate: true
+  xy: 3266, 3604
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+SHEEP_TONGUE_TASTE@2x
+  rotate: true
+  xy: 3230, 392
+  size: 124, 94
+  orig: 124, 94
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO@2x
+  rotate: false
+  xy: 1565, 2983
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO_2@2x
+  rotate: true
+  xy: 1565, 1036
+  size: 745, 811
+  orig: 745, 811
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO_3@3x
+  rotate: false
+  xy: 1, 205
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO_PURPLE@3x
+  rotate: false
+  xy: 1565, 1782
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+SHEEP_WATCH@2x
+  rotate: false
+  xy: 3196, 290
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+THUMB@2x
+  rotate: true
+  xy: 2991, 800
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+cupcakes
+  rotate: true
+  xy: 2431, 641
+  size: 439, 198
+  orig: 439, 198
+  offset: 0, 0
+  index: -1
+fruits
+  rotate: false
+  xy: 2630, 852
+  size: 414, 223
+  orig: 414, 223
+  offset: 0, 0
+  index: -1
+ice cream
+  rotate: false
+  xy: 2948, 388
+  size: 181, 177
+  orig: 181, 177
+  offset: 0, 0
+  index: -1
+kitchen set
+  rotate: true
+  xy: 2766, 3206
+  size: 977, 499
+  orig: 977, 499
+  offset: 0, 0
+  index: -1
+measuring cup
+  rotate: false
+  xy: 2016, 41
+  size: 212, 176
+  orig: 212, 176
+  offset: 0, 0
+  index: -1
+mittens
+  rotate: false
+  xy: 1065, 12
+  size: 121, 192
+  orig: 121, 192
+  offset: 0, 0
+  index: -1
+spoons
+  rotate: true
+  xy: 2431, 369
+  size: 271, 155
+  orig: 271, 155
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 1, 1406
+  size: 1563, 1295
+  orig: 1563, 1295
+  offset: 0, 0
+  index: -1
+timer
+  rotate: true
+  xy: 1187, 1
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+walls
+  rotate: false
+  xy: 1, 2702
+  size: 1563, 1481
+  orig: 1563, 1481
+  offset: 0, 0
+  index: -1

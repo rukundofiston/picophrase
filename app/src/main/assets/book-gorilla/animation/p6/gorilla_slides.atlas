@@ -1,0 +1,258 @@
+
+gorilla_slides.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/GOR_BROW
+  rotate: false
+  xy: 459, 0
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+PNG/GOR_EYE
+  rotate: true
+  xy: 754, 66
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+PNG/GOR_HEAD
+  rotate: false
+  xy: 312, 28
+  size: 145, 195
+  orig: 145, 195
+  offset: 0, 0
+  index: -1
+PNG/GOR_IRIS
+  rotate: false
+  xy: 439, 5
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_O
+  rotate: false
+  xy: 312, 0
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_OWNO
+  rotate: false
+  xy: 672, 0
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_OWW
+  rotate: false
+  xy: 723, 0
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_SMILE
+  rotate: false
+  xy: 621, 0
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+PNG/GOR_MOUTH_TEETH
+  rotate: false
+  xy: 683, 33
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+PNG/GOR_NOSE
+  rotate: false
+  xy: 408, 4
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+PNG/GOR_PUPIL
+  rotate: false
+  xy: 0, 0
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_ARM_B
+  rotate: true
+  xy: 459, 116
+  size: 107, 209
+  orig: 107, 209
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_FINGERS
+  rotate: false
+  xy: 936, 405
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_FIST_A
+  rotate: true
+  xy: 959, 332
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_FIST_B
+  rotate: false
+  xy: 683, 65
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_HAND_OPEN
+  rotate: false
+  xy: 670, 124
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_LEG
+  rotate: false
+  xy: 772, 401
+  size: 162, 237
+  orig: 162, 237
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_PALM
+  rotate: false
+  xy: 621, 42
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+PNG/GOR_R_THUMB
+  rotate: false
+  xy: 754, 90
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PNG/GOR_TORSO
+  rotate: true
+  xy: 0, 15
+  size: 208, 310
+  orig: 208, 310
+  offset: 0, 0
+  index: -1
+PNG/G_SLIDE_
+  rotate: true
+  xy: 772, 640
+  size: 384, 235
+  orig: 384, 235
+  offset: 0, 0
+  index: -1
+PNG/G_SLIDE__1@2x
+  rotate: false
+  xy: 0, 225
+  size: 770, 282
+  orig: 770, 282
+  offset: 0, 0
+  index: -1
+PNG/G_SLIDE__2@2x
+  rotate: false
+  xy: 0, 509
+  size: 770, 515
+  orig: 770, 515
+  offset: 0, 0
+  index: -1
+PNG/PEN_BEAK_FRONT
+  rotate: true
+  xy: 996, 405
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+PNG/PEN_BEAK_SIDE
+  rotate: false
+  xy: 374, 4
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+PNG/PEN_EYE
+  rotate: false
+  xy: 738, 36
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+PNG/PEN_FOOT
+  rotate: false
+  xy: 335, 1
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+PNG/PEN_HEAD_FRONT
+  rotate: false
+  xy: 878, 239
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+PNG/PEN_HEAD_SIDE
+  rotate: true
+  xy: 878, 319
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+PNG/PEN_IRIS
+  rotate: false
+  xy: 1009, 1005
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+PNG/PEN_L_ARM
+  rotate: false
+  xy: 936, 542
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+PNG/PEN_L_BROW
+  rotate: false
+  xy: 1013, 384
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+PNG/PEN_PUPIL
+  rotate: true
+  xy: 1013, 393
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+PNG/PEN_R_ARM
+  rotate: false
+  xy: 936, 454
+  size: 72, 86
+  orig: 72, 86
+  offset: 0, 0
+  index: -1
+PNG/PEN_TORSO_FRONT
+  rotate: false
+  xy: 772, 239
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+PNG/PEN_TORSO_SIDE
+  rotate: true
+  xy: 459, 10
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1

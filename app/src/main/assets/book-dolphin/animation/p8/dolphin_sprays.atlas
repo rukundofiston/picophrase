@@ -1,0 +1,558 @@
+
+dolphin_sprays.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belly
+  rotate: true
+  xy: 141, 501
+  size: 142, 260
+  orig: 142, 260
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 783, 693
+  size: 113, 104
+  orig: 113, 104
+  offset: 0, 0
+  index: -1
+BoxRibbon
+  rotate: false
+  xy: 369, 907
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+Brow
+  rotate: true
+  xy: 39, 921
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+Cake
+  rotate: false
+  xy: 319, 761
+  size: 136, 81
+  orig: 136, 81
+  offset: 0, 0
+  index: -1
+DBrowL
+  rotate: true
+  xy: 988, 941
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+DBrowR
+  rotate: false
+  xy: 86, 952
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+DIVIDER
+  rotate: false
+  xy: 0, 980
+  size: 998, 4
+  orig: 998, 4
+  offset: 0, 0
+  index: -1
+DragonBody
+  rotate: true
+  xy: 0, 555
+  size: 136, 139
+  orig: 136, 139
+  offset: 0, 0
+  index: -1
+DragonEyeballL
+  rotate: true
+  xy: 357, 845
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+DragonEyeballR
+  rotate: true
+  xy: 107, 855
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+DragonFinger1
+  rotate: true
+  xy: 181, 854
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+DragonFinger2
+  rotate: true
+  xy: 269, 849
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+DragonHair
+  rotate: true
+  xy: 0, 864
+  size: 52, 105
+  orig: 52, 105
+  offset: 0, 0
+  index: -1
+DragonHead
+  rotate: true
+  xy: 601, 608
+  size: 127, 139
+  orig: 127, 139
+  offset: 0, 0
+  index: -1
+DragonIrisL
+  rotate: true
+  xy: 782, 901
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+DragonIrisR
+  rotate: true
+  xy: 731, 902
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+DragonPupilL
+  rotate: true
+  xy: 196, 949
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+DragonPupilR
+  rotate: true
+  xy: 162, 950
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+DragonTail
+  rotate: true
+  xy: 457, 759
+  size: 81, 145
+  orig: 81, 145
+  offset: 0, 0
+  index: -1
+Drop1
+  rotate: false
+  xy: 230, 949
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Drop2
+  rotate: true
+  xy: 261, 948
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+Drop3
+  rotate: false
+  xy: 587, 904
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+Drop4
+  rotate: true
+  xy: 431, 907
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+Drop5
+  rotate: false
+  xy: 52, 959
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Eyeball
+  rotate: true
+  xy: 796, 821
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+FF-LEFT
+  rotate: false
+  xy: 0, 114
+  size: 394, 193
+  orig: 394, 193
+  offset: 0, 0
+  index: -1
+FF-RIGHT
+  rotate: false
+  xy: 396, 0
+  size: 373, 208
+  orig: 373, 208
+  offset: 0, 0
+  index: -1
+Fin
+  rotate: true
+  xy: 610, 836
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+FinBack
+  rotate: false
+  xy: 429, 844
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+FinFront
+  rotate: false
+  xy: 518, 842
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+Fire
+  rotate: false
+  xy: 604, 737
+  size: 177, 91
+  orig: 177, 91
+  offset: 0, 0
+  index: -1
+Flower1
+  rotate: true
+  xy: 475, 906
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+Flower2
+  rotate: false
+  xy: 644, 903
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+Flower3
+  rotate: true
+  xy: 687, 903
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Flower4
+  rotate: true
+  xy: 311, 909
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+Flower5
+  rotate: true
+  xy: 533, 906
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+FrontTeeth
+  rotate: false
+  xy: 130, 952
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+GRASS mini
+  rotate: true
+  xy: 420, 642
+  size: 115, 179
+  orig: 115, 179
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: true
+  xy: 254, 645
+  size: 114, 164
+  orig: 114, 164
+  offset: 0, 0
+  index: -1
+HoseHead
+  rotate: true
+  xy: 971, 880
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+Iris
+  rotate: true
+  xy: 914, 893
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+Lemonade
+  rotate: true
+  xy: 702, 830
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+Number2
+  rotate: true
+  xy: 876, 799
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+PartyHat
+  rotate: false
+  xy: 898, 646
+  size: 123, 151
+  orig: 123, 151
+  offset: 0, 0
+  index: -1
+Plate
+  rotate: false
+  xy: 0, 777
+  size: 317, 70
+  orig: 317, 70
+  offset: 0, 0
+  index: -1
+Pupil
+  rotate: true
+  xy: 0, 931
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+SKY mini
+  rotate: true
+  xy: 0, 693
+  size: 82, 252
+  orig: 82, 252
+  offset: 0, 0
+  index: -1
+String
+  rotate: false
+  xy: 232, 309
+  size: 198, 176
+  orig: 198, 176
+  offset: 0, 0
+  index: -1
+Vase
+  rotate: true
+  xy: 833, 897
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+Water
+  rotate: false
+  xy: 742, 406
+  size: 230, 147
+  orig: 230, 147
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0001
+  rotate: false
+  xy: 742, 555
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0002
+  rotate: true
+  xy: 580, 444
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0003
+  rotate: true
+  xy: 403, 487
+  size: 153, 175
+  orig: 153, 175
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0004
+  rotate: true
+  xy: 403, 487
+  size: 153, 175
+  orig: 153, 175
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0005
+  rotate: true
+  xy: 432, 254
+  size: 188, 200
+  orig: 188, 200
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0006
+  rotate: true
+  xy: 432, 254
+  size: 188, 200
+  orig: 188, 200
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0007
+  rotate: true
+  xy: 0, 324
+  size: 175, 230
+  orig: 175, 230
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0008
+  rotate: true
+  xy: 0, 324
+  size: 175, 230
+  orig: 175, 230
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0009
+  rotate: true
+  xy: 634, 210
+  size: 194, 252
+  orig: 194, 252
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0010
+  rotate: true
+  xy: 634, 210
+  size: 194, 252
+  orig: 194, 252
+  offset: 0, 0
+  index: -1
+drops/drops0001
+  rotate: false
+  xy: 313, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0002
+  rotate: false
+  xy: 388, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0003
+  rotate: false
+  xy: 463, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0004
+  rotate: false
+  xy: 538, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0005
+  rotate: false
+  xy: 613, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0006
+  rotate: false
+  xy: 688, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0007
+  rotate: false
+  xy: 763, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0008
+  rotate: false
+  xy: 838, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0009
+  rotate: false
+  xy: 913, 946
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0010
+  rotate: false
+  xy: 86, 918
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0011
+  rotate: false
+  xy: 161, 915
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+drops/drops0012
+  rotate: false
+  xy: 236, 914
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+maindrop/1
+  rotate: true
+  xy: 0, 966
+  size: 12, 50
+  orig: 12, 50
+  offset: 0, 0
+  index: -1
+
+dolphin_sprays2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BodyBack
+  rotate: false
+  xy: 639, 109
+  size: 241, 401
+  orig: 241, 401
+  offset: 0, 0
+  index: -1
+Hose
+  rotate: true
+  xy: 0, 17
+  size: 259, 320
+  orig: 259, 320
+  offset: 0, 0
+  index: -1
+Table-50-PCNT
+  rotate: false
+  xy: 0, 278
+  size: 637, 232
+  orig: 637, 232
+  offset: 0, 0
+  index: -1
+Water_Spalsh_blue0011
+  rotate: false
+  xy: 322, 0
+  size: 212, 276
+  orig: 212, 276
+  offset: 0, 0
+  index: -1

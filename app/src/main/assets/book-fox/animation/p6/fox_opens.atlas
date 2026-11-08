@@ -1,0 +1,272 @@
+
+fox_opens.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/CURTAIN_TOP
+  rotate: true
+  xy: 658, 87
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+PNG/FOX_ARM
+  rotate: false
+  xy: 917, 55
+  size: 180, 34
+  orig: 180, 34
+  offset: 0, 0
+  index: -1
+PNG/FOX_BROW
+  rotate: true
+  xy: 640, 86
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+PNG/FOX_EAR
+  rotate: false
+  xy: 672, 18
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE
+  rotate: false
+  xy: 882, 1
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+PNG/FOX_EYE_CLOSED_1
+  rotate: false
+  xy: 839, 0
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+PNG/FOX_HAND_GRIP
+  rotate: false
+  xy: 915, 4
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+PNG/FOX_HEAD
+  rotate: true
+  xy: 781, 502
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+PNG/FOX_HEAD_2
+  rotate: false
+  xy: 41, 333
+  size: 160, 148
+  orig: 160, 148
+  offset: 0, 0
+  index: -1
+PNG/FOX_HEAD_3
+  rotate: false
+  xy: 203, 333
+  size: 153, 148
+  orig: 153, 148
+  offset: 0, 0
+  index: -1
+PNG/FOX_IRIS
+  rotate: true
+  xy: 611, 84
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+PNG/FOX_LEG
+  rotate: true
+  xy: 387, 0
+  size: 81, 163
+  orig: 81, 163
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_BOO_FRONT
+  rotate: true
+  xy: 589, 7
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_CLOSED_2
+  rotate: true
+  xy: 552, 6
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_FROWN
+  rotate: true
+  xy: 813, 88
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_GASP
+  rotate: true
+  xy: 782, 29
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_OPEN_FRONT
+  rotate: true
+  xy: 628, 9
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_SMILE
+  rotate: true
+  xy: 834, 30
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_SNORE_0
+  rotate: false
+  xy: 782, 2
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_SNORE_1
+  rotate: true
+  xy: 897, 91
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_SNORE_2
+  rotate: false
+  xy: 770, 87
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+PNG/FOX_MOUTH_UHOH
+  rotate: false
+  xy: 849, 91
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+PNG/FOX_NOSE
+  rotate: false
+  xy: 698, 87
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+PNG/FOX_OP_
+  rotate: false
+  xy: 0, 16
+  size: 385, 312
+  orig: 385, 312
+  offset: 0, 0
+  index: -1
+PNG/FOX_OP__1
+  rotate: true
+  xy: 781, 639
+  size: 385, 208
+  orig: 385, 208
+  offset: 0, 0
+  index: -1
+PNG/FOX_OP__2@2x
+  rotate: true
+  xy: 720, 21
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+PNG/FOX_OP__3@2x
+  rotate: false
+  xy: 387, 83
+  size: 222, 257
+  orig: 222, 257
+  offset: 0, 0
+  index: -1
+PNG/FOX_OP__4@2x
+  rotate: false
+  xy: 526, 357
+  size: 344, 136
+  orig: 344, 136
+  offset: 0, 0
+  index: -1
+PNG/FOX_PAW
+  rotate: true
+  xy: 882, 42
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+PNG/FOX_PUPIL
+  rotate: true
+  xy: 0, 1
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+PNG/FOX_TAIL
+  rotate: false
+  xy: 770, 134
+  size: 135, 221
+  orig: 135, 221
+  offset: 0, 0
+  index: -1
+PNG/FOX_TONGUE
+  rotate: true
+  xy: 946, 24
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+PNG/FOX_TORSO
+  rotate: false
+  xy: 907, 285
+  size: 159, 215
+  orig: 159, 215
+  offset: 0, 0
+  index: -1
+PNG/FOX_TORSO_FRONT
+  rotate: false
+  xy: 611, 107
+  size: 157, 248
+  orig: 157, 248
+  offset: 0, 0
+  index: -1
+PNG/LEFT_CURTAIN
+  rotate: false
+  xy: 41, 483
+  size: 357, 541
+  orig: 357, 541
+  offset: 0, 0
+  index: -1
+PNG/RIGHT_CURTAIN
+  rotate: false
+  xy: 400, 495
+  size: 379, 529
+  orig: 379, 529
+  offset: 0, 0
+  index: -1
+PNG/ROD
+  rotate: true
+  xy: 0, 330
+  size: 694, 39
+  orig: 694, 39
+  offset: 0, 0
+  index: -1
+PNG/TOWEL
+  rotate: false
+  xy: 358, 342
+  size: 166, 139
+  orig: 166, 139
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,395 @@
+
+whale_fishing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BOAT_BG
+  rotate: false
+  xy: 500, 1474
+  size: 831, 137
+  orig: 831, 137
+  offset: 0, 0
+  index: -1
+PNG/BOAT_MG
+  rotate: true
+  xy: 1407, 1497
+  size: 282, 311
+  orig: 282, 311
+  offset: 0, 0
+  index: -1
+PNG/BOXER
+  rotate: false
+  xy: 1497, 1840
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+PNG/CRAB_ARM
+  rotate: true
+  xy: 1160, 1969
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+PNG/CRAB_EYE
+  rotate: false
+  xy: 1075, 1973
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+PNG/CRAB_HAND
+  rotate: true
+  xy: 1426, 1955
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+PNG/CRAB_IRIS
+  rotate: true
+  xy: 921, 1980
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+PNG/CRAB_LEG_1
+  rotate: false
+  xy: 827, 1989
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+PNG/CRAB_LEG_2
+  rotate: false
+  xy: 891, 1982
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+PNG/CRAB_MOUTH_O
+  rotate: false
+  xy: 14, 1990
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+PNG/CRAB_MOUTH_SAD
+  rotate: false
+  xy: 31, 1990
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+PNG/CRAB_MOUTH_SMILE
+  rotate: false
+  xy: 69, 1990
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+PNG/CRAB_PUPIL
+  rotate: false
+  xy: 107, 1990
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+PNG/CRAB_TORSO
+  rotate: false
+  xy: 1597, 1948
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+PNG/FISH EYE CLOSED
+  rotate: false
+  xy: 865, 1989
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+PNG/FISHING_ROD@2x
+  rotate: true
+  xy: 0, 1932
+  size: 45, 950
+  orig: 45, 950
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN
+  rotate: false
+  xy: 1157, 1613
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN - SMILE
+  rotate: false
+  xy: 0, 1575
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN_EYE
+  rotate: false
+  xy: 994, 1978
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN_FG
+  rotate: false
+  xy: 250, 1550
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN_FIN
+  rotate: false
+  xy: 1023, 1978
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN_FIN_2
+  rotate: false
+  xy: 1109, 1970
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+PNG/FISH_BROWN_PUPIL
+  rotate: false
+  xy: 0, 1994
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+PNG/FISH_HOOK
+  rotate: true
+  xy: 1350, 1961
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+PNG/HANGPOLE
+  rotate: false
+  xy: 1181, 1085
+  size: 480, 387
+  orig: 480, 387
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_1
+  rotate: false
+  xy: 1489, 1954
+  size: 106, 51
+  orig: 106, 51
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_2
+  rotate: true
+  xy: 1202, 1966
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_3
+  rotate: true
+  xy: 949, 1979
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_4
+  rotate: false
+  xy: 1278, 1965
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+PNG/SWIMSUIT
+  rotate: true
+  xy: 952, 1882
+  size: 89, 142
+  orig: 89, 142
+  offset: 0, 0
+  index: -1
+PNG/WHALE_ARM_1@2x
+  rotate: true
+  xy: 599, 1172
+  size: 300, 580
+  orig: 300, 580
+  offset: 0, 0
+  index: -1
+PNG/WHALE_BROW@2x
+  rotate: false
+  xy: 1815, 1924
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE@2x
+  rotate: true
+  xy: 1825, 1702
+  size: 202, 210
+  orig: 202, 210
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE_CLOSED@2x
+  rotate: false
+  xy: 1096, 1876
+  size: 216, 87
+  orig: 216, 87
+  offset: 0, 0
+  index: -1
+PNG/WHALE_EYE_CLOSED_2@2x
+  rotate: false
+  xy: 1610, 1781
+  size: 213, 141
+  orig: 213, 141
+  offset: 0, 0
+  index: -1
+PNG/WHALE_FOOT@2x
+  rotate: true
+  xy: 785, 1684
+  size: 190, 370
+  orig: 190, 370
+  offset: 0, 0
+  index: -1
+PNG/WHALE_IRIS@2x
+  rotate: true
+  xy: 642, 1795
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+PNG/WHALE_LOWER_TEETH@2x
+  rotate: false
+  xy: 0, 1833
+  size: 195, 97
+  orig: 195, 97
+  offset: 0, 0
+  index: -1
+PNG/WHALE_MOUTH_1@2x
+  rotate: false
+  xy: 437, 1800
+  size: 203, 130
+  orig: 203, 130
+  offset: 0, 0
+  index: -1
+PNG/WHALE_PUPIL@2x
+  rotate: false
+  xy: 1959, 1906
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+PNG/WHALE_TONGUE@2x
+  rotate: true
+  xy: 1688, 1928
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+PNG/WHALE_UPPER_TEETH@2x
+  rotate: false
+  xy: 197, 1825
+  size: 238, 105
+  orig: 238, 105
+  offset: 0, 0
+  index: -1
+PNG/boat
+  rotate: false
+  xy: 577, 733
+  size: 913, 350
+  orig: 913, 350
+  offset: 0, 0
+  index: -1
+PNG/bottle
+  rotate: true
+  xy: 1314, 1863
+  size: 89, 181
+  orig: 89, 181
+  offset: 0, 0
+  index: -1
+PNG/bush
+  rotate: true
+  xy: 1720, 1260
+  size: 440, 303
+  orig: 440, 303
+  offset: 0, 0
+  index: -1
+PNG/fishing rope
+  rotate: true
+  xy: 125, 1990
+  size: 15, 700
+  orig: 15, 700
+  offset: 0, 0
+  index: -1
+PNG/sand
+  rotate: false
+  xy: 0, 864
+  size: 575, 324
+  orig: 575, 324
+  offset: 0, 0
+  index: -1
+PNG/tree
+  rotate: true
+  xy: 0, 1190
+  size: 282, 597
+  orig: 282, 597
+  offset: 0, 0
+  index: -1
+PNG/wave
+  rotate: false
+  xy: 0, 0
+  size: 733, 731
+  orig: 733, 731
+  offset: 0, 0
+  index: -1
+
+whale_fishing2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/OCEAN
+  rotate: false
+  xy: 0, 0
+  size: 1594, 1347
+  orig: 1594, 1347
+  offset: 0, 0
+  index: -1
+
+whale_fishing3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/SKY_BG
+  rotate: false
+  xy: 0, 0
+  size: 1561, 1408
+  orig: 1561, 1408
+  offset: 0, 0
+  index: -1
+
+whale_fishing4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/WHALE_TORSO_BLUE@2x
+  rotate: false
+  xy: 0, 0
+  size: 1000, 1400
+  orig: 1000, 1400
+  offset: 0, 0
+  index: -1
+PNG/WHALE_TORSO_WHITE@2x
+  rotate: false
+  xy: 1002, 0
+  size: 1000, 1400
+  orig: 1000, 1400
+  offset: 0, 0
+  index: -1

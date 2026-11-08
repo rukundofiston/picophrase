@@ -1,0 +1,372 @@
+
+sheep_buttons.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COAT_ARM@2x
+  rotate: true
+  xy: 702, 1247
+  size: 250, 600
+  orig: 250, 600
+  offset: 0, 0
+  index: -1
+COAT_ARM_FG@2x
+  rotate: true
+  xy: 1304, 1247
+  size: 250, 600
+  orig: 250, 600
+  offset: 0, 0
+  index: -1
+COAT_ARM_INSIDE@2x
+  rotate: true
+  xy: 1834, 1686
+  size: 162, 196
+  orig: 162, 196
+  offset: 0, 0
+  index: -1
+COAT_COLLAR@2x
+  rotate: false
+  xy: 1109, 895
+  size: 460, 350
+  orig: 460, 350
+  offset: 0, 0
+  index: -1
+PURPLE_GLOVE@2x
+  rotate: true
+  xy: 0, 1604
+  size: 200, 240
+  orig: 200, 240
+  offset: 0, 0
+  index: -1
+PURPLE_TROUSER@2x
+  rotate: true
+  xy: 0, 559
+  size: 350, 700
+  orig: 350, 700
+  offset: 0, 0
+  index: -1
+SHEEP_CHEEK@2x
+  rotate: true
+  xy: 703, 1757
+  size: 127, 130
+  orig: 127, 130
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_1@2x
+  rotate: true
+  xy: 1020, 1722
+  size: 149, 183
+  orig: 149, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_2@2x
+  rotate: true
+  xy: 835, 1723
+  size: 148, 183
+  orig: 148, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_3@2x
+  rotate: true
+  xy: 1205, 1707
+  size: 149, 183
+  orig: 149, 183
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_CLOSED_4@2x
+  rotate: true
+  xy: 1390, 1703
+  size: 149, 182
+  orig: 149, 182
+  offset: 0, 0
+  index: -1
+SHEEP_EYE_DROWSE@2x
+  rotate: false
+  xy: 148, 1806
+  size: 142, 107
+  orig: 142, 107
+  offset: 0, 0
+  index: -1
+SHEEP_HAIR@2x
+  rotate: false
+  xy: 667, 911
+  size: 440, 334
+  orig: 440, 334
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD@2x
+  rotate: true
+  xy: 708, 0
+  size: 446, 713
+  orig: 446, 713
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_BLOWS@2x
+  rotate: true
+  xy: 702, 448
+  size: 445, 714
+  orig: 445, 714
+  offset: 0, 0
+  index: -1
+SHEEP_HEAD_BLOWS_2@2x
+  rotate: true
+  xy: 0, 1
+  size: 445, 706
+  orig: 445, 706
+  offset: 0, 0
+  index: -1
+SHEEP_L_IRIS@2x
+  rotate: true
+  xy: 1881, 1850
+  size: 99, 124
+  orig: 99, 124
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_GRIN@2x
+  rotate: false
+  xy: 1656, 1851
+  size: 223, 98
+  orig: 223, 98
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_HOLD_BREATH@2x
+  rotate: false
+  xy: 1271, 1858
+  size: 281, 91
+  orig: 281, 91
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_O@2x
+  rotate: true
+  xy: 730, 1887
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE@2x
+  rotate: false
+  xy: 988, 1873
+  size: 281, 76
+  orig: 281, 76
+  offset: 0, 0
+  index: -1
+SHEEP_MOUTH_SMILE_1@2x
+  rotate: false
+  xy: 1574, 1692
+  size: 258, 157
+  orig: 258, 157
+  offset: 0, 0
+  index: -1
+SHEEP_NECK@2x
+  rotate: true
+  xy: 292, 1792
+  size: 119, 255
+  orig: 119, 255
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE@2x
+  rotate: false
+  xy: 0, 1816
+  size: 146, 104
+  orig: 146, 104
+  offset: 0, 0
+  index: -1
+SHEEP_NOSE_SIDE@2x
+  rotate: false
+  xy: 585, 1906
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+SHEEP_R_ARM@2x
+  rotate: true
+  xy: 1288, 1499
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_R_ARM_YOGA@2x
+  rotate: true
+  xy: 0, 1338
+  size: 185, 700
+  orig: 185, 700
+  offset: 0, 0
+  index: -1
+SHEEP_R_BROW@2x
+  rotate: false
+  xy: 487, 1913
+  size: 96, 36
+  orig: 96, 36
+  offset: 0, 0
+  index: -1
+SHEEP_R_EAR@2x
+  rotate: false
+  xy: 242, 1560
+  size: 362, 203
+  orig: 362, 203
+  offset: 0, 0
+  index: -1
+SHEEP_R_EYE@2x
+  rotate: true
+  xy: 549, 1765
+  size: 124, 152
+  orig: 124, 152
+  offset: 0, 0
+  index: -1
+SHEEP_R_LEG@2x
+  rotate: true
+  xy: 606, 1525
+  size: 180, 680
+  orig: 180, 680
+  offset: 0, 0
+  index: -1
+SHEEP_R_PUPIL@2x
+  rotate: true
+  xy: 895, 1874
+  size: 75, 91
+  orig: 75, 91
+  offset: 0, 0
+  index: -1
+SHEEP_TONGUE_1@2x
+  rotate: false
+  xy: 1554, 1854
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
+SNOWFLAKE
+  rotate: false
+  xy: 828, 1886
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+SNOWFLAKE_B
+  rotate: true
+  xy: 0, 1938
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+SNOW_LINES
+  rotate: false
+  xy: 14, 1922
+  size: 234, 27
+  orig: 234, 27
+  offset: 0, 0
+  index: -1
+button@2x
+  rotate: false
+  xy: 670, 1891
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+kereta salju
+  rotate: false
+  xy: 0, 1046
+  size: 665, 290
+  orig: 665, 290
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: false
+  xy: 1571, 619
+  size: 466, 626
+  orig: 466, 626
+  offset: 0, 0
+  index: -1
+snowman_FG
+  rotate: false
+  xy: 250, 1915
+  size: 235, 34
+  orig: 235, 34
+  offset: 0, 0
+  index: -1
+
+sheep_buttons2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mountain
+  rotate: false
+  xy: 0, 0
+  size: 1559, 495
+  orig: 1559, 495
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 0, 497
+  size: 1562, 1458
+  orig: 1562, 1458
+  offset: 0, 0
+  index: -1
+
+sheep_buttons3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+COAT_A@2x
+  rotate: true
+  xy: 0, 923
+  size: 570, 890
+  orig: 570, 890
+  offset: 0, 0
+  index: -1
+SHEEP_TORSO_2@2x
+  rotate: true
+  xy: 892, 748
+  size: 745, 811
+  orig: 745, 811
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 0, 0
+  size: 1562, 746
+  orig: 1562, 746
+  offset: 0, 0
+  index: -1
+
+sheep_buttons4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SHEEP_TORSO@2x
+  rotate: false
+  xy: 0, 0
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+sheep_buttons5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SHEEP_TORSO_3@3x
+  rotate: false
+  xy: 0, 0
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+sheep_buttons6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SHEEP_TORSO_3_FG@3x
+  rotate: false
+  xy: 0, 0
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1

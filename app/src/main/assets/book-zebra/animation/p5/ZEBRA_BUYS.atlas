@@ -1,0 +1,321 @@
+
+ZEBRA_BUYS.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BASKET_1
+  rotate: true
+  xy: 605, 53
+  size: 153, 194
+  orig: 153, 194
+  offset: 0, 0
+  index: -1
+PNG/BASKET_2
+  rotate: false
+  xy: 225, 1
+  size: 152, 115
+  orig: 152, 115
+  offset: 0, 0
+  index: -1
+PNG/BASKET_3
+  rotate: false
+  xy: 1321, 379
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+PNG/BOT_AISLE
+  rotate: false
+  xy: 532, 402
+  size: 412, 110
+  orig: 412, 110
+  offset: 0, 0
+  index: -1
+PNG/CASH_REGISTER
+  rotate: false
+  xy: 225, 118
+  size: 239, 260
+  orig: 239, 260
+  offset: 0, 0
+  index: -1
+PNG/DOLLAR_SIGN
+  rotate: false
+  xy: 589, 59
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+PNG/FLOOR
+  rotate: false
+  xy: 1360, 430
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_GREEN
+  rotate: true
+  xy: 379, 15
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+PNG/GRAPE_RED
+  rotate: false
+  xy: 1063, 355
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+PNG/MONEY
+  rotate: true
+  xy: 1996, 443
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+PNG/SHADOW_1
+  rotate: false
+  xy: 1360, 477
+  size: 387, 35
+  orig: 387, 35
+  offset: 0, 0
+  index: -1
+PNG/SHADOW_2
+  rotate: false
+  xy: 1360, 440
+  size: 386, 35
+  orig: 386, 35
+  offset: 0, 0
+  index: -1
+PNG/TABLE
+  rotate: false
+  xy: 0, 380
+  size: 530, 132
+  orig: 530, 132
+  offset: 0, 0
+  index: -1
+PNG/TOP_AISLE
+  rotate: false
+  xy: 946, 427
+  size: 412, 85
+  orig: 412, 85
+  offset: 0, 0
+  index: -1
+PNG/Z_ARM
+  rotate: false
+  xy: 1749, 443
+  size: 245, 69
+  orig: 245, 69
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_1
+  rotate: false
+  xy: 0, 0
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+PNG/Z_BROW_2
+  rotate: true
+  xy: 589, 35
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+PNG/Z_BUYS_BG
+  rotate: false
+  xy: 801, 118
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+PNG/Z_EAR
+  rotate: false
+  xy: 1138, 298
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE
+  rotate: false
+  xy: 872, 174
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_1
+  rotate: false
+  xy: 801, 52
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_2
+  rotate: true
+  xy: 1321, 354
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_3
+  rotate: false
+  xy: 844, 173
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_4
+  rotate: false
+  xy: 801, 85
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_1
+  rotate: true
+  xy: 2041, 490
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_2
+  rotate: true
+  xy: 2029, 490
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_3
+  rotate: false
+  xy: 461, 0
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+PNG/Z_EYELID_UPPER_4
+  rotate: false
+  xy: 974, 271
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_EYE_CLOSED
+  rotate: false
+  xy: 532, 384
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+PNG/Z_HAND
+  rotate: false
+  xy: 801, 157
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+PNG/Z_HEAD
+  rotate: false
+  xy: 974, 289
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+PNG/Z_IRIS
+  rotate: false
+  xy: 572, 380
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+PNG/Z_LEG
+  rotate: false
+  xy: 466, 90
+  size: 137, 288
+  orig: 137, 288
+  offset: 0, 0
+  index: -1
+PNG/Z_MANE
+  rotate: false
+  xy: 605, 208
+  size: 237, 192
+  orig: 237, 192
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_GASP
+  rotate: true
+  xy: 1063, 291
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_LAUGH
+  rotate: true
+  xy: 1171, 363
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_CLOSED
+  rotate: false
+  xy: 461, 16
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_SMILE_OPEN
+  rotate: false
+  xy: 525, 16
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_TEETH
+  rotate: true
+  xy: 1246, 363
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UHOH
+  rotate: true
+  xy: 844, 206
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+PNG/Z_MOUTH_UMM
+  rotate: false
+  xy: 919, 196
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+PNG/Z_PUPIL
+  rotate: false
+  xy: 844, 159
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+PNG/Z_TAIL
+  rotate: true
+  xy: 844, 270
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+PNG/Z_TONGUE
+  rotate: false
+  xy: 946, 404
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+PNG/Z_TORSO
+  rotate: false
+  xy: 0, 11
+  size: 223, 367
+  orig: 223, 367
+  offset: 0, 0
+  index: -1

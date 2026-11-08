@@ -1,0 +1,166 @@
+
+boy_swingfall.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ARM_1
+  rotate: true
+  xy: 1, 1
+  size: 162, 310
+  orig: 162, 310
+  offset: 0, 0
+  index: -1
+ARM_2
+  rotate: false
+  xy: 1773, 1477
+  size: 162, 310
+  orig: 162, 310
+  offset: 0, 0
+  index: -1
+BENCH
+  rotate: false
+  xy: 313, 88
+  size: 335, 75
+  orig: 335, 75
+  offset: 0, 0
+  index: -1
+BIPOD
+  rotate: false
+  xy: 1541, 1049
+  size: 201, 996
+  orig: 201, 996
+  offset: 0, 0
+  index: -1
+BROW
+  rotate: false
+  xy: 1937, 1769
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+Boy__2@2x
+  rotate: false
+  xy: 1, 541
+  size: 1538, 1504
+  orig: 1538, 1504
+  offset: 0, 0
+  index: -1
+EYE
+  rotate: false
+  xy: 1541, 625
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+EYE_CLOSED
+  rotate: false
+  xy: 1773, 1447
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 1773, 1789
+  size: 257, 256
+  orig: 257, 256
+  offset: 0, 0
+  index: -1
+HIP
+  rotate: false
+  xy: 739, 254
+  size: 275, 246
+  orig: 275, 246
+  offset: 0, 0
+  index: -1
+LEG
+  rotate: true
+  xy: 1541, 687
+  size: 360, 151
+  orig: 360, 151
+  offset: 0, 0
+  index: -1
+MOUTH_1
+  rotate: false
+  xy: 1306, 520
+  size: 62, 19
+  orig: 62, 19
+  offset: 0, 0
+  index: -1
+MOUTH_2
+  rotate: true
+  xy: 1744, 1288
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1016, 281
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+OTHER_BENCH
+  rotate: true
+  xy: 1, 165
+  size: 335, 736
+  orig: 335, 736
+  offset: 0, 0
+  index: -1
+PUPIL
+  rotate: false
+  xy: 1694, 1009
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+RED_LIGHTNING
+  rotate: false
+  xy: 739, 195
+  size: 129, 57
+  orig: 129, 57
+  offset: 0, 0
+  index: -1
+ROPE
+  rotate: false
+  xy: 1744, 1335
+  size: 27, 710
+  orig: 27, 710
+  offset: 0, 0
+  index: -1
+SWINGROD
+  rotate: false
+  xy: 1, 502
+  size: 1303, 37
+  orig: 1303, 37
+  offset: 0, 0
+  index: -1
+TORSO
+  rotate: true
+  xy: 1016, 307
+  size: 193, 276
+  orig: 193, 276
+  offset: 0, 0
+  index: -1
+
+boy_swingfall2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Boy_@2x
+  rotate: false
+  xy: 1, 636
+  size: 1537, 626
+  orig: 1537, 626
+  offset: 0, 0
+  index: -1
+Boy__1@2x
+  rotate: false
+  xy: 1, 1
+  size: 717, 633
+  orig: 717, 633
+  offset: 0, 0
+  index: -1

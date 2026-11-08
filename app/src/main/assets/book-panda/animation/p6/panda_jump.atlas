@@ -1,0 +1,202 @@
+
+panda_jump.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM
+  rotate: false
+  xy: 889, 713
+  size: 221, 150
+  orig: 221, 150
+  offset: 0, 0
+  index: -1
+PNG/BROW
+  rotate: true
+  xy: 2035, 2018
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+PNG/EAR
+  rotate: false
+  xy: 1803, 1524
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+PNG/EYE
+  rotate: false
+  xy: 1112, 826
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+PNG/HEAD
+  rotate: false
+  xy: 490, 427
+  size: 211, 203
+  orig: 211, 203
+  offset: 0, 0
+  index: -1
+PNG/LADDER
+  rotate: true
+  xy: 1236, 1244
+  size: 97, 458
+  orig: 97, 458
+  offset: 0, 0
+  index: -1
+PNG/LEG
+  rotate: true
+  xy: 1620, 1471
+  size: 133, 181
+  orig: 133, 181
+  offset: 0, 0
+  index: -1
+PNG/Ladder_BG
+  rotate: false
+  xy: 1911, 1594
+  size: 122, 453
+  orig: 122, 453
+  offset: 0, 0
+  index: -1
+PNG/MOUTH
+  rotate: false
+  xy: 889, 685
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+PNG/MUZZLE
+  rotate: false
+  xy: 771, 640
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+PNG/NOSE
+  rotate: false
+  xy: 1236, 1203
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+PNG/NOSE_CLIP
+  rotate: true
+  xy: 387, 135
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+PNG/PLANK
+  rotate: false
+  xy: 1236, 1343
+  size: 446, 116
+  orig: 446, 116
+  offset: 0, 0
+  index: -1
+PNG/PUPIL
+  rotate: false
+  xy: 1151, 836
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+PNG/RIPPLE
+  rotate: true
+  xy: 1178, 859
+  size: 336, 97
+  orig: 336, 97
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_1
+  rotate: false
+  xy: 0, 179
+  size: 419, 201
+  orig: 419, 201
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_2
+  rotate: false
+  xy: 771, 1197
+  size: 463, 262
+  orig: 463, 262
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_3
+  rotate: true
+  xy: 1620, 1606
+  size: 441, 289
+  orig: 441, 289
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_4
+  rotate: false
+  xy: 0, 382
+  size: 488, 248
+  orig: 488, 248
+  offset: 0, 0
+  index: -1
+PNG/SPLASH_5
+  rotate: true
+  xy: 771, 678
+  size: 517, 116
+  orig: 517, 116
+  offset: 0, 0
+  index: -1
+PNG/SWIMMING POOL_BG
+  rotate: false
+  xy: 771, 1755
+  size: 847, 292
+  orig: 847, 292
+  offset: 0, 0
+  index: -1
+PNG/SWIMMING POOL_FG
+  rotate: false
+  xy: 771, 1461
+  size: 847, 292
+  orig: 847, 292
+  offset: 0, 0
+  index: -1
+PNG/SWIM_BOARD
+  rotate: true
+  xy: 421, 199
+  size: 181, 69
+  orig: 181, 69
+  offset: 0, 0
+  index: -1
+PNG/TAIL
+  rotate: true
+  xy: 703, 562
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+PNG/TORSO
+  rotate: false
+  xy: 889, 865
+  size: 287, 330
+  orig: 287, 330
+  offset: 0, 0
+  index: -1
+PNG/jump_@2x
+  rotate: false
+  xy: 0, 1327
+  size: 769, 720
+  orig: 769, 720
+  offset: 0, 0
+  index: -1
+PNG/jump__1@2x
+  rotate: false
+  xy: 0, 632
+  size: 769, 693
+  orig: 769, 693
+  offset: 0, 0
+  index: -1
+PNG/jump__2
+  rotate: false
+  xy: 0, 0
+  size: 385, 177
+  orig: 385, 177
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,225 @@
+[
+    {
+        "src" : "duck_endpage_en.svg",
+        "dest" : "duck_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "duck_endpage_fr.svg",
+        "dest" : "duck_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "duck-break-background.svg",
+"dest" : "duck-break-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "duck-break-main.svg",
+"dest" : "duck-break-main.png",
+"width" : 47.265625,
+"height" : 36.71875
+},
+{
+"src" : "duck-break.svg",
+"dest" : "duck-break.png",
+"width" : 20.052083333333336,
+"height" : 16.30859375
+},
+{
+"src" : "duck-build-background.svg",
+"dest" : "duck-build-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "duck-build-main.svg",
+"dest" : "duck-build-main.png",
+"width" : 73.17708333333334,
+"height" : 43.26171875
+},
+{
+"src" : "duck-build.svg",
+"dest" : "duck-build.png",
+"width" : 24.479166666666664,
+"height" : 10.05859375
+},
+{
+"src" : "duck-carrot.svg",
+"dest" : "duck-carrot.png",
+"width" : 20.833333333333336,
+"height" : 17.578125
+},
+{
+"src" : "duck-chest.svg",
+"dest" : "duck-chest.png",
+"width" : 19.661458333333336,
+"height" : 14.453125
+},
+{
+"src" : "duck-coffee.svg",
+"dest" : "duck-coffee.png",
+"width" : 20.572916666666664,
+"height" : 10.9375
+},
+{
+"src" : "duck-count-background.svg",
+"dest" : "duck-count-background.png",
+"width" : 100.52083333333333,
+"height" : 100.1953125
+},
+{
+"src" : "duck-count-main.svg",
+"dest" : "duck-count-main.png",
+"width" : 64.32291666666666,
+"height" : 33.203125
+},
+{
+"src" : "duck-count.svg",
+"dest" : "duck-count.png",
+"width" : 22.265625,
+"height" : 18.5546875
+},
+{
+"src" : "duck-cut-background.svg",
+"dest" : "duck-cut-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "duck-cut-main.svg",
+"dest" : "duck-cut-main.png",
+"width" : 100.26041666666667,
+"height" : 70.99609375
+},
+{
+"src" : "duck-cut.svg",
+"dest" : "duck-cut.png",
+"width" : 21.09375,
+"height" : 13.57421875
+},
+{
+"src" : "duck-drink-background.svg",
+"dest" : "duck-drink-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "duck-drink-main.svg",
+"dest" : "duck-drink-main.png",
+"width" : 100.26041666666667,
+"height" : 71.875
+},
+{
+"src" : "duck-drink.svg",
+"dest" : "duck-drink.png",
+"width" : 12.760416666666666,
+"height" : 18.45703125
+},
+{
+"src" : "duck-drive-background.svg",
+"dest" : "duck-drive-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "duck-drive-main.svg",
+"dest" : "duck-drive-main.png",
+"width" : 68.75,
+"height" : 32.421875
+},
+{
+"src" : "duck-drive.svg",
+"dest" : "duck-drive.png",
+"width" : 19.791666666666664,
+"height" : 16.11328125
+},
+{
+"src" : "duck-fence.svg",
+"dest" : "duck-fence.png",
+"width" : 22.395833333333336,
+"height" : 11.03515625
+},
+{
+"src" : "duck-kangaroo.svg",
+"dest" : "duck-kangaroo.png",
+"width" : 22.526041666666664,
+"height" : 14.16015625
+},
+{
+"src" : "duck-pig.svg",
+"dest" : "duck-pig.png",
+"width" : 20.833333333333336,
+"height" : 12.01171875
+},
+{
+"src" : "duck-playpage-ui.svg",
+"dest" : "duck-playpage-ui.png",
+"width" : 102,
+"height" : 102
+},
+{
+"src" : "duck-run-background.svg",
+"dest" : "duck-run-background.png",
+"width" : 100.390625,
+"height" : 100.1953125
+},
+{
+"src" : "duck-run-main.svg",
+"dest" : "duck-run-main.png",
+"width" : 94.27083333333334,
+"height" : 45.41015625
+},
+{
+"src" : "duck-run.svg",
+"dest" : "duck-run.png",
+"width" : 23.046875,
+"height" : 15.33203125
+},
+{
+"src" : "duck-shell.svg",
+"dest" : "duck-shell.png",
+"width" : 19.921875,
+"height" : 12.98828125
+},
+{
+"src" : "duck-truck.svg",
+"dest" : "duck-truck.png",
+"width" : 24.088541666666664,
+"height" : 11.03515625
+},
+{
+"src" : "duck-water-background.svg",
+"dest" : "duck-water-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "duck-water-main.svg",
+"dest" : "duck-water-main.png",
+"width" : 71.484375,
+"height" : 38.0859375
+},
+{
+"src" : "duck-water.svg",
+"dest" : "duck-water.png",
+"width" : 26.432291666666668,
+"height" : 17.1875
+},
+{
+"src" : "duck.svg",
+"dest" : "duck.png",
+"width" : 20.963541666666664,
+"height" : 18.06640625
+}
+,
+{
+"src" : "duck_playpage_en.svg",
+"dest" : "duck_playpage_en.png",
+"width" : 102,
+"height" : 102
+}
+]

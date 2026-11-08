@@ -1,0 +1,321 @@
+
+cow_pulls.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/AEROPLANE
+  rotate: false
+  xy: 0, 491
+  size: 717, 533
+  orig: 717, 533
+  offset: 0, 0
+  index: -1
+PNG/BAGGAGE
+  rotate: true
+  xy: 662, 211
+  size: 76, 221
+  orig: 76, 221
+  offset: 0, 0
+  index: -1
+PNG/BAGGAGE_B
+  rotate: true
+  xy: 1093, 362
+  size: 49, 169
+  orig: 49, 169
+  offset: 0, 0
+  index: -1
+PNG/BAGGAGE_OPEN
+  rotate: false
+  xy: 1693, 451
+  size: 72, 221
+  orig: 72, 221
+  offset: 0, 0
+  index: -1
+PNG/BAGGAGE_OPEN_FG
+  rotate: true
+  xy: 1093, 326
+  size: 34, 169
+  orig: 34, 169
+  offset: 0, 0
+  index: -1
+PNG/BAGGAGE_WHEEL
+  rotate: false
+  xy: 343, 0
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PNG/BLUE_HAT
+  rotate: false
+  xy: 1929, 724
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+PNG/CLOTH
+  rotate: false
+  xy: 944, 276
+  size: 147, 175
+  orig: 147, 175
+  offset: 0, 0
+  index: -1
+PNG/CLOTH_CLEAN
+  rotate: false
+  xy: 1485, 466
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+PNG/COW_BROW
+  rotate: true
+  xy: 1767, 868
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+PNG/COW_EYE
+  rotate: true
+  xy: 386, 98
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_1
+  rotate: false
+  xy: 343, 92
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_2
+  rotate: true
+  xy: 282, 57
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_3
+  rotate: false
+  xy: 1264, 353
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+PNG/COW_EYELID_4
+  rotate: true
+  xy: 1093, 279
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+PNG/COW_EYE_CLOSED
+  rotate: false
+  xy: 1780, 682
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+PNG/COW_HEAD
+  rotate: false
+  xy: 1780, 701
+  size: 147, 191
+  orig: 147, 191
+  offset: 0, 0
+  index: -1
+PNG/COW_IRIS
+  rotate: true
+  xy: 1929, 703
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+PNG/COW_LIP_NOSE
+  rotate: true
+  xy: 885, 219
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+PNG/COW_LOWER_LIP
+  rotate: false
+  xy: 282, 100
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+PNG/COW_L_ARM_SUIT
+  rotate: false
+  xy: 580, 209
+  size: 80, 280
+  orig: 80, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_L_EAR
+  rotate: false
+  xy: 1312, 354
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+PNG/COW_L_EAR_B
+  rotate: true
+  xy: 1153, 281
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+PNG/COW_L_LEG
+  rotate: true
+  xy: 0, 20
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_MOUTH
+  rotate: false
+  xy: 282, 20
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_MOUTH_2
+  rotate: true
+  xy: 662, 453
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+PNG/COW_MOUTH_TEETH
+  rotate: true
+  xy: 343, 31
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+PNG/COW_PULL_BG_1@2x
+  rotate: false
+  xy: 719, 719
+  size: 769, 108
+  orig: 769, 108
+  offset: 0, 0
+  index: -1
+PNG/COW_PULL_BG_2@2x
+  rotate: false
+  xy: 719, 829
+  size: 738, 195
+  orig: 738, 195
+  offset: 0, 0
+  index: -1
+PNG/COW_PULL_BG_3
+  rotate: false
+  xy: 0, 152
+  size: 384, 337
+  orig: 384, 337
+  offset: 0, 0
+  index: -1
+PNG/COW_PULL_BG_4
+  rotate: false
+  xy: 719, 453
+  size: 385, 264
+  orig: 385, 264
+  offset: 0, 0
+  index: -1
+PNG/COW_PUPIL
+  rotate: false
+  xy: 561, 166
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+PNG/COW_R_ARM_FG_2
+  rotate: true
+  xy: 662, 371
+  size: 80, 280
+  orig: 80, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_R_ARM_SUIT
+  rotate: true
+  xy: 662, 289
+  size: 80, 280
+  orig: 80, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_R_LEG
+  rotate: true
+  xy: 1767, 894
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+PNG/COW_TAIL
+  rotate: true
+  xy: 1929, 803
+  size: 89, 119
+  orig: 89, 119
+  offset: 0, 0
+  index: -1
+PNG/COW_TAIL_HAIR
+  rotate: true
+  xy: 580, 185
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+PNG/COW_TIE
+  rotate: true
+  xy: 386, 128
+  size: 53, 173
+  orig: 53, 173
+  offset: 0, 0
+  index: -1
+PNG/COW_TONGUE
+  rotate: false
+  xy: 1456, 422
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+PNG/COW_TORSO
+  rotate: true
+  xy: 1459, 832
+  size: 192, 306
+  orig: 192, 306
+  offset: 0, 0
+  index: -1
+PNG/COW_TORSO_SUIT
+  rotate: false
+  xy: 386, 183
+  size: 192, 306
+  orig: 192, 306
+  offset: 0, 0
+  index: -1
+PNG/SMOKE
+  rotate: true
+  xy: 1106, 468
+  size: 249, 377
+  orig: 249, 377
+  offset: 0, 0
+  index: -1
+PNG/TIE_B
+  rotate: true
+  xy: 1106, 413
+  size: 53, 173
+  orig: 53, 173
+  offset: 0, 0
+  index: -1
+PNG/TIE_D
+  rotate: true
+  xy: 1281, 413
+  size: 53, 173
+  orig: 53, 173
+  offset: 0, 0
+  index: -1
+PNG/TROUSER
+  rotate: false
+  xy: 1490, 674
+  size: 288, 156
+  orig: 288, 156
+  offset: 0, 0
+  index: -1

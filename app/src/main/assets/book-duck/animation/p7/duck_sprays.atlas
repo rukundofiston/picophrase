@@ -1,0 +1,370 @@
+
+duck_sprays.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/BROW
+  rotate: false
+  xy: 632, 48
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+PNG/DUCK_EYE
+  rotate: false
+  xy: 293, 506
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+PNG/DUCK_EYE_CLOSED
+  rotate: false
+  xy: 1126, 1160
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+PNG/DUCK_HEAD
+  rotate: false
+  xy: 632, 71
+  size: 146, 150
+  orig: 146, 150
+  offset: 0, 0
+  index: -1
+PNG/DUCK_IRIS
+  rotate: false
+  xy: 731, 891
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+PNG/DUCK_LEG
+  rotate: true
+  xy: 1369, 1406
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+PNG/DUCK_LOWER_BEAK
+  rotate: false
+  xy: 1858, 1582
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+PNG/DUCK_PUPIL
+  rotate: false
+  xy: 950, 589
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+PNG/DUCK_R_ARM
+  rotate: false
+  xy: 844, 827
+  size: 285, 221
+  orig: 285, 221
+  offset: 0, 0
+  index: -1
+PNG/DUCK_R_THUMB
+  rotate: false
+  xy: 238, 4
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+PNG/DUCK_SPRAY_BG_1
+  rotate: false
+  xy: 771, 1380
+  size: 385, 198
+  orig: 385, 198
+  offset: 0, 0
+  index: -1
+PNG/DUCK_SPRAY_BG_2@2x
+  rotate: false
+  xy: 0, 1379
+  size: 769, 669
+  orig: 769, 669
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TAIL
+  rotate: false
+  xy: 1627, 1414
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+PNG/DUCK_TORSO
+  rotate: false
+  xy: 844, 1050
+  size: 280, 328
+  orig: 280, 328
+  offset: 0, 0
+  index: -1
+PNG/DUCK_UPPER_BEAK
+  rotate: true
+  xy: 1158, 1439
+  size: 139, 76
+  orig: 139, 76
+  offset: 0, 0
+  index: -1
+PNG/FENCE_FG
+  rotate: false
+  xy: 771, 1580
+  size: 474, 468
+  orig: 474, 468
+  offset: 0, 0
+  index: -1
+PNG/FIRE_HAT
+  rotate: false
+  xy: 642, 223
+  size: 168, 111
+  orig: 168, 111
+  offset: 0, 0
+  index: -1
+PNG/HOSE
+  rotate: true
+  xy: 0, 505
+  size: 872, 291
+  orig: 872, 291
+  offset: 0, 0
+  index: -1
+PNG/MUD
+  rotate: false
+  xy: 1247, 1516
+  size: 424, 84
+  orig: 424, 84
+  offset: 0, 0
+  index: -1
+PNG/PIG_BROW
+  rotate: true
+  xy: 1236, 1520
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+PNG/PIG_EYE
+  rotate: false
+  xy: 339, 0
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+PNG/PIG_EYE_CLOSED
+  rotate: false
+  xy: 731, 553
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+PNG/PIG_FRONT_LEG_CLEAN
+  rotate: true
+  xy: 1158, 1385
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+PNG/PIG_FRONT_LEG_DIRTY
+  rotate: false
+  xy: 1126, 1220
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+PNG/PIG_HEAD_CLEAN
+  rotate: false
+  xy: 993, 482
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+PNG/PIG_HEAD_DIRTY
+  rotate: false
+  xy: 993, 354
+  size: 129, 126
+  orig: 129, 126
+  offset: 0, 0
+  index: -1
+PNG/PIG_IRIS
+  rotate: false
+  xy: 731, 859
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+PNG/PIG_L_LEG
+  rotate: false
+  xy: 758, 827
+  size: 75, 124
+  orig: 75, 124
+  offset: 0, 0
+  index: -1
+PNG/PIG_MOUTH_O
+  rotate: false
+  xy: 950, 569
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+PNG/PIG_MOUTH_SAD
+  rotate: true
+  xy: 1236, 1538
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1
+PNG/PIG_MOUTH_SMILE
+  rotate: true
+  xy: 1224, 1397
+  size: 40, 10
+  orig: 40, 10
+  offset: 0, 0
+  index: -1
+PNG/PIG_PUPIL
+  rotate: false
+  xy: 780, 200
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+PNG/PIG_R_EAR
+  rotate: false
+  xy: 1126, 1111
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+PNG/PIG_TAIL
+  rotate: true
+  xy: 2018, 2015
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+PNG/PIG_TORSO_CLEAN
+  rotate: true
+  xy: 950, 610
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+PNG/PIG_TORSO_DIRTY
+  rotate: true
+  xy: 642, 336
+  size: 215, 179
+  orig: 215, 179
+  offset: 0, 0
+  index: -1
+PNG/SPRAY
+  rotate: false
+  xy: 138, 2
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+PNG/WATER
+  rotate: true
+  xy: 758, 953
+  size: 424, 84
+  orig: 424, 84
+  offset: 0, 0
+  index: -1
+PNG/WATER_1
+  rotate: true
+  xy: 1126, 1286
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+PNG/WATER_10
+  rotate: false
+  xy: 293, 553
+  size: 436, 369
+  orig: 436, 369
+  offset: 0, 0
+  index: -1
+PNG/WATER_11
+  rotate: false
+  xy: 344, 238
+  size: 296, 313
+  orig: 296, 313
+  offset: 0, 0
+  index: -1
+PNG/WATER_12
+  rotate: true
+  xy: 344, 42
+  size: 194, 286
+  orig: 194, 286
+  offset: 0, 0
+  index: -1
+PNG/WATER_13
+  rotate: false
+  xy: 0, 0
+  size: 136, 46
+  orig: 136, 46
+  offset: 0, 0
+  index: -1
+PNG/WATER_14
+  rotate: false
+  xy: 1713, 1612
+  size: 143, 42
+  orig: 143, 42
+  offset: 0, 0
+  index: -1
+PNG/WATER_2
+  rotate: true
+  xy: 1500, 1426
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+PNG/WATER_3
+  rotate: false
+  xy: 1236, 1414
+  size: 131, 100
+  orig: 131, 100
+  offset: 0, 0
+  index: -1
+PNG/WATER_4
+  rotate: false
+  xy: 823, 363
+  size: 168, 204
+  orig: 168, 204
+  offset: 0, 0
+  index: -1
+PNG/WATER_5
+  rotate: false
+  xy: 731, 569
+  size: 217, 256
+  orig: 217, 256
+  offset: 0, 0
+  index: -1
+PNG/WATER_6
+  rotate: true
+  xy: 1713, 1656
+  size: 392, 303
+  orig: 392, 303
+  offset: 0, 0
+  index: -1
+PNG/WATER_7
+  rotate: true
+  xy: 0, 48
+  size: 455, 342
+  orig: 455, 342
+  offset: 0, 0
+  index: -1
+PNG/WATER_8
+  rotate: false
+  xy: 1247, 1602
+  size: 464, 446
+  orig: 464, 446
+  offset: 0, 0
+  index: -1
+PNG/WATER_9
+  rotate: false
+  xy: 293, 924
+  size: 463, 453
+  orig: 463, 453
+  offset: 0, 0
+  index: -1

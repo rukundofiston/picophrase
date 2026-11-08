@@ -1,0 +1,237 @@
+
+TEDDY_CATCHES.png
+size: 5765,1605
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/ARM@2x
+  rotate: true
+  xy: 3338, 39
+  size: 240, 600
+  orig: 240, 600
+  offset: 0, 0
+  index: -1
+PNG/Asset 1
+  rotate: false
+  xy: 2484, 7
+  size: 190, 262
+  orig: 190, 262
+  offset: 0, 0
+  index: -1
+PNG/Asset 10
+  rotate: true
+  xy: 1, 39
+  size: 1565, 1246
+  orig: 1565, 1246
+  offset: 0, 0
+  index: -1
+PNG/Asset 11
+  rotate: true
+  xy: 1248, 47
+  size: 1557, 394
+  orig: 1557, 394
+  offset: 0, 0
+  index: -1
+PNG/Asset 3
+  rotate: true
+  xy: 1643, 49
+  size: 1555, 840
+  orig: 1555, 840
+  offset: 0, 0
+  index: -1
+PNG/Asset 4
+  rotate: false
+  xy: 5064, 34
+  size: 129, 228
+  orig: 129, 228
+  offset: 0, 0
+  index: -1
+PNG/Asset 5
+  rotate: true
+  xy: 4624, 7
+  size: 195, 184
+  orig: 195, 184
+  offset: 0, 0
+  index: -1
+PNG/Asset 6
+  rotate: false
+  xy: 4320, 454
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+PNG/Asset 8
+  rotate: false
+  xy: 2484, 270
+  size: 704, 1334
+  orig: 704, 1334
+  offset: 0, 0
+  index: -1
+PNG/Asset 9
+  rotate: false
+  xy: 5462, 118
+  size: 291, 144
+  orig: 291, 144
+  offset: 0, 0
+  index: -1
+PNG/BROW@2x
+  rotate: false
+  xy: 4320, 619
+  size: 89, 49
+  orig: 89, 49
+  offset: 0, 0
+  index: -1
+PNG/EAR@2x
+  rotate: true
+  xy: 3100, 23
+  size: 246, 237
+  orig: 246, 237
+  offset: 0, 0
+  index: -1
+PNG/EGG
+  rotate: false
+  xy: 3770, 281
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+PNG/EYE@2x
+  rotate: false
+  xy: 4320, 511
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+PNG/FRINGE@2x
+  rotate: true
+  xy: 4809, 24
+  size: 178, 170
+  orig: 178, 170
+  offset: 0, 0
+  index: -1
+PNG/HEAD_FRONT_3Q@2x
+  rotate: true
+  xy: 3189, 280
+  size: 623, 580
+  orig: 623, 580
+  offset: 0, 0
+  index: -1
+PNG/HEAD_SIDE@2x
+  rotate: false
+  xy: 3770, 351
+  size: 549, 552
+  orig: 549, 552
+  offset: 0, 0
+  index: -1
+PNG/LEG@2x
+  rotate: true
+  xy: 3942, 30
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+PNG/L_FUR@2x
+  rotate: true
+  xy: 70, 8
+  size: 30, 79
+  orig: 30, 79
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_CLOSED@2x
+  rotate: true
+  xy: 4980, 26
+  size: 176, 77
+  orig: 176, 77
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_O@2x
+  rotate: true
+  xy: 3827, 285
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_OPEN@2x
+  rotate: true
+  xy: 5194, 37
+  size: 225, 131
+  orig: 225, 131
+  offset: 0, 0
+  index: -1
+PNG/NEST
+  rotate: true
+  xy: 4320, 669
+  size: 234, 91
+  orig: 234, 91
+  offset: 0, 0
+  index: -1
+PNG/NOSE@2x
+  rotate: true
+  xy: 5326, 53
+  size: 209, 135
+  orig: 209, 135
+  offset: 0, 0
+  index: -1
+PNG/R_FUR@2x
+  rotate: true
+  xy: 1, 1
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+PNG/SNOUT@2x
+  rotate: false
+  xy: 2675, 16
+  size: 424, 253
+  orig: 424, 253
+  offset: 0, 0
+  index: -1
+PNG/TAIL@2x
+  rotate: false
+  xy: 4423, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PNG/TORSO_3Q@2x
+  rotate: false
+  xy: 3189, 904
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_3Q_FG@2x
+  rotate: false
+  xy: 3830, 904
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_FRONT@2x
+  rotate: false
+  xy: 4423, 203
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_FRONT_FG@2x
+  rotate: false
+  xy: 4471, 904
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_SIDE@2x
+  rotate: true
+  xy: 5064, 263
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1
+PNG/TORSO_SIDE_FG@2x
+  rotate: false
+  xy: 5112, 904
+  size: 640, 700
+  orig: 640, 700
+  offset: 0, 0
+  index: -1

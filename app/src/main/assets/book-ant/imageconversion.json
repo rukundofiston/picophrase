@@ -1,0 +1,225 @@
+[
+    {
+        "src" : "ant_endpage_en.svg",
+        "dest" : "ant_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "ant_endpage_fr.svg",
+        "dest" : "ant_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+
+    {
+        "src" : "ant.svg",
+        "dest" : "ant.png",
+        "width" : 15,
+        "height" : 16.8
+    },   
+    {
+        "src" : "ant-eat.svg",
+        "dest" : "ant-eat.png",
+        "width" : 22,
+        "height" : 16.2
+    },  
+    {
+        "src" : "ant-eat-background.svg",
+        "dest" : "ant-eat-background.png",
+        "width" : 100,
+        "height" : 100
+    },  
+    {
+        "src" : "ant-eat-main.svg",
+        "dest" : "ant-eat-main.png",
+        "width" : 31,
+        "height" : 34.4
+    },  
+    {
+        "src" : "ant-leaf.svg",
+        "dest" : "ant-leaf.png",
+        "width" : 16,
+        "height" : 15.4
+    },  
+    {
+        "src" : "ant-blow.svg",
+        "dest" : "ant-blow.png",
+        "width" : 23,
+        "height" : 15.8
+    },  
+    {
+        "src" : "ant-blow-background.svg",
+        "dest" : "ant-blow-background.png",
+        "width" : 100,
+        "height" : 100
+    },  
+    {
+        "src" : "ant-blow-main.svg",
+        "dest" : "ant-blow-main.png",
+        "width" : 77.2,
+        "height" : 26
+    },  
+    {
+        "src" : "ant-flute.svg",
+        "dest" : "ant-flute.png",
+        "width" : 20.4,
+        "height" : 13.2
+    },  
+    {
+        "src" : "ant-light-background.svg",
+        "dest" : "ant-light-background.png",
+        "width" : 102,
+        "height" : 100
+    },  
+    {
+        "src" : "ant-fire.svg",
+        "dest" : "ant-fire.png",
+        "width" : 16,
+        "height" : 17.8
+    }, 
+    {
+        "src" : "ant-light.svg",
+        "dest" : "ant-light.png",
+        "width" : 16.4 ,
+        "height": 15.7
+    }, 
+    {
+        "src" : "ant-light-main.svg",
+        "dest" : "ant-light-main.png",
+        "width" : 28 ,
+        "height" : 29.6
+    },
+    {
+        "src" : "ant-put.svg",
+        "dest" : "ant-put.png",
+        "width" : 9.4 ,
+        "height" : 16.7
+    },   {
+        "src" : "ant-put-background.svg",
+        "dest" : "ant-put-background.png",
+        "width" : 100,
+        "height" : 100 
+    },  
+    {
+        "src" : "ant-put-main.svg",
+        "dest" : "ant-put-main.png",
+        "width" : 24.5,
+        "height" : 27.9
+    },  
+    {
+        "src" : "ant-scarf.svg",
+        "dest" : "ant-scarf.png",
+        "width" : 10.4,
+        "height" : 16.5
+    },  
+    {
+        "src" : "ant-look-main.svg",
+        "dest" : "ant-look-main.png",
+        "width" : 100.3,
+        "height" : 70.4
+    },  
+    {
+        "src" : "ant-look-background.svg",
+        "dest" : "ant-look-background.png",
+        "width" : 100,
+        "height" : 100
+    },
+    {
+        "src" : "ant-look.svg",
+        "dest" : "ant-look.png",
+        "width" : 16.7,
+        "height" : 17.3
+    },
+    {
+        "src" : "ant-picture.svg",
+        "dest" : "ant-picture.png",
+        "width" : 20.1,
+        "height" : 12.7
+    },  
+    {
+        "src" : "ant-close-background.svg",
+        "dest" : "ant-close-background.png",
+        "width" : 100,
+        "height" : 100
+    },  
+    {
+        "src" : "ant-close-main.svg",
+        "dest" : "ant-close-main.png",
+        "width" : 48.3,
+        "height" : 82.2
+    },  
+    {
+        "src" : "ant-close.svg",
+        "dest" : "ant-close.png",
+        "width" : 10.9,
+        "height" : 15.7
+    },  
+    {
+        "src" : "ant-window.svg",
+        "dest" : "ant-window.png",
+        "width" : 16.9,
+        "height" : 13.8
+    },  
+    {
+        "src" : "ant-dance-background.svg",
+        "dest" : "ant-dance-background.png",
+        "width" : 100,
+        "height" : 100
+    },  
+    {
+        "src" : "ant-dance-main.svg",
+        "dest" : "ant-dance-main.png",
+        "width" : 62.4,
+        "height" : 30.8
+    },  
+    {
+        "src" : "ant-dance.svg",
+        "dest" : "ant-dance.png",
+        "width" : 20.3,
+        "height" : 19.4
+    },  
+    {
+        "src" : "ant-ghost.svg",
+        "dest" : "ant-ghost.png",
+        "width" : 22.1,
+        "height" : 15.7
+    },  
+    {
+        "src" : "ant-drive.svg",
+        "dest" : "ant-drive.png",
+        "width" : 21.7,
+        "height" : 17.7
+    },  
+    {
+        "src" : "ant-rocket.svg",
+        "dest" : "ant-rocket.png",
+        "width" : 22.3,
+        "height" : 17.2
+    },  
+    {
+        "src" : "ant-drive-background.svg",
+        "dest" : "ant-drive-background.png",
+        "width" :100 ,
+        "height" : 100
+    },
+    {
+        "src" : "ant-drive-main.svg",
+        "dest" : "ant-drive-main.png",
+        "width" : 92.4,
+        "height" : 65.2
+    },
+	{
+        "src" : "playpage-ant-ui.svg",
+        "dest" : "playpage-ant-ui.png",
+        "width" : 101,
+        "height" : 101
+    },
+		{
+        "src" : "ant_playpage_en.svg",
+        "dest" : "ant_playpage_en.png",
+        "width" : 102,
+        "height" : 101
+    }
+	
+]

@@ -1,0 +1,225 @@
+[
+    {
+        "src" : "cow_endpage_en.svg",
+        "dest" : "cow_endpage_en.png",
+        "width" : 102,
+        "height" : 102
+},
+    {
+        "src" : "cow_endpage_fr.svg",
+        "dest" : "cow_endpage_fr.png",
+        "width" : 102,
+        "height" : 102
+},
+{
+"src" : "cow-belly.svg",
+"dest" : "cow-belly.png",
+"width" : 22.786458333333336,
+"height" : 14.74609375
+},
+{
+"src" : "cow-bike.svg",
+"dest" : "cow-bike.png",
+"width" : 25.520833333333332,
+"height" : 10.9375
+},
+{
+"src" : "cow-cut-main.svg",
+"dest" : "cow-cut-main.png",
+"width" : 100.390625,
+"height" : 69.53125
+},
+{
+"src" : "cow-cut.svg",
+"dest" : "cow-cut.png",
+"width" : 25.78125,
+"height" : 16.9921875
+},
+{
+"src" : "cow-face.svg",
+"dest" : "cow-face.png",
+"width" : 22.65625,
+"height" : 15.91796875
+},
+{
+"src" : "cow-glass.svg",
+"dest" : "cow-glass.png",
+"width" : 12.369791666666668,
+"height" : 14.16015625
+},
+{
+"src" : "cow-look-background.svg",
+"dest" : "cow-look-background.png",
+"width" : 100.52083333333333,
+"height" : 100.1953125
+},
+{
+"src" : "cow-look-main.svg",
+"dest" : "cow-look-main.png",
+"width" : 91.40625,
+"height" : 31.4453125
+},
+{
+"src" : "cow-look.svg",
+"dest" : "cow-look.png",
+"width" : 16.796875,
+"height" : 17.3828125
+},
+{
+"src" : "cow-meat.svg",
+"dest" : "cow-meat.png",
+"width" : 21.744791666666664,
+"height" : 11.9140625
+},
+{
+"src" : "cow-plate.svg",
+"dest" : "cow-plate.png",
+"width" : 23.307291666666664,
+"height" : 12.59765625
+},
+{
+"src" : "cow-playpage-ui.svg",
+"dest" : "cow-playpage-ui.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+},
+{
+"src" : "cow-pull-background.svg",
+"dest" : "cow-pull-background.png",
+"width" : 100.26041666666667,
+"height" : 100.09765625
+},
+{
+"src" : "cow-pull-main.svg",
+"dest" : "cow-pull-main.png",
+"width" : 92.96875,
+"height" : 43.1640625
+},
+{
+"src" : "cow-pull.svg",
+"dest" : "cow-pull.png",
+"width" : 20.572916666666664,
+"height" : 16.89453125
+},
+{
+"src" : "cow-push-background.svg",
+"dest" : "cow-push-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cow-push-main.svg",
+"dest" : "cow-push-main.png",
+"width" : 75.91145833333334,
+"height" : 37.40234375
+},
+{
+"src" : "cow-push.svg",
+"dest" : "cow-push.png",
+"width" : 23.697916666666664,
+"height" : 14.74609375
+},
+{
+"src" : "cow-scratch-background.svg",
+"dest" : "cow-scratch-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cow-scratch-main.svg",
+"dest" : "cow-scratch-main.png",
+"width" : 30.989583333333332,
+"height" : 33.7890625
+},
+{
+"src" : "cow-scratch.svg",
+"dest" : "cow-scratch.png",
+"width" : 22.395833333333336,
+"height" : 9.86328125
+},
+{
+"src" : "cow-spill-background.svg",
+"dest" : "cow-spill-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cow-spill-main.svg",
+"dest" : "cow-spill-main.png",
+"width" : 47.65625,
+"height" : 32.12890625
+},
+{
+"src" : "cow-spill.svg",
+"dest" : "cow-spill.png",
+"width" : 22.526041666666664,
+"height" : 12.79296875
+},
+{
+"src" : "cow-suitcase.svg",
+"dest" : "cow-suitcase.png",
+"width" : 13.28125,
+"height" : 15.13671875
+},
+{
+"src" : "cow-wash-background.svg",
+"dest" : "cow-wash-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cow-wash-main.svg",
+"dest" : "cow-wash-main.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cow-wash.svg",
+"dest" : "cow-wash.png",
+"width" : 24.479166666666664,
+"height" : 16.11328125
+},
+{
+"src" : "cow-wipe-background.svg",
+"dest" : "cow-wipe-background.png",
+"width" : 100.26041666666667,
+"height" : 100.1953125
+},
+{
+"src" : "cow-wipe-main.svg",
+"dest" : "cow-wipe-main.png",
+"width" : 100.26041666666667,
+"height" : 75.1953125
+},
+{
+"src" : "cow-wipe.svg",
+"dest" : "cow-wipe.png",
+"width" : 23.307291666666664,
+"height" : 15.0390625
+},
+{
+"src" : "cow-worm.svg",
+"dest" : "cow-worm.png",
+"width" : 19.010416666666664,
+"height" : 9.1796875
+},
+{
+"src" : "cow.svg",
+"dest" : "cow.png",
+"width" : 21.875,
+"height" : 14.16015625
+},
+{
+"src" : "cow-cut-background.svg",
+"dest" : "cow-cut-background.png",
+"width" : 100.390625,
+"height" : 100.1953125
+}
+,
+{
+"src" : "cow_playpage_en.svg",
+"dest" : "cow_playpage_en.png",
+"width" : 102.08333333333334,
+"height" : 100.1953125
+}
+]

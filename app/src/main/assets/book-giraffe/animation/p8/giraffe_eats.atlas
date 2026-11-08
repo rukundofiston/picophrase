@@ -1,0 +1,272 @@
+
+giraffe_eats.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/COOKIE_JAR
+  rotate: true
+  xy: 515, 133
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+PNG/EYE_CLOSED_1
+  rotate: true
+  xy: 1926, 439
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+PNG/EYE_CLOSED_2
+  rotate: false
+  xy: 172, 20
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+PNG/G_BROW
+  rotate: false
+  xy: 1943, 459
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+PNG/G_EAR
+  rotate: false
+  xy: 775, 27
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+PNG/G_EAT_
+  rotate: true
+  xy: 0, 127
+  size: 385, 513
+  orig: 385, 513
+  offset: 0, 0
+  index: -1
+PNG/G_EAT__1
+  rotate: false
+  xy: 951, 289
+  size: 385, 223
+  orig: 385, 223
+  offset: 0, 0
+  index: -1
+PNG/G_EAT__2@2x
+  rotate: true
+  xy: 515, 282
+  size: 230, 434
+  orig: 230, 434
+  offset: 0, 0
+  index: -1
+PNG/G_EYE
+  rotate: false
+  xy: 1854, 363
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+PNG/G_HEAD
+  rotate: true
+  xy: 0, 0
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+PNG/G_IRIS
+  rotate: true
+  xy: 550, 38
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+PNG/G_L_ARM
+  rotate: true
+  xy: 1640, 460
+  size: 52, 220
+  orig: 52, 220
+  offset: 0, 0
+  index: -1
+PNG/G_L_HORN
+  rotate: true
+  xy: 775, 0
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+PNG/G_L_LEG
+  rotate: true
+  xy: 125, 38
+  size: 87, 251
+  orig: 87, 251
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_LIPS
+  rotate: false
+  xy: 852, 105
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_O
+  rotate: false
+  xy: 1472, 311
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_OWW
+  rotate: false
+  xy: 1976, 500
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SAD
+  rotate: true
+  xy: 936, 242
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE
+  rotate: false
+  xy: 852, 80
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE_2
+  rotate: false
+  xy: 1680, 337
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE_3
+  rotate: false
+  xy: 905, 110
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+PNG/G_MOUTH_SMILE_BIG
+  rotate: false
+  xy: 1428, 296
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+PNG/G_NECK
+  rotate: true
+  xy: 1338, 450
+  size: 62, 300
+  orig: 62, 300
+  offset: 0, 0
+  index: -1
+PNG/G_PUPIL
+  rotate: false
+  xy: 1885, 387
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+PNG/G_SWEAT
+  rotate: false
+  xy: 820, 36
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+PNG/G_TAIL
+  rotate: true
+  xy: 1338, 290
+  size: 32, 88
+  orig: 32, 88
+  offset: 0, 0
+  index: -1
+PNG/G_TAIL_END
+  rotate: true
+  xy: 125, 7
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+PNG/G_TONGUE
+  rotate: false
+  xy: 1943, 473
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+PNG/G_TORSO
+  rotate: false
+  xy: 735, 133
+  size: 199, 147
+  orig: 199, 147
+  offset: 0, 0
+  index: -1
+PNG/HAM
+  rotate: false
+  xy: 1854, 405
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+PNG/HAM_BITTEN
+  rotate: false
+  xy: 701, 0
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+PNG/MEAT_1
+  rotate: false
+  xy: 1338, 324
+  size: 169, 124
+  orig: 169, 124
+  offset: 0, 0
+  index: -1
+PNG/MEAT_2
+  rotate: false
+  xy: 1509, 332
+  size: 169, 116
+  orig: 169, 116
+  offset: 0, 0
+  index: -1
+PNG/MEAT_3
+  rotate: false
+  xy: 1680, 354
+  size: 172, 104
+  orig: 172, 104
+  offset: 0, 0
+  index: -1
+PNG/MEAT_4
+  rotate: false
+  xy: 378, 38
+  size: 170, 87
+  orig: 170, 87
+  offset: 0, 0
+  index: -1
+PNG/MEAT_5
+  rotate: false
+  xy: 550, 58
+  size: 149, 73
+  orig: 149, 73
+  offset: 0, 0
+  index: -1
+PNG/MEAT_6
+  rotate: false
+  xy: 701, 59
+  size: 149, 72
+  orig: 149, 72
+  offset: 0, 0
+  index: -1
+PNG/MOUTH_OPEN_LARGE
+  rotate: false
+  xy: 1862, 460
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1

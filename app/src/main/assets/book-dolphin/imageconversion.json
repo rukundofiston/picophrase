@@ -1,0 +1,176 @@
+[
+	{
+        "src" : "daulphin_playpage_en.svg",
+        "dest" : "daulphin_playpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "daulphin_endpage_fr.svg",
+        "dest" : "daulphin_endpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p1_picto_a.svg",
+        "dest" : "dolphin_p1_picto_a.png",
+        "width" : 22.7,
+        "height" : 19.4
+    },
+	{
+        "src" : "dolphin_p1_picto_b.svg",
+        "dest" : "dolphin_p1_picto_b.png",
+        "width" : 20.5,
+        "height" : 17.8
+    },
+	{
+        "src" : "dolphin_p1_picto_c.svg",
+        "dest" : "dolphin_p1_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p1_background.svg",
+        "dest" : "dolphin_p1_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p2_picto_b.svg",
+        "dest" : "dolphin_p2_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p2_picto_c.svg",
+        "dest" : "dolphin_p2_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p2_background.svg",
+        "dest" : "dolphin_p2_background.png",
+        "width" : 101,
+        "height" : 101
+    },
+	{
+        "src" : "dolphin_p3_picto_b.svg",
+        "dest" : "dolphin_p3_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p3_picto_c.svg",
+        "dest" : "dolphin_p3_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p3_background.svg",
+        "dest" : "dolphin_p3_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p4_picto_b.svg",
+        "dest" : "dolphin_p4_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p4_picto_c.svg",
+        "dest" : "dolphin_p4_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p4_background.svg",
+        "dest" : "dolphin_p4_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p5_picto_b.svg",
+        "dest" : "dolphin_p5_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p5_picto_c.svg",
+        "dest" : "dolphin_p5_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p5_background.svg",
+        "dest" : "dolphin_p5_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p6_picto_b.svg",
+        "dest" : "dolphin_p6_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p6_picto_c.svg",
+        "dest" : "dolphin_p6_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p6_background.svg",
+        "dest" : "dolphin_p6_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p7_picto_b.svg",
+        "dest" : "dolphin_p7_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p7_picto_c.svg",
+        "dest" : "dolphin_p7_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p7_background.svg",
+        "dest" : "dolphin_p7_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_p8_picto_b.svg",
+        "dest" : "dolphin_p8_picto_b.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p8_picto_c.svg",
+        "dest" : "dolphin_p8_picto_c.png",
+        "width" : 20.4,
+        "height" : 15.3
+    },
+	{
+        "src" : "dolphin_p8_background.svg",
+        "dest" : "dolphin_p8_background.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "dolphin_endpage_en.svg",
+        "dest" : "dolphin_endpage_en.png",
+        "width" : 100,
+        "height" : 100
+    },
+	{
+        "src" : "daulphin_playpage_fr.svg",
+        "dest" : "daulphin_playpage_fr.png",
+        "width" : 100,
+        "height" : 100
+    }
+]

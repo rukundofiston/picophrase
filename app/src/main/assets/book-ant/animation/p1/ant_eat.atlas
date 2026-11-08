@@ -1,0 +1,279 @@
+
+ant_eat.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ABDOMEN
+  rotate: false
+  xy: 221, 42
+  size: 177, 147
+  orig: 177, 147
+  offset: 0, 0
+  index: -1
+ANTENNAE_LEFT
+  rotate: true
+  xy: 1930, 893
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+ANT_EAT_BG_1
+  rotate: false
+  xy: 772, 642
+  size: 385, 382
+  orig: 385, 382
+  offset: 0, 0
+  index: -1
+ANT_EAT_BG_2@2x
+  rotate: false
+  xy: 0, 525
+  size: 770, 499
+  orig: 770, 499
+  offset: 0, 0
+  index: -1
+ANT_EAT_BG_3@2x
+  rotate: true
+  xy: 0, 191
+  size: 66, 370
+  orig: 66, 370
+  offset: 0, 0
+  index: -1
+ARM_LEFT
+  rotate: false
+  xy: 1665, 496
+  size: 212, 22
+  orig: 212, 22
+  offset: 0, 0
+  index: -1
+CHEST
+  rotate: false
+  xy: 1930, 652
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+EYEBROW_LEFT
+  rotate: false
+  xy: 1983, 636
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+EYE_CLOSED
+  rotate: true
+  xy: 816, 528
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+EYE_LEFT
+  rotate: false
+  xy: 789, 318
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+FLUTE
+  rotate: false
+  xy: 1019, 595
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+FORK
+  rotate: true
+  xy: 372, 228
+  size: 29, 107
+  orig: 29, 107
+  offset: 0, 0
+  index: -1
+HAND_FLUTE
+  rotate: false
+  xy: 1879, 501
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+HAND_HOLDING
+  rotate: true
+  xy: 984, 524
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+HAND_HOLDING_2
+  rotate: false
+  xy: 1930, 571
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+HAND_LEFT_1
+  rotate: false
+  xy: 772, 529
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+HAT_CLOWN
+  rotate: false
+  xy: 1930, 766
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+HEAD_FRONT
+  rotate: false
+  xy: 686, 371
+  size: 145, 152
+  orig: 145, 152
+  offset: 0, 0
+  index: -1
+HEAD_SIDE
+  rotate: false
+  xy: 833, 412
+  size: 149, 150
+  orig: 149, 150
+  offset: 0, 0
+  index: -1
+LEAF_1
+  rotate: false
+  xy: 1159, 761
+  size: 504, 263
+  orig: 504, 263
+  offset: 0, 0
+  index: -1
+LEAF_2
+  rotate: false
+  xy: 0, 259
+  size: 504, 264
+  orig: 504, 264
+  offset: 0, 0
+  index: -1
+LEAF_3
+  rotate: false
+  xy: 1159, 496
+  size: 504, 263
+  orig: 504, 263
+  offset: 0, 0
+  index: -1
+LEAF_4
+  rotate: true
+  xy: 1665, 520
+  size: 504, 263
+  orig: 504, 263
+  offset: 0, 0
+  index: -1
+LEAF_PIECE
+  rotate: false
+  xy: 0, 0
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+LEAF_PIECE_2
+  rotate: false
+  xy: 0, 70
+  size: 219, 119
+  orig: 219, 119
+  offset: 0, 0
+  index: -1
+LEG_LEFT
+  rotate: true
+  xy: 772, 564
+  size: 76, 245
+  orig: 76, 245
+  offset: 0, 0
+  index: -1
+MATCH_STICK
+  rotate: true
+  xy: 506, 263
+  size: 12, 72
+  orig: 12, 72
+  offset: 0, 0
+  index: -1
+MONEY
+  rotate: false
+  xy: 0, 27
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+MOUTH_EATS
+  rotate: false
+  xy: 1930, 600
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+MOUTH_O
+  rotate: false
+  xy: 2035, 875
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_1
+  rotate: true
+  xy: 372, 191
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_2
+  rotate: true
+  xy: 481, 229
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_3
+  rotate: false
+  xy: 833, 377
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+MOUTH_SMILE_SIDE
+  rotate: false
+  xy: 789, 306
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+MOUTH_TONGUE
+  rotate: false
+  xy: 63, 0
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+NET
+  rotate: false
+  xy: 506, 277
+  size: 178, 246
+  orig: 178, 246
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: true
+  xy: 1149, 619
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+PUPIL_LEFT
+  rotate: true
+  xy: 1019, 566
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+SCARF_1
+  rotate: false
+  xy: 686, 283
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
