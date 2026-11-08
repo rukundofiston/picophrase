@@ -18,12 +18,6 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    packagingOptions {
-        jniLibs {
-            useLegacyPackaging = true
-        }
-    }
-
     buildTypes {
         release {
             minifyEnabled false
@@ -54,7 +48,6 @@ android {
 
     sourceSets {
         main {
-            jniLibs.srcDirs = []
             java {
                 exclude 'b/c/**'
                 exclude 'c/**'
