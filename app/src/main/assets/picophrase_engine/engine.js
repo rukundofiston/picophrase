@@ -558,6 +558,51 @@
         function updateCarouselItems() {
             carouselLayer.innerHTML = "";
             const total = books.length;
+
+            if (total === 1) {
+                const item = books[0];
+                const titlePng = BookSettings.isEnglish() ? item.title_icon_english : item.title_icon_french;
+                const resolvedIcon = resolveAssetImage(titlePng, item.book_folder);
+                const unlocked = NativeBridge.isProductPurchased(item.book_folder) ||
+                                 NativeBridge.isProductPurchased(item.iap_name);
+
+                const wrapper = document.createElement("div");
+                wrapper.className = "book-carousel-item";
+                wrapper.style.left = (EngineState.buyInfo.TitleIconXMiddle || 50) + "%";
+                wrapper.style.top = (EngineState.buyInfo.TitleIconYPercent || 60) + "%";
+                wrapper.style.width = (resolvedIcon.width * 1.0) + "%";
+                wrapper.style.height = (resolvedIcon.height * 1.0) + "%";
+                wrapper.style.zIndex = "10";
+                wrapper.style.pointerEvents = "auto";
+
+                const coverImg = document.createElement("img");
+                coverImg.className = "book-cover-img";
+                coverImg.src = resolvedIcon.src;
+                wrapper.appendChild(coverImg);
+
+                if (!unlocked) {
+                    const lockResolved = resolveAssetImage(EngineState.buyInfo.TitleLockIcon || "lock-ui.png");
+                    const lockImg = document.createElement("img");
+                    lockImg.className = "book-lock-badge";
+                    lockImg.src = lockResolved.src;
+                    wrapper.appendChild(lockImg);
+                }
+
+                wrapper.addEventListener("click", function (e) {
+                    e.stopPropagation();
+                    if (unlocked) {
+                        startBook(item.book_folder);
+                    } else {
+                        showParentalPinGate(function () {
+                            renderBuyTriScene(item);
+                        });
+                    }
+                });
+
+                carouselLayer.appendChild(wrapper);
+                return;
+            }
+
             const leftIdx = (EngineState.carouselIndex - 1 + total) % total;
             const midIdx = (EngineState.carouselIndex + total) % total;
             const rightIdx = (EngineState.carouselIndex + 1) % total;
@@ -626,18 +671,20 @@
 
         updateCarouselItems();
 
-        // 5. Flèches gauche et droite du carrousel
-        const leftArrow = createDbMenuButton("home_page_left_arrow", function () {
-            EngineState.carouselIndex = (EngineState.carouselIndex - 1 + books.length) % books.length;
-            updateCarouselItems();
-        }, { flipX: true });
-        container.appendChild(leftArrow);
+        // 5. Flèches gauche et droite du carrousel (uniquement s'il y a plus d'un livre)
+        if (books.length > 1) {
+            const leftArrow = createDbMenuButton("home_page_left_arrow", function () {
+                EngineState.carouselIndex = (EngineState.carouselIndex - 1 + books.length) % books.length;
+                updateCarouselItems();
+            }, { flipX: true });
+            container.appendChild(leftArrow);
 
-        const rightArrow = createDbMenuButton("home_page_right_arrow", function () {
-            EngineState.carouselIndex = (EngineState.carouselIndex + 1) % books.length;
-            updateCarouselItems();
-        });
-        container.appendChild(rightArrow);
+            const rightArrow = createDbMenuButton("home_page_right_arrow", function () {
+                EngineState.carouselIndex = (EngineState.carouselIndex + 1) % books.length;
+                updateCarouselItems();
+            });
+            container.appendChild(rightArrow);
+        }
     }
 
     // ========================================================================
@@ -1575,32 +1622,8 @@
             renderCurrentBookPage();
         }));
 
-        // Image du coffret papier en bas (protégée par PinLayer comme dans BookEndPageScene::pinLayerPassed)
-        const booksetFile = BookSettings.isEnglish()
-            ? (coverMeta.bookset_en || "english_book_set.jpg")
-            : (coverMeta.bookset || "panda_book_set.jpg");
-        const resolvedBookset = resolveAssetImage(booksetFile, BookSettings.activeBookFolder);
-        if (resolvedBookset && resolvedBookset.src) {
-            const booksetBtn = document.createElement("img");
-            booksetBtn.className = "cc-btn";
-            booksetBtn.src = resolvedBookset.src;
-            booksetBtn.style.left = (coverMeta.bookset_x || 50) + "%";
-            booksetBtn.style.top = (coverMeta.bookset_y || 82.25) + "%";
-            booksetBtn.style.width = "38%";
-            booksetBtn.style.height = "22%";
-            booksetBtn.addEventListener("click", function () {
-                showParentalPinGate(function () {
-                    if (BookSettings.language === eLanguage.FRENCH) {
-                        NativeBridge.openExternalUrl("https://www.symbolicone.fr/boutique");
-                    } else if (BookSettings.language === eLanguage.ENGLISH) {
-                        NativeBridge.openExternalUrl("https://www.amazon.ca/-/fr/Caroline-Martin/dp/2924410193/ref=sr_1_15");
-                    } else {
-                        NativeBridge.openExternalUrl("https://www.symbolicone.com/boutique-canada");
-                    }
-                });
-            });
-            container.appendChild(booksetBtn);
-        }
+        // Note: La photo publicitaire du coffret papier imprimé (bookset) et son lien
+        // vers la boutique externe ont été retirés pour cette version de l'application.
     }
 
     // ========================================================================
