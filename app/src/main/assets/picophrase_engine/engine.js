@@ -72,6 +72,19 @@
             }
         },
 
+        getAudioDuration(relativePath, bookFolder) {
+            if (!relativePath) return 0;
+            const cleanPath = relativePath.replace(/\\/g, "/");
+            if (window.PicoNative && typeof window.PicoNative.getAudioDuration === "function") {
+                try {
+                    return window.PicoNative.getAudioDuration(cleanPath, bookFolder || "");
+                } catch (e) {
+                    return 0;
+                }
+            }
+            return 0;
+        },
+
         openExternalUrl(url) {
             if (window.PicoNative && typeof window.PicoNative.openExternalUrl === "function") {
                 window.PicoNative.openExternalUrl(url);
@@ -363,108 +376,12 @@
     }
 
     // ========================================================================
-    // 5. PinLayer & FullScreenPinLock (Contrôle Parental 3 Chiffres)
+    // 5. PinLayer / Contrôle Parental (Désactivé : accès direct sans popup)
     // ========================================================================
-    /**
-     * Ouvre le verrou parental demandant de toucher 3 chiffres aléatoires distincts
-     * dans l'ordre croissant (PinLayer::reset / PinLayer::pressed).
-     */
     function showParentalPinGate(onSuccessCallback) {
-        const overlay = document.getElementById("pin-overlay-container");
-        overlay.innerHTML = "";
-        overlay.classList.remove("hidden");
-
-        // Fermer si on clique en dehors de la barre PIN
-        overlay.onclick = function () {
-            overlay.classList.add("hidden");
-            overlay.innerHTML = "";
-        };
-
-        // Bandeau d'arrière-plan en haut (fond bleu foncé pour contraster avec le texte blanc)
-        const barBg = document.createElement("div");
-        barBg.style.position = "absolute";
-        barBg.style.top = "0";
-        barBg.style.left = "0";
-        barBg.style.width = "100%";
-        barBg.style.height = "26%";
-        barBg.style.background = "linear-gradient(180deg, #093766 0%, #0d4a8a 100%)";
-        barBg.style.boxShadow = "0 8px 24px rgba(0, 0, 0, 0.4)";
-        barBg.style.borderBottom = "3px solid #1fa9ff";
-        barBg.onclick = function (e) {
-            e.stopPropagation();
-        };
-        overlay.appendChild(barBg);
-
-        // Instruction ("Pour continuer, appuyer sur les chiffres en ordre croissant")
-        const instrImg = createDbMenuButton("pin_instructions", null, { x: 34, y: 13, height: 8 });
-        barBg.appendChild(instrImg);
-
-        // Message d'erreur ("pin_failed") caché par défaut
-        const failedImg = createDbMenuButton("pin_failed", null, { x: 34, y: 13, height: 8 });
-        failedImg.classList.add("hidden");
-        barBg.appendChild(failedImg);
-
-        // Bouton fermer (X)
-        const closeBtn = createDbMenuButton("red-x-ui", function () {
-            overlay.classList.add("hidden");
-            overlay.innerHTML = "";
-        }, { x: 95, y: 13, width: 6, height: 8 });
-        barBg.appendChild(closeBtn);
-
-        // Tirage de 3 chiffres distincts entre 1 et 9
-        const pool = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-        for (let i = pool.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            const tmp = pool[i];
-            pool[i] = pool[j];
-            pool[j] = tmp;
+        if (typeof onSuccessCallback === "function") {
+            onSuccessCallback();
         }
-        const picked = [pool[0], pool[1], pool[2]];
-        const sortedExpected = picked.slice().sort(function (a, b) { return a - b; });
-        let stepIndex = 0;
-
-        const xPositions = [72, 80, 88];
-        picked.forEach(function (num, idx) {
-            const pinKey = "pin_" + num;
-            const entry = EngineState.imageDb[pinKey];
-            const normalResolved = resolveAssetImage(entry.french, BookSettings.activeBookFolder);
-            const selectedResolved = resolveAssetImage(entry.french_selected, BookSettings.activeBookFolder);
-
-            const btn = document.createElement("img");
-            btn.className = "cc-btn";
-            btn.src = normalResolved.src;
-            btn.style.left = xPositions[idx] + "%";
-            btn.style.top = "13%";
-            btn.style.width = (normalResolved.width || 8) + "%";
-            btn.style.height = (normalResolved.height || 10) + "%";
-
-            let alreadyClicked = false;
-            btn.addEventListener("click", function (e) {
-                e.stopPropagation();
-                if (alreadyClicked) return;
-
-                if (num === sortedExpected[stepIndex]) {
-                    alreadyClicked = true;
-                    btn.src = selectedResolved.src;
-                    stepIndex++;
-                    if (stepIndex === 3) {
-                        overlay.classList.add("hidden");
-                        overlay.innerHTML = "";
-                        if (onSuccessCallback) onSuccessCallback();
-                    }
-                } else {
-                    // Mauvais ordre : affiche pin_failed puis réinitialise le défi
-                    instrImg.classList.add("hidden");
-                    failedImg.classList.remove("hidden");
-                    const hideDelay = (EngineState.globalParams.pinFailedHideTime || 1.0) * 1000;
-                    setTimeout(function () {
-                        showParentalPinGate(onSuccessCallback);
-                    }, hideDelay);
-                }
-            });
-
-            barBg.appendChild(btn);
-        });
     }
 
     // ========================================================================
@@ -526,22 +443,18 @@
         const choisisText = createDbMenuButton("home_page_choisis_text", null);
         container.appendChild(choisisText);
 
-        // 2. Bouton Réglages en haut à droite (protégé par PinLayer)
+        // 2. Bouton Réglages en haut à droite (accès direct sans popup)
         const settingsBtn = createDbMenuButton("home_page_settings", function () {
-            showParentalPinGate(function () {
-                renderSettingScene("language");
-            });
+            renderSettingScene("language");
         });
         container.appendChild(settingsBtn);
 
-        // 3. Logo Symbolicone en bas (protégé par PinLayer)
+        // 3. Logo Symbolicone en bas (accès direct)
         const symboliconeBtn = createDbMenuButton("home_page_symbolicone_logo", function () {
-            showParentalPinGate(function () {
-                const url = BookSettings.isEnglish()
-                    ? "https://www.symbolicone.com/?lang=en"
-                    : "https://www.symbolicone.com";
-                NativeBridge.openExternalUrl(url);
-            });
+            const url = BookSettings.isEnglish()
+                ? "https://www.symbolicone.com/?lang=en"
+                : "https://www.symbolicone.com";
+            NativeBridge.openExternalUrl(url);
         });
         container.appendChild(symboliconeBtn);
 
@@ -593,9 +506,7 @@
                     if (unlocked) {
                         startBook(item.book_folder);
                     } else {
-                        showParentalPinGate(function () {
-                            renderBuyTriScene(item);
-                        });
+                        renderBuyTriScene(item);
                     }
                 });
 
@@ -659,9 +570,7 @@
                     if (unlocked) {
                         startBook(item.book_folder);
                     } else {
-                        showParentalPinGate(function () {
-                            renderBuyTriScene(item);
-                        });
+                        renderBuyTriScene(item);
                     }
                 });
 
@@ -1457,6 +1366,18 @@
          * - Si objIndex == hotZoneIndex : valide le dépôt, joue l'audio du mot et zoome le texte.
          * - Sinon : renvoie la carte à sa position de départ (doFailInHotZone).
          */
+        function getWordDurationMs(wordIndex) {
+            const file = audioFiles[wordIndex];
+            const nativeDur = NativeBridge.getAudioDuration(file, bookFolder);
+            if (nativeDur && nativeDur > 300) {
+                // Durée réelle de l'audio mesurée + 300ms de respiration naturelle
+                return nativeDur + 300;
+            }
+            // Fallback sécurisé : au moins 2600ms pour éviter tout chevauchement
+            const jsonDelay = Number(delays[wordIndex] || 1.8) * 1000;
+            return Math.max(jsonDelay, 2600);
+        }
+
         function handleObjectInHotZone(card, objIndex, hotZoneIndex, homeXPct, homeYPct) {
             if (objIndex !== hotZoneIndex) {
                 card.classList.add("returning");
@@ -1482,7 +1403,8 @@
 
             // Joue l'audio du mot déposé et zoome l'étiquette
             NativeBridge.playAudio(audioFiles[objIndex]);
-            zoomTextElement(topLabelElements[objIndex], delays[objIndex] * 1000);
+            const wordDur = getWordDurationMs(objIndex);
+            zoomTextElement(topLabelElements[objIndex], wordDur);
 
             card.addEventListener("click", function () {
                 NativeBridge.playAudio(audioFiles[objIndex]);
@@ -1492,7 +1414,8 @@
             // Si les 3 éléments A, B, C sont placés, lance doCompleteSentence()
             if (placed[0] && placed[1] && placed[2] && !sequenceCompleted) {
                 sequenceCompleted = true;
-                const initialWordWait = Math.max(delays[objIndex] * 1000, 1100);
+                // Attend impérativement la FIN de la prononciation du mot qui vient d'être déposé (+ 400ms de pause)
+                const initialWordWait = wordDur + 400;
                 scheduleTimer(function () {
                     doCompleteSentence();
                 }, initialWordWait);
@@ -1504,28 +1427,35 @@
          * Relit toute la phrase dans l'ordre (Audio A -> Audio B -> Audio C -> shiny-ding -> Animation).
          */
         function doCompleteSentence() {
+            // Coupe tout son antérieur pour éviter tout résidu sonore
+            NativeBridge.stopAllAudio();
+
+            const durA = getWordDurationMs(0);
+            const durB = getWordDurationMs(1);
+            const durC = getWordDurationMs(2);
+
             let t = 0;
 
-            // Mot A
+            // Mot A (Sujet)
             scheduleTimer(function () {
                 NativeBridge.playAudio(audioFiles[0]);
-                zoomTextElement(topLabelElements[0], delays[0] * 950);
+                zoomTextElement(topLabelElements[0], durA - 100);
             }, t);
-            t += delays[0] * 1000;
+            t += durA;
 
-            // Mot B
+            // Mot B (Verbe)
             scheduleTimer(function () {
                 NativeBridge.playAudio(audioFiles[1]);
-                zoomTextElement(topLabelElements[1], delays[1] * 950);
+                zoomTextElement(topLabelElements[1], durB - 100);
             }, t);
-            t += delays[1] * 1000;
+            t += durB;
 
-            // Mot C
+            // Mot C (Complément)
             scheduleTimer(function () {
                 NativeBridge.playAudio(audioFiles[2]);
-                zoomTextElement(topLabelElements[2], delays[2] * 950);
+                zoomTextElement(topLabelElements[2], durC - 100);
             }, t);
-            t += delays[2] * 1000;
+            t += durC;
 
             // Son "shiny-ding.mp3"
             const dingDelay = (EngineState.globalParams.shinyDingDelay || 0.2) * 1000;
@@ -1571,15 +1501,9 @@
             }
         }
 
-        function showNextPageButton(requirePin) {
+        function showNextPageButton() {
             const nextArrow = createDbMenuButton("home_page_right_arrow", function () {
-                if (requirePin) {
-                    showParentalPinGate(function () {
-                        gotoNextBookPage();
-                    });
-                } else {
-                    gotoNextBookPage();
-                }
+                gotoNextBookPage();
             }, { x: 93, y: 52, width: 9, height: 9 });
             container.appendChild(nextArrow);
         }

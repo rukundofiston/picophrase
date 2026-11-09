@@ -62,7 +62,15 @@ public class AppActivity extends Activity {
         bridge = new PicoPhraseBridge(this, webView);
         webView.addJavascriptInterface(bridge, "PicoNative");
         webView.setWebViewClient(new WebViewClient());
-        webView.setWebChromeClient(new WebChromeClient());
+        webView.setWebChromeClient(new WebChromeClient() {
+            @Override
+            public boolean onConsoleMessage(android.webkit.ConsoleMessage consoleMessage) {
+                android.util.Log.d("PicoJS", consoleMessage.message() + " -- [Ligne "
+                        + consoleMessage.lineNumber() + " de "
+                        + consoleMessage.sourceId() + "]");
+                return true;
+            }
+        });
 
         setContentView(webView);
         webView.loadUrl("file:///android_asset/picophrase_engine/index.html");

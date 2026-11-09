@@ -7,6 +7,7 @@ import android.content.SharedPreferences;
 import android.content.res.AssetFileDescriptor;
 import android.content.res.AssetManager;
 import android.media.MediaPlayer;
+import android.media.MediaMetadataRetriever;
 import android.net.Uri;
 import android.util.Log;
 import android.webkit.JavascriptInterface;
@@ -194,6 +195,27 @@ public class PicoPhraseBridge {
         }
     }
 
+    /**
+     * Retourne la durée exacte en millisecondes d'une piste audio des assets.
+     */
+    @JavascriptInterface
+    public int getAudioDuration(String rawPath, String bookFolder) {
+        String resolved = resolveAudioAssetPath(rawPath, bookFolder);
+        if (resolved == null) return 0;
+        try (AssetFileDescriptor afd = activity.getAssets().openFd(resolved)) {
+            MediaMetadataRetriever mmr = new MediaMetadataRetriever();
+            mmr.setDataSource(afd.getFileDescriptor(), afd.getStartOffset(), afd.getLength());
+            String durStr = mmr.extractMetadata(MediaMetadataRetriever.METADATA_KEY_DURATION);
+            mmr.release();
+            if (durStr != null) {
+                return Integer.parseInt(durStr);
+            }
+        } catch (Exception e) {
+            Log.w(TAG, "getAudioDuration failed for " + resolved, e);
+        }
+        return 0;
+    }
+
     @JavascriptInterface
     public void openExternalUrl(String url) {
         if (url == null || url.isEmpty()) return;
@@ -219,22 +241,29 @@ public class PicoPhraseBridge {
     private String resolveAudioAssetPath(String rawPath, String bookFolder) {
         if (rawPath == null || rawPath.isEmpty()) return null;
         String clean = normalizeAssetPath(rawPath);
-        if (!clean.endsWith(".mp3")) {
-            clean = clean + ".mp3";
+
+        List<String> variants = new ArrayList<>();
+        if (clean.endsWith(".mp3") || clean.endsWith(".aac")) {
+            variants.add(clean);
+        } else {
+            variants.add(clean + ".mp3");
+            variants.add(clean + ".aac");
         }
 
         List<String> candidates = new ArrayList<>();
-        candidates.add(clean);
-        if (bookFolder != null && !bookFolder.isEmpty() && !clean.startsWith(bookFolder + "/")) {
-            candidates.add(bookFolder + "/" + clean);
+        for (String v : variants) {
+            candidates.add(v);
+            if (bookFolder != null && !bookFolder.isEmpty() && !v.startsWith(bookFolder + "/")) {
+                candidates.add(bookFolder + "/" + v);
+            }
+            if ("shiny-ding1.mp3".equals(v) || "shiny-ding.mp3".equals(v)) {
+                candidates.add("book-hurt/shiny-ding.mp3");
+            }
+            if ("hurt.mp3".equals(v)) {
+                candidates.add("book-hurt/hurt_p1_b_fr_eu.mp3");
+            }
+            candidates.add("common/" + v);
         }
-        if ("shiny-ding1.mp3".equals(clean) || "shiny-ding.mp3".equals(clean)) {
-            candidates.add("book-hurt/shiny-ding.mp3");
-        }
-        if ("hurt.mp3".equals(clean)) {
-            candidates.add("book-hurt/hurt_p1_b_fr_eu.mp3");
-        }
-        candidates.add("common/" + clean);
 
         for (String candidate : candidates) {
             if (assetExists(candidate)) {
