@@ -1711,6 +1711,13 @@
     function bootPicoPhraseEngine() {
         BookSettings.language = NativeBridge.getLanguage();
         loadCoreDatabases();
+
+        // Option 1 : Choix d'un livre de départ aléatoire à l'ouverture de l'application
+        const homeBooks = getHomeBooks();
+        if (homeBooks.length > 0) {
+            EngineState.carouselIndex = Math.floor(Math.random() * homeBooks.length);
+        }
+
         renderHomePageScene();
     }
 
