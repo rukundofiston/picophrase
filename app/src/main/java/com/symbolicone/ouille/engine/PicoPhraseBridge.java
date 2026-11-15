@@ -92,21 +92,22 @@ public class PicoPhraseBridge {
     public int getLanguage() {
         SharedPreferences prefs = activity.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE);
         if (prefs.contains("lang")) {
-            return prefs.getInt("lang", 2);
+            int saved = prefs.getInt("lang", 0);
+            if (saved == 1) { // L'anglais n'existe plus dans cette version
+                saved = 0; // Redirection vers le Français
+                prefs.edit().putInt("lang", 0).apply();
+            }
+            return saved;
         }
-        // Premier démarrage : auto-détection selon la locale de l'appareil
+        // Premier démarrage : auto-détection Québec ou France
         java.util.Locale locale = java.util.Locale.getDefault();
         String lang = locale.getLanguage();
         String country = locale.getCountry();
         int detected;
-        if ("fr".equalsIgnoreCase(lang)) {
-            if ("CA".equalsIgnoreCase(country)) {
-                detected = 2; // eLanguage.QUEBEC
-            } else {
-                detected = 0; // eLanguage.FRENCH (France)
-            }
+        if ("fr".equalsIgnoreCase(lang) && "CA".equalsIgnoreCase(country)) {
+            detected = 2; // eLanguage.QUEBEC
         } else {
-            detected = 1; // eLanguage.ENGLISH
+            detected = 0; // eLanguage.FRENCH (France)
         }
         prefs.edit().putInt("lang", detected).apply();
         return detected;
