@@ -996,7 +996,7 @@
             return b.iap_name === item["2ndTriItem"];
         }) || item;
         const bundleAll = (EngineState.buyInfo.items || []).find(function (b) {
-            return b.iap_name === "com.symbolicone.ouille.all22";
+            return b.iap_name === "com.pictophrase.app.all22";
         }) || item;
 
         const offers = [

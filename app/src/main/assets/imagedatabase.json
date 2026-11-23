@@ -1,595 +1,574 @@
 {
-    "home_icon" : {
-        "english" : "home_icon_unselected.png",
-        "french" : "home_icon_unselected.png",
-        "english_selected" : "home_icon_selected.png",
-        "french_selected" : "home_icon_selected.png",        
-        "x" : 10,
-        "y" : 10 
+    "home_icon": {
+        "english": "home_icon_unselected.png",
+        "french": "home_icon_unselected.png",
+        "english_selected": "home_icon_selected.png",
+        "french_selected": "home_icon_selected.png",
+        "x": 10,
+        "y": 10
     },
-    "parent_info" : {
-        "english" : "parent_info_selected.png",
-        "french" : "parent_info_unselected.png",
-        "english_selected" : "parent_info_selected.png",
-        "french_selected" : "parent_info_unselected.png",
-        "x" : 85,
-        "y" :12 
+    "parent_info": {
+        "english": "parent_info_selected.png",
+        "french": "parent_info_unselected.png",
+        "english_selected": "parent_info_selected.png",
+        "french_selected": "parent_info_unselected.png",
+        "x": 85,
+        "y": 12
     },
-    "cover_options" : {
-        "english" : "options_button.png",
-        "french" : "options_button.png",
-        "english_selected" : "options_button.png",
-        "french_selected" : "options_button.png",
-        "x" : 25,
-        "y" : 90
+    "cover_options": {
+        "english": "options_button.png",
+        "french": "options_button.png",
+        "english_selected": "options_button.png",
+        "french_selected": "options_button.png",
+        "x": 25,
+        "y": 90
     },
-    "cover_play" : {
-        "english" : "play_green_unselected.png",
-        "french" : "play_green_unselected.png",
-        "english_selected" : "play_green_selected.png",
-        "french_selected" : "play_green_selected.png",
-        "x" : 85,
-        "y" : 90 
+    "cover_play": {
+        "english": "play_green_unselected.png",
+        "french": "play_green_unselected.png",
+        "english_selected": "play_green_selected.png",
+        "french_selected": "play_green_selected.png",
+        "x": 85,
+        "y": 90
     },
-    "back_arrow" : {
-        "english" : "back_arrow_unselected.png",
-        "french" : "back_arrow_unselected.png",
-        "english_selected" : "back_arrow_selected.png",
-        "french_selected" : "back_arrow_selected.png",
-        "width" : 10,
-        "height" : 8,
-        "x" : 6,
-        "y" : 6  
+    "back_arrow": {
+        "english": "back_arrow_unselected.png",
+        "french": "back_arrow_unselected.png",
+        "english_selected": "back_arrow_selected.png",
+        "french_selected": "back_arrow_selected.png",
+        "width": 10,
+        "height": 8,
+        "x": 6,
+        "y": 6
     },
-    "options_phrases" : {
-        "english" : "option_sentence_builder_off_en.png",
-        "french" : "options_button_phrases_unselected_fr.png",
-        "english_selected" : "option_sentence_builder_on_en.png",
-        "french_selected" : "options_button_phrases_selected_fr.png",
-        "width" : 28,
-        "height" : 10,
-        "x" : 37,
-        "y" : 34 
+    "options_phrases": {
+        "english": "option_sentence_builder_off_en.png",
+        "french": "options_button_phrases_unselected_fr.png",
+        "english_selected": "option_sentence_builder_on_en.png",
+        "french_selected": "options_button_phrases_selected_fr.png",
+        "width": 28,
+        "height": 10,
+        "x": 37,
+        "y": 34
     },
-    "options_written" : {
-        "english" : "option_written_language_off_en.png",
-        "french" : "options_button_written_unselected_fr.png",
-        "english_selected" : "option_written_language_on_en.png",
-        "french_selected" : "options_button_written_selected_fr.png",
-        "width" : 28,
-        "height" : 10,
-        "x" : 67,
-        "y" : 34  
+    "options_written": {
+        "english": "option_written_language_off_en.png",
+        "french": "options_button_written_unselected_fr.png",
+        "english_selected": "option_written_language_on_en.png",
+        "french_selected": "options_button_written_selected_fr.png",
+        "width": 28,
+        "height": 10,
+        "x": 67,
+        "y": 34
     },
-    "options_level1" : {
-        "english" : "options_button_level_one_unselected_fr.png",
-        "french" : "options_button_level_one_unselected_fr.png",
-        "english_selected" : "options_button_level_one_selected_fr.png",
-        "french_selected" : "options_button_level_one_selected_fr.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 32,
-        "y" : 51  
+    "options_level1": {
+        "english": "options_button_level_one_unselected_fr.png",
+        "french": "options_button_level_one_unselected_fr.png",
+        "english_selected": "options_button_level_one_selected_fr.png",
+        "french_selected": "options_button_level_one_selected_fr.png",
+        "width": 18,
+        "height": 10,
+        "x": 32,
+        "y": 51
     },
-    "options_level2" : {
-        "english" : "options_button_level_two_unselected_fr.png",
-        "french" : "options_button_level_two_unselected_fr.png",
-        "english_selected" : "options_button_level_two_selected_fr.png",
-        "french_selected" : "options_button_level_two_selected_fr.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 51,
-        "y" : 51   
+    "options_level2": {
+        "english": "options_button_level_two_unselected_fr.png",
+        "french": "options_button_level_two_unselected_fr.png",
+        "english_selected": "options_button_level_two_selected_fr.png",
+        "french_selected": "options_button_level_two_selected_fr.png",
+        "width": 18,
+        "height": 10,
+        "x": 51,
+        "y": 51
     },
-    "options_level3" : {
-        "english" : "options_button_level_three_unselected_fr.png",
-        "french" : "options_button_level_three_unselected_fr.png",
-        "english_selected" : "options_button_level_three_selected_fr.png",
-        "french_selected" : "options_button_level_three_selected_fr.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 70,
-        "y" : 51   
+    "options_level3": {
+        "english": "options_button_level_three_unselected_fr.png",
+        "french": "options_button_level_three_unselected_fr.png",
+        "english_selected": "options_button_level_three_selected_fr.png",
+        "french_selected": "options_button_level_three_selected_fr.png",
+        "width": 18,
+        "height": 10,
+        "x": 70,
+        "y": 51
     },
-    "options_level4" : {
-        "english" : "PG_buying_four_unselected.png",
-        "french" : "PG_buying_four_unselected.png",
-        "english_selected" : "options_button_level_four_selected_fr.png",
-        "french_selected" : "options_button_level_four_selected_fr.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 70,
-        "y" : 51
+    "options_level4": {
+        "english": "PG_buying_four_unselected.png",
+        "french": "PG_buying_four_unselected.png",
+        "english_selected": "options_button_level_four_selected_fr.png",
+        "french_selected": "options_button_level_four_selected_fr.png",
+        "width": 18,
+        "height": 10,
+        "x": 70,
+        "y": 51
     },
-    "options_infant" : {
-        "english" : "options_player_infant_unselected_fr.png",
-        "french" : "options_player_infant_unselected_fr.png",
-        "english_selected" : "options_player_infant_selected_fr.png",
-        "french_selected" : "options_player_infant_selected_fr.png",
-        "width" : 28,
-        "height" : 10 ,
-        "x" : 37,
-        "y" : 68   
+    "options_infant": {
+        "english": "options_player_infant_unselected_fr.png",
+        "french": "options_player_infant_unselected_fr.png",
+        "english_selected": "options_player_infant_selected_fr.png",
+        "french_selected": "options_player_infant_selected_fr.png",
+        "width": 28,
+        "height": 10,
+        "x": 37,
+        "y": 68
     },
-    "options_infant_adult" : {
-        "english" : "options_player_infant_adult_unselected_fr.png",
-        "french" : "options_player_infant_adult_unselected_fr.png",
-        "english_selected" : "options_player_infant_adult_selected_fr.png",
-        "french_selected" : "options_player_infant_adult_selected_fr.png",
-        "width" : 28,
-        "height" : 10,
-        "x" : 66,
-        "y" : 68    
+    "options_infant_adult": {
+        "english": "options_player_infant_adult_unselected_fr.png",
+        "french": "options_player_infant_adult_unselected_fr.png",
+        "english_selected": "options_player_infant_adult_selected_fr.png",
+        "french_selected": "options_player_infant_adult_selected_fr.png",
+        "width": 28,
+        "height": 10,
+        "x": 66,
+        "y": 68
     },
-        
-    "options_automatic" : {
-        "english" : "automatic_off.png",
-        "french" : "automatique_off.png",
-        "english_selected" : "automatic_on.png",
-        "french_selected" : "automatique_on.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 32,
-        "y" : 68  
+    "options_automatic": {
+        "english": "automatic_off.png",
+        "french": "automatique_off.png",
+        "english_selected": "automatic_on.png",
+        "french_selected": "automatique_on.png",
+        "width": 18,
+        "height": 10,
+        "x": 32,
+        "y": 68
     },
-    "options_manually" : {
-        "english" : "manually_off.png",
-        "french" : "manuel_off.png",
-        "english_selected" : "manually_on.png",
-        "french_selected" : "manuel_on.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 51,
-        "y" : 68    
+    "options_manually": {
+        "english": "manually_off.png",
+        "french": "manuel_off.png",
+        "english_selected": "manually_on.png",
+        "french_selected": "manuel_on.png",
+        "width": 18,
+        "height": 10,
+        "x": 51,
+        "y": 68
     },
-    "options_code" : {
-        "english" : "code_required_off.png",
-        "french" : "code_requis_off.png",
-        "english_selected" : "code_required_on.png",
-        "french_selected" : "code_requis_on.png",
-        "width" : 18,
-        "height" : 10,
-        "x" : 70,
-        "y" : 68    
+    "options_code": {
+        "english": "code_required_off.png",
+        "french": "code_requis_off.png",
+        "english_selected": "code_required_on.png",
+        "french_selected": "code_requis_on.png",
+        "width": 18,
+        "height": 10,
+        "x": 70,
+        "y": 68
     },
-    "options_play" : {
-        "english" : "play_green_unselected.png",
-        "french" : "play_green_unselected.png",
-        "english_selected" : "play_green_selected.png",
-        "french_selected" : "play_green_selected.png",
-        "width" : 20,
-        "height" : 20,
-        "x" : 50, 
-        "y" : 84
+    "options_play": {
+        "english": "play_green_unselected.png",
+        "french": "play_green_unselected.png",
+        "english_selected": "play_green_selected.png",
+        "french_selected": "play_green_selected.png",
+        "width": 20,
+        "height": 20,
+        "x": 50,
+        "y": 84
     },
-    "book_restart" : {
-        "english" : "end_replay_button_unselected.png",
-        "french" : "end_replay_button_unselected.png",
-        "english_selected" : "end_replay_button_selected.png",
-        "french_selected" : "end_replay_button_selected.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 85, 
-        "y" : 60
+    "book_restart": {
+        "english": "end_replay_button_unselected.png",
+        "french": "end_replay_button_unselected.png",
+        "english_selected": "end_replay_button_selected.png",
+        "french_selected": "end_replay_button_selected.png",
+        "width": 24,
+        "height": 20,
+        "x": 85,
+        "y": 60
     },
-    "settings_orthopicto_icon" : {
-        "english" : "icone-orthopicto-on-ui.png",
-        "french" : "icone-orthopicto-on-ui.png",
-        "english_selected" : "icone-orthopicto-off-ui.png",
-        "french_selected" : "icone-orthopicto-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 14, 
-        "y" : 22
+    "settings_orthopicto_icon": {
+        "english": "icone-orthopicto-on-ui.png",
+        "french": "icone-orthopicto-on-ui.png",
+        "english_selected": "icone-orthopicto-off-ui.png",
+        "french_selected": "icone-orthopicto-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 14,
+        "y": 22
     },
-    "settings_information_icon" : {
-        "english" : "icone-information-on-ui.png",
-        "french" : "icone-information-on-ui.png",
-        "english_selected" : "icone-information-off-ui.png",
-        "french_selected" : "icone-information-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 32, 
-        "y" : 22
+    "settings_information_icon": {
+        "english": "icone-information-on-ui.png",
+        "french": "icone-information-on-ui.png",
+        "english_selected": "icone-information-off-ui.png",
+        "french_selected": "icone-information-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 32,
+        "y": 22
     },
-    "settings_language_icon" : {
-        "english" : "icone-language-on-ui.png",
-        "french" : "icone-language-on-ui.png",
-        "english_selected" : "icone-language-off-ui.png",
-        "french_selected" : "icone-language-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 50, 
-        "y" : 22
+    "settings_language_icon": {
+        "english": "icone-language-on-ui.png",
+        "french": "icone-language-on-ui.png",
+        "english_selected": "icone-language-off-ui.png",
+        "french_selected": "icone-language-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 50,
+        "y": 22
     },
-    "settings_shop_icon" : {
-        "english" : "icone-buy-on-ui.png",
-        "french" : "icone-buy-on-ui.png",
-        "english_selected" : "icone-buy-off-ui.png",
-        "french_selected" : "icone-buy-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 68, 
-        "y" : 22
+    "settings_shop_icon": {
+        "english": "icone-buy-on-ui.png",
+        "french": "icone-buy-on-ui.png",
+        "english_selected": "icone-buy-off-ui.png",
+        "french_selected": "icone-buy-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 68,
+        "y": 22
     },
-    "settings_rate_icon" : {
-        "english" : "icone-rating-on-ui.png",
-        "french" : "icone-rating-on-ui.png",
-        "english_selected" : "icone-rating-off-ui.png",
-        "french_selected" : "icone-rating-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 86, 
-        "y" : 22
+    "settings_rate_icon": {
+        "english": "icone-rating-on-ui.png",
+        "french": "icone-rating-on-ui.png",
+        "english_selected": "icone-rating-off-ui.png",
+        "french_selected": "icone-rating-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 86,
+        "y": 22
     },
-    "settings_quebec_flag" : {
-        "english" : "language-qc-unselected-en.png",
-        "french" : "language-qc-unselected-fr.png",
-        "english_selected" : "language-qc-selected-en.png",
-        "french_selected" : "language-qc-selected-fr.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 50, 
-        "y" : 40
+    "settings_quebec_flag": {
+        "english": "language-qc-unselected-en.png",
+        "french": "language-qc-unselected-fr.png",
+        "english_selected": "language-qc-selected-en.png",
+        "french_selected": "language-qc-selected-fr.png",
+        "width": 24,
+        "height": 20,
+        "x": 50,
+        "y": 40
     },
-    "settings_french_flag" : {
-        "english" : "language-fr-unselected-en.png",
-        "french" : "language-fr-unselected-fr.png",
-        "english_selected" : "language-fr-selected-en.png",
-        "french_selected" : "language-fr-selected-fr.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 50, 
-        "y" : 60
+    "settings_french_flag": {
+        "english": "language-fr-unselected-en.png",
+        "french": "language-fr-unselected-fr.png",
+        "english_selected": "language-fr-selected-en.png",
+        "french_selected": "language-fr-selected-fr.png",
+        "width": 24,
+        "height": 20,
+        "x": 50,
+        "y": 60
     },
-    "settings_usa_flag" : {
-        "english" : "language-usa-unselected-en.png",
-        "french" : "language-usa-unselected-fr.png",
-        "english_selected" : "language-usa-selected-en.png",
-        "french_selected" : "language-usa-selected-fr.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 50, 
-        "y" : 80
+    "settings_usa_flag": {
+        "english": "language-usa-unselected-en.png",
+        "french": "language-usa-unselected-fr.png",
+        "english_selected": "language-usa-selected-en.png",
+        "french_selected": "language-usa-selected-fr.png",
+        "width": 24,
+        "height": 20,
+        "x": 50,
+        "y": 80
     },
-    "settings_facebook" : {
-        "english" : "icone-facebook-on-ui.png",
-        "french" : "icone-facebook-on-ui.png",
-        "english_selected" : "icone-facebook-off-ui.png",
-        "french_selected" : "icone-facebook-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 23, 
-        "y" : 90
+    "settings_facebook": {
+        "english": "icone-facebook-on-ui.png",
+        "french": "icone-facebook-on-ui.png",
+        "english_selected": "icone-facebook-off-ui.png",
+        "french_selected": "icone-facebook-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 23,
+        "y": 90
     },
-    "settings_website" : {
-        "english" : "button-symbolicone-on-ui.png",
-        "french" : "button-symbolicone-on-ui.png",
-        "english_selected" : "button-symbolicone-off-ui.png",
-        "french_selected" : "button-symbolicone-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 50, 
-        "y" : 90
+    "settings_mail": {
+        "english": "icone-mail-on-ui.png",
+        "french": "icone-mail-on-ui.png",
+        "english_selected": "icone-mail-off-ui.png",
+        "french_selected": "icone-mail-off-ui.png",
+        "width": 24,
+        "height": 20,
+        "x": 77,
+        "y": 90
     },
-    "settings_mail" : {
-        "english" : "icone-mail-on-ui.png",
-        "french" : "icone-mail-on-ui.png",
-        "english_selected" : "icone-mail-off-ui.png",
-        "french_selected" : "icone-mail-off-ui.png",
-        "width" : 24,
-        "height" : 20,
-        "x" : 77, 
-        "y" : 90
+    "settings_information_text": {
+        "english": "information-title.png",
+        "french": "information-title.png",
+        "english_selected": "information-title.png",
+        "french_selected": "information-title.png",
+        "width": 49,
+        "height": 5.4,
+        "x": 50,
+        "y": 8
     },
-    "settings_information_text" : {
-        "english" : "information-title.png",
-        "french" : "information-title.png",
-        "english_selected" : "information-title.png",
-        "french_selected" : "information-title.png",
-        "width" : 49,
-        "height" : 5.4,
-        "x" : 50, 
-        "y" : 8
+    "settings_language_text": {
+        "english": "language_option_title_en.png",
+        "french": "language-title-ui.png",
+        "english_selected": "language_option_title_en.png",
+        "french_selected": "language-title-ui.png",
+        "width": 37,
+        "height": 5.4,
+        "x": 50,
+        "y": 8
     },
-    "settings_language_text" : {
-        "english" : "language_option_title_en.png",
-        "french" : "language-title-ui.png",
-        "english_selected" : "language_option_title_en.png",
-        "french_selected" : "language-title-ui.png",
-        "width" : 37,
-        "height" : 5.4,
-        "x" : 50, 
-        "y" : 8
+    "settings_orthopicto_text": {
+        "english": "orthopicto-title-ui.png",
+        "french": "orthopicto-title-ui.png",
+        "english_selected": "orthopicto-title-ui.png",
+        "french_selected": "orthopicto-title-ui.png",
+        "width": 46,
+        "height": 5.4,
+        "x": 50,
+        "y": 8
     },
-    "settings_orthopicto_text" : {
-        "english" : "orthopicto-title-ui.png",
-        "french" : "orthopicto-title-ui.png",
-        "english_selected" : "orthopicto-title-ui.png",
-        "french_selected" : "orthopicto-title-ui.png",
-        "width" : 46,
-        "height" : 5.4,
-        "x" : 50, 
-        "y" : 8
+    "settings_achat_text": {
+        "english": "buyonline_option_title_en.png",
+        "french": "achat-en-ligne-ui.png",
+        "english_selected": "buyonline_option_title_en.png",
+        "french_selected": "achat-en-ligne-ui.png",
+        "width": 46,
+        "height": 5.4,
+        "x": 50,
+        "y": 8
     },
-    "settings_achat_text" : {
-        "english" : "buyonline_option_title_en.png",
-        "french" : "achat-en-ligne-ui.png",
-        "english_selected" : "buyonline_option_title_en.png",
-        "french_selected" : "achat-en-ligne-ui.png",
-        "width" : 46,
-        "height" : 5.4,
-        "x" : 50, 
-        "y" : 8
+    "settings_notation_text": {
+        "english": "review_option_title_en.png",
+        "french": "review_option_title_en.png",
+        "english_selected": "review_option_title_en.png",
+        "french_selected": "review_option_title_en.png",
+        "width": 46,
+        "height": 5.4,
+        "x": 50,
+        "y": 8
     },
-    "settings_notation_text" : {
-        "english" : "review_option_title_en.png",
-        "french" : "review_option_title_en.png",
-        "english_selected" : "review_option_title_en.png",
-        "french_selected" : "review_option_title_en.png",
-        "width" : 46,
-        "height" : 5.4,
-        "x" : 50, 
-        "y" : 8
+    "settings_buy_background": {
+        "english": "buy-white-background.png",
+        "french": "buy-white-background.png",
+        "english_selected": "buy-white-background.png",
+        "french_selected": "buy-white-background.png",
+        "width": 60,
+        "height": 53.3,
+        "x": 50,
+        "y": 50
     },
-    "settings_buy_background" : {
-        "english" : "buy-white-background.png",
-        "french" : "buy-white-background.png",
-        "english_selected" : "buy-white-background.png",
-        "french_selected" : "buy-white-background.png",
-        "width" : 60,
-        "height" : 53.3,
-        "x" : 50,
-        "y" : 50
+    "settings_buy_button": {
+        "english": "buy-red-en.png",
+        "french": "achetez-red-on-ui-fr.png",
+        "english_selected": "buy-red-en.png",
+        "french_selected": "achetez-red-off-ui-fr.png",
+        "width": 22,
+        "height": 4,
+        "x": 50,
+        "y": 50
     },
-    "settings_buy_button" : {
-        "english" : "buy-red-en.png",
-        "french" : "achetez-red-on-ui-fr.png",
-        "english_selected" : "buy-red-en.png",
-        "french_selected" : "achetez-red-off-ui-fr.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 50
+    "home_page_settings": {
+        "english": "menuoption-homepage-on-ui.png",
+        "french": "menuoption-homepage-on-ui.png",
+        "english_selected": "menuoption-homepage-off-ui.png",
+        "french_selected": "menuoption-homepage-off-ui.png",
+        "width": 22,
+        "height": 4,
+        "x": 95,
+        "y": 5
     },
-    "home_page_settings" : {
-        "english" : "menuoption-homepage-on-ui.png",
-        "french" : "menuoption-homepage-on-ui.png",
-        "english_selected" : "menuoption-homepage-off-ui.png",
-        "french_selected" : "menuoption-homepage-off-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 95,
-        "y" : 5
+    "home_page_ortho_logo": {
+        "english": "logo-orthopicto-ui.png",
+        "french": "logo-orthopicto-ui.png",
+        "english_selected": "logo-orthopicto-ui.png",
+        "french_selected": "logo-orthopicto-ui.png",
+        "width": 22,
+        "height": 4,
+        "x": 50,
+        "y": 15
     },
-    "home_page_ortho_logo" : {
-        "english" : "logo-orthopicto-ui.png",
-        "french" : "logo-orthopicto-ui.png",
-        "english_selected" : "logo-orthopicto-ui.png",
-        "french_selected" : "logo-orthopicto-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 15
+    "home_page_choisis_text": {
+        "english": "choisis-ton-livre-ui_en.png",
+        "french": "choisis-ton-livre-ui.png",
+        "english_selected": "choisis-ton-livre-ui_en.png",
+        "french_selected": "choisis-ton-livre-ui.png",
+        "width": 22,
+        "height": 4,
+        "x": 50,
+        "y": 25
     },
-    "home_page_symbolicone_logo" : {
-        "english" : "logo-symbolicone-ui_en.png",
-        "french" : "logo-symbolicone-ui.png",
-        "english_selected" : "logo-symbolicone-ui_en.png",
-        "french_selected" : "logo-symbolicone-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 90
+    "home_page_left_arrow": {
+        "english": "go-back-on-ui.png",
+        "french": "go-back-on-ui.png",
+        "english_selected": "go-back-off-ui.png",
+        "french_selected": "go-back-on-ui.png",
+        "width": 22,
+        "height": 4,
+        "x": 5,
+        "y": 65
     },
-    "home_page_choisis_text" : {
-        "english" : "choisis-ton-livre-ui_en.png",
-        "french" : "choisis-ton-livre-ui.png",
-        "english_selected" : "choisis-ton-livre-ui_en.png",
-        "french_selected" : "choisis-ton-livre-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 25
+    "home_page_right_arrow": {
+        "english": "go-back-on-ui.png",
+        "french": "go-back-on-ui.png",
+        "english_selected": "go-back-off-ui.png",
+        "french_selected": "go-back-off-ui.png",
+        "width": 23,
+        "height": 4,
+        "x": 92,
+        "y": 65
     },
-    "home_page_left_arrow" : {
-        "english" : "go-back-on-ui.png",
-        "french" : "go-back-on-ui.png",
-        "english_selected" : "go-back-off-ui.png",
-        "french_selected" : "go-back-on-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 5,
-        "y" : 65
+    "home_page_text": {
+        "english": "choisis-ton-livre-ui_en.png",
+        "french": "choisis-ton-livre-ui.png",
+        "english_selected": "choisis-ton-livre-ui_en.png",
+        "french_selected": "choisis-ton-livre-ui.png",
+        "width": 22,
+        "height": 4,
+        "x": 50,
+        "y": 30
     },
-    "home_page_right_arrow" : {
-        "english" : "go-back-on-ui.png",
-        "french" : "go-back-on-ui.png",
-        "english_selected" : "go-back-off-ui.png",
-        "french_selected" : "go-back-off-ui.png",
-        "width" : 23,
-        "height" : 4,
-        "x" : 92,
-        "y" : 65
+    "tri_buy_top_text": {
+        "english": "buyonline_option_title_en.png",
+        "french": "achat-en-ligne-ui.png",
+        "english_selected": "buyonline_option_title_en.png",
+        "french_selected": "achat-en-ligne-ui.png",
+        "width": 46,
+        "height": 5.4,
+        "x": 50,
+        "y": 8
     },
-    "home_page_text" : {
-        "english" : "choisis-ton-livre-ui_en.png",
-        "french" : "choisis-ton-livre-ui.png",
-        "english_selected" : "choisis-ton-livre-ui_en.png",
-        "french_selected" : "choisis-ton-livre-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 30
+    "tri_buy_panels": {
+        "english": "3-orange-rectangle-ui.png",
+        "french": "3-orange-rectangle-ui.png",
+        "english_selected": "3-orange-rectangle-ui.png",
+        "french_selected": "3-orange-rectangle-ui.png",
+        "width": 22,
+        "height": 4,
+        "x": 50,
+        "y": 55
     },
-    "tri_buy_top_text" : {
-        "english" : "buyonline_option_title_en.png",
-        "french" : "achat-en-ligne-ui.png",
-        "english_selected" : "buyonline_option_title_en.png",
-        "french_selected" : "achat-en-ligne-ui.png",
-        "width" : 46,
-        "height" : 5.4,
-        "x" : 50, 
-        "y" : 8
+    "tri_buy_buy_button": {
+        "english": "buy-red-en.png",
+        "french": "achetez-red-on-ui-fr.png",
+        "english_selected": "buy-red-en.png",
+        "french_selected": "achetez-red-off-ui-fr.png",
+        "width": 22,
+        "height": 4,
+        "x": 50,
+        "y": 50
     },
-    "tri_buy_panels" : {
-        "english" : "3-orange-rectangle-ui.png",
-        "french" : "3-orange-rectangle-ui.png",
-        "english_selected" : "3-orange-rectangle-ui.png",
-        "french_selected" : "3-orange-rectangle-ui.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 55
+    "pin_1": {
+        "english": "pin_1_normal.png",
+        "french": "pin_1_normal.png",
+        "english_selected": "pin_1_selected.png",
+        "french_selected": "pin_1_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 80,
+        "y": 9
     },
-    "tri_buy_buy_button" : {
-        "english" : "buy-red-en.png",
-        "french" : "achetez-red-on-ui-fr.png",
-        "english_selected" : "buy-red-en.png",
-        "french_selected" : "achetez-red-off-ui-fr.png",
-        "width" : 22,
-        "height" : 4,
-        "x" : 50,
-        "y" : 50
+    "pin_2": {
+        "english": "pin_2_normal.png",
+        "french": "pin_2_normal.png",
+        "english_selected": "pin_2_selected.png",
+        "french_selected": "pin_2_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 80,
+        "y": 17
     },
-    "pin_1" : {
-        "english" : "pin_1_normal.png",
-        "french" : "pin_1_normal.png",
-        "english_selected" : "pin_1_selected.png",
-        "french_selected" : "pin_1_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 80,
-        "y" : 9
+    "pin_3": {
+        "english": "pin_3_normal.png",
+        "french": "pin_3_normal.png",
+        "english_selected": "pin_3_selected.png",
+        "french_selected": "pin_3_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 90,
+        "y": 17
     },
-    "pin_2" : {
-        "english" : "pin_2_normal.png",
-        "french" : "pin_2_normal.png",
-        "english_selected" : "pin_2_selected.png",
-        "french_selected" : "pin_2_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 80,
-        "y" : 17
+    "pin_4": {
+        "english": "pin_4_normal.png",
+        "french": "pin_4_normal.png",
+        "english_selected": "pin_4_selected.png",
+        "french_selected": "pin_4_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 90,
+        "y": 9
     },
-    "pin_3" : {
-        "english" : "pin_3_normal.png",
-        "french" : "pin_3_normal.png",
-        "english_selected" : "pin_3_selected.png",
-        "french_selected" : "pin_3_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 90,
-        "y" : 17
+    "pin_5": {
+        "english": "pin_5_normal.png",
+        "french": "pin_5_normal.png",
+        "english_selected": "pin_5_selected.png",
+        "french_selected": "pin_5_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 95,
+        "y": 8
     },
-    "pin_4" : {
-        "english" : "pin_4_normal.png",
-        "french" : "pin_4_normal.png",
-        "english_selected" : "pin_4_selected.png",
-        "french_selected" : "pin_4_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 90,
-        "y" : 9
+    "pin_6": {
+        "english": "pin_6_normal.png",
+        "french": "pin_6_normal.png",
+        "english_selected": "pin_6_selected.png",
+        "french_selected": "pin_6_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 95,
+        "y": 8
     },
-    "pin_5" : {
-        "english" : "pin_5_normal.png",
-        "french" : "pin_5_normal.png",
-        "english_selected" : "pin_5_selected.png",
-        "french_selected" : "pin_5_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 95,
-        "y" : 8
+    "pin_7": {
+        "english": "pin_7_normal.png",
+        "french": "pin_7_normal.png",
+        "english_selected": "pin_7_selected.png",
+        "french_selected": "pin_7_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 95,
+        "y": 8
     },
-    "pin_6" : {
-        "english" : "pin_6_normal.png",
-        "french" : "pin_6_normal.png",
-        "english_selected" : "pin_6_selected.png",
-        "french_selected" : "pin_6_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 95,
-        "y" : 8
+    "pin_8": {
+        "english": "pin_8_normal.png",
+        "french": "pin_8_normal.png",
+        "english_selected": "pin_8_selected.png",
+        "french_selected": "pin_8_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 95,
+        "y": 8
     },
-    "pin_7" : {
-        "english" : "pin_7_normal.png",
-        "french" : "pin_7_normal.png",
-        "english_selected" : "pin_7_selected.png",
-        "french_selected" : "pin_7_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 95,
-        "y" : 8
+    "pin_9": {
+        "english": "pin_9_normal.png",
+        "french": "pin_9_normal.png",
+        "english_selected": "pin_9_selected.png",
+        "french_selected": "pin_9_selected.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 95,
+        "y": 8
     },
-    "pin_8" : {
-        "english" : "pin_8_normal.png",
-        "french" : "pin_8_normal.png",
-        "english_selected" : "pin_8_selected.png",
-        "french_selected" : "pin_8_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 95,
-        "y" : 8
+    "pin_instructions": {
+        "english": "pin_instruction_en.png",
+        "french": "pin_instruction_fr.png",
+        "english_selected": "pin_instruction_en.png",
+        "french_selected": "pin_instruction_fr.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 40,
+        "y": 4
     },
-    "pin_9" : {
-        "english" : "pin_9_normal.png",
-        "french" : "pin_9_normal.png",
-        "english_selected" : "pin_9_selected.png",
-        "french_selected" : "pin_9_selected.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 95,
-        "y" : 8
+    "pin_failed": {
+        "english": "pin_failed_en.png",
+        "french": "pin_failed_fr.png",
+        "english_selected": "pin_failed_en.png",
+        "french_selected": "pin_failed_fr.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 55,
+        "y": 14
     },
-    "pin_instructions" : {
-        "english" : "pin_instruction_en.png",
-        "french" : "pin_instruction_fr.png",
-        "english_selected" : "pin_instruction_en.png",
-        "french_selected" : "pin_instruction_fr.png",
-       "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 40,
-        "y" : 4
+    "restore_purchase_button": {
+        "english": "restore_purchases_en.png",
+        "french": "restore_purchases_fr.png",
+        "english_selected": "restore_purchases_en.png",
+        "french_selected": "restore_purchases_fr.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 55,
+        "y": 8
     },
-    "pin_failed" : {
-        "english" : "pin_failed_en.png",
-        "french" : "pin_failed_fr.png",
-        "english_selected" : "pin_failed_en.png",
-        "french_selected" : "pin_failed_fr.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 55,
-        "y" : 14
+    "rate_app_button": {
+        "english": "rate_app_en.png",
+        "french": "rate_app_fr.png",
+        "english_selected": "rate_app_en.png",
+        "french_selected": "rate_app_fr.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 50,
+        "y": 60
     },
-    "restore_purchase_button" : {
-        "english" : "restore_purchases_en.png",
-        "french" : "restore_purchases_fr.png",
-        "english_selected" : "restore_purchases_en.png",
-        "french_selected" : "restore_purchases_fr.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 55,
-        "y" : 8
-    },
-    "rate_app_button" : {
-        "english" : "rate_app_en.png",
-        "french" : "rate_app_fr.png",
-        "english_selected" : "rate_app_en.png",
-        "french_selected" : "rate_app_fr.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 50,
-        "y" : 60
-    },
-    "red-x-ui" : {
-        "english" : "red-x-ui.png",
-        "french" : "red-x-ui.png",
-        "english_selected" : "red-x-ui.png",
-        "french_selected" : "red-x-ui.png",
-        "width" : 3.125,
-        "height" : 2.34375,
-        "x" : 50,
-        "y" : 60
+    "red-x-ui": {
+        "english": "red-x-ui.png",
+        "french": "red-x-ui.png",
+        "english_selected": "red-x-ui.png",
+        "french_selected": "red-x-ui.png",
+        "width": 3.125,
+        "height": 2.34375,
+        "x": 50,
+        "y": 60
     }
 }

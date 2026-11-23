@@ -12,7 +12,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-import com.symbolicone.ouille.engine.PicoPhraseBridge;
+import com.pictophrase.app.engine.PicoPhraseBridge;
 
 /**
  * Activité principale modernisée de PicoPhrase.
