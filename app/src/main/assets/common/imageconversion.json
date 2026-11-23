@@ -1,2245 +1,2192 @@
-
 [
     {
-        "src" : "option_title_notation.svg",
-        "dest" : "option_title_notation.png",
-        "width" : 45.5,
-        "height" : 5.7
-    }, 
-    {
-        "src" : "review_option_title_en.svg",
-        "dest" : "review_option_title_en.png",
-        "width" : 32,
-        "height" : 5.1
-    
-    },  
-    {
-        "src" : "orthopicto_option_title_en.svg",
-        "dest" : "orthopicto_option_title_en.png",
-        "width" : 45.5,
-        "height" : 5.7
-    },  
-    {
-        "src" : "language_option_title_en.svg",
-        "dest" : "language_option_title_en.png",
-        "width" : 45.5,
-        "height" : 5.7
-    },  
-    {
-        "src" : "information_option_title_en.svg",
-        "dest" : "information_option_title_en.png",
-        "width" : 45.5,
-        "height" : 5.7
-    },
-    {
-        "src" : "buyonline_option_title_en.svg",
-        "dest" : "buyonline_option_title_en.png",
-        "width" : 45.5,
-        "height" : 5.7
-    },
-    
-    {
-        "src" : "home_icon_selected.svg",
-        "dest" : "home_icon_selected.png",
-        "width" : 10,
-        "height" : 10
-    },
-	{
-        "src" : "home_icon_unselected.svg",
-        "dest" : "home_icon_unselected.png",
-        "width" : 10,
-        "height" : 10
-    },
-    {
-        "src" : "parent_info_unselected.svg",
-        "dest" : "parent_info_unselected.png",
-        "width" : 20,
-        "height" : 20
-    },
-	{
-        "src" : "parent_info_selected.svg",
-        "dest" : "parent_info_selected.png",
-        "width" : 20,
-        "height" : 20
-    },
-    {
-        "src" : "options_button.svg",
-        "dest" : "options_button.png",
-        "width" : 40,
-        "height" : 14
-    },
-    {
-        "src" : "play_green_selected.svg",
-        "dest" : "play_green_selected.png",
-        "width" : 20,
-        "height" : 16
-    }, 
-	{
-        "src" : "play_green_unselected.svg",
-        "dest" : "play_green_unselected.png",
-        "width" : 20,
-        "height" : 16
-    },
-    {
-        "src" : "3-orange-rectangle-ui.svg",
-        "dest" : "3-orange-rectangle-ui.png",
-        "width" : 87,
-        "height" : 79.6
-    },
-    {
-        "src" : "achat-en-ligne-ui.svg",
-        "dest" : "achat-en-ligne-ui.png",
-        "width" : 56,
-        "height" : 5.6
-    },
-    {
-        "src" : "achetez-red-on-ui-fr.svg",
-        "dest" : "achetez-red-on-ui-fr.png",
-        "width" : 22,
-        "height": 4.6 
-    },
-	{
-        "src" : "achetez-red-off-ui-fr.svg",
-        "dest" : "achetez-red-off-ui-fr.png",
-        "width" : 22,
-        "height": 4.6 
-    },
-    {
-        "src" : "antbook-icon-ui.svg",
-        "dest" : "antbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 32.031
-    },
-	{
-        "src" : "antbook-icon-ui.svg",
-        "dest" : "antbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.2186
-    },
-	 {
-        "src" : "antbook-icon-ui-en.svg",
-        "dest" : "antbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 32.031
-    },
-	{
-        "src" : "antbook-icon-ui-en.svg",
-        "dest" : "antbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.2186
-    },
-    {
-        "src" : "back_arrow_selected.svg",
-        "dest" : "back_arrow_selected.png",
-        "width" : 9,
-        "height" : 6.3
-    }, 
-	{
-        "src" : "back_arrow_unselected.svg",
-        "dest" : "back_arrow_unselected.png",
-        "width" : 9,
-        "height" : 6.3
-    },
-    {
-        "src" : "background-option-menu-ui.svg",
-        "dest" : "background-option-menu-ui.png",
-        "width" : 101,
-        "height" :100
-    },
-{
-    "src" : "background-option-menu-ui_en.svg",
-    "dest" : "background-option-menu-ui_en.png",
-    "width" : 101,
-    "height" :100
-},
-    {
-        "src" : "button-buble.svg",
-        "dest" : "button-buble.png",
-        "width" : 4,
-        "height" : 1.2
-    },
-    {
-        "src" : "button-off-joueurs-filter-ui.svg",
-        "dest" : "button-off-joueurs-filter-ui.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "button-symbolicone-on-ui.svg",
-        "dest" : "button-symbolicone-on-ui.png",
-        "width" : 38,
-        "height" : 7.6
-    }, 
-	{
-        "src" : "button-symbolicone-off-ui.svg",
-        "dest" : "button-symbolicone-off-ui.png",
-        "width" : 38,
-        "height" : 7.6
-    },
-    {
-        "src" : "buy-icon-red-ui.svg",
-        "dest" : "buy-icon-red-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-    {
-        "src" : "buy-white-background.svg",
-        "dest" : "buy-white-background.png",
-        "width" : 60,
-        "height" : 53.3
-    }, 
-    {
-        "src" : "catbook-icon-ui.svg",
-        "dest" : "catbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "catbook-icon-ui.svg",
-        "dest" : "catbook-icon-ui-small.png",
-       "width" : 21.7968,
-        "height" : 19.2186
-    }, 
-	 {
-        "src" : "catbook-icon-ui-en.svg",
-        "dest" : "catbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "catbook-icon-ui-en.svg",
-        "dest" : "catbook-icon-ui-en-small.png",
-       "width" : 21.7968,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "choisis-ton-livre-ui.svg",
-        "dest" : "choisis-ton-livre-ui.png",
-        "width" : 60,
-        "height" : 5
-        
-    }, 
-    {
-        "src" : "choisis-ton-livre-ui_en.svg",
-        "dest" : "choisis-ton-livre-ui_en.png",
-        "width" : 60,
-        "height" : 5
-        
-    }, 
-    
-         
-	{
-        "src" : "collection1book-icon-ui.svg",
-        "dest" : "collection1book-icon-ui.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection1book-icon-ui.svg",
-        "dest" : "collection1book-icon-ui-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    }, 
-	 {
-        "src" : "collection2book-icon-ui.svg",
-        "dest" : "collection2book-icon-ui.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection2book-icon-ui.svg",
-        "dest" : "collection2book-icon-ui-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    }, 
-	 {
-        "src" : "collection3book-icon-ui.svg",
-        "dest" : "collection3book-icon-ui.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection3book-icon-ui.svg",
-        "dest" : "collection3book-icon-ui-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    },
-    {
-        "src" : "collection4book-icon-ui.svg",
-        "dest" : "collection4book-icon-ui.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection4book-icon-ui.svg",
-        "dest" : "collection4book-icon-ui-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    },  
-    {
-        "src" : "collection5book-icon-ui.svg",
-        "dest" : "collection5book-icon-ui.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection5book-icon-ui.svg",
-        "dest" : "collection5book-icon-ui-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "cowbook-icon-ui.svg",
-        "dest" : "cowbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "cowbook-icon-ui.svg",
-        "dest" : "cowbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-    {
-        "src" : "duckbook-icon-ui.svg",
-        "dest" : "duckbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "duckbook-icon-ui.svg",
-        "dest" : "duckbook-icon-ui-small.png",
-		"width" : 21.7968,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "fishbook-icon-ui.svg",
-        "dest" : "fishbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	{
-        "src" : "fishbook-icon-ui.svg",
-        "dest" : "fishbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-    {
-        "src" : "foxbook-icon-ui.svg",
-        "dest" : "foxbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "foxbook-icon-ui.svg",
-        "dest" : "foxbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.2186
-    },
-    {
-        "src" : "giraffebook-icon-ui.svg",
-        "dest" : "giraffebook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "giraffebook-icon-ui.svg",
-        "dest" : "giraffebook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "turtlebook-icon-ui.svg",
-        "dest" : "turtlebook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "turtlebook-icon-ui.svg",
-        "dest" : "turtlebook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "whalebook-icon-ui.svg",
-        "dest" : "whalebook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "whalebook-icon-ui.svg",
-        "dest" : "whalebook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "sheepbook-icon-ui.svg",
-        "dest" : "sheepbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "sheepbook-icon-ui.svg",
-        "dest" : "sheepbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "spiderbook-icon-ui.svg",
-        "dest" : "spiderbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "spiderbook-icon-ui.svg",
-        "dest" : "spiderbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "squirrelbook-icon-ui.svg",
-        "dest" : "squirrelbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "squirrelbook-icon-ui.svg",
-        "dest" : "squirrelbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "dolphinbook-icon-ui.svg",
-        "dest" : "dolphinbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "dolphinbook-icon-ui.svg",
-        "dest" : "dolphinbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "teddybook-icon-ui.svg",
-        "dest" : "teddybook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "teddybook-icon-ui.svg",
-        "dest" : "teddybook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "elfbook-icon-ui.svg",
-        "dest" : "elfbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "elfbook-icon-ui.svg",
-        "dest" : "elfbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    
-     
-	{
-        "src" : "collection1book-icon-ui-en.svg",
-        "dest" : "collection1book-icon-ui-en.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection1book-icon-ui-en.svg",
-        "dest" : "collection1book-icon-ui-en-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    }, 
-	 {
-        "src" : "collection2book-icon-ui-en.svg",
-        "dest" : "collection2book-icon-ui-en.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection2book-icon-ui-en.svg",
-        "dest" : "collection2book-icon-ui-en-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    }, 
-	 {
-        "src" : "collection3book-icon-ui-en.svg",
-        "dest" : "collection3book-icon-ui-en.png",
-        "width" : 36.393,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "collection3book-icon-ui-en.svg",
-        "dest" : "collection3book-icon-ui-en-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    },
-    {
-       "src" : "collection4book-icon-ui-en.svg",
-       "dest" : "collection4book-icon-ui-en.png",
-       "width" : 36.393,
-       "height" : 32.031
-    },
-    {
-       "src" : "collection4book-icon-ui-en.svg",
-       "dest" : "collection4book-icon-ui-en-small.png",
-       "width" : 21.8358,
-       "height" : 19.2186
-    },
-    {
-        "src" : "collection5book-icon-ui-en.svg",
-        "dest" : "collection5book-icon-ui-en.png",
-        "width" : 36.393,
-        "height" : 32.031
-    },
-    {
-        "src" : "collection5book-icon-ui-en.svg",
-        "dest" : "collection5book-icon-ui-en-small.png",
-        "width" : 21.8358,
-        "height" : 19.2186
-    },
-    {
-        "src" : "cowbook-icon-ui-en.svg",
-        "dest" : "cowbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "cowbook-icon-ui-en.svg",
-        "dest" : "cowbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-    {
-        "src" : "duckbook-icon-ui-en.svg",
-        "dest" : "duckbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "duckbook-icon-ui-en.svg",
-        "dest" : "duckbook-icon-ui-en-small.png",
-		"width" : 21.7968,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "fishbook-icon-ui-en.svg",
-        "dest" : "fishbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	{
-        "src" : "fishbook-icon-ui-en.svg",
-        "dest" : "fishbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-    {
-        "src" : "foxbook-icon-ui-en.svg",
-        "dest" : "foxbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "foxbook-icon-ui-en.svg",
-        "dest" : "foxbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.2186
-    },
-    {
-        "src" : "giraffebook-icon-ui-en.svg",
-        "dest" : "giraffebook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "giraffebook-icon-ui-en.svg",
-        "dest" : "giraffebook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "elfbook-icon-ui-en.svg",
-        "dest" : "elfbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "elfbook-icon-ui-en.svg",
-        "dest" : "elfbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "turtlebook-icon-ui-en.svg",
-        "dest" : "turtlebook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "turtlebook-icon-ui-en.svg",
-        "dest" : "turtlebook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "sheepbook-icon-ui-en.svg",
-        "dest" : "sheepbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    },
-	  {
-        "src" : "sheepbook-icon-ui-en.svg",
-        "dest" : "sheepbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "spiderbook-icon-ui-en.svg",
-        "dest" : "spiderbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "spiderbook-icon-ui-en.svg",
-        "dest" : "spiderbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "squirrelbook-icon-ui-en.svg",
-        "dest" : "squirrelbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "squirrelbook-icon-ui-en.svg",
-        "dest" : "squirrelbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "dolphinbook-icon-ui-en.svg",
-        "dest" : "dolphinbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "dolphinbook-icon-ui-en.svg",
-        "dest" : "dolphinbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "teddybook-icon-ui-en.svg",
-        "dest" : "teddybook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "teddybook-icon-ui-en.svg",
-        "dest" : "teddybook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },
-    {
-        "src" : "whalebook-icon-ui-en.svg",
-        "dest" : "whalebook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	  {
-        "src" : "whalebook-icon-ui-en.svg",
-        "dest" : "whalebook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1568
-    },         
-    {
-        "src" : "go-back-off-ui.svg",
-        "dest" : "go-back-off-ui.png",
-        "width" : 5.1,
-        "height" : 7
-    }, 
-	{
-        "src" : "go-back-on-ui.svg",
-        "dest" : "go-back-on-ui.png",
-        "width" : 5.1,
-        "height" : 7
-    }, 
-    {
-        "src" : "page-turn-left.svg",
-        "dest" : "page-turn-left.png",
-        "width" : 10,
-        "height" : 14
-    }, 
-    {
-        "src" : "gorillabook-icon-ui.svg",
-        "dest" : "gorillabook-icon-ui.png",
-        "width" : 36.263,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "gorillabook-icon-ui.svg",
-        "dest" : "gorillabook-icon-ui-small.png",
-        "width" : 21.7578,
-        "height" : 19.2186
-    }, 
-	  {
-        "src" : "gorillabook-icon-ui-en.svg",
-        "dest" : "gorillabook-icon-ui-en.png",
-        "width" : 36.263,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "gorillabook-icon-ui-en.svg",
-        "dest" : "gorillabook-icon-ui-en-small.png",
-        "width" : 21.7578,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "green-check-ui.svg",
-        "dest" : "green-check-ui.png",
-        "width" : 8,
-        "height" : 6.1
-    }, 
-    {
-        "src" : "homepage-background-ui.svg",
-        "dest" : "homepage-background-ui.png",
-        "width" : 101,
-        "height" : 100
-    }, 
-    {
-        "src" : "homepage-background-ui_en.svg",
-        "dest" : "homepage-background-ui_en.png",
-        "width" : 101,
-        "height" : 100
-    }, 
-    {
-        "src" : "hurtbook-icon-ui.svg",
-        "dest" : "hurtbook-icon-ui.png",
-        "width" : 36.263,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "hurtbook-icon-ui.svg",
-        "dest" : "hurtbook-icon-ui-small.png",
-        "width" : 21.7578,
-        "height" : 19.2186
-    }, 
-	  {
-        "src" : "hurtbook-icon-ui-en.svg",
-        "dest" : "hurtbook-icon-ui-en.png",
-        "width" : 36.263,
-        "height" : 32.031
-    }, 
-	 {
-        "src" : "hurtbook-icon-ui-en.svg",
-        "dest" : "hurtbook-icon-ui-en-small.png",
-        "width" : 21.7578,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "icone-buy-off-ui.svg",
-        "dest" : "icone-buy-off-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-	{
-        "src" : "icone-buy-on-ui.svg",
-        "dest" : "icone-buy-on-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-    {
-        "src" : "icone-facebook-off-ui.svg",
-        "dest" : "icone-facebook-off-ui.png",
-        "width" : 10,
-        "height" : 7.6
-    },  
-	{
-        "src" : "icone-facebook-on-ui.svg",
-        "dest" : "icone-facebook-on-ui.png",
-        "width" : 10,
-        "height" : 7.6
-    }, 
-    {
-        "src" : "icone-information-on-ui.svg",
-        "dest" : "icone-information-on-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-	{
-        "src" : "icone-information-off-ui.svg",
-        "dest" : "icone-information-off-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-    {
-        "src" : "icone-language-on-ui.svg",
-        "dest" : "icone-language-on-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-	{
-        "src" : "icone-language-off-ui.svg",
-        "dest" : "icone-language-off-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-    {
-        "src" : "icone-mail-off-ui.svg",
-        "dest" : "icone-mail-off-ui.png",
-        "width" : 10,
-        "height" : 7.6 
-    }, 
-	{
-        "src" : "icone-mail-on-ui.svg",
-        "dest" : "icone-mail-on-ui.png",
-        "width" : 10,
-        "height" : 7.6 
-    }, 
-    {
-        "src" : "icone-orthopicto-on-ui.svg",
-        "dest" : "icone-orthopicto-on-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    },  
-	{
-        "src" : "icone-orthopicto-off-ui.svg",
-        "dest" : "icone-orthopicto-off-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-    {
-        "src" : "icone-rating-off-ui.svg",
-        "dest" : "icone-rating-off-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    }, 
-	{
-        "src" : "icone-rating-on-ui.svg",
-        "dest" : "icone-rating-on-ui.png",
-        "width" : 15,
-        "height" : 12.7
-    },
-    {
-        "src" : "information-title.svg",
-        "dest" : "information-title.png",
-        "width" : 49,
-        "height" : 5.4
-    }, 
-    {
-        "src" : "language-title-ui.svg",
-        "dest" : "language-title-ui.png",
-        "width" : 37,
-        "height" : 5.4
-    }, 
-	 {
-        "src" : "language-fr-unselected-fr.svg",
-        "dest" : "language-fr-unselected-fr.png",
-        "width" : 73,
-        "height" : 12.9
-    }, 
-	{
-        "src" : "language-fr-selected-fr.svg",
-        "dest" : "language-fr-selected-fr.png",
-        "width" : 73,
-        "height" : 12.9
-    },  
-	{
-        "src" : "language-qc-unselected-fr.svg",
-        "dest" : "language-qc-unselected-fr.png",
-        "width" : 73,
-        "height" : 12.9
-    },  {
-        "src" : "language-qc-selected-fr.svg",
-        "dest" : "language-qc-selected-fr.png",
-        "width" : 73,
-        "height" : 12.9
-    },  {
-        "src" : "language-usa-unselected-fr.svg",
-        "dest" : "language-usa-unselected-fr.png",
-        "width" : 73,
-        "height" : 12.9
-    },  {
-        "src" : "language-usa-selected-fr.svg",
-        "dest" : "language-usa-selected-fr.png",
-        "width" : 73,
-        "height" : 12.9
-    }, 
-	 {
-        "src" : "language-fr-unselected-en.svg",
-        "dest" : "language-fr-unselected-en.png",
-        "width" : 73,
-        "height" : 12.9
-    }, 
-	{
-        "src" : "language-fr-selected-en.svg",
-        "dest" : "language-fr-selected-en.png",
-        "width" : 73,
-        "height" : 12.9
-    },  
-	{
-        "src" : "language-qc-unselected-en.svg",
-        "dest" : "language-qc-unselected-en.png",
-        "width" : 73,
-        "height" : 12.9
-    },  {
-        "src" : "language-qc-selected-en.svg",
-        "dest" : "language-qc-selected-en.png",
-        "width" : 73,
-        "height" : 12.9
-    },  {
-        "src" : "language-usa-unselected-en.svg",
-        "dest" : "language-usa-unselected-en.png",
-        "width" : 73,
-        "height" : 12.9
-    },  {
-        "src" : "language-usa-selected-en.svg",
-        "dest" : "language-usa-selected-en.png",
-        "width" : 73,
-        "height" : 12.9
-    }, 
-    {
-        "src" : "options_button_level_one_selected_fr.svg",
-        "dest" : "options_button_level_one_selected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    }, 
-    {
-        "src" : "options_button_level_three_selected_fr.svg",
-        "dest" : "options_button_level_three_selected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    }, 
-    {
-        "src" : "options_button_level_two_selected_fr.svg",
-        "dest" : "options_button_level_two_selected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    }, 
-	   {
-        "src" : "options_button_level_one_unselected_fr.svg",
-        "dest" : "options_button_level_one_unselected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    }, 
-    {
-        "src" : "options_button_level_three_unselected_fr.svg",
-        "dest" : "options_button_level_three_unselected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_button_level_four_selected_fr.svg",
-        "dest" : "options_button_level_four_selected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    },
-    {
-        "src" : "PG_buying_four_unselected.svg",
-        "dest" : "PG_buying_four_unselected.png",
-        "width" : 17,
-        "height" : 9.1
-    },{
-        "src" : "options_button_level_two_unselected_fr.svg",
-        "dest" : "options_button_level_two_unselected_fr.png",
-        "width" : 17,
-        "height" : 9.1
-    }, 
-	{
-        "src" : "options_player_infant_adult_selected_fr.svg",
-        "dest" : "options_player_infant_adult_selected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_player_infant_selected_fr.svg",
-        "dest" : "options_player_infant_selected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_button_written_selected_fr.svg",
-        "dest" : "options_button_written_selected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_button_phrases_selected_fr.svg",
-        "dest" : "options_button_phrases_selected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-	 {
-        "src" : "options_player_infant_adult_unselected_fr.svg",
-        "dest" : "options_player_infant_adult_unselected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_player_infant_unselected_fr.svg",
-        "dest" : "options_player_infant_unselected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_button_written_unselected_fr.svg",
-        "dest" : "options_button_written_unselected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "options_button_phrases_unselected_fr.svg",
-        "dest" : "options_button_phrases_unselected_fr.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-	{
-        "src" : "option_sentence_builder_off_en.svg",
-        "dest" : "option_sentence_builder_off_en.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-	{
-        "src" : "option_sentence_builder_on_en.svg",
-        "dest" : "option_sentence_builder_on_en.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-	{
-        "src" : "option_written_language_off_en.svg",
-        "dest" : "option_written_language_off_en.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-	{
-        "src" : "option_written_language_on_en.svg",
-        "dest" : "option_written_language_on_en.png",
-        "width" : 27,
-        "height" : 9.1
-    },
-    {
-        "src" : "lionbook-icon-ui.svg",
-        "dest" : "lionbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "lionbook-icon-ui.svg",
-        "dest" : "lionbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-	 {
-        "src" : "lionbook-icon-ui-en.svg",
-        "dest" : "lionbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "lionbook-icon-ui-en.svg",
-        "dest" : "lionbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-    {
-        "src" : "lock-red-ui.svg",
-        "dest" : "lock-red-ui.png",
-        "width" : 8,
-        "height" : 6
-    }, 
-    {
-        "src" : "lock-ui.svg",
-        "dest" : "lock-ui.png",
-        "width" : 10,
-        "height" : 9
-    }, 
-    {
-        "src" : "logo-orthopicto-ui.svg",
-        "dest" : "logo-orthopicto-ui.png",
-        "width" : 83,
-        "height" : 14.2
-    }, 
-    {
-        "src" : "logo-symbolicone-ui.svg",
-        "dest" : "logo-symbolicone-ui.png",
-        "width" : 30,
-        "height" : 11
-    },
-    {
-        "src" : "logo-symbolicone-ui_en.svg",
-        "dest" : "logo-symbolicone-ui_en.png",
-        "width" : 30,
-        "height" : 11
-    },
-    {
-        "src" : "menuoption-homepage-on-ui.svg",
-        "dest" : "menuoption-homepage-on-ui.png",
-        "width" : 8,
-        "height" : 6.1
-    }, 
-	{
-        "src" : "menuoption-homepage-off-ui.svg",
-        "dest" : "menuoption-homepage-off-ui.png",
-        "width" : 8,
-        "height" : 6.1
-    }, 
-    {
-        "src" : "mmmbook-icon-ui.svg",
-        "dest" : "mmmbook-icon-ui.png",
-        "width" : 36.263,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "mmmbook-icon-ui.svg",
-        "dest" : "mmmbook-icon-ui-small.png",
-        "width" : 21.7578,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "mousebook-icon-ui.svg",
-        "dest" : "mousebook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "mousebook-icon-ui.svg",
-        "dest" : "mousebook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-	 {
-        "src" : "mmmbook-icon-ui-en.svg",
-        "dest" : "mmmbook-icon-ui-en.png",
-        "width" : 36.263,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "mmmbook-icon-ui-en.svg",
-        "dest" : "mmmbook-icon-ui-en-small.png",
-        "width" : 21.7578,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "mousebook-icon-ui-en.svg",
-        "dest" : "mousebook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "mousebook-icon-ui-en.svg",
-        "dest" : "mousebook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-    {
-        "src" : "object-button-off-filter-ui.svg",
-        "dest" : "object-button-off-filter-ui.png",
-        "width" : 26,
-        "height" : 9.1
-    }, 
-    {
-        "src" : "options_background.svg",
-        "dest" : "options_background.png",
-        "width" : 101,
-        "height" : 100
-    }, 
-    {
-        "src" : "options_background_en.svg",
-        "dest" : "options_background_en.png",
-        "width" : 101,
-        "height" : 100
-    }, 
-    {
-        "src" : "options-menu-title-ui.svg",
-        "dest" : "options-menu-title-ui.png",
-        "width" : 35,
-        "height" : 6.1
-    }, 
-    {
-        "src" : "orthopicto-title-ui.svg",
-        "dest" : "orthopicto-title-ui.png",
-        "width" : 46,
-        "height" : 6
-    }, 
-    {
-        "src" : "pandabook-icon-ui.svg",
-        "dest" : "pandabook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "pandabook-icon-ui.svg",
-        "dest" : "pandabook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-	  {
-        "src" : "pandabook-icon-ui-en.svg",
-        "dest" : "pandabook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    }, 
-	 {
-        "src" : "pandabook-icon-ui-en.svg",
-        "dest" : "pandabook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    }, 
-	{
-        "src" : "pin_1_normal.svg",
-        "dest" : "pin_1_normal.png",
-         "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_2_normal.svg",
-        "dest" : "pin_2_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_3_normal.svg",
-        "dest" : "pin_3_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_4_normal.svg",
-        "dest" : "pin_4_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_5_normal.svg",
-        "dest" : "pin_5_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_6_normal.svg",
-        "dest" : "pin_6_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_7_normal.svg",
-        "dest" : "pin_7_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_8_normal.svg",
-        "dest" : "pin_8_normal.png",
-          "width" : 4.6875,
-        "height" : 3.515625
-    }, 
-	{
-        "src" : "pin_9_normal.svg",
-        "dest" : "pin_9_normal.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_1_selected.svg",
-        "dest" : "pin_1_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_2_selected.svg",
-        "dest" : "pin_2_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_3_selected.svg",
-        "dest" : "pin_3_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_4_selected.svg",
-        "dest" : "pin_4_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_5_selected.svg",
-        "dest" : "pin_5_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_6_selected.svg",
-        "dest" : "pin_6_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_7_selected.svg",
-        "dest" : "pin_7_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_8_selected.svg",
-        "dest" : "pin_8_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_9_selected.svg",
-        "dest" : "pin_9_selected.png",
-        "width" : 9.375,
-        "height" : 7.03125
-    }, 
-	{
-        "src" : "pin_instruction_fr.svg",
-        "dest" : "pin_instruction_fr.png",
-         "width" : 43.68489,
-        "height" : 1.66
-    }, 
-	{
-        "src" : "pin_instruction_en.svg",
-        "dest" : "pin_instruction_en.png",
-         "width" : 59.082,
-        "height" : 2.49
-    }, 
-	{
-        "src" : "pin_failed_fr.svg",
-        "dest" : "pin_failed_fr.png",
-         "width" : 14.192708,
-        "height" : 1.61133
-    }, 
-	{
-        "src" : "pin_failed_en.svg",
-        "dest" : "pin_failed_en.png",
-         "width" : 13.28115,
-        "height" : 1.83105
-    }, 
-	
-    {
-        "src" : "placement-bouche-panda.svg",
-        "dest" : "placement-bouche-panda.png",
-        "width" : 100,
-        "height" : 100
-    }, 
-    {
-        "src" : "proset-icon-ui.svg",
-        "dest" : "proset-icon-ui.png",
-        "width" : 26,
-        "height" : 20.2
-    }, 
-    {
-        "src" : "rabbitbook-icon-ui.svg",
-        "dest" : "rabbitbook-icon-ui.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "rabbitbook-icon-ui.svg",
-        "dest" : "rabbitbook-icon-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.2186
-    }, 
-	 {
-        "src" : "rabbitbook-icon-ui-en.svg",
-        "dest" : "rabbitbook-icon-ui-en.png",
-        "width" : 36.328,
-        "height" : 32.031
-    }, 
-	{
-        "src" : "rabbitbook-icon-ui-en.svg",
-        "dest" : "rabbitbook-icon-ui-en-small.png",
-        "width" : 21.7968,
-        "height" : 19.2186
-    }, 
-    {
-        "src" : "red-x-ui.svg",
-        "dest" : "red-x-ui.png",
-        "width" : 12,
-        "height" : 9.4
-    }, 
-    {
-        "src" : "end_replay_button_selected.svg",
-        "dest" : "end_replay_button_selected.png",
-        "width" : 20,
-        "height" : 15.6
-    },  
-	{
-        "src" : "end_replay_button_unselected.svg",
-        "dest" : "end_replay_button_unselected.png",
-        "width" : 20,
-        "height" : 15.6
-    }, 
-    {
-        "src" : "set1-icon-ui.svg",
-        "dest" : "set1-icon-ui.png",
-        "width" : 36,
-        "height" : 32
-    }, 
-    {
-        "src" : "set1-v2-icon-ui.svg",
-        "dest" : "set1-v2-icon-ui.png",
-        "width" : 67,
-        "height" : 46
-    }, 
-    {
-        "src" : "set2-icon-ui.svg",
-        "dest" : "set2-icon-ui.png",
-        "width" : 36,
-        "height" : 32.7
-    }, 
-    {
-        "src" : "set2-v2-icon-ui.svg",
-        "dest" : "set2-v2-icon-ui.png",
-        "width" : 69,
-        "height" : 52.4
-    }, 
-    {
-        "src" : "set3-icon-ui.svg",
-        "dest" : "set3-icon-ui.png",
-        "width" : 36,
-        "height" : 32.1
-    }, 
-    {
-        "src" : "set3-v2-icon-ui.svg",
-        "dest" : "set3-v2-icon-ui.png",
-        "width" : 61,
-        "height" : 47
-    }, 
-	{
-        "src" : "text-ant-fr.svg",
-        "dest" : "text-ant-fr.png",
-        "width" : 37.7,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-cat-fr.svg",
-        "dest" : "text-cat-fr.png",
-        "width" : 36.39,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-cow-fr.svg",
-        "dest" : "text-cow-fr.png",
-        "width" : 36.26,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-duck-fr.svg",
-        "dest" : "text-duck-fr.png",
-        "width" : 38.09,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-eat-fr.svg",
-        "dest" : "text-eat-fr.png",
-        "width" : 40,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-fish-fr.svg",
-        "dest" : "text-fish-fr.png",
-        "width" : 39.26,
-        "height" : 6.05 
-    },	
-	{
-        "src" : "text-fox-fr.svg",
-        "dest" : "text-fox-fr.png",
-        "width" : 37.5,
-        "height" : 6.1		
-    },	 
-	{
-        "src" : "text-giraffe-fr.svg",
-        "dest" : "text-giraffe-fr.png",
-        "width" : 35.55,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-gorilla-fr.svg",
-        "dest" : "text-gorilla-fr.png",
-        "width" : 37.63,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-hurt-fr.svg",
-        "dest" : "text-hurt-fr.png",
-        "width" : 40.1,
-        "height" : 6.1 
-    },	
-	{
-        "src" : "text-lion-fr.svg",
-        "dest" : "text-lion-fr.png",
-        "width" : 39.45,
-        "height" : 6.05 
-    },	 
-	{
-        "src" : "text-mouse-fr.svg",
-        "dest" : "text-mouse-fr.png",
-        "width" : 36.26,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-panda-fr.svg",
-        "dest" : "text-panda-fr.png",
-        "width" : 37.044,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-rabbit-fr.svg",
-        "dest" : "text-rabbit-fr.png",
-        "width" : 30.27344,
-        "height" : 6.1 
-    }, 
-	{
-        "src" : "text-dolphin-fr.svg",
-        "dest" : "text-dolphin-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-elf-fr.svg",
-        "dest" : "text-elf-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-sheep-fr.svg",
-        "dest" : "text-sheep-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-spider-fr.svg",
-        "dest" : "text-spider-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-chipmunck-fr.svg",
-        "dest" : "text-chipmunck-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-teddy-fr.svg",
-        "dest" : "text-teddy-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-turtle-fr.svg",
-        "dest" : "text-turtle-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-whale-fr.svg",
-        "dest" : "text-whale-fr.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-ant-en.svg",
-        "dest" : "text-ant-en.png",
-        "width" : 37.7,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-cat-en.svg",
-        "dest" : "text-cat-en.png",
-        "width" : 36.39,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-cow-en.svg",
-        "dest" : "text-cow-en.png",
-        "width" : 36.26,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-duck-en.svg",
-        "dest" : "text-duck-en.png",
-        "width" : 38.09,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-eat-en.svg",
-        "dest" : "text-eat-en.png",
-        "width" : 40,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-fish-en.svg",
-        "dest" : "text-fish-en.png",
-        "width" : 39.26,
-        "height" : 6.05 
-    },	
-	{
-        "src" : "text-fox-en.svg",
-        "dest" : "text-fox-en.png",
-        "width" : 37.5,
-        "height" : 6.1		
-    },	 
-	{
-        "src" : "text-giraffe-en.svg",
-        "dest" : "text-giraffe-en.png",
-        "width" : 35.55,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-gorilla-en.svg",
-        "dest" : "text-gorilla-en.png",
-        "width" : 37.63,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-hurt-en.svg",
-        "dest" : "text-hurt-en.png",
-        "width" : 40.1,
-        "height" : 6.1 
-    },	
-	{
-        "src" : "text-lion-en.svg",
-        "dest" : "text-lion-en.png",
-        "width" : 39.45,
-        "height" : 6.05 
-    },	 
-	{
-        "src" : "text-mouse-en.svg",
-        "dest" : "text-mouse-en.png",
-        "width" : 36.26,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-panda-en.svg",
-        "dest" : "text-panda-en.png",
-        "width" : 37.044,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-rabbit-en.svg",
-        "dest" : "text-rabbit-en.png",
-        "width" : 30.27344,
-        "height" : 6.1 
-    },	 
-	{
-        "src" : "text-zebra-en.svg",
-        "dest" : "text-zebra-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-chipmunk-en.svg",
-        "dest" : "text-chipmunck-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-dolphin-en.svg",
-        "dest" : "text-dolphin-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-elf-en.svg",
-        "dest" : "text-elf-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-sheep-en.svg",
-        "dest" : "text-sheep-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-spider-en.svg",
-        "dest" : "text-spider-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-teddy-en.svg",
-        "dest" : "text-teddy-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-whale-en.svg",
-        "dest" : "text-whale-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-    {
-        "src" : "text-turtle-en.svg",
-        "dest" : "text-turtle-en.png",
-        "width" : 36,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-bundle-full-fr.svg",
-        "dest" : "text-bundle-full-fr.png",
-        "width" : 36.71,
-        "height" : 6.25 
-    },
-	{
-        "src" : "text-bundle-full-en.svg",
-        "dest" : "text-bundle-full-en.png",
-        "width" : 22,
-        "height" : 2.14 
-    },
-	{
-        "src" : "text-bundle3-zebra-fr.svg",
-        "dest" : "text-bundle3-zebra-fr.png",
-        "width" : 49.48,
-        "height" : 6.1 
-    },
-	{
-        "src" : "text-bundle3-zebra-en.svg",
-        "dest" : "text-bundle3-zebra-en.png",
-        "width" : 50,
-        "height" : 6 
-    },
-	{
-        "src" : "text-bundle3-mouse-fr.svg",
-        "dest" : "text-bundle3-mouse-fr.png",
-        "width" : 49.74,
-        "height" : 6 
-    },
-	{
-        "src" : "text-bundle3-mouse-en.svg",
-        "dest" : "text-bundle3-mouse-en.png",
-        "width" : 50,
-        "height" : 6 
-    },
-	{
-        "src" : "text-bundle3-lion-fr.svg",
-        "dest" : "text-bundle3-lion-fr.png",
-        "width" : 49.35,
-        "height" : 5.71 
-    },
-	{
-        "src" : "text-bundle3-lion-en.svg",
-        "dest" : "text-bundle3-lion-en.png",
-        "width" : 49.67,
-        "height" : 5.86 
-    },
-	{
-        "src" : "text-bundle3-fish-fr.svg",
-        "dest" : "text-bundle3-fish-fr.png",
-        "width" : 48.9,
-        "height" : 5.71 
-    },
-	{
-        "src" : "text-bundle3-fish-en.svg",
-        "dest" : "text-bundle3-fish-en.png",
-        "width" : 47,
-        "height" : 5.81 
-    },
-	{
-        "src" : "text-bundle3-cow-fr.svg",
-        "dest" : "text-bundle3-cow-fr.png",
-        "width" : 48.9,
-        "height" : 6.05 
-    },
-		{
-        "src" : "text-bundle3-cow-en.svg",
-        "dest" : "text-bundle3-cow-en.png",
-        "width" : 50,
-        "height" : 6 
-    },
-	{
-        "src" : "text-bundle2-rabbit-fr.svg",
-        "dest" : "text-bundle2-rabbit-fr.png",
-        "width" : 48.69,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-rabbit-en.svg",
-        "dest" : "text-bundle2-rabbit-en.png",
-        "width" : 48.56,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-gorilla-fr.svg",
-        "dest" : "text-bundle2-gorilla-fr.png",
-        "width" : 50.4,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-gorilla-en.svg",
-        "dest" : "text-bundle2-gorilla-en.png",
-        "width" : 48.56,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-giraffe-fr.svg",
-        "dest" : "text-bundle2-giraffe-fr.png",
-        "width" : 49.48,
-        "height" : 6.05 
-    },
-		{
-        "src" : "text-bundle2-giraffe-en.svg",
-        "dest" : "text-bundle2-giraffe-en.png",
-        "width" : 48.57,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-fox-fr.svg",
-        "dest" : "text-bundle2-fox-fr.png",
-        "width" : 51.56,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-fox-en.svg",
-        "dest" : "text-bundle2-fox-en.png",
-        "width" : 48.56,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-cat-fr.svg",
-        "dest" : "text-bundle2-cat-fr.png",
-        "width" : 47.33,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle2-cat-en.svg",
-        "dest" : "text-bundle2-cat-en.png",
-        "width" : 48.56,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-panda-fr.svg",
-        "dest" : "text-bundle1-panda-fr.png",
-        "width" : 49.15,
-        "height" : 6.05 
-    },
-		{
-        "src" : "text-bundle1-panda-en.svg",
-        "dest" : "text-bundle1-panda-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-hurt-fr.svg",
-        "dest" : "text-bundle1-hurt-fr.png",
-        "width" : 46.8,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-hurt-en.svg",
-        "dest" : "text-bundle1-hurt-en.png",
-        "width" : 44.6,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-eat-fr.svg",
-        "dest" : "text-bundle1-eat-fr.png",
-        "width" : 44.6,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-eat-en.svg",
-        "dest" : "text-bundle1-eat-en.png",
-        "width" : 43.88,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-duck-fr.svg",
-        "dest" : "text-bundle1-duck-fr.png",
-        "width" : 50.78,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-duck-en.svg",
-        "dest" : "text-bundle1-duck-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-ant-fr.svg",
-        "dest" : "text-bundle1-ant-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle1-ant-en.svg",
-        "dest" : "text-bundle1-ant-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle5-teddy-fr.svg",
-        "dest" : "text-bundle5-teddy-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle5-teddy-en.svg",
-        "dest" : "text-bundle5-teddy-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle5-spider-fr.svg",
-        "dest" : "text-bundle5-spider-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle5-spider-en.svg",
-        "dest" : "text-bundle5-spider-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle5-chipmunck-fr.svg",
-        "dest" : "text-bundle5-chipmunck-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle5-chipmunk-en.svg",
-        "dest" : "text-bundle5-chipmunk-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle5-sheep-fr.svg",
-        "dest" : "text-bundle5-sheep-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle5-sheep-en.svg",
-        "dest" : "text-bundle5-sheep-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle4-dolphin-fr.svg",
-        "dest" : "text-bundle4-dolphin-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle4-dolphin-en.svg",
-        "dest" : "text-bundle4-dolphin-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle4-elf-fr.svg",
-        "dest" : "text-bundle4-elf-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle4-elf-en.svg",
-        "dest" : "text-bundle4-elf-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle4-turtle-fr.svg",
-        "dest" : "text-bundle4-turtle-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle4-turtle-en.svg",
-        "dest" : "text-bundle4-turtle-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-    {
-        "src" : "text-bundle4-whale-fr.svg",
-        "dest" : "text-bundle4-whale-fr.png",
-        "width" : 50.58,
-        "height" : 6.05 
-    },
-	{
-        "src" : "text-bundle4-whale-en.svg",
-        "dest" : "text-bundle4-whale-en.png",
-        "width" : 47.79,
-        "height" : 6.05 
-    },
-	{
-        "src" : "buy-red-en.svg",
-        "dest" : "buy-red-en.png",
-        "width" : 21.61,
-        "height" : 4.59 
-    },
-    {
-        "src" : "version-complete-pic-ui.svg",
-        "dest" : "version-complete-pic-ui.png",
-          "width" : 36.328,
-        "height" : 31.982
-    }, 
-	{
-        "src" : "version-complete-pic-ui.svg",
-        "dest" : "version-complete-pic-ui-small.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    },
-    {
-        "src" : "version-complete-pic-ui-en.svg",
-        "dest" : "version-complete-pic-ui-en.png",
-        "width" : 36.328,
-        "height" : 31.982
-    },
-    {
-        "src" : "version-complete-pic-ui-en.svg",
-        "dest" : "version-complete-pic-ui-small-en.png",
-        "width" : 21.7968,
-        "height" : 19.1892
-    },
-    {
-        "src" : "zebrabook-icon-ui.svg",
-        "dest" : "zebrabook-icon-ui.png",
-        "width" : 36.393,
-        "height" : 32.08
-    },
-	{
-        "src" : "zebrabook-icon-ui.svg",
-        "dest" : "zebrabook-icon-ui-small.png",
-        "width" : 21.8358,
-        "height" : 19.248
-    },
-	{
-        "src" : "zebrabook-icon-ui-en.svg",
-        "dest" : "zebrabook-icon-ui-en.png",
-        "width" : 36.393,
-        "height" : 32.08
-    },
-	{
-        "src" : "zebrabook-icon-ui-en.svg",
-        "dest" : "zebrabook-icon-ui-en-small.png",
-        "width" : 21.8358,
-        "height" : 19.248
-    },
-    {
-        "src" : "frame.svg",
-        "dest" : "frame.png",
-        "width" :31 ,
-        "height" : 26 
-    },
-    {
-        "src" : "dummytext.svg",
-        "dest" : "dummytext.png",
-        "width" : 33,
-        "height" : 10 
-    },
-	{
-		"src" : "red-line.svg",
-        "dest" : "red-line.png",
-        "width" : 1,
-        "height" : 0.5
-		
-	}
-	,
-	{
-		"src" : "automatic_off.svg",
-        "dest" : "automatic_off.png",
-       "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "automatic_on.svg",
-        "dest" : "automatic_on.png",
-      "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "automatique_on.svg",
-        "dest" : "automatique_on.png",
-        "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "automatique_off.svg",
-        "dest" : "automatique_off.png",
-        "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "code_required_off.svg",
-        "dest" : "code_required_off.png",
-       "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "code_required_on.svg",
-        "dest" : "code_required_on.png",
-       "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "code_requis_on.svg",
-        "dest" : "code_requis_on.png",
-        "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "code_requis_off.svg",
-        "dest" : "code_requis_off.png",
-       "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "manually_off.svg",
-        "dest" : "manually_off.png",
-       "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "manually_on.svg",
-        "dest" : "manually_on.png",
-        "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "manuel_on.svg",
-        "dest" : "manuel_on.png",
-        "width" : 17,
-        "height" : 9.1
-		
-	}
-	,
-	{
-		"src" : "manuel_off.svg",
-        "dest" : "manuel_off.png",
-        "width" : 17,
-        "height" : 9.1
-		
-	},
-		{
-        "src" : "bundle_1.svg",
-        "dest" : "bundle_1.png",
-        "width" : 27.6,
-        "height" : 3.5 
-    },
-		{
-        "src" : "bundle_2.svg",
-        "dest" : "bundle_2.png",
-        "width" : 27.6,
-        "height" : 3.5 
-    },
-		{
-        "src" : "bundle_3.svg",
-        "dest" : "bundle_3.png",
-        "width" : 27.6,
-        "height" : 3.5 
-    },
-        {
-        "src" : "bundle_4.svg",
-        "dest" : "bundle_4.png",
-        "width" : 27.6,
-        "height" : 3.5 
-    },
-    {
-        "src" : "bundle_5.svg",
-        "dest" : "bundle_5.png",
-        "width" : 27.6,
-        "height" : 3.5 
-    },
-    
-		{
-        "src" : "coffret_1.svg",
-        "dest" : "coffret_1.png",
-        "width" : 27.6,
-        "height" : 3.5
-    },
-		{
-        "src" : "coffret_2.svg",
-        "dest" : "coffret_2.png",
-        "width" : 27.6,
-        "height" : 3.5 
-    },
-		{
-        "src" : "coffret_3.svg",
-        "dest" : "coffret_3.png",
-        "width" : 27.6,
-        "height" : 3.5 
-        },
-        {
-            "src" : "coffret_4.svg",
-            "dest" : "coffret_4.png",
-            "width" : 27.6,
-            "height" : 3.5 
-            },
-            {
-                "src" : "coffret_5.svg",
-                "dest" : "coffret_5.png",
-                "width" : 27.6,
-                "height" : 3.5 
-                },
-        {
-            "src" : "rate_app_fr.svg",
-            "dest" : "rate_app_fr.png",
-            "width" : 76,
-            "height" : 14.9
-        },
-        {
-            "src" : "rate_app_en.svg",
-            "dest" : "rate_app_en.png",
-            "width" : 76,
-            "height" : 14.9
-        },
-        {
-            "src" : "restore_purchases_en.svg",
-            "dest" : "restore_purchases_en.png",
-            "width" : 42.96,
-            "height" : 9
-        },
-        {
-            "src" : "restore_purchases_fr.svg",
-            "dest" : "restore_purchases_fr.png",
-            "width" : 42.96,
-            "height" : 9
-        },
-        {
-            "src" : "PG_buying_en.svg",
-            "dest" : "PG_buying_en.png",
-            "width" : 100,
-            "height" : 100
-        },
-        {
-            "src" : "PG_buying_fr.svg",
-            "dest" : "PG_buying_fr.png",
-            "width" : 100,
-            "height" : 100
-        }
+        "src": "option_title_notation.svg",
+        "dest": "option_title_notation.png",
+        "width": 45.5,
+        "height": 5.7
+    },
+    {
+        "src": "review_option_title_en.svg",
+        "dest": "review_option_title_en.png",
+        "width": 32,
+        "height": 5.1
+    },
+    {
+        "src": "orthopicto_option_title_en.svg",
+        "dest": "orthopicto_option_title_en.png",
+        "width": 45.5,
+        "height": 5.7
+    },
+    {
+        "src": "language_option_title_en.svg",
+        "dest": "language_option_title_en.png",
+        "width": 45.5,
+        "height": 5.7
+    },
+    {
+        "src": "information_option_title_en.svg",
+        "dest": "information_option_title_en.png",
+        "width": 45.5,
+        "height": 5.7
+    },
+    {
+        "src": "buyonline_option_title_en.svg",
+        "dest": "buyonline_option_title_en.png",
+        "width": 45.5,
+        "height": 5.7
+    },
+    {
+        "src": "home_icon_selected.svg",
+        "dest": "home_icon_selected.png",
+        "width": 10,
+        "height": 10
+    },
+    {
+        "src": "home_icon_unselected.svg",
+        "dest": "home_icon_unselected.png",
+        "width": 10,
+        "height": 10
+    },
+    {
+        "src": "parent_info_unselected.svg",
+        "dest": "parent_info_unselected.png",
+        "width": 20,
+        "height": 20
+    },
+    {
+        "src": "parent_info_selected.svg",
+        "dest": "parent_info_selected.png",
+        "width": 20,
+        "height": 20
+    },
+    {
+        "src": "options_button.svg",
+        "dest": "options_button.png",
+        "width": 40,
+        "height": 14
+    },
+    {
+        "src": "play_green_selected.svg",
+        "dest": "play_green_selected.png",
+        "width": 20,
+        "height": 16
+    },
+    {
+        "src": "play_green_unselected.svg",
+        "dest": "play_green_unselected.png",
+        "width": 20,
+        "height": 16
+    },
+    {
+        "src": "3-orange-rectangle-ui.svg",
+        "dest": "3-orange-rectangle-ui.png",
+        "width": 87,
+        "height": 79.6
+    },
+    {
+        "src": "achat-en-ligne-ui.svg",
+        "dest": "achat-en-ligne-ui.png",
+        "width": 56,
+        "height": 5.6
+    },
+    {
+        "src": "achetez-red-on-ui-fr.svg",
+        "dest": "achetez-red-on-ui-fr.png",
+        "width": 22,
+        "height": 4.6
+    },
+    {
+        "src": "achetez-red-off-ui-fr.svg",
+        "dest": "achetez-red-off-ui-fr.png",
+        "width": 22,
+        "height": 4.6
+    },
+    {
+        "src": "antbook-icon-ui.svg",
+        "dest": "antbook-icon-ui.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "antbook-icon-ui.svg",
+        "dest": "antbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "antbook-icon-ui-en.svg",
+        "dest": "antbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "antbook-icon-ui-en.svg",
+        "dest": "antbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "back_arrow_selected.svg",
+        "dest": "back_arrow_selected.png",
+        "width": 9,
+        "height": 6.3
+    },
+    {
+        "src": "back_arrow_unselected.svg",
+        "dest": "back_arrow_unselected.png",
+        "width": 9,
+        "height": 6.3
+    },
+    {
+        "src": "background-option-menu-ui.svg",
+        "dest": "background-option-menu-ui.png",
+        "width": 101,
+        "height": 100
+    },
+    {
+        "src": "background-option-menu-ui_en.svg",
+        "dest": "background-option-menu-ui_en.png",
+        "width": 101,
+        "height": 100
+    },
+    {
+        "src": "button-buble.svg",
+        "dest": "button-buble.png",
+        "width": 4,
+        "height": 1.2
+    },
+    {
+        "src": "button-off-joueurs-filter-ui.svg",
+        "dest": "button-off-joueurs-filter-ui.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "buy-icon-red-ui.svg",
+        "dest": "buy-icon-red-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "buy-white-background.svg",
+        "dest": "buy-white-background.png",
+        "width": 60,
+        "height": 53.3
+    },
+    {
+        "src": "catbook-icon-ui.svg",
+        "dest": "catbook-icon-ui.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "catbook-icon-ui.svg",
+        "dest": "catbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "catbook-icon-ui-en.svg",
+        "dest": "catbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "catbook-icon-ui-en.svg",
+        "dest": "catbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "choisis-ton-livre-ui.svg",
+        "dest": "choisis-ton-livre-ui.png",
+        "width": 60,
+        "height": 5
+    },
+    {
+        "src": "choisis-ton-livre-ui_en.svg",
+        "dest": "choisis-ton-livre-ui_en.png",
+        "width": 60,
+        "height": 5
+    },
+    {
+        "src": "collection1book-icon-ui.svg",
+        "dest": "collection1book-icon-ui.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection1book-icon-ui.svg",
+        "dest": "collection1book-icon-ui-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection2book-icon-ui.svg",
+        "dest": "collection2book-icon-ui.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection2book-icon-ui.svg",
+        "dest": "collection2book-icon-ui-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection3book-icon-ui.svg",
+        "dest": "collection3book-icon-ui.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection3book-icon-ui.svg",
+        "dest": "collection3book-icon-ui-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection4book-icon-ui.svg",
+        "dest": "collection4book-icon-ui.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection4book-icon-ui.svg",
+        "dest": "collection4book-icon-ui-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection5book-icon-ui.svg",
+        "dest": "collection5book-icon-ui.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection5book-icon-ui.svg",
+        "dest": "collection5book-icon-ui-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "cowbook-icon-ui.svg",
+        "dest": "cowbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "cowbook-icon-ui.svg",
+        "dest": "cowbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "duckbook-icon-ui.svg",
+        "dest": "duckbook-icon-ui.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "duckbook-icon-ui.svg",
+        "dest": "duckbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "fishbook-icon-ui.svg",
+        "dest": "fishbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "fishbook-icon-ui.svg",
+        "dest": "fishbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "foxbook-icon-ui.svg",
+        "dest": "foxbook-icon-ui.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "foxbook-icon-ui.svg",
+        "dest": "foxbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "giraffebook-icon-ui.svg",
+        "dest": "giraffebook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "giraffebook-icon-ui.svg",
+        "dest": "giraffebook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "turtlebook-icon-ui.svg",
+        "dest": "turtlebook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "turtlebook-icon-ui.svg",
+        "dest": "turtlebook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "whalebook-icon-ui.svg",
+        "dest": "whalebook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "whalebook-icon-ui.svg",
+        "dest": "whalebook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "sheepbook-icon-ui.svg",
+        "dest": "sheepbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "sheepbook-icon-ui.svg",
+        "dest": "sheepbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "spiderbook-icon-ui.svg",
+        "dest": "spiderbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "spiderbook-icon-ui.svg",
+        "dest": "spiderbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "squirrelbook-icon-ui.svg",
+        "dest": "squirrelbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "squirrelbook-icon-ui.svg",
+        "dest": "squirrelbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "dolphinbook-icon-ui.svg",
+        "dest": "dolphinbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "dolphinbook-icon-ui.svg",
+        "dest": "dolphinbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "teddybook-icon-ui.svg",
+        "dest": "teddybook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "teddybook-icon-ui.svg",
+        "dest": "teddybook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "elfbook-icon-ui.svg",
+        "dest": "elfbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "elfbook-icon-ui.svg",
+        "dest": "elfbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "collection1book-icon-ui-en.svg",
+        "dest": "collection1book-icon-ui-en.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection1book-icon-ui-en.svg",
+        "dest": "collection1book-icon-ui-en-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection2book-icon-ui-en.svg",
+        "dest": "collection2book-icon-ui-en.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection2book-icon-ui-en.svg",
+        "dest": "collection2book-icon-ui-en-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection3book-icon-ui-en.svg",
+        "dest": "collection3book-icon-ui-en.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection3book-icon-ui-en.svg",
+        "dest": "collection3book-icon-ui-en-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection4book-icon-ui-en.svg",
+        "dest": "collection4book-icon-ui-en.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection4book-icon-ui-en.svg",
+        "dest": "collection4book-icon-ui-en-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "collection5book-icon-ui-en.svg",
+        "dest": "collection5book-icon-ui-en.png",
+        "width": 36.393,
+        "height": 32.031
+    },
+    {
+        "src": "collection5book-icon-ui-en.svg",
+        "dest": "collection5book-icon-ui-en-small.png",
+        "width": 21.8358,
+        "height": 19.2186
+    },
+    {
+        "src": "cowbook-icon-ui-en.svg",
+        "dest": "cowbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "cowbook-icon-ui-en.svg",
+        "dest": "cowbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "duckbook-icon-ui-en.svg",
+        "dest": "duckbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "duckbook-icon-ui-en.svg",
+        "dest": "duckbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "fishbook-icon-ui-en.svg",
+        "dest": "fishbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "fishbook-icon-ui-en.svg",
+        "dest": "fishbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "foxbook-icon-ui-en.svg",
+        "dest": "foxbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "foxbook-icon-ui-en.svg",
+        "dest": "foxbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "giraffebook-icon-ui-en.svg",
+        "dest": "giraffebook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "giraffebook-icon-ui-en.svg",
+        "dest": "giraffebook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "elfbook-icon-ui-en.svg",
+        "dest": "elfbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "elfbook-icon-ui-en.svg",
+        "dest": "elfbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "turtlebook-icon-ui-en.svg",
+        "dest": "turtlebook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "turtlebook-icon-ui-en.svg",
+        "dest": "turtlebook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "sheepbook-icon-ui-en.svg",
+        "dest": "sheepbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "sheepbook-icon-ui-en.svg",
+        "dest": "sheepbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "spiderbook-icon-ui-en.svg",
+        "dest": "spiderbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "spiderbook-icon-ui-en.svg",
+        "dest": "spiderbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "squirrelbook-icon-ui-en.svg",
+        "dest": "squirrelbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "squirrelbook-icon-ui-en.svg",
+        "dest": "squirrelbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "dolphinbook-icon-ui-en.svg",
+        "dest": "dolphinbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "dolphinbook-icon-ui-en.svg",
+        "dest": "dolphinbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "teddybook-icon-ui-en.svg",
+        "dest": "teddybook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "teddybook-icon-ui-en.svg",
+        "dest": "teddybook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "whalebook-icon-ui-en.svg",
+        "dest": "whalebook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "whalebook-icon-ui-en.svg",
+        "dest": "whalebook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1568
+    },
+    {
+        "src": "go-back-off-ui.svg",
+        "dest": "go-back-off-ui.png",
+        "width": 5.1,
+        "height": 7
+    },
+    {
+        "src": "go-back-on-ui.svg",
+        "dest": "go-back-on-ui.png",
+        "width": 5.1,
+        "height": 7
+    },
+    {
+        "src": "page-turn-left.svg",
+        "dest": "page-turn-left.png",
+        "width": 10,
+        "height": 14
+    },
+    {
+        "src": "gorillabook-icon-ui.svg",
+        "dest": "gorillabook-icon-ui.png",
+        "width": 36.263,
+        "height": 32.031
+    },
+    {
+        "src": "gorillabook-icon-ui.svg",
+        "dest": "gorillabook-icon-ui-small.png",
+        "width": 21.7578,
+        "height": 19.2186
+    },
+    {
+        "src": "gorillabook-icon-ui-en.svg",
+        "dest": "gorillabook-icon-ui-en.png",
+        "width": 36.263,
+        "height": 32.031
+    },
+    {
+        "src": "gorillabook-icon-ui-en.svg",
+        "dest": "gorillabook-icon-ui-en-small.png",
+        "width": 21.7578,
+        "height": 19.2186
+    },
+    {
+        "src": "green-check-ui.svg",
+        "dest": "green-check-ui.png",
+        "width": 8,
+        "height": 6.1
+    },
+    {
+        "src": "homepage-background-ui.svg",
+        "dest": "homepage-background-ui.png",
+        "width": 101,
+        "height": 100
+    },
+    {
+        "src": "homepage-background-ui_en.svg",
+        "dest": "homepage-background-ui_en.png",
+        "width": 101,
+        "height": 100
+    },
+    {
+        "src": "hurtbook-icon-ui.svg",
+        "dest": "hurtbook-icon-ui.png",
+        "width": 36.263,
+        "height": 32.031
+    },
+    {
+        "src": "hurtbook-icon-ui.svg",
+        "dest": "hurtbook-icon-ui-small.png",
+        "width": 21.7578,
+        "height": 19.2186
+    },
+    {
+        "src": "hurtbook-icon-ui-en.svg",
+        "dest": "hurtbook-icon-ui-en.png",
+        "width": 36.263,
+        "height": 32.031
+    },
+    {
+        "src": "hurtbook-icon-ui-en.svg",
+        "dest": "hurtbook-icon-ui-en-small.png",
+        "width": 21.7578,
+        "height": 19.2186
+    },
+    {
+        "src": "icone-buy-off-ui.svg",
+        "dest": "icone-buy-off-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-buy-on-ui.svg",
+        "dest": "icone-buy-on-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-facebook-off-ui.svg",
+        "dest": "icone-facebook-off-ui.png",
+        "width": 10,
+        "height": 7.6
+    },
+    {
+        "src": "icone-facebook-on-ui.svg",
+        "dest": "icone-facebook-on-ui.png",
+        "width": 10,
+        "height": 7.6
+    },
+    {
+        "src": "icone-information-on-ui.svg",
+        "dest": "icone-information-on-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-information-off-ui.svg",
+        "dest": "icone-information-off-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-language-on-ui.svg",
+        "dest": "icone-language-on-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-language-off-ui.svg",
+        "dest": "icone-language-off-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-mail-off-ui.svg",
+        "dest": "icone-mail-off-ui.png",
+        "width": 10,
+        "height": 7.6
+    },
+    {
+        "src": "icone-mail-on-ui.svg",
+        "dest": "icone-mail-on-ui.png",
+        "width": 10,
+        "height": 7.6
+    },
+    {
+        "src": "icone-orthopicto-on-ui.svg",
+        "dest": "icone-orthopicto-on-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-orthopicto-off-ui.svg",
+        "dest": "icone-orthopicto-off-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-rating-off-ui.svg",
+        "dest": "icone-rating-off-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "icone-rating-on-ui.svg",
+        "dest": "icone-rating-on-ui.png",
+        "width": 15,
+        "height": 12.7
+    },
+    {
+        "src": "information-title.svg",
+        "dest": "information-title.png",
+        "width": 49,
+        "height": 5.4
+    },
+    {
+        "src": "language-title-ui.svg",
+        "dest": "language-title-ui.png",
+        "width": 37,
+        "height": 5.4
+    },
+    {
+        "src": "language-fr-unselected-fr.svg",
+        "dest": "language-fr-unselected-fr.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-fr-selected-fr.svg",
+        "dest": "language-fr-selected-fr.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-qc-unselected-fr.svg",
+        "dest": "language-qc-unselected-fr.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-qc-selected-fr.svg",
+        "dest": "language-qc-selected-fr.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-usa-unselected-fr.svg",
+        "dest": "language-usa-unselected-fr.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-usa-selected-fr.svg",
+        "dest": "language-usa-selected-fr.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-fr-unselected-en.svg",
+        "dest": "language-fr-unselected-en.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-fr-selected-en.svg",
+        "dest": "language-fr-selected-en.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-qc-unselected-en.svg",
+        "dest": "language-qc-unselected-en.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-qc-selected-en.svg",
+        "dest": "language-qc-selected-en.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-usa-unselected-en.svg",
+        "dest": "language-usa-unselected-en.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "language-usa-selected-en.svg",
+        "dest": "language-usa-selected-en.png",
+        "width": 73,
+        "height": 12.9
+    },
+    {
+        "src": "options_button_level_one_selected_fr.svg",
+        "dest": "options_button_level_one_selected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_level_three_selected_fr.svg",
+        "dest": "options_button_level_three_selected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_level_two_selected_fr.svg",
+        "dest": "options_button_level_two_selected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_level_one_unselected_fr.svg",
+        "dest": "options_button_level_one_unselected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_level_three_unselected_fr.svg",
+        "dest": "options_button_level_three_unselected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_level_four_selected_fr.svg",
+        "dest": "options_button_level_four_selected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "PG_buying_four_unselected.svg",
+        "dest": "PG_buying_four_unselected.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_level_two_unselected_fr.svg",
+        "dest": "options_button_level_two_unselected_fr.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "options_player_infant_adult_selected_fr.svg",
+        "dest": "options_player_infant_adult_selected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_player_infant_selected_fr.svg",
+        "dest": "options_player_infant_selected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_written_selected_fr.svg",
+        "dest": "options_button_written_selected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_phrases_selected_fr.svg",
+        "dest": "options_button_phrases_selected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_player_infant_adult_unselected_fr.svg",
+        "dest": "options_player_infant_adult_unselected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_player_infant_unselected_fr.svg",
+        "dest": "options_player_infant_unselected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_written_unselected_fr.svg",
+        "dest": "options_button_written_unselected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "options_button_phrases_unselected_fr.svg",
+        "dest": "options_button_phrases_unselected_fr.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "option_sentence_builder_off_en.svg",
+        "dest": "option_sentence_builder_off_en.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "option_sentence_builder_on_en.svg",
+        "dest": "option_sentence_builder_on_en.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "option_written_language_off_en.svg",
+        "dest": "option_written_language_off_en.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "option_written_language_on_en.svg",
+        "dest": "option_written_language_on_en.png",
+        "width": 27,
+        "height": 9.1
+    },
+    {
+        "src": "lionbook-icon-ui.svg",
+        "dest": "lionbook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "lionbook-icon-ui.svg",
+        "dest": "lionbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "lionbook-icon-ui-en.svg",
+        "dest": "lionbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "lionbook-icon-ui-en.svg",
+        "dest": "lionbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "lock-red-ui.svg",
+        "dest": "lock-red-ui.png",
+        "width": 8,
+        "height": 6
+    },
+    {
+        "src": "lock-ui.svg",
+        "dest": "lock-ui.png",
+        "width": 10,
+        "height": 9
+    },
+    {
+        "src": "logo-orthopicto-ui.svg",
+        "dest": "logo-orthopicto-ui.png",
+        "width": 83,
+        "height": 14.2
+    },
+    {
+        "src": "menuoption-homepage-on-ui.svg",
+        "dest": "menuoption-homepage-on-ui.png",
+        "width": 8,
+        "height": 6.1
+    },
+    {
+        "src": "menuoption-homepage-off-ui.svg",
+        "dest": "menuoption-homepage-off-ui.png",
+        "width": 8,
+        "height": 6.1
+    },
+    {
+        "src": "mmmbook-icon-ui.svg",
+        "dest": "mmmbook-icon-ui.png",
+        "width": 36.263,
+        "height": 32.031
+    },
+    {
+        "src": "mmmbook-icon-ui.svg",
+        "dest": "mmmbook-icon-ui-small.png",
+        "width": 21.7578,
+        "height": 19.2186
+    },
+    {
+        "src": "mousebook-icon-ui.svg",
+        "dest": "mousebook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "mousebook-icon-ui.svg",
+        "dest": "mousebook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "mmmbook-icon-ui-en.svg",
+        "dest": "mmmbook-icon-ui-en.png",
+        "width": 36.263,
+        "height": 32.031
+    },
+    {
+        "src": "mmmbook-icon-ui-en.svg",
+        "dest": "mmmbook-icon-ui-en-small.png",
+        "width": 21.7578,
+        "height": 19.2186
+    },
+    {
+        "src": "mousebook-icon-ui-en.svg",
+        "dest": "mousebook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "mousebook-icon-ui-en.svg",
+        "dest": "mousebook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "object-button-off-filter-ui.svg",
+        "dest": "object-button-off-filter-ui.png",
+        "width": 26,
+        "height": 9.1
+    },
+    {
+        "src": "options_background.svg",
+        "dest": "options_background.png",
+        "width": 101,
+        "height": 100
+    },
+    {
+        "src": "options_background_en.svg",
+        "dest": "options_background_en.png",
+        "width": 101,
+        "height": 100
+    },
+    {
+        "src": "options-menu-title-ui.svg",
+        "dest": "options-menu-title-ui.png",
+        "width": 35,
+        "height": 6.1
+    },
+    {
+        "src": "orthopicto-title-ui.svg",
+        "dest": "orthopicto-title-ui.png",
+        "width": 46,
+        "height": 6
+    },
+    {
+        "src": "pandabook-icon-ui.svg",
+        "dest": "pandabook-icon-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "pandabook-icon-ui.svg",
+        "dest": "pandabook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "pandabook-icon-ui-en.svg",
+        "dest": "pandabook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "pandabook-icon-ui-en.svg",
+        "dest": "pandabook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "pin_1_normal.svg",
+        "dest": "pin_1_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_2_normal.svg",
+        "dest": "pin_2_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_3_normal.svg",
+        "dest": "pin_3_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_4_normal.svg",
+        "dest": "pin_4_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_5_normal.svg",
+        "dest": "pin_5_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_6_normal.svg",
+        "dest": "pin_6_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_7_normal.svg",
+        "dest": "pin_7_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_8_normal.svg",
+        "dest": "pin_8_normal.png",
+        "width": 4.6875,
+        "height": 3.515625
+    },
+    {
+        "src": "pin_9_normal.svg",
+        "dest": "pin_9_normal.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_1_selected.svg",
+        "dest": "pin_1_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_2_selected.svg",
+        "dest": "pin_2_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_3_selected.svg",
+        "dest": "pin_3_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_4_selected.svg",
+        "dest": "pin_4_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_5_selected.svg",
+        "dest": "pin_5_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_6_selected.svg",
+        "dest": "pin_6_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_7_selected.svg",
+        "dest": "pin_7_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_8_selected.svg",
+        "dest": "pin_8_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_9_selected.svg",
+        "dest": "pin_9_selected.png",
+        "width": 9.375,
+        "height": 7.03125
+    },
+    {
+        "src": "pin_instruction_fr.svg",
+        "dest": "pin_instruction_fr.png",
+        "width": 43.68489,
+        "height": 1.66
+    },
+    {
+        "src": "pin_instruction_en.svg",
+        "dest": "pin_instruction_en.png",
+        "width": 59.082,
+        "height": 2.49
+    },
+    {
+        "src": "pin_failed_fr.svg",
+        "dest": "pin_failed_fr.png",
+        "width": 14.192708,
+        "height": 1.61133
+    },
+    {
+        "src": "pin_failed_en.svg",
+        "dest": "pin_failed_en.png",
+        "width": 13.28115,
+        "height": 1.83105
+    },
+    {
+        "src": "placement-bouche-panda.svg",
+        "dest": "placement-bouche-panda.png",
+        "width": 100,
+        "height": 100
+    },
+    {
+        "src": "proset-icon-ui.svg",
+        "dest": "proset-icon-ui.png",
+        "width": 26,
+        "height": 20.2
+    },
+    {
+        "src": "rabbitbook-icon-ui.svg",
+        "dest": "rabbitbook-icon-ui.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "rabbitbook-icon-ui.svg",
+        "dest": "rabbitbook-icon-ui-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "rabbitbook-icon-ui-en.svg",
+        "dest": "rabbitbook-icon-ui-en.png",
+        "width": 36.328,
+        "height": 32.031
+    },
+    {
+        "src": "rabbitbook-icon-ui-en.svg",
+        "dest": "rabbitbook-icon-ui-en-small.png",
+        "width": 21.7968,
+        "height": 19.2186
+    },
+    {
+        "src": "red-x-ui.svg",
+        "dest": "red-x-ui.png",
+        "width": 12,
+        "height": 9.4
+    },
+    {
+        "src": "end_replay_button_selected.svg",
+        "dest": "end_replay_button_selected.png",
+        "width": 20,
+        "height": 15.6
+    },
+    {
+        "src": "end_replay_button_unselected.svg",
+        "dest": "end_replay_button_unselected.png",
+        "width": 20,
+        "height": 15.6
+    },
+    {
+        "src": "set1-icon-ui.svg",
+        "dest": "set1-icon-ui.png",
+        "width": 36,
+        "height": 32
+    },
+    {
+        "src": "set1-v2-icon-ui.svg",
+        "dest": "set1-v2-icon-ui.png",
+        "width": 67,
+        "height": 46
+    },
+    {
+        "src": "set2-icon-ui.svg",
+        "dest": "set2-icon-ui.png",
+        "width": 36,
+        "height": 32.7
+    },
+    {
+        "src": "set2-v2-icon-ui.svg",
+        "dest": "set2-v2-icon-ui.png",
+        "width": 69,
+        "height": 52.4
+    },
+    {
+        "src": "set3-icon-ui.svg",
+        "dest": "set3-icon-ui.png",
+        "width": 36,
+        "height": 32.1
+    },
+    {
+        "src": "set3-v2-icon-ui.svg",
+        "dest": "set3-v2-icon-ui.png",
+        "width": 61,
+        "height": 47
+    },
+    {
+        "src": "text-ant-fr.svg",
+        "dest": "text-ant-fr.png",
+        "width": 37.7,
+        "height": 6.1
+    },
+    {
+        "src": "text-cat-fr.svg",
+        "dest": "text-cat-fr.png",
+        "width": 36.39,
+        "height": 6.1
+    },
+    {
+        "src": "text-cow-fr.svg",
+        "dest": "text-cow-fr.png",
+        "width": 36.26,
+        "height": 6.1
+    },
+    {
+        "src": "text-duck-fr.svg",
+        "dest": "text-duck-fr.png",
+        "width": 38.09,
+        "height": 6.1
+    },
+    {
+        "src": "text-eat-fr.svg",
+        "dest": "text-eat-fr.png",
+        "width": 40,
+        "height": 6.1
+    },
+    {
+        "src": "text-fish-fr.svg",
+        "dest": "text-fish-fr.png",
+        "width": 39.26,
+        "height": 6.05
+    },
+    {
+        "src": "text-fox-fr.svg",
+        "dest": "text-fox-fr.png",
+        "width": 37.5,
+        "height": 6.1
+    },
+    {
+        "src": "text-giraffe-fr.svg",
+        "dest": "text-giraffe-fr.png",
+        "width": 35.55,
+        "height": 6.1
+    },
+    {
+        "src": "text-gorilla-fr.svg",
+        "dest": "text-gorilla-fr.png",
+        "width": 37.63,
+        "height": 6.1
+    },
+    {
+        "src": "text-hurt-fr.svg",
+        "dest": "text-hurt-fr.png",
+        "width": 40.1,
+        "height": 6.1
+    },
+    {
+        "src": "text-lion-fr.svg",
+        "dest": "text-lion-fr.png",
+        "width": 39.45,
+        "height": 6.05
+    },
+    {
+        "src": "text-mouse-fr.svg",
+        "dest": "text-mouse-fr.png",
+        "width": 36.26,
+        "height": 6.1
+    },
+    {
+        "src": "text-panda-fr.svg",
+        "dest": "text-panda-fr.png",
+        "width": 37.044,
+        "height": 6.1
+    },
+    {
+        "src": "text-rabbit-fr.svg",
+        "dest": "text-rabbit-fr.png",
+        "width": 30.27344,
+        "height": 6.1
+    },
+    {
+        "src": "text-dolphin-fr.svg",
+        "dest": "text-dolphin-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-elf-fr.svg",
+        "dest": "text-elf-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-sheep-fr.svg",
+        "dest": "text-sheep-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-spider-fr.svg",
+        "dest": "text-spider-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-chipmunck-fr.svg",
+        "dest": "text-chipmunck-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-teddy-fr.svg",
+        "dest": "text-teddy-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-turtle-fr.svg",
+        "dest": "text-turtle-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-whale-fr.svg",
+        "dest": "text-whale-fr.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-ant-en.svg",
+        "dest": "text-ant-en.png",
+        "width": 37.7,
+        "height": 6.1
+    },
+    {
+        "src": "text-cat-en.svg",
+        "dest": "text-cat-en.png",
+        "width": 36.39,
+        "height": 6.1
+    },
+    {
+        "src": "text-cow-en.svg",
+        "dest": "text-cow-en.png",
+        "width": 36.26,
+        "height": 6.1
+    },
+    {
+        "src": "text-duck-en.svg",
+        "dest": "text-duck-en.png",
+        "width": 38.09,
+        "height": 6.1
+    },
+    {
+        "src": "text-eat-en.svg",
+        "dest": "text-eat-en.png",
+        "width": 40,
+        "height": 6.1
+    },
+    {
+        "src": "text-fish-en.svg",
+        "dest": "text-fish-en.png",
+        "width": 39.26,
+        "height": 6.05
+    },
+    {
+        "src": "text-fox-en.svg",
+        "dest": "text-fox-en.png",
+        "width": 37.5,
+        "height": 6.1
+    },
+    {
+        "src": "text-giraffe-en.svg",
+        "dest": "text-giraffe-en.png",
+        "width": 35.55,
+        "height": 6.1
+    },
+    {
+        "src": "text-gorilla-en.svg",
+        "dest": "text-gorilla-en.png",
+        "width": 37.63,
+        "height": 6.1
+    },
+    {
+        "src": "text-hurt-en.svg",
+        "dest": "text-hurt-en.png",
+        "width": 40.1,
+        "height": 6.1
+    },
+    {
+        "src": "text-lion-en.svg",
+        "dest": "text-lion-en.png",
+        "width": 39.45,
+        "height": 6.05
+    },
+    {
+        "src": "text-mouse-en.svg",
+        "dest": "text-mouse-en.png",
+        "width": 36.26,
+        "height": 6.1
+    },
+    {
+        "src": "text-panda-en.svg",
+        "dest": "text-panda-en.png",
+        "width": 37.044,
+        "height": 6.1
+    },
+    {
+        "src": "text-rabbit-en.svg",
+        "dest": "text-rabbit-en.png",
+        "width": 30.27344,
+        "height": 6.1
+    },
+    {
+        "src": "text-zebra-en.svg",
+        "dest": "text-zebra-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-chipmunk-en.svg",
+        "dest": "text-chipmunck-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-dolphin-en.svg",
+        "dest": "text-dolphin-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-elf-en.svg",
+        "dest": "text-elf-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-sheep-en.svg",
+        "dest": "text-sheep-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-spider-en.svg",
+        "dest": "text-spider-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-teddy-en.svg",
+        "dest": "text-teddy-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-whale-en.svg",
+        "dest": "text-whale-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-turtle-en.svg",
+        "dest": "text-turtle-en.png",
+        "width": 36,
+        "height": 6.1
+    },
+    {
+        "src": "text-bundle-full-fr.svg",
+        "dest": "text-bundle-full-fr.png",
+        "width": 36.71,
+        "height": 6.25
+    },
+    {
+        "src": "text-bundle-full-en.svg",
+        "dest": "text-bundle-full-en.png",
+        "width": 22,
+        "height": 2.14
+    },
+    {
+        "src": "text-bundle3-zebra-fr.svg",
+        "dest": "text-bundle3-zebra-fr.png",
+        "width": 49.48,
+        "height": 6.1
+    },
+    {
+        "src": "text-bundle3-zebra-en.svg",
+        "dest": "text-bundle3-zebra-en.png",
+        "width": 50,
+        "height": 6
+    },
+    {
+        "src": "text-bundle3-mouse-fr.svg",
+        "dest": "text-bundle3-mouse-fr.png",
+        "width": 49.74,
+        "height": 6
+    },
+    {
+        "src": "text-bundle3-mouse-en.svg",
+        "dest": "text-bundle3-mouse-en.png",
+        "width": 50,
+        "height": 6
+    },
+    {
+        "src": "text-bundle3-lion-fr.svg",
+        "dest": "text-bundle3-lion-fr.png",
+        "width": 49.35,
+        "height": 5.71
+    },
+    {
+        "src": "text-bundle3-lion-en.svg",
+        "dest": "text-bundle3-lion-en.png",
+        "width": 49.67,
+        "height": 5.86
+    },
+    {
+        "src": "text-bundle3-fish-fr.svg",
+        "dest": "text-bundle3-fish-fr.png",
+        "width": 48.9,
+        "height": 5.71
+    },
+    {
+        "src": "text-bundle3-fish-en.svg",
+        "dest": "text-bundle3-fish-en.png",
+        "width": 47,
+        "height": 5.81
+    },
+    {
+        "src": "text-bundle3-cow-fr.svg",
+        "dest": "text-bundle3-cow-fr.png",
+        "width": 48.9,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle3-cow-en.svg",
+        "dest": "text-bundle3-cow-en.png",
+        "width": 50,
+        "height": 6
+    },
+    {
+        "src": "text-bundle2-rabbit-fr.svg",
+        "dest": "text-bundle2-rabbit-fr.png",
+        "width": 48.69,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-rabbit-en.svg",
+        "dest": "text-bundle2-rabbit-en.png",
+        "width": 48.56,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-gorilla-fr.svg",
+        "dest": "text-bundle2-gorilla-fr.png",
+        "width": 50.4,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-gorilla-en.svg",
+        "dest": "text-bundle2-gorilla-en.png",
+        "width": 48.56,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-giraffe-fr.svg",
+        "dest": "text-bundle2-giraffe-fr.png",
+        "width": 49.48,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-giraffe-en.svg",
+        "dest": "text-bundle2-giraffe-en.png",
+        "width": 48.57,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-fox-fr.svg",
+        "dest": "text-bundle2-fox-fr.png",
+        "width": 51.56,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-fox-en.svg",
+        "dest": "text-bundle2-fox-en.png",
+        "width": 48.56,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-cat-fr.svg",
+        "dest": "text-bundle2-cat-fr.png",
+        "width": 47.33,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle2-cat-en.svg",
+        "dest": "text-bundle2-cat-en.png",
+        "width": 48.56,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-panda-fr.svg",
+        "dest": "text-bundle1-panda-fr.png",
+        "width": 49.15,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-panda-en.svg",
+        "dest": "text-bundle1-panda-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-hurt-fr.svg",
+        "dest": "text-bundle1-hurt-fr.png",
+        "width": 46.8,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-hurt-en.svg",
+        "dest": "text-bundle1-hurt-en.png",
+        "width": 44.6,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-eat-fr.svg",
+        "dest": "text-bundle1-eat-fr.png",
+        "width": 44.6,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-eat-en.svg",
+        "dest": "text-bundle1-eat-en.png",
+        "width": 43.88,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-duck-fr.svg",
+        "dest": "text-bundle1-duck-fr.png",
+        "width": 50.78,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-duck-en.svg",
+        "dest": "text-bundle1-duck-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-ant-fr.svg",
+        "dest": "text-bundle1-ant-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle1-ant-en.svg",
+        "dest": "text-bundle1-ant-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-teddy-fr.svg",
+        "dest": "text-bundle5-teddy-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-teddy-en.svg",
+        "dest": "text-bundle5-teddy-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-spider-fr.svg",
+        "dest": "text-bundle5-spider-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-spider-en.svg",
+        "dest": "text-bundle5-spider-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-chipmunck-fr.svg",
+        "dest": "text-bundle5-chipmunck-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-chipmunk-en.svg",
+        "dest": "text-bundle5-chipmunk-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-sheep-fr.svg",
+        "dest": "text-bundle5-sheep-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle5-sheep-en.svg",
+        "dest": "text-bundle5-sheep-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-dolphin-fr.svg",
+        "dest": "text-bundle4-dolphin-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-dolphin-en.svg",
+        "dest": "text-bundle4-dolphin-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-elf-fr.svg",
+        "dest": "text-bundle4-elf-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-elf-en.svg",
+        "dest": "text-bundle4-elf-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-turtle-fr.svg",
+        "dest": "text-bundle4-turtle-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-turtle-en.svg",
+        "dest": "text-bundle4-turtle-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-whale-fr.svg",
+        "dest": "text-bundle4-whale-fr.png",
+        "width": 50.58,
+        "height": 6.05
+    },
+    {
+        "src": "text-bundle4-whale-en.svg",
+        "dest": "text-bundle4-whale-en.png",
+        "width": 47.79,
+        "height": 6.05
+    },
+    {
+        "src": "buy-red-en.svg",
+        "dest": "buy-red-en.png",
+        "width": 21.61,
+        "height": 4.59
+    },
+    {
+        "src": "version-complete-pic-ui.svg",
+        "dest": "version-complete-pic-ui.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "version-complete-pic-ui.svg",
+        "dest": "version-complete-pic-ui-small.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "version-complete-pic-ui-en.svg",
+        "dest": "version-complete-pic-ui-en.png",
+        "width": 36.328,
+        "height": 31.982
+    },
+    {
+        "src": "version-complete-pic-ui-en.svg",
+        "dest": "version-complete-pic-ui-small-en.png",
+        "width": 21.7968,
+        "height": 19.1892
+    },
+    {
+        "src": "zebrabook-icon-ui.svg",
+        "dest": "zebrabook-icon-ui.png",
+        "width": 36.393,
+        "height": 32.08
+    },
+    {
+        "src": "zebrabook-icon-ui.svg",
+        "dest": "zebrabook-icon-ui-small.png",
+        "width": 21.8358,
+        "height": 19.248
+    },
+    {
+        "src": "zebrabook-icon-ui-en.svg",
+        "dest": "zebrabook-icon-ui-en.png",
+        "width": 36.393,
+        "height": 32.08
+    },
+    {
+        "src": "zebrabook-icon-ui-en.svg",
+        "dest": "zebrabook-icon-ui-en-small.png",
+        "width": 21.8358,
+        "height": 19.248
+    },
+    {
+        "src": "frame.svg",
+        "dest": "frame.png",
+        "width": 31,
+        "height": 26
+    },
+    {
+        "src": "dummytext.svg",
+        "dest": "dummytext.png",
+        "width": 33,
+        "height": 10
+    },
+    {
+        "src": "red-line.svg",
+        "dest": "red-line.png",
+        "width": 1,
+        "height": 0.5
+    },
+    {
+        "src": "automatic_off.svg",
+        "dest": "automatic_off.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "automatic_on.svg",
+        "dest": "automatic_on.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "automatique_on.svg",
+        "dest": "automatique_on.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "automatique_off.svg",
+        "dest": "automatique_off.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "code_required_off.svg",
+        "dest": "code_required_off.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "code_required_on.svg",
+        "dest": "code_required_on.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "code_requis_on.svg",
+        "dest": "code_requis_on.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "code_requis_off.svg",
+        "dest": "code_requis_off.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "manually_off.svg",
+        "dest": "manually_off.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "manually_on.svg",
+        "dest": "manually_on.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "manuel_on.svg",
+        "dest": "manuel_on.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "manuel_off.svg",
+        "dest": "manuel_off.png",
+        "width": 17,
+        "height": 9.1
+    },
+    {
+        "src": "bundle_1.svg",
+        "dest": "bundle_1.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "bundle_2.svg",
+        "dest": "bundle_2.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "bundle_3.svg",
+        "dest": "bundle_3.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "bundle_4.svg",
+        "dest": "bundle_4.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "bundle_5.svg",
+        "dest": "bundle_5.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "coffret_1.svg",
+        "dest": "coffret_1.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "coffret_2.svg",
+        "dest": "coffret_2.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "coffret_3.svg",
+        "dest": "coffret_3.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "coffret_4.svg",
+        "dest": "coffret_4.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "coffret_5.svg",
+        "dest": "coffret_5.png",
+        "width": 27.6,
+        "height": 3.5
+    },
+    {
+        "src": "rate_app_fr.svg",
+        "dest": "rate_app_fr.png",
+        "width": 76,
+        "height": 14.9
+    },
+    {
+        "src": "rate_app_en.svg",
+        "dest": "rate_app_en.png",
+        "width": 76,
+        "height": 14.9
+    },
+    {
+        "src": "restore_purchases_en.svg",
+        "dest": "restore_purchases_en.png",
+        "width": 42.96,
+        "height": 9
+    },
+    {
+        "src": "restore_purchases_fr.svg",
+        "dest": "restore_purchases_fr.png",
+        "width": 42.96,
+        "height": 9
+    },
+    {
+        "src": "PG_buying_en.svg",
+        "dest": "PG_buying_en.png",
+        "width": 100,
+        "height": 100
+    },
+    {
+        "src": "PG_buying_fr.svg",
+        "dest": "PG_buying_fr.png",
+        "width": 100,
+        "height": 100
+    }
 ]

@@ -3,15 +3,14 @@ plugins {
 }
 
 android {
-    namespace "com.symbolicone.ouille"
-    compileSdkVersion 33
+    namespace "com.pictophrase.app"
+    compileSdkVersion 34
     buildToolsVersion "36.1.0"
 
     defaultConfig {
-        applicationId 'com.symbolicone.ouille'
+        applicationId 'com.pictophrase.app'
         minSdkVersion 21
-        //noinspection ExpiringTargetSdkVersion,ExpiredTargetSdkVersion
-        targetSdkVersion 33
+        targetSdkVersion 34
         versionCode 18
         versionName "1.5.2"
 

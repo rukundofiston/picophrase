@@ -6,7 +6,7 @@
  * - ColourLabelParser (phonèmes après '|' en rouge + red-line.svg)
  * - SpineIntro -> HomePageScene -> BookCoverScene -> OptionsScene -> PageScene -> BookEndPageScene
  * - PinLayer / FullScreenPinLock (contrôle parental 3 chiffres en ordre croissant)
- * - SettingScene (5 onglets : Orthopicto, Information, Langue, Boutique, Notation)
+ * - SettingScene (5 onglets : PictoPhrase, Information, Langue, Boutique, Notation)
  * - BuyTriScene (écran 3 offres pour les livres verrouillés)
  * ============================================================================
  */
@@ -62,7 +62,7 @@
                 window.PicoNative.playAudio(cleanPath);
             } else {
                 const audio = new Audio("../" + cleanPath);
-                audio.play().catch(function () {});
+                audio.play().catch(function () { });
             }
         },
 
@@ -195,7 +195,7 @@
                     };
                 }
             });
-        } catch (e) {}
+        } catch (e) { }
     }
 
     function loadBookConversion(bookFolder) {
@@ -385,34 +385,14 @@
     }
 
     // ========================================================================
-    // 6. SpineIntro (Écran Splash d'introduction)
+    // 6. Écran Splash d'introduction (Désactivé : démarrage instantané sur l'accueil)
     // ========================================================================
     function renderSplashIntroScene() {
-        clearAllTimers();
-        NativeBridge.stopAllAudio();
-
-        const container = document.getElementById("scene-container");
-        container.innerHTML = "";
-
-        const splashBg = document.createElement("img");
-        splashBg.className = "cc-bg";
-        splashBg.src = BookSettings.isEnglish() ? "../res/splash_1_en.png" : "../res/splash_1_fr.png";
-        container.appendChild(splashBg);
-
-        // Permet aussi de toucher l'écran pour passer directement à l'accueil
-        container.onclick = function () {
-            container.onclick = null;
-            renderHomePageScene();
-        };
-
-        scheduleTimer(function () {
-            container.onclick = null;
-            renderHomePageScene();
-        }, 1600);
+        renderHomePageScene();
     }
 
     // ========================================================================
-    // 7. HomePageScene & HomePageLayer (Carrousel des livres)
+    // 7. HomePageScene & HomePageLayer (Carrousel des livres 3D)
     // ========================================================================
     function getHomeBooks() {
         return (EngineState.buyInfo.items || []).filter(function (item) {
@@ -420,8 +400,76 @@
         });
     }
 
+    /**
+     * Recherche le fichier audio du titre ou du sujet pour l'annonce vocale
+     * lors de l'arrêt du carrousel sur un livre.
+     */
+    function getBookAnnouncementAudio(bookFolder) {
+        if (!bookFolder) return null;
+        const isEn = BookSettings.isEnglish();
+        const animal = bookFolder.replace("book-", "");
+        let candidates = [];
+        if (isEn) {
+            candidates = [
+                animal + "_title_en.mp3",
+                "bear_title_en.mp3",
+                animal + "_a_en.mp3",
+                animal + "_p1_a_en.mp3",
+                "bear_p1_a_en.mp3"
+            ];
+        } else {
+            candidates = [
+                animal + "_title_fr.mp3",
+                animal + "_title-b_fr.mp3",
+                animal + "_title_s.mp3",
+                "bear_title_fr.mp3",
+                "cat_le_chat_s.mp3",
+                "ant_la_fourmi_s.mp3",
+                animal + "_a_fr.mp3",
+                animal + "_p1_a_fr.mp3",
+                animal + "_p1_a_fr_eu.mp3",
+                "giraf_p1_a_fr_eu.mp3",
+                "bear_p1_a_fr.mp3",
+                "Bear_p1_a_fr_eu.mp3",
+                "Spider_p1_a_fr_eu.mp3",
+                "Turtle_p1_a_fr_eu.mp3"
+            ];
+        }
+
+        for (let i = 0; i < candidates.length; i++) {
+            const candidatePath = bookFolder + "/" + candidates[i];
+            if (NativeBridge.assetExists(candidatePath)) {
+                return candidatePath;
+            }
+        }
+        return null;
+    }
+
+    let homeAnnouncementTimer = null;
+
+    function cancelBookAnnouncement() {
+        if (homeAnnouncementTimer) {
+            clearTimeout(homeAnnouncementTimer);
+            homeAnnouncementTimer = null;
+        }
+    }
+
+    function scheduleBookAnnouncement(bookFolder) {
+        cancelBookAnnouncement();
+        NativeBridge.stopAllAudio();
+
+        const audioPath = getBookAnnouncementAudio(bookFolder);
+        if (!audioPath) return;
+
+        homeAnnouncementTimer = scheduleTimer(function () {
+            NativeBridge.playAudio(audioPath);
+            homeAnnouncementTimer = null;
+        }, 420);
+    }
+
     function renderHomePageScene() {
         clearAllTimers();
+        cancelBookAnnouncement();
         NativeBridge.stopAllAudio();
 
         const container = document.getElementById("scene-container");
@@ -436,7 +484,7 @@
         bg.src = bgSvg;
         container.appendChild(bg);
 
-        // 1.1 Titre Orthopicto et Choisis ton livre en haut
+        // 1.1 Titre PictoPhrase et Choisis ton livre en haut
         const orthoLogo = createDbMenuButton("home_page_ortho_logo", null);
         container.appendChild(orthoLogo);
 
@@ -445,47 +493,151 @@
 
         // 2. Bouton Réglages en haut à droite (accès direct sans popup)
         const settingsBtn = createDbMenuButton("home_page_settings", function () {
-            renderSettingScene("language");
+            cancelBookAnnouncement();
+            NativeBridge.stopAllAudio();
+            renderSettingScene("orthopicto");
         });
         container.appendChild(settingsBtn);
 
-        // 3. Logo Symbolicone en bas (accès direct)
-        const symboliconeBtn = createDbMenuButton("home_page_symbolicone_logo", function () {
-            const url = BookSettings.isEnglish()
-                ? "https://www.symbolicone.com/?lang=en"
-                : "https://www.symbolicone.com";
-            NativeBridge.openExternalUrl(url);
-        });
-        container.appendChild(symboliconeBtn);
-
-        // 4. Carrousel des 3 livres visibles (Gauche 25%, Milieu 50%, Droite 75%)
+        // 4. Carrousel des 3 livres visibles en perspective 3D
         const books = getHomeBooks();
         if (books.length === 0) return;
 
-        const carouselLayer = document.createElement("div");
-        carouselLayer.style.position = "absolute";
-        carouselLayer.style.inset = "0";
-        carouselLayer.style.pointerEvents = "none";
-        container.appendChild(carouselLayer);
+        const carouselContainer = document.createElement("div");
+        carouselContainer.className = "book-carousel-container";
+        container.appendChild(carouselContainer);
+
+        // Ombres portées au sol sous les livres
+        const centerShadow = document.createElement("div");
+        centerShadow.className = "book-ground-shadow center-shadow";
+        carouselContainer.appendChild(centerShadow);
+
+        if (books.length > 1) {
+            const leftShadow = document.createElement("div");
+            leftShadow.className = "book-ground-shadow side-shadow left-shadow";
+            carouselContainer.appendChild(leftShadow);
+
+            const rightShadow = document.createElement("div");
+            rightShadow.className = "book-ground-shadow side-shadow right-shadow";
+            carouselContainer.appendChild(rightShadow);
+        }
+
+        // Calque pour les cartes de livres (au-dessus des ombres au sol)
+        const booksLayer = document.createElement("div");
+        booksLayer.style.position = "absolute";
+        booksLayer.style.inset = "0";
+        booksLayer.style.pointerEvents = "none";
+        carouselContainer.appendChild(booksLayer);
+
+        // Gros bouton d'action sous le livre central (JOUER / DÉBLOQUER)
+        const playBtn = document.createElement("button");
+        playBtn.className = "play-book-btn";
+        playBtn.setAttribute("type", "button");
+        container.appendChild(playBtn);
+
+        // Indicateur de pagination (dots + badge) sous le bouton
+        const dotsContainer = document.createElement("div");
+        dotsContainer.className = "carousel-dots-container";
+        container.appendChild(dotsContainer);
+
+        function updateDots() {
+            if (books.length <= 1) {
+                dotsContainer.style.display = "none";
+                return;
+            }
+            dotsContainer.innerHTML = "";
+            const total = books.length;
+            const current = EngineState.carouselIndex;
+
+            const windowSize = Math.min(total, 7);
+            const half = Math.floor(windowSize / 2);
+            for (let i = 0; i < windowSize; i++) {
+                const dot = document.createElement("div");
+                dot.className = "carousel-dot";
+                if (i === half) {
+                    dot.classList.add("active");
+                }
+                dotsContainer.appendChild(dot);
+            }
+
+            const badge = document.createElement("span");
+            badge.className = "carousel-counter-badge";
+            badge.textContent = (current + 1) + " / " + total;
+            dotsContainer.appendChild(badge);
+        }
+
+        function createNavBubble(direction, onClick) {
+            const btn = document.createElement("div");
+            btn.className = "nav-bubble-btn " + direction;
+            btn.setAttribute("role", "button");
+            btn.setAttribute("aria-label", direction === "left" ? "Livre précédent" : "Livre suivant");
+
+            const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+            svg.setAttribute("viewBox", "0 0 24 24");
+            const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+            if (direction === "left") {
+                path.setAttribute("d", "M15 19l-7-7 7-7");
+            } else {
+                path.setAttribute("d", "M9 5l7 7-7 7");
+            }
+            svg.appendChild(path);
+            btn.appendChild(svg);
+
+            btn.addEventListener("click", function (e) {
+                e.stopPropagation();
+                onClick();
+            });
+            return btn;
+        }
 
         function updateCarouselItems() {
-            carouselLayer.innerHTML = "";
+            booksLayer.innerHTML = "";
             const total = books.length;
+            updateDots();
+
+            const midIdx = (EngineState.carouselIndex + total) % total;
+            const centerItem = books[midIdx];
+            const isCenterUnlocked = NativeBridge.isProductPurchased(centerItem.book_folder) ||
+                NativeBridge.isProductPurchased(centerItem.iap_name);
+
+            // Mise à jour de l'état du gros bouton JOUER / DÉBLOQUER
+            if (isCenterUnlocked) {
+                playBtn.className = "play-book-btn unlocked";
+                playBtn.innerHTML = '<span class="play-btn-icon">▶</span><span class="play-btn-label">' +
+                    (BookSettings.isEnglish() ? "PLAY" : "JOUER") + '</span>';
+                playBtn.setAttribute("aria-label", BookSettings.isEnglish() ? "Play book" : "Lire le livre");
+                playBtn.onclick = function (e) {
+                    e.stopPropagation();
+                    cancelBookAnnouncement();
+                    NativeBridge.stopAllAudio();
+                    startBook(centerItem.book_folder);
+                };
+            } else {
+                playBtn.className = "play-book-btn locked";
+                playBtn.innerHTML = '<span class="play-btn-icon">🔒</span><span class="play-btn-label">' +
+                    (BookSettings.isEnglish() ? "UNLOCK" : "DÉBLOQUER") + '</span>';
+                playBtn.setAttribute("aria-label", BookSettings.isEnglish() ? "Unlock book" : "Débloquer le livre");
+                playBtn.onclick = function (e) {
+                    e.stopPropagation();
+                    cancelBookAnnouncement();
+                    NativeBridge.stopAllAudio();
+                    renderBuyTriScene(centerItem);
+                };
+            }
+
+            // Programmation de l'annonce vocale après stabilisation (~420ms)
+            scheduleBookAnnouncement(centerItem.book_folder);
 
             if (total === 1) {
-                const item = books[0];
-                const titlePng = BookSettings.isEnglish() ? item.title_icon_english : item.title_icon_french;
-                const resolvedIcon = resolveAssetImage(titlePng, item.book_folder);
-                const unlocked = NativeBridge.isProductPurchased(item.book_folder) ||
-                                 NativeBridge.isProductPurchased(item.iap_name);
+                const titlePng = BookSettings.isEnglish() ? centerItem.title_icon_english : centerItem.title_icon_french;
+                const resolvedIcon = resolveAssetImage(titlePng, centerItem.book_folder);
 
                 const wrapper = document.createElement("div");
-                wrapper.className = "book-carousel-item";
-                wrapper.style.left = (EngineState.buyInfo.TitleIconXMiddle || 50) + "%";
-                wrapper.style.top = (EngineState.buyInfo.TitleIconYPercent || 60) + "%";
-                wrapper.style.width = (resolvedIcon.width * 1.0) + "%";
-                wrapper.style.height = (resolvedIcon.height * 1.0) + "%";
-                wrapper.style.zIndex = "10";
+                wrapper.className = "book-carousel-item center-book";
+                wrapper.style.left = "50%";
+                wrapper.style.top = "52%";
+                wrapper.style.width = resolvedIcon.width + "%";
+                wrapper.style.height = resolvedIcon.height + "%";
                 wrapper.style.pointerEvents = "auto";
 
                 const coverImg = document.createElement("img");
@@ -493,7 +645,11 @@
                 coverImg.src = resolvedIcon.src;
                 wrapper.appendChild(coverImg);
 
-                if (!unlocked) {
+                const gloss = document.createElement("div");
+                gloss.className = "book-gloss-overlay";
+                wrapper.appendChild(gloss);
+
+                if (!isCenterUnlocked) {
                     const lockResolved = resolveAssetImage(EngineState.buyInfo.TitleLockIcon || "lock-ui.png");
                     const lockImg = document.createElement("img");
                     lockImg.className = "book-lock-badge";
@@ -503,25 +659,26 @@
 
                 wrapper.addEventListener("click", function (e) {
                     e.stopPropagation();
-                    if (unlocked) {
-                        startBook(item.book_folder);
+                    cancelBookAnnouncement();
+                    NativeBridge.stopAllAudio();
+                    if (isCenterUnlocked) {
+                        startBook(centerItem.book_folder);
                     } else {
-                        renderBuyTriScene(item);
+                        renderBuyTriScene(centerItem);
                     }
                 });
 
-                carouselLayer.appendChild(wrapper);
+                booksLayer.appendChild(wrapper);
                 return;
             }
 
             const leftIdx = (EngineState.carouselIndex - 1 + total) % total;
-            const midIdx = (EngineState.carouselIndex + total) % total;
             const rightIdx = (EngineState.carouselIndex + 1) % total;
 
             const slots = [
-                { book: books[leftIdx], x: EngineState.buyInfo.TitleIconXLeft || 25, scale: 0.66, zIndex: 5 },
-                { book: books[midIdx], x: EngineState.buyInfo.TitleIconXMiddle || 50, scale: 1.0, zIndex: 10 },
-                { book: books[rightIdx], x: EngineState.buyInfo.TitleIconXRight || 75, scale: 0.66, zIndex: 5 }
+                { book: books[leftIdx], x: 23, y: 53.5, className: "side-book left-book", isCenter: false },
+                { book: books[midIdx], x: 50, y: 52, className: "center-book", isCenter: true },
+                { book: books[rightIdx], x: 77, y: 53.5, className: "side-book right-book", isCenter: false }
             ];
 
             slots.forEach(function (slot, slotPos) {
@@ -529,21 +686,26 @@
                 const titlePng = BookSettings.isEnglish() ? item.title_icon_english : item.title_icon_french;
                 const resolvedIcon = resolveAssetImage(titlePng, item.book_folder);
                 const unlocked = NativeBridge.isProductPurchased(item.book_folder) ||
-                                 NativeBridge.isProductPurchased(item.iap_name);
+                    NativeBridge.isProductPurchased(item.iap_name);
 
                 const wrapper = document.createElement("div");
-                wrapper.className = "book-carousel-item";
+                wrapper.className = "book-carousel-item " + slot.className;
                 wrapper.style.left = slot.x + "%";
-                wrapper.style.top = (EngineState.buyInfo.TitleIconYPercent || 60) + "%";
-                wrapper.style.width = (resolvedIcon.width * slot.scale) + "%";
-                wrapper.style.height = (resolvedIcon.height * slot.scale) + "%";
-                wrapper.style.zIndex = String(slot.zIndex);
+                wrapper.style.top = slot.y + "%";
+                wrapper.style.width = resolvedIcon.width + "%";
+                wrapper.style.height = resolvedIcon.height + "%";
                 wrapper.style.pointerEvents = "auto";
 
                 const coverImg = document.createElement("img");
                 coverImg.className = "book-cover-img";
                 coverImg.src = resolvedIcon.src;
                 wrapper.appendChild(coverImg);
+
+                if (slot.isCenter) {
+                    const gloss = document.createElement("div");
+                    gloss.className = "book-gloss-overlay";
+                    wrapper.appendChild(gloss);
+                }
 
                 if (!unlocked) {
                     const lockResolved = resolveAssetImage(EngineState.buyInfo.TitleLockIcon || "lock-ui.png");
@@ -567,6 +729,8 @@
                     }
 
                     // Clic sur le livre central
+                    cancelBookAnnouncement();
+                    NativeBridge.stopAllAudio();
                     if (unlocked) {
                         startBook(item.book_folder);
                     } else {
@@ -574,33 +738,91 @@
                     }
                 });
 
-                carouselLayer.appendChild(wrapper);
+                booksLayer.appendChild(wrapper);
             });
         }
 
         updateCarouselItems();
 
-        // 5. Flèches gauche et droite du carrousel (uniquement s'il y a plus d'un livre)
+        // 5. Flèches bulles gauche et droite du carrousel (uniquement s'il y a plus d'un livre)
         if (books.length > 1) {
-            const leftArrow = createDbMenuButton("home_page_left_arrow", function () {
+            const leftBubble = createNavBubble("left", function () {
                 EngineState.carouselIndex = (EngineState.carouselIndex - 1 + books.length) % books.length;
                 updateCarouselItems();
-            }, { flipX: true });
-            container.appendChild(leftArrow);
+            });
+            container.appendChild(leftBubble);
 
-            const rightArrow = createDbMenuButton("home_page_right_arrow", function () {
+            const rightBubble = createNavBubble("right", function () {
                 EngineState.carouselIndex = (EngineState.carouselIndex + 1) % books.length;
                 updateCarouselItems();
             });
-            container.appendChild(rightArrow);
+            container.appendChild(rightBubble);
         }
+
+        // 6. Navigation naturelle au doigt (Glissement / Swipe tactile)
+        let touchStartX = 0;
+        let touchStartY = 0;
+        let touchStartTime = 0;
+        let isTouching = false;
+
+        container.addEventListener("touchstart", function (e) {
+            if (e.touches.length !== 1) return;
+            touchStartX = e.touches[0].clientX;
+            touchStartY = e.touches[0].clientY;
+            touchStartTime = Date.now();
+            isTouching = true;
+        }, { passive: true });
+
+        container.addEventListener("touchend", function (e) {
+            if (!isTouching || e.changedTouches.length !== 1) return;
+            isTouching = false;
+            const deltaX = e.changedTouches[0].clientX - touchStartX;
+            const deltaY = e.changedTouches[0].clientY - touchStartY;
+            const elapsed = Date.now() - touchStartTime;
+
+            // Déplacement horizontal prédominant d'au moins 40px en moins de 750ms
+            if (Math.abs(deltaX) > 40 && Math.abs(deltaX) > Math.abs(deltaY) * 1.1 && elapsed < 750) {
+                if (deltaX < 0) {
+                    // Swipe vers la gauche -> livre suivant
+                    EngineState.carouselIndex = (EngineState.carouselIndex + 1) % books.length;
+                    updateCarouselItems();
+                } else {
+                    // Swipe vers la droite -> livre précédent
+                    EngineState.carouselIndex = (EngineState.carouselIndex - 1 + books.length) % books.length;
+                    updateCarouselItems();
+                }
+            }
+        }, { passive: true });
+
+        // Support du glissement à la souris pour le dev / test
+        let mouseStartX = 0;
+        let isMouseDown = false;
+        container.addEventListener("mousedown", function (e) {
+            if (e.button !== 0) return;
+            mouseStartX = e.clientX;
+            isMouseDown = true;
+        });
+        window.addEventListener("mouseup", function (e) {
+            if (!isMouseDown) return;
+            isMouseDown = false;
+            const deltaX = e.clientX - mouseStartX;
+            if (Math.abs(deltaX) > 55) {
+                if (deltaX < 0) {
+                    EngineState.carouselIndex = (EngineState.carouselIndex + 1) % books.length;
+                    updateCarouselItems();
+                } else {
+                    EngineState.carouselIndex = (EngineState.carouselIndex - 1 + books.length) % books.length;
+                    updateCarouselItems();
+                }
+            }
+        });
     }
 
     // ========================================================================
-    // 8. SettingScene (5 onglets : Orthopicto, Info, Langue, Boutique, Notation)
+    // 8. SettingScene (2 onglets : PictoPhrase, Boutique)
     // ========================================================================
     function renderSettingScene(activeTab) {
-        activeTab = activeTab || "language";
+        activeTab = activeTab || "orthopicto";
         clearAllTimers();
 
         const container = document.getElementById("scene-container");
@@ -608,9 +830,7 @@
 
         const bg = document.createElement("img");
         bg.className = "cc-bg";
-        bg.src = BookSettings.isEnglish()
-            ? "../common/background-option-menu-ui_en.svg"
-            : "../common/background-option-menu-ui.svg";
+        bg.src = "../common/background-option-menu-ui.svg";
         container.appendChild(bg);
 
         // Bouton retour vers l'accueil
@@ -622,124 +842,41 @@
         // Titre de l'onglet actif
         const titleKeyMap = {
             orthopicto: "settings_orthopicto_text",
-            info: "settings_information_text",
-            language: "settings_language_text",
-            shop: "settings_achat_text",
-            rate: "settings_notation_text"
+            shop: "settings_achat_text"
         };
-        const titleSprite = createDbMenuButton(titleKeyMap[activeTab] || "settings_language_text", null);
+        const titleSprite = createDbMenuButton(titleKeyMap[activeTab] || "settings_orthopicto_text", null);
         container.appendChild(titleSprite);
 
-        // Barre des 5 onglets (y = 22%)
+        // Barre des 2 onglets (y = 22%, équidistants à 35% et 65%)
         const tabs = [
-            { id: "orthopicto", dbKey: "settings_orthopicto_icon" },
-            { id: "info", dbKey: "settings_information_icon" },
-            { id: "language", dbKey: "settings_language_icon" },
-            { id: "shop", dbKey: "settings_shop_icon" },
-            { id: "rate", dbKey: "settings_rate_icon" }
+            { id: "orthopicto", dbKey: "settings_orthopicto_icon", x: 35 },
+            { id: "shop", dbKey: "settings_shop_icon", x: 65 }
         ];
 
         tabs.forEach(function (tab) {
             const btn = createDbMenuButton(tab.dbKey, function () {
                 renderSettingScene(tab.id);
-            }, { selected: activeTab === tab.id });
+            }, { selected: activeTab === tab.id, x: tab.x });
             container.appendChild(btn);
         });
 
         // Contenu spécifique à l'onglet sélectionné
-        if (activeTab === "language") {
-            renderLanguageSettingsTab(container);
-        } else if (activeTab === "orthopicto") {
+        if (activeTab === "orthopicto") {
             renderOrthopictoSettingsTab(container);
-        } else if (activeTab === "info") {
-            renderInformationSettingsTab(container);
         } else if (activeTab === "shop") {
             renderShopSettingsTab(container);
-        } else if (activeTab === "rate") {
-            renderRateSettingsTab(container);
         }
-    }
-
-    function renderLanguageSettingsTab(container) {
-        const qcFlag = createDbMenuButton("settings_quebec_flag", function () {
-            BookSettings.language = eLanguage.QUEBEC;
-            NativeBridge.setLanguage(eLanguage.QUEBEC);
-            renderSettingScene("language");
-        }, { selected: BookSettings.language === eLanguage.QUEBEC });
-
-        const frFlag = createDbMenuButton("settings_french_flag", function () {
-            BookSettings.language = eLanguage.FRENCH;
-            NativeBridge.setLanguage(eLanguage.FRENCH);
-            renderSettingScene("language");
-        }, { selected: BookSettings.language === eLanguage.FRENCH });
-
-        const usFlag = createDbMenuButton("settings_usa_flag", function () {
-            BookSettings.language = eLanguage.ENGLISH;
-            NativeBridge.setLanguage(eLanguage.ENGLISH);
-            renderSettingScene("language");
-        }, { selected: BookSettings.language === eLanguage.ENGLISH });
-
-        container.appendChild(qcFlag);
-        container.appendChild(frFlag);
-        container.appendChild(usFlag);
     }
 
     function renderOrthopictoSettingsTab(container) {
         const panel = document.createElement("div");
         panel.className = "settings-content-panel";
-        if (BookSettings.isEnglish()) {
-            panel.innerHTML =
-                "<h2>About Orthopicto</h2>" +
-                "<p>Created by speech-language pathologist Caroline Martin, the <strong>Orthopicto</strong> collection helps children build their first sentences while practicing target speech sounds in a fun, structured visual environment.</p>" +
-                "<p>Each interactive book offers 3 progressive difficulty levels, visual pictogram support, and written language mode tailored to early speech and language development.</p>";
-        } else {
-            panel.innerHTML =
-                "<h2>À propos d'Orthopicto</h2>" +
-                "<p>Créée par l'orthophoniste Caroline Martin, la collection <strong>Orthopicto</strong> aide les enfants à construire leurs premières phrases tout en exerçant la prononciation de sons cibles grâce à un support visuel structuré et ludique.</p>" +
-                "<p>Chaque livre interactif propose 3 niveaux de difficulté progressifs, un mode phrases avec pictogrammes et un mode langage écrit adaptés au développement langagier.</p>";
-        }
+        panel.innerHTML =
+            "<h2>À propos de PictoPhrase</h2>" +
+            "<p>Développée selon les principes de la pratique orthophonique, <strong>PictoPhrase</strong> s'impose comme une référence pour accompagner tous les enfants dans l'entrée dans le langage, y compris ceux présentant un retard de parole, une dysphasie ou un trouble du spectre de l'autisme (TSA).</p>" +
+            "<p>En associant pictogrammes explicites, renforcement audio et manipulation tactile, chaque livre permet d'exercer la combinatoire de mots et la précision articulatoire de manière progressive et valorisante.</p>" +
+            "<p>Une ressource clé pour les orthophonistes, les enseignants et les parents soucieux de donner à l'enfant le plaisir de communiquer.</p>";
         container.appendChild(panel);
-    }
-
-    function renderInformationSettingsTab(container) {
-        const panel = document.createElement("div");
-        panel.className = "settings-content-panel";
-        panel.style.top = "56%";
-        panel.style.height = "48%";
-
-        if (BookSettings.isEnglish()) {
-            panel.innerHTML =
-                "<h2>Credits & Information</h2>" +
-                "<p><strong>Author:</strong> Caroline Martin, Speech-Language Pathologist</p>" +
-                "<p><strong>Publisher:</strong> Éditions Symbolicone (<span class='settings-link' data-url='https://www.symbolicone.com/?lang=en'>www.symbolicone.com</span>)</p>" +
-                "<p><strong>Contact:</strong> <span class='settings-link' data-url='mailto:info@symbolicone.com'>info@symbolicone.com</span></p>" +
-                "<p><span class='settings-link' data-url='https://www.symbolicone.com/politique-de-confidentialite'>Privacy Policy</span></p>";
-        } else {
-            panel.innerHTML =
-                "<h2>Crédits et Informations</h2>" +
-                "<p><strong>Auteure :</strong> Caroline Martin, Orthophoniste</p>" +
-                "<p><strong>Éditeur :</strong> Éditions Symbolicone (<span class='settings-link' data-url='https://www.symbolicone.com'>www.symbolicone.com</span>)</p>" +
-                "<p><strong>Contact :</strong> <span class='settings-link' data-url='mailto:info@symbolicone.com'>info@symbolicone.com</span></p>" +
-                "<p><span class='settings-link' data-url='https://www.symbolicone.com/politique-de-confidentialite'>Politique de confidentialité</span></p>";
-        }
-
-        panel.querySelectorAll(".settings-link").forEach(function (el) {
-            el.addEventListener("click", function () {
-                NativeBridge.openExternalUrl(el.getAttribute("data-url"));
-            });
-        });
-        container.appendChild(panel);
-
-        // Boutons Facebook, Site Web, Mail en bas (y = 90%)
-        container.appendChild(createDbMenuButton("settings_facebook", function () {
-            NativeBridge.openExternalUrl("https://www.facebook.com/symbolicone/");
-        }));
-        container.appendChild(createDbMenuButton("settings_website", function () {
-            NativeBridge.openExternalUrl("https://www.symbolicone.com");
-        }));
-        container.appendChild(createDbMenuButton("settings_mail", function () {
-            NativeBridge.openExternalUrl("mailto:info@symbolicone.com");
-        }));
     }
 
     function renderShopSettingsTab(container) {
@@ -759,7 +896,7 @@
             const iconPng = BookSettings.isEnglish() ? item.icon_english : item.icon_french;
             const resolvedIcon = resolveAssetImage(iconPng, item.book_folder);
             const unlocked = NativeBridge.isProductPurchased(item.book_folder) ||
-                             NativeBridge.isProductPurchased(item.iap_name);
+                NativeBridge.isProductPurchased(item.iap_name);
 
             const img = document.createElement("img");
             img.className = "shop-item-icon";
@@ -793,13 +930,6 @@
 
         panel.appendChild(grid);
         container.appendChild(panel);
-    }
-
-    function renderRateSettingsTab(container) {
-        const rateBtn = createDbMenuButton("rate_app_button", function () {
-            NativeBridge.openExternalUrl("https://play.google.com/store/apps/details?id=com.symbolicone.ouille");
-        });
-        container.appendChild(rateBtn);
     }
 
     function showOptionsBuyInfoModal(item) {
@@ -866,7 +996,7 @@
             return b.iap_name === item["2ndTriItem"];
         }) || item;
         const bundleAll = (EngineState.buyInfo.items || []).find(function (b) {
-            return b.iap_name === "com.symbolicone.ouille.all22";
+            return b.iap_name === "com.pictophrase.app.all22";
         }) || item;
 
         const offers = [
@@ -982,10 +1112,13 @@
             renderHomePageScene();
         }));
 
-        // Bouton Infos Parents
-        container.appendChild(createDbMenuButton("parent_info", function () {
-            showParentPedagogicalSheet(coverMeta);
-        }));
+        // Bouton Infos Parents / Fiche pédagogique (Désactivé pour le moment, réactivable plus tard)
+        const ENABLE_PEDAGOGICAL_SHEET = false;
+        if (ENABLE_PEDAGOGICAL_SHEET) {
+            container.appendChild(createDbMenuButton("parent_info", function () {
+                showParentPedagogicalSheet(coverMeta);
+            }));
+        }
 
         // Bouton Options du livre
         container.appendChild(createDbMenuButton("cover_options", function () {
@@ -1578,7 +1711,14 @@
     function bootPicoPhraseEngine() {
         BookSettings.language = NativeBridge.getLanguage();
         loadCoreDatabases();
-        renderSplashIntroScene();
+
+        // Option 1 : Choix d'un livre de départ aléatoire à l'ouverture de l'application
+        const homeBooks = getHomeBooks();
+        if (homeBooks.length > 0) {
+            EngineState.carouselIndex = Math.floor(Math.random() * homeBooks.length);
+        }
+
+        renderHomePageScene();
     }
 
     if (document.readyState === "loading") {
